@@ -32,13 +32,11 @@ var logDetail = true;
  * which phrasal categories case pertains to (though they themselves are not
  * marked)
  */
-var displayCaseMenu = false; // This feature is inoperative, pending modularization
-var caseTags = ["N","NS","NPR","NPRS",
-                "PRO","D","NUM",
-                "ADJ","ADJR","ADJS",
-                "Q","QR","QS"];
+var displayCaseMenu = true; // This feature is inoperative, pending modularization
+var caseTags = ["PRO","D","NPR",
+                "ADJ","ADJR","ADJS"];
 var casePhrases = ["NP","QP","ADJP"];
-var caseMarkers = ["N", "A", "D", "$"];
+var caseMarkers = ["N", "A", "D", "G"];
 /*
  * Which labels are barriers to recursive case assignment.
  */
@@ -64,8 +62,8 @@ var testValidLeafLabel   = undefined;
  * clausal nodes (IP and CP), and those that apply to non-leaf, non-clause
  * nodes.
  */
-var extensions        = ["SBJ","RSP","LFD","PRN","SPE","XXX"];
-var clause_extensions = ["RSP","LFD","SBJ","PRN","SPE","XXX"];
+var extensions        = ["SBJ","RSP","LFD","PRN","SPE","TTL","XXX"];
+var clause_extensions = ["RSP","LFD","SBJ","PRN","SPE","TTL","XXX"];
 var leaf_extensions   = [];
 
 /*
@@ -113,7 +111,7 @@ function customCommands() {
     addCommand({ keycode: 53 }, toggleExtension, "SPE"); // 5
     addCommand({ keycode: 81 }, setLabel, ["CONJP","ALSO","FP"]); // q
     addCommand({ keycode: 87 }, setLabel, ["NP-SBJ","NP-OB1","NP-OB2",
-                                           "NP-PRD"]); // w
+                                           "NP-PRD","NP-RFL"]); // w
     addCommand({ keycode: 68 }, pruneNode); // d
     addCommand({ keycode: 90 }, undo); // z
     addCommand({ keycode: 76 }, editNode); // l
@@ -136,7 +134,7 @@ function customCommands() {
 /*
  * Default phrase label suggestions in context menu
  */
-var defaultConMenuGroup = ["VBPI","VBPS","VBDI","VBDS","VBI","VAN","VBN","VB"];
+var defaultConMenuGroup = ["VBP","VBD","VBI","VAN","VBN","VB","VB-IPP"];
 
 /*
  * Phrase labels that are suggested in context menu when one of the other ones
@@ -145,15 +143,20 @@ var defaultConMenuGroup = ["VBPI","VBPS","VBDI","VBDS","VBI","VAN","VBN","VB"];
 function customConMenuGroups() {
     addConMenuGroup( ["IP-SUB","IP-MAT","IP-INF","IP-IMP","CP-QUE","QTP","FRAG"] );
     addConMenuGroup( ["ADJP","ADJX","NP-MSR","QP","NP","ADVP","IP-PPL","IP-SMC"] );
-    addConMenuGroup( ["NP-SBJ","NP-OB1","NP-OB2","NP-PRD","NP-POS","NP-PRN",
+    addConMenuGroup( ["NP-SBJ","NP-OB1","NP-OB2","NP-PRD","NP-RFL","NP-POS","NP-PRN",
                       "NP","NX","NP-MSR","NP-TMP","NP-ADV","NP-COM","NP-CMP",
                       "NP-DIR","NP-ADT","NP-VOC","QP"] );
     addConMenuGroup( ["PP","ADVP","ADVP-TMP","ADVP-LOC","ADVP-DIR","NP-MSR","NP-ADV"] );
-    addConMenuGroup( ["VBPI","VBPS","VBDI","VBDS","VBI","VAN","VBN","VB","HV"] );
-    addConMenuGroup( ["HVPI","HVPS","HVDI","HVDS","HVI","HV"] );
+    addConMenuGroup( ["HVP","HVD","HVI","HV","HAN","HV-IPP","VB"] );
+    addConMenuGroup( ["VBP","VBD","VBI","VAN","VBN","VB","VB-IPP","VLF","VX","HV","DO","RD","BE","MD"] );
+    addConMenuGroup( ["DOP","DOD","DOI","DAN","DON","DO","DO-IPP","VB"] );
+    addConMenuGroup( ["MDP","MDD","MDI","MD","MD-IPP","VB","RD","HV"] );
+    addConMenuGroup( ["BEP","BED","BEI","BE","BEN","BAN","BE-IPP","RD","VB","HV"] );
+    addConMenuGroup( ["RDP","RDD","RDI","RD","RAN","RD-IPP","VB","HV"] );
     addConMenuGroup( ["RP","P","ADV","ADVR","ADVS","ADJ","ADJR","ADJS","C","CONJ","ALSO"] );
     addConMenuGroup( ["WADVP","WNP","WPP","WQP","WADJP"] );
     addConMenuGroup( ["CP-THT","CP-QUE","CP-REL","CP-DEG","CP-ADV","CP-CMP"] );
+    addConMenuGroup( ["N","NS","NPR","NPRS", "PRO","D","ES","NUM", "ADJ","ADJR","ADJS", "Q","QR","QS","FW"] );
 }
 
 /*
@@ -163,6 +166,12 @@ function customConLeafBefore() {
     addConLeafBefore("NP-SBJ" , "*con*"     );
     addConLeafBefore("NP-SBJ" , "*pro*"     );
     addConLeafBefore("C"      , "0"         );
+    addConLeafBefore( "TO", "*");
+	addConLeafBefore( "WADVP", "0");
+	addConLeafBefore( "WNP", "0");
+	addConLeafBefore( "WQP", "0");
+	addConLeafBefore( "WADJP", "0");
+	addConLeafBefore( "WPP", "0");
     addConLeafBefore("CODE"   , "{COM:XXX}" );
     addConLeafAfter("CODE"   , "{COM:XXX}" );
 }
