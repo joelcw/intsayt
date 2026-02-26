@@ -156,7 +156,7 @@ function customConMenuGroups() {
     addConMenuGroup( ["RP","P","ADV","ADVR","ADVS","ADJ","ADJR","ADJS","C","CONJ","ALSO"] );
     addConMenuGroup( ["WADVP","WNP","WPP","WQP","WADJP"] );
     addConMenuGroup( ["CP-THT","CP-QUE","CP-REL","CP-DEG","CP-ADV","CP-CMP"] );
-    addConMenuGroup( ["N","NS","NPR","NPRS", "PRO","D","ES","NUM", "ADJ","ADJR","ADJS", "Q","QR","QS","FW"] );
+    addConMenuGroup( ["N","NS","NPR","NPRS", "PRO","D","ES","MAN","NUM", "ADJ","ADJR","ADJS", "Q","QR","QS","FW","H","X"] );
 }
 
 /*
