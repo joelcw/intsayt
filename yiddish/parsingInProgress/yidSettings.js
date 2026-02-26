@@ -141,7 +141,7 @@ var defaultConMenuGroup = ["VBP","VBD","VBI","VAN","VBN","VB","VB-IPP"];
  * is set
  */
 function customConMenuGroups() {
-    addConMenuGroup( ["IP-SUB","IP-MAT","IP-INF","IP-IMP","CP-QUE","QTP","FRAG"] );
+    addConMenuGroup( ["IP-SUB","IP-MAT","IP-INF","IP-IMP","CP-QUE","QTP","FRAG","META","NP-TTL"] );
     addConMenuGroup( ["ADJP","ADJX","NP-MSR","QP","NP","ADVP","IP-PPL","IP-SMC"] );
     addConMenuGroup( ["NP-SBJ","NP-OB1","NP-OB2","NP-PRD","NP-RFL","NP-POS","NP-PRN",
                       "NP","NX","NP-MSR","NP-TMP","NP-ADV","NP-COM","NP-CMP",
@@ -156,7 +156,7 @@ function customConMenuGroups() {
     addConMenuGroup( ["RP","P","ADV","ADVR","ADVS","ADJ","ADJR","ADJS","C","CONJ","ALSO"] );
     addConMenuGroup( ["WADVP","WNP","WPP","WQP","WADJP"] );
     addConMenuGroup( ["CP-THT","CP-QUE","CP-REL","CP-DEG","CP-ADV","CP-CMP"] );
-    addConMenuGroup( ["N","NS","NPR","NPRS", "PRO","D","ES","MAN","NUM", "ADJ","ADJR","ADJS", "Q","QR","QS","FW","H","X"] );
+    addConMenuGroup( ["N","NS","NPR","NPRS", "PRO","D","ES","MAN","NUM", "OTHER","ADJ","ADJR","ADJS", "Q","QR","QS","FW","H","X"] );
 }
 
 /*

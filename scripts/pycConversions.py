@@ -1,11 +1,12 @@
 import sys,string,re
 
 inString = sys.stdin.read()
+foo = inString
 
-foo = inString.replace("VBF","VBP")
-foo = inString.replace("HVF","HVP")
-foo = inString.replace("BEF","BEP")
-foo = inString.replace("MDF","MDP")
+foo = foo.replace("VBF","VBP")
+foo = foo.replace("HVF","HVP")
+foo = foo.replace("BEF","BEP")
+foo = foo.replace("MDF","MDP")
 
 foo = foo.replace("NP-DTV","NP-OB2")
 
