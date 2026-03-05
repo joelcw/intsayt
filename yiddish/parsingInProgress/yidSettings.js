@@ -134,7 +134,7 @@ function customCommands() {
 /*
  * Default phrase label suggestions in context menu
  */
-var defaultConMenuGroup = ["VBP","VBD","VBI","VAN","VBN","VB","VB-IPP"];
+var defaultConMenuGroup = ["VBP","VBD","VBI","VAN","VBN","VB","VBN-IPP"];
 
 /*
  * Phrase labels that are suggested in context menu when one of the other ones
@@ -147,12 +147,12 @@ function customConMenuGroups() {
                       "NP","NX","NP-MSR","NP-TMP","NP-ADV","NP-COM","NP-CMP",
                       "NP-DIR","NP-ADT","NP-VOC","QP"] );
     addConMenuGroup( ["PP","ADVP","ADVP-TMP","ADVP-LOC","ADVP-DIR","NP-MSR","NP-ADV"] );
-    addConMenuGroup( ["HVP","HVD","HVI","HV","HAN","HV-IPP","VB"] );
-    addConMenuGroup( ["VBP","VBD","VBI","VAN","VBN","VB","VB-IPP","VLF","VX","HV","DO","RD","BE","MD"] );
-    addConMenuGroup( ["DOP","DOD","DOI","DAN","DON","DO","DO-IPP","VB"] );
-    addConMenuGroup( ["MDP","MDD","MDI","MD","MD-IPP","VB","RD","HV"] );
-    addConMenuGroup( ["BEP","BED","BEI","BE","BEN","BAN","BE-IPP","RD","VB","HV"] );
-    addConMenuGroup( ["RDP","RDD","RDI","RD","RAN","RD-IPP","VB","HV"] );
+    addConMenuGroup( ["HVP","HVD","HVI","HV","HAN","HVN-IPP","VB"] );
+    addConMenuGroup( ["VBP","VBD","VBI","VAN","VBN","VB","VBN-IPP","VLF","VX","HVP","DOP","RDP","BEP","MDP"] );
+    addConMenuGroup( ["DOP","DOD","DOI","DAN","DON","DO","DON-IPP","VB"] );
+    addConMenuGroup( ["MDP","MDD","MDI","MD","MDN-IPP","VBP","RDP","HVP"] );
+    addConMenuGroup( ["BEP","BED","BEI","BE","BEN","BAN","BEN-IPP","RDP","VBP","HVP"] );
+    addConMenuGroup( ["RDP","RDD","RDI","RD","RAN","RDN-IPP","VBP","HVP"] );
     addConMenuGroup( ["RP","P","ADV","ADVR","ADVS","ADJ","ADJR","ADJS","C","CONJ","ALSO"] );
     addConMenuGroup( ["WADVP","WNP","WPP","WQP","WADJP"] );
     addConMenuGroup( ["CP-THT","CP-QUE","CP-REL","CP-DEG","CP-ADV","CP-CMP"] );
@@ -165,6 +165,7 @@ function customConMenuGroups() {
 function customConLeafBefore() {
     addConLeafBefore("NP-SBJ" , "*con*"     );
     addConLeafBefore("NP-SBJ" , "*pro*"     );
+    addConLeafBefore("NP-SBJ" , "*exp*"     );
     addConLeafBefore("C"      , "0"         );
     addConLeafBefore( "TO", "*");
 	addConLeafBefore( "WADVP", "0");
