@@ -9,5 +9,6 @@ foo = foo.replace("BEF","BEP")
 foo = foo.replace("MDF","MDP")
 
 foo = foo.replace("NP-DTV","NP-OB2")
+foo = foo.replace("NP-ACC","NP-OB1")
 
 sys.stdout.write(foo)
