@@ -5,6 +5,10 @@ foo = inString
 
 foo = foo.replace("VBF","VBP")
 foo = foo.replace("HVF","HVP")
+
+foo = foo.replace("VBP איז","BEF איז")
+foo = foo.replace("VBP זײַנען","BEF זײַנען")
+
 foo = foo.replace("BEF","BEP")
 foo = foo.replace("MDF","MDP")
 
