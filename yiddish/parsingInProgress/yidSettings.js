@@ -63,7 +63,7 @@ var testValidLeafLabel   = undefined;
  * nodes.
  */
 var extensions        = ["SBJ","RSP","LFD","PRN","SPE","TTL","XXX"];
-var clause_extensions = ["RSP","LFD","SBJ","PRN","SPE","TTL","XXX"];
+var clause_extensions = ["RSP","LFD","SBJ","PRN","SPE","TTL","THT","XXX"];
 var leaf_extensions   = [];
 
 /*
@@ -148,9 +148,9 @@ function customConMenuGroups() {
                       "NP-DIR","NP-ADT","NP-VOC","QP"] );
     addConMenuGroup( ["PP","ADVP","ADVP-TMP","ADVP-LOC","ADVP-DIR","NP-MSR","NP-ADV"] );
     addConMenuGroup( ["HVP","HVD","HVI","HV","HAN","HVN-IPP","VB","BE"] );
-    addConMenuGroup( ["VBP","VBD","VBI","VAN","VBN","VB","VBN-IPP","VLF","VX","HVP","DOP","RDP","BEP","MDP"] );
+    addConMenuGroup( ["VBP","VBD","VBI","VAN","VBN","VB","VBN-IPP","VLP","VX","HVP","DOP","RDP","BEP","MDP"] );
     addConMenuGroup( ["DOP","DOD","DOI","DAN","DON","DO","DON-IPP","VB","BE"] );
-    addConMenuGroup( ["MDP","MDD","MDI","MD","MDN-IPP","VBP","RDP","HVP"] );
+    addConMenuGroup( ["MDP","MDD","MDI","MD","MDN-IPP","VBP","RDP","HVP","VLP"] );
     addConMenuGroup( ["BEP","BED","BEI","BE","BEN","BAN","BEN-IPP","RDP","VBP","HVP"] );
     addConMenuGroup( ["RDP","RDD","RDI","RD","RAN","RDN-IPP","BEP","VBP","HVP"] );
     addConMenuGroup( ["RP","P","ADV","ADVR","ADVS","ADJ","ADJR","ADJS","C","CONJ","ALSO"] );
