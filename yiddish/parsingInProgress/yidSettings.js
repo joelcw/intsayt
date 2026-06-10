@@ -62,8 +62,8 @@ var testValidLeafLabel   = undefined;
  * clausal nodes (IP and CP), and those that apply to non-leaf, non-clause
  * nodes.
  */
-var extensions        = ["SBJ","RSP","LFD","THT","PRN","SPE","TTL","XXX"];
-var clause_extensions = ["RSP","LFD","SBJ","THT","PRN","SPE","TTL","XXX"];
+var extensions        = ["SBJ","RSP","LFD","MAT","THT","PRN","SPE","TTL","XXX"];
+var clause_extensions = ["RSP","LFD","SBJ","MAT","THT","PRN","SPE","TTL","XXX"];
 var leaf_extensions   = ["D"]; 
 
 /*
@@ -99,7 +99,7 @@ function customCommands() {
     addCommand({ keycode: 86 }, setLabel, ["IP-SMC","IP-INF",
                                            "IP-INF-PRP","CP-EOP"]); // v
     addCommand({ keycode: 84 }, setLabel, ["CP-THT","CP-THT-PRN","CP-DEG",
-                                           "CP-QUE"]); // t
+                                           "CP-QUE-SUB","CP-QUE-MAT","CP-QUE-MAT-THT"]); // t
     addCommand({ keycode: 71 }, setLabel, ["ADJP","ADJP-SPR","NP-MSR",
                                            "QP"]); // g
     addCommand({ keycode: 70 }, setLabel, ["PP","ADVP","ADVP-TMP","ADVP-LOC",
@@ -155,7 +155,7 @@ function customConMenuGroups() {
     addConMenuGroup( ["RDP","RDD","RDI","RD","RAN","RDN-IPP","BEP","VBP","HVP"] );
     addConMenuGroup( ["RP","P","ADV","ADVR","ADVS","ADJ","ADJR","ADJS","C","CONJ","ALSO"] );
     addConMenuGroup( ["WADVP","WNP","WPP","WQP","WADJP"] );
-    addConMenuGroup( ["CP-THT","CP-QUE","CP-REL","CP-DEG","CP-ADV","CP-CMP"] );
+    addConMenuGroup( ["CP-THT","CP-QUE-MAT","CP-QUE-SUB","CP-REL","CP-DEG","CP-ADV","CP-CMP"] );
     addConMenuGroup( ["N","NS","NPR","NPRS", "PRO","D","ES","MAN","N-D","NUM", "OTHER","ADJ","ADJR","ADJS", "Q","QR","QS","FW","H","X"] );
 }
 
