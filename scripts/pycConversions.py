@@ -22,6 +22,7 @@ foo = foo.replace("PRO מע","MAN מע")
 
 foo = foo.replace("BEF","BEP")
 foo = foo.replace("MDF","MDP")
+foo = foo.replace("RDF","RDP")
 
 foo = foo.replace("NP-DTV","NP-OB2")
 foo = foo.replace("NP-ACC","NP-OB1")
