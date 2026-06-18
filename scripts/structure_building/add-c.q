@@ -1,7 +1,5 @@
 copy_corpus:t
 
-define: manydefs.def
-
 node: CP*
 query:
 (CP* exists) AND
