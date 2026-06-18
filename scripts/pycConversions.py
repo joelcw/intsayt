@@ -19,6 +19,7 @@ foo = foo.replace("VBP האָט", "HVP האָט")
 foo = foo.replace("(ADVP (ADV שױן","(ADVP-TMP (ADV שױן")
 foo = foo.replace("PRO מע","MAN מע")
 
+
 foo = foo.replace("BEF","BEP")
 foo = foo.replace("MDF","MDP")
 
