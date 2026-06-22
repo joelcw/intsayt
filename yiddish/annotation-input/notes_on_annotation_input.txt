@@ -1,0 +1,73 @@
+1. The original files are split into "text blocks" where a text block is a
+series of lines of text returned from their OCR.  Mostly just paragraphs,
+but also header and footer material.
+
+2. The document processing attempts to remove the header and footer stuff,
+and then joins text blocks over a page (if the one on the previous page
+doesn't end with a [.?!]).
+
+3. The lines in each text block are then joined together, attempting to
+correctly handle words with hyphens split over lines (sometimes the hyphen
+remains, sometimes it doesn't, depending on the split word).  The text
+in each text block is then split up into what I call "source tokens" -
+whitespace- and punctuation-delimited. These source tokens are then sentence
+segmented, and then the rest of the NLP pipeline does the POS tagging to get
+the "complex" tags - P~D, splits up the source tokens as appropriate, and
+then does the parsing.
+
+4. So the end result is that each document is organized as as series of
+pages, and each page has one or more text blocks, and each text block
+has one or more sentences.
+
+I inserted CODE markers at each page_num or text_block break.  e.g.
+
+( (CODE <page_num:7_text_block_num:1>))
+
+(start of text block #1 on page#7)
+
+5. The tree id for each tree has the format
+
+<name>,<page#>_<treeblock#>_<sentence_id>.<tree#>
+where <sentence_id> itself has the form <start>_<end>, where <start> and <end>
+are the numbers of the source tokens within a text block.  <tree#> is the
+sequential numbering within the file for all the trees.
+
+so e.g. 1928e-karpilov.yid.000.psd starts with (leaving out the actual trees)
+
+( (CODE <page_num:5_text_block_num:0>))
+  (ID 1928e-karpilov,5_0_0000_0000.1))   page 5, tb#0, sentence id 0000 -> 0000 (1 source tokens)
+  
+( (CODE <page_num:5_text_block_num:1>))
+  (ID 1928e-karpilov,5_1_0000_0023.2))   page 5, tb#1, sentence id 0000->0023 
+  (ID 1928e-karpilov,5_1_0024_0031.3))   page 5, tb#1, sentence id 0024->0031
+  (ID 1928e-karpilov,5_1_0032_0062.4))   page 5, tb#1, sentence id 0032->0062
+( (CODE <page_num:5_text_block_num:2>))
+  (ID 1928e-karpilov,5_2_0000_0033.5))   page 5, tb#2, sentence id 0000->0033
+
+and so on.
+
+So while the sentence segmentation will almost certainly need to be corrected
+*within* a textblock, it should not be modified *across* a text block. If it
+looks like it should be, please look at the original source .pdf to see if
+something went wrong with the processing.
+
+6. Also, the page numbering is not precise - it starts from the first text
+block on a page.
+
+So if e.g.
+
+page 4
+....
+start of a text block...
+
+
+page 5
+...end of a text block
+
+another text lock.
+
+The combined text lbock (start of a text block...end of a text block) is
+treated as one text block (the last one) on page 4, and "another text
+block" is treated as the first text block on page 5.  It was too much for
+now to keep track of the page numbers at the precise word, but ideally
+there would be a CODE in there as the marker
