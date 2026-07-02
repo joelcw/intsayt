@@ -1,0 +1,12 @@
+1782924061.1952755: {"type": "program-start", "filename": "trainingSample.marju.psd"}
+1782924084.6214314: {"type": "program-start", "filename": "trainingSample.marju.psd"}
+1782924111.6246934: {"type": "page-load", "loc": "inner_index", "filename": "trainingSample.marju.psd"}
+1782924111.767639: {"eventData": {"type": "page-load"}, "filename": "trainingSample.marju.psd"}
+1782924141.7806504: {"eventData": {"type": "auto-idle"}, "filename": "trainingSample.marju.psd"}
+1782924170.2704303: {"type": "program-start", "filename": "trainingSample.orig.psd"}
+1782985727.9617035: {"type": "program-start", "filename": "trainingSample.marju.psd"}
+1782985741.931247: {"type": "page-load", "loc": "inner_index", "filename": "trainingSample.marju.psd"}
+1782985742.0788734: {"eventData": {"type": "page-load"}, "filename": "trainingSample.marju.psd"}
+1782985751.2167299: {"type": "save", "filename": "trainingSample.marju.psd"}
+1782985766.9802449: {"type": "program-exit", "filename": "trainingSample.marju.psd"}
+1782985769.1904836: {"type": "program-exit", "filename": "trainingSample.marju.psd"}
