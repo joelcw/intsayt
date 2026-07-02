@@ -134,7 +134,7 @@ function customCommands() {
 /*
  * Default phrase label suggestions in context menu
  */
-var defaultConMenuGroup = ["VBP","VBD","VBI","VAN","VBN","VB","VBN-IPP"];
+var defaultConMenuGroup = ["VBP","VBD","VBI","VAN","VAG","VBN","VB","VBN-IPP"];
 
 /*
  * Phrase labels that are suggested in context menu when one of the other ones
@@ -148,15 +148,15 @@ function customConMenuGroups() {
                       "NP-DIR","NP-ADT","NP-VOC","QP"] );
     addConMenuGroup( ["PP","ADVP","ADVP-TMP","ADVP-LOC","ADVP-DIR","NP-MSR","NP-ADV"] );
     addConMenuGroup( ["HVP","HVD","HVI","HV","HAN","HVN-IPP","VB","BE"] );
-    addConMenuGroup( ["VBP","VBD","VBI","VAN","VBN","VB","VBN-IPP","VLP","VX","HVP","DOP","RDP","BEP","MDP"] );
+    addConMenuGroup( ["VBP","VBD","VBI","VAN","VAN","VBN","VB","VBN-IPP","VLP","VX","HVP","DOP","RDP","BEP","BEN","HVN","MDP"] );
     addConMenuGroup( ["DOP","DOD","DOI","DAN","DON","DO","DON-IPP","VB","BE"] );
     addConMenuGroup( ["MDP","MDD","MDI","MD","MDN-IPP","VBP","RDP","HVP","VLP"] );
     addConMenuGroup( ["BEP","BED","BEI","BE","BEN","BAN","BEN-IPP","RDP","VBP","HVP"] );
     addConMenuGroup( ["RDP","RDD","RDI","RD","RAN","RDN-IPP","BEP","VBP","HVP"] );
-    addConMenuGroup( ["RP","P","ADV","ADVR","ADVS","ADJ","ADJR","ADJS","C","CONJ","ALSO"] );
+    addConMenuGroup( ["RP","P","ADV","ADVR","ADVS","ADJ","ADJR","ADJS","VAG","C","WPRO","CONJ","ALSO"] );
     addConMenuGroup( ["WADVP","WNP","WPP","WQP","WADJP"] );
     addConMenuGroup( ["CP-THT","CP-QUE-MAT","CP-QUE-SUB","CP-REL","CP-DEG","CP-ADV","CP-CMP"] );
-    addConMenuGroup( ["N","NS","NPR","NPRS", "PRO","D","ES","MAN","N-D","NUM", "OTHER","ADJ","ADJR","ADJS", "Q","QR","QS","FW","H","X"] );
+    addConMenuGroup( ["N","NS","NPR","NPRS", "PRO","D","ES","MAN","N-D","NUM", "OTHER","ADJ","ADJR","ADJS","VAG", "Q","QR","QS","FW","H","X"] );
 }
 
 /*
