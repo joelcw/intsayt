@@ -1,4 +1,4 @@
-CS="java -classpath CS_2.002.75.jar csearch/CorpusSearch"
+CS='java -classpath CS_2.003.04.jar csearch/CorpusSearch'
 
 cp $1 temp.psd
 FILE="temp.psd"
