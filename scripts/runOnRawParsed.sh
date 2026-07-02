@@ -7,10 +7,10 @@ rm problemfile.txt
 
 echo ""
 echo "Fix lekh"
-$CS structure_queries/fix-lekh.q $FILE >> problemfile.txt
+$CS structure_building/fix-lekh.q $FILE >> problemfile.txt
 mv -f $FILE.out $FILE
 
-python3 "pycConversions.py" $FILE > $FILE.out
+python3 "pycConversions.py" < $FILE > $FILE.out
 mv -f $FILE.out $FILE
 
 mv -f $FILE $2
