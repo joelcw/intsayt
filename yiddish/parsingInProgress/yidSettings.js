@@ -152,7 +152,7 @@ function customConMenuGroups() {
     addConMenuGroup( ["DOP","DOD","DOI","DAN","DON","DO","DON-IPP","VB","BE"] );
     addConMenuGroup( ["MDP","MDD","MDI","MD","MDN-IPP","VBP","RDP","HVP","VLP"] );
     addConMenuGroup( ["BEP","BED","BEI","BE","BEN","BAN","BEN-IPP","RDP","VBP","HVP"] );
-    addConMenuGroup( ["RDP","RDD","RDI","RD","RAN","RDN-IPP","BEP","VBP","HVP"] );
+    addConMenuGroup( ["RDP","RDD","RDI","RD","RAN","RDN","RDN-IPP","BEP","VBP","HVP"] );
     addConMenuGroup( ["RP","P","ADV","ADVR","ADVS","ADJ","ADJR","ADJS","VAG","C","WPRO","CONJ","ALSO"] );
     addConMenuGroup( ["WADVP","WNP","WPP","WQP","WADJP"] );
     addConMenuGroup( ["CP-THT","CP-QUE-MAT","CP-QUE-SUB","CP-REL","CP-DEG","CP-ADV","CP-CMP"] );
