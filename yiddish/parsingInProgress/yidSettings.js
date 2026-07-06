@@ -95,7 +95,7 @@ function customCommands() {
     addCommand({ keycode: 67, shift: true }, toggleCollapsed); // shift + c
     addCommand({ keycode: 82 }, setLabel, ["CP-REL","CP-FRL","CP-CAR",
                                            "CP-CLF"]); // r
-    addCommand({ keycode: 83 }, setLabel, ["IP-SUB","IP-MAT","IP-IMP"]); // s
+    addCommand({ keycode: 83 }, setLabel, ["IP-SUB","IP-MAT","FRAG","IP-IMP"]); // s
     addCommand({ keycode: 86 }, setLabel, ["IP-SMC","IP-INF",
                                            "IP-INF-PRP","CP-EOP"]); // v
     addCommand({ keycode: 84 }, setLabel, ["CP-THT","CP-THT-PRN","CP-DEG",
@@ -109,7 +109,7 @@ function customCommands() {
     addCommand({ keycode: 50, shift: true }, splitWord); // 2
     addCommand({ keycode: 52 }, toggleExtension, "PRN"); // 4
     addCommand({ keycode: 53 }, toggleExtension, "SPE"); // 5
-    addCommand({ keycode: 81 }, setLabel, ["CONJP","ALSO","FP"]); // q
+    addCommand({ keycode: 81 }, setLabel, ["CONJP","ALSO"]); // q
     addCommand({ keycode: 87 }, setLabel, ["NP-SBJ","NP-OB1","NP-OB2",
                                            "NP-PRD","NP-RFL","NP-EXP"]); // w
     addCommand({ keycode: 68 }, pruneNode); // d
@@ -152,7 +152,7 @@ function customConMenuGroups() {
     addConMenuGroup( ["DOP","DOD","DOI","DAN","DON","DO","DON-IPP","VB","BE"] );
     addConMenuGroup( ["MDP","MDD","MDI","MD","MDN-IPP","VBP","RDP","HVP","VLP"] );
     addConMenuGroup( ["BEP","BED","BEI","BE","BEN","BAN","BEN-IPP","RDP","VBP","HVP"] );
-    addConMenuGroup( ["RDP","RDD","RDI","RD","RAN","RDN-IPP","BEP","VBP","HVP"] );
+    addConMenuGroup( ["RDP","RDD","RDI","RD","RAN","RDN","RDN-IPP","BEP","VBP","HVP"] );
     addConMenuGroup( ["RP","P","ADV","ADVR","ADVS","ADJ","ADJR","ADJS","VAG","C","WPRO","CONJ","ALSO"] );
     addConMenuGroup( ["WADVP","WNP","WPP","WQP","WADJP"] );
     addConMenuGroup( ["CP-THT","CP-QUE-MAT","CP-QUE-SUB","CP-REL","CP-DEG","CP-ADV","CP-CMP"] );
