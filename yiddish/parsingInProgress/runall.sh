@@ -6,7 +6,7 @@ rm problemfile.txt
 
 echo ""
 echo "Fix Labels"
-python3 ../../scripts/pycConversions.py < $FILE > $FILE.out
+python ../../scripts/pycConversions.py < $FILE > $FILE.out
 mv -f $FILE.out $FILE
 
 echo ""
