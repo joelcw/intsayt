@@ -12,6 +12,7 @@ foo = foo.replace("VBP בין","BEF בין")
 foo = foo.replace("VBP זײַנען","BEF זײַנען")
 foo = foo.replace("VB זײַן","BE זײַן")
 foo = foo.replace("VB זײן","BE זײן")
+foo = foo.replace("VBN געװען","BEN געװען")
 
 foo = foo.replace("VBP האָב", "HVP האָב")
 foo = foo.replace("VBP האָסט", "HVP האָסט")
