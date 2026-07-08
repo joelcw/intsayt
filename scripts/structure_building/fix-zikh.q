@@ -2,9 +2,9 @@ copy_corpus:t
 
 node: $ROOT
 query:
-(N exists) AND
-(N idoms זיך)
+(PRO exists) AND
+(PRO idoms זיך)
 AND
-({1}NP* idoms N)
+({1}NP* idoms PRO)
 
 replace_label{1}: NP-RFL
