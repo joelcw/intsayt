@@ -19,6 +19,10 @@ echo "Fix lekh"
 $CS ../../scripts/structure_building/fix-lekh.q $FILE > problemfile.txt
 mv -f $FILE.out $FILE
 
+echo ""
+echo "Fix zikh"
+$CS ../../scripts/structure_building/fix-zikh.q $FILE > problemfile.txt
+mv -f $FILE.out $FILE
 
 
 mv -f $FILE $2
