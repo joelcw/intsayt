@@ -392,7 +392,7 @@
                                                          (CP-ADV (C װען)
                                                                  (IP-SUB (NP-SBJ (PRO ער))
                                                                          (MDP װעט)
-                                                                         (ADVP-DIAGN (ADV שױן))
+                                                                         (ADVP-DIAGN-TMP (ADV שױן))
                                                                          (VB האַלטען)
                                                                          (NP-OB1 (D דאָס)
                                                                                  (N הענטעל)
