@@ -410,8 +410,6 @@
                                          (NP (PRO מיר)))))
                     (PUNC .))))
 
-( (CODE {COM:PARSING_HERE}))
-
 ( (IP-MAT (IP-MAT-1 (NP-SBJ (PRO איך))
                     (BEP בין)
                     (VBN געשטאַנען))
