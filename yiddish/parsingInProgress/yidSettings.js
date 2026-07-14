@@ -103,7 +103,7 @@ function customCommands() {
     addCommand({ keycode: 71 }, setLabel, ["ADJP","ADJP-SPR","NP-MSR",
                                            "QP"]); // g
     addCommand({ keycode: 70 }, setLabel, ["PP","ADVP","ADVP-TMP","ADVP-LOC",
-                                           "ADVP-DIR"]); // f
+                                           "ADVP-DIR","ADVP-DIAGN"]); // f
     addCommand({ keycode: 50 }, setLabel, ["NP","NP-PRN","NP-POS",
                                            "NP-COM"]); // 2
     addCommand({ keycode: 50, shift: true }, splitWord); // 2
@@ -146,7 +146,7 @@ function customConMenuGroups() {
     addConMenuGroup( ["NP-SBJ","NP-OB1","NP-OB2","NP-PRD","NP-RFL","NP-EXP","NP-EXPL","NP-LGS","NP-BEN","NP-POS","NP-PRN",
                       "NP","NX","NP-MSR","NP-TMP","NP-ADV","NP-COM","NP-CMP",
                       "NP-DIR","NP-ADT","NP-VOC","QP"] );
-    addConMenuGroup( ["PP","ADVP","ADVP-TMP","ADVP-LOC","ADVP-DIR","NP-MSR","NP-ADV"] );
+    addConMenuGroup( ["PP","ADVP","ADVP-TMP","ADVP-LOC","ADVP-DIR","ADVP-DIAGN","ADVP-DIAGN-TMP","NP-MSR","NP-ADV"] );
     addConMenuGroup( ["HVP","HVD","HVI","HV","HAN","HVN-IPP","VB","BE"] );
     addConMenuGroup( ["VBP","VBD","VBI","VAN","VAN","VBN","VB","VBN-IPP","VLP","VX","HVP","DOP","RDP","BEP","BEN","HVN","MDP","HV"] );
     addConMenuGroup( ["DOP","DOD","DOI","DAN","DON","DO","DON-IPP","VB","BE","HV"] );
