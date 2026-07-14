@@ -97,7 +97,7 @@ function customCommands() {
                                            "CP-CLF"]); // r
     addCommand({ keycode: 83 }, setLabel, ["IP-SUB","IP-MAT","FRAG","IP-IMP"]); // s
     addCommand({ keycode: 86 }, setLabel, ["IP-SMC","IP-INF",
-                                           "IP-INF-PRP","CP-EOP"]); // v
+                                           "IP-INF-PRP","CP-EOP", "IP-PPL"]); // v
     addCommand({ keycode: 84 }, setLabel, ["CP-THT","CP-THT-PRN","CP-DEG",
                                            "CP-QUE-SUB","CP-QUE-MAT","CP-QUE-MAT-THT"]); // t
     addCommand({ keycode: 71 }, setLabel, ["ADJP","ADJP-SPR","NP-MSR",
@@ -167,6 +167,7 @@ function customConLeafBefore() {
     addConLeafBefore("NP-SBJ" , "*pro*"     );
     addConLeafBefore("NP-SBJ" , "*exp*"     );
     addConLeafBefore("NP-SBJ" , "*arb*"     );
+    addConLeafBefore("NP-OB1" , "*pro*"     );
     addConLeafBefore("C"      , "0"         );
     addConLeafBefore( "TO", "*");
 	addConLeafBefore( "WADVP", "0");
@@ -176,6 +177,7 @@ function customConLeafBefore() {
 	addConLeafBefore( "WPP", "0");
     addConLeafBefore("CODE"   , "{COM:XXX}" );
     addConLeafAfter("CODE"   , "{COM:XXX}" );
+    addConLeafAfter( "VB", "*");
 }
 
 // An example of a CSS rule for coloring a syntactic tag.  The styleTag
