@@ -151,7 +151,7 @@
           (VBP ליעב)
           (NP-OB1 (PRO איהם))
           (ADVP-DIAGN-TMP (ADV שױן))
-          (NP-MSR (ADVR מעהר))
+          (NP-MSR (QR מעהר))
           (NEG ניט)
           (PUNC .))
   (ID 1928e-karpilov,6_3_0048_0056.44))
@@ -244,7 +244,7 @@
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ (PRO איך))
                     (MDP קען)
-                    (ADVP (ADVR מעהר))
+                    (ADVP (QR מעהר))
                     (NEG ניט)
                     (VB זיצען)
                     (ADVP (ADV אַזױ))
