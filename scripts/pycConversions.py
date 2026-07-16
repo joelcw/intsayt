@@ -18,8 +18,10 @@ foo = foo.replace("VBP האָב", "HVP האָב")
 foo = foo.replace("VBP האָסט", "HVP האָסט")
 foo = foo.replace("VBP האָט", "HVP האָט")
 
-foo = foo.replace("(ADVP (ADV שױן","(ADVP-TMP (ADV שױן")
+foo = foo.replace("(ADVP (ADV שױן","(ADVP-DIAGN-TMP (ADV שױן")
 foo = foo.replace("PRO מע","MAN מע")
+foo = foo.replace("ADV אַזױ","ADVR אַזױ")
+
 
 
 foo = foo.replace("BEF","BEP")
