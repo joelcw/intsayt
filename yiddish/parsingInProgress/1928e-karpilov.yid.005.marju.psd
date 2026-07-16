@@ -146,7 +146,7 @@
 
 ( (IP-EXL (MDP מעג)
           (NP-SBJ (PRO ער))
-          (ADVP (ADVR מעהר))
+          (NP-MSR (QR מעהר))
           (PP (P צו)
               (NP (PRO מיר)))
           (ADVP-TMP (ADV קײנמאָל))
@@ -245,7 +245,7 @@
           (BEP בין)
           (NP-SBJ (PRO איך))
           (NEG ניט)
-          (ADVP (ADVR מעהר))
+          (NP-MSR (QR מעהר))
           (ADJP (ADJ אַלײן))
           (PUNC .))
   (ID 1928e-karpilov,14_3_0042_0055.193))
