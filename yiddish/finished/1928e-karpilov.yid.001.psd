@@ -81,7 +81,7 @@
 ( (CODE <page_num:6_text_block_num:3>))
 
 ( (IP-MAT (NP-SBJ *exp*)
-          (NP-EXP (PRO מיר))
+          (NP-XPR (PRO מיר))
           (BEP איז)
           (ADJP (ADJ ענג))
           (PP (P אין)
