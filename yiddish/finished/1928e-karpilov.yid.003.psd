@@ -15,8 +15,7 @@
                     (CONJP (IP-INF (MD װעלען)
                                    (VB זאָגען)
                                    (NP-OB2 (PRO איהם))
-                                   (QTP (PRO דו)
-                                        (CODE {COM:SPE_technically_not_allowed_here-_what_can_i_use?}))))
+                                   (QTP (PRO דו))))
                     (CONJP (CONJ און)
                            (IP-INF (ADVP (ADV גאָר))
                                    (VB ענטפערן)
@@ -192,8 +191,7 @@
 
 ( (IP-MAT (NP-SBJ (N ליעבע))
           (VBP װיל)
-          (NP-OB1 (NS פאַנאַטיקער)
-                  (CODE {COM:singular_form_but_behaves_like_plural??_it's_a_possible_plural_form}))
+          (NP-OB1 (NS פאַנאַטיקער))
           (PUNC .))
   (ID 1928e-karpilov,10_3_0055_0058.120))
 
@@ -265,8 +263,7 @@
                                      (N גלױבען)
                                      (PP (P אין)
                                          (NP (D אַ)
-                                             (N נס))))))
-                      (CODE {COM:right_node_raising?_check})))
+                                             (N נס))))))))
           (PUNC —))
   (ID 1928e-karpilov,10_4_0011_0034.125))
 
@@ -276,8 +273,6 @@
                       (PP (P װי)
                           (NP (PRO$ מײנע))))
               (PUNC ...)))
-
-( (CODE {COM:some_kind_of_CP_for_inversion}))
 
 ( (CODE <page_num:10_text_block_num:5>))
 
@@ -404,7 +399,6 @@
           (VBP מאַטערט)
           (NP-RFL (PRO זיך))
           (NP-OB1 (PRO עס))
-          (CODE {COM:what_is_this?_i_think_it_suffers_being_summoned})
           (FP נאָר)
           (PUNC ,)))
 
@@ -413,7 +407,6 @@
                 (PP (P צו>)
                     (NP (D <ם)
                         (N לעבען))))
-          (CODE {COM:is_this_an_ADVP_or_PP?})
           (VBP קומט)
           (NP-SBJ (PRO עס))
           (NEG ניט)
@@ -598,8 +591,7 @@
           (RP אָפּ)
           (ADJP-SPR (ADJ אלײן))
           (PP (P מיט)
-              (NP (PRO זיך)))
-          (CODE {COM:alayn_ADJ_or_ADV_here?_sit_alone_similar_to_be_alone,_so_ADJ?})))
+              (NP (PRO זיך)))))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ *con*)
