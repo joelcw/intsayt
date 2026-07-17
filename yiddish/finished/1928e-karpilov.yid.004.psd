@@ -113,7 +113,6 @@
               (PP (P פון)
                   (ADVP (ADV אױבען)))
               (ADVP-DIR (ADV אראָפּ))
-              (CODE {COM:ICH_this_to_the_start_of_PP?})
               (PUNC .))
   (ID 1928e-karpilov,12_7_0034_0044.149))
 
@@ -346,8 +345,7 @@
           (PP (DR+P דערפאַר))
           (NP-PRD (D אַ)
                   (N שונא))
-          (PUNC ...)
-          (CODE {COM:why_V1?}))
+          (PUNC ...))
   (ID 1928e-karpilov,13_2_0022_0030.164))
 
 ( (CODE <page_num:13_text_block_num:3>))
@@ -367,8 +365,7 @@
                                                                   (IP-INF-SPE (TO צו)
                                                                               (VB װײזען)
                                                                               (NP-OB1 (PRO$ זײן)
-                                                                                      (N גרױסקײט))
-                                                                              (CODE {COM:interesting_infinitival_form}))))
+                                                                                      (N גרױסקײט)))))
                                               (PUNC ,)
                                               (CONJP (CONJ און)
                                                      (IP-SUB-SPE (NP-SBJ (PRO ער))
