@@ -1,11 +1,11 @@
 <head>
-<title>Annotation guidelines for the Penn Parsed Corpus of Historical Yiddish</title>
+<title>Annotation guidelines for ...</title>
 
 <body>
 
-<h3>Annotation guidelines for the Penn Parsed Corpus of Historical Yiddish</h3>
+<h3>Annotation guidelines for <font color="MediumVioletRed"> Our Corpus </font> </h3>
 
-Unless otherwise specified below, the Penn Parsed Corpus of Historical Yiddish
+Unless otherwise specified below, <font color="MediumVioletRed"> Our Corpus </font>
 is annotated according to the guidelines for the
 <a href="https://www.ling.upenn.edu/~beatrice/annotation/index.html"
 target="_new">Penn Parsed Historical Corpora of English</a> (PPCHE).
@@ -18,21 +18,22 @@ target="_new">Penn Parsed Historical Corpora of English</a> (PPCHE).
 
 In orthographic words that need to be split to conform to the parsing
 guidelines (notably particle-verb combinations), the site of the split
-is indicated by a trailing "@" on the first item and a leading "@" on
+is indicated by "&gt;" to the right of the first item and "&lt;" to the left of
 the second one.
 
 <blockquote>
 <pre>
-( (PP (P mit@)
-      (NP (D @n) (N andern))))
+( (PP (P mit&gt;)
+      (NP (D &lt;n) (N andern))))
 
-( (RP oyf@) (TO @tsu@) (VB @shteyn))
+( (RP oyf&gt;) (TO &lt;tsu&gt;) (VB &lt;shteyn))
 </pre>
 </blockquote>
 
 <p>
 Conversely, sequences of words that are ordinarily spelled as a single
 orthographic word are joined with an underscore.
+<!-- Check if this will end up being used -->
 
 <blockquote>
 <pre>
@@ -57,12 +58,8 @@ orthographic word are joined with an underscore.
 <td>ADV, ADVR, ADVS
 <td>adverb (positive, comparative, superlative)
 <tr>
-<td>BE, BEF, BEI, BEN
-<td>auxiliary BE (infinitive, finite, imperative, past participle)
-<tr>
-<td>
-<td><b>!! Using BEP instead of BEF, VBP instead of VBF, etc...</b>
-
+<td>BE, BEP, BEI, BEN
+<td>auxiliary and main verb BE (infinitive, finite, imperative, past participle) </font>
 <tr>
 <td>C
 <td>complementizer
@@ -73,8 +70,8 @@ orthographic word are joined with an underscore.
 <td>D
 <td>determiner (including articles and demonstratives)
 <tr>
-<td>DO, DOF, DOI, DON
-<td>auxiliary DO (infinitive, finite, imperative, past participle)
+<td>DO, DOP, DOI, DON
+<td>auxiliary and main verb DO (infinitive, finite, imperative, past participle)
 <tr>
 <td><a href="#dr+p">DR+P</a>
 <td>fused form with DR- adverb
@@ -91,8 +88,8 @@ orthographic word are joined with an underscore.
 <td>H
 <td>Hebrew word
 <tr>
-<td>HV, HVF, HVI, HVN
-<td>auxiliary HAVE (infinitive, finite, imperative, past participle)
+<td>HV, HVP, HVI, HVN
+<td>auxiliary and main verb HAVE (infinitive, finite, imperative, past participle)
 <tr>
 <td>INTJ
 <td>interjection
@@ -100,26 +97,21 @@ orthographic word are joined with an underscore.
 <td>M
 <td>Yiddish word in a META context (as in a quotation of Early Yiddish in a Modern Yiddish text)
 <tr>
-<td>MD, MDF, MDI, MDN
+<td>MD, MDP, MDI, MDN
 <td>modal (infinitive, finite, imperative, past participle)
 <tr>
 <td>MDN-IPP
 <td>"infinitivus pro participio" (suppletive infinitive for past participle) of modal
 <tr>
-<td>N
-<td>common noun (for simplicity, number is not marked in this corpus)
+<td>N, N$, NS, NS$
+<td>common noun (singular, singular possessive, plural, plural possessive)
 <tr>
-<td>
-<td><b>!! The noun section will need to be expanded if we're annotating plurals (and maybe diminutives?)</b>
+<td>NPR, NPR$
+<td>proper noun (ordinary, possessive)
+<!--check if we end up using plural proper nouns-->
 <tr>
-<td>NPR
-<td>proper noun (for simplicity, number is not marked in this corpus)
-<tr>
-<td>N$
-<td>possessive common noun (for simplicity, number is not marked in this corpus)
-<tr>
-<td>NPR$
-<td>possessive proper noun (for simplicity, number is not marked in this corpus)
+<td>N-D, NPR-D
+<td>overtly dative-marked noun (common, proper)
 <tr>
 <td>NEG
 <td>negation
@@ -127,8 +119,14 @@ orthographic word are joined with an underscore.
 <td>NUM
 <td>cardinal number
 <tr>
+<td>ONE
+<td>non-determiner uses of EYN
+<tr>
+<td>OTHER
+<td>forms of ANDER
+<tr>
 <td>P
-<td>preposition or subordinating conjunction
+<td>preposition or subordinating conjunction <b> check the subordinating conjunction part</b>
 <tr>
 <td>PRO, PRO$
 <td>personal pronoun (ordinary, possessive)
@@ -136,8 +134,8 @@ orthographic word are joined with an underscore.
 <td>Q, QR, QS
 <td>quantifier (positive, comparative, superlative)
 <tr>
-<td>RD, RDF, RDI, RDN
-<td>auxiliary VERN (infinitive, finite, imperative, past participle)
+<td>RD, RDP, RDI, RDN
+<td>auxiliary and main verb VERN (infinitive, finite, imperative, past participle)
 <tr>
 <td><a href="#rp">RP</a>
 <td>particle (with several subclasses)
@@ -145,13 +143,13 @@ orthographic word are joined with an underscore.
 <td>TO
 <td>infinitival TSU
 <tr>
-<td>VAG, VAN, VB, VBF, VBI, VBN
-<td>ordinary verb (present participle, passive participle, infinitive, finite, imperative, past participle)
+<td>VAG, VAN, VB, VBP, VBD, VBI, VBN
+<td>ordinary verb (present participle, passive participle, infinitive, finite (present), preterite, imperative, past participle)
 <tr>
 <td>VB-IPP
 <td>"infinitivus pro participio" (suppletive infinitive for past participle)
 <tr>
-<td>VLF
+<td>VLP
 <td>auxiliary VOLN (subjunctive)
 <tr>
 <td>VX
@@ -251,10 +249,12 @@ orthographic word are joined with an underscore.
 <td>CP-CMP
 <td>comparative (see <a href="https://www.ling.upenn.edu/~beatrice/annotation-audio-aligned-corpora/deg_and_comp.html"
    target="_new">Degree and comparative constructions</a>)
+<!-- That link does not exist -->
 <tr>
 <td>CP-DEG
 <td>degree (see <a href="https://www.ling.upenn.edu/~beatrice/annotation-audio-aligned-corpora/deg_and_comp.html"
    target="_new">Degree and comparative constructions</a>)
+<!-- That link does not exist -->
 <tr>
 <td>CP-EOP
 <td>empty operator infinitive (including TOUGH complements)
@@ -314,17 +314,20 @@ orthographic word are joined with an underscore.
 <tr>
 <th colspan=2>Function tags on NP
 <tr>
-<td>NP-ACC
-<td>accusative object (generally equivalent to -OB1 in the PPCHE)
+<td>NP-OB1
+<td>direct object
+<tr>
+<td>NP-OB2
+<td>indirect object
 <tr>
 <td>NP-BEN
 <td>benefactive ("ethical") NP
 <tr>
+<td>NP-XPR
+<td>experiencer NP
+<tr>
 <td><a href="#np-com">NP-COM</a>
 <td>bare NP complement of ADJ, N, NUM, Q (that is, below clause-level)
-<tr>
-<td>NP-DTV
-<td>indirect object (generally equivalent to -OB2 in the PPCHE)
 <tr>
 <td>NP-EXPL
 <td>expletive DOS (as in "<u>Dos</u> hot a folk tsvishn falndike vent dos lid gezungen mit naganes in di hent")
@@ -546,12 +549,12 @@ status (analogously to the case of <a href="#ip-mat-tht">IP-MAT-THT</a>).
 ( (IP-MAT (NP-SBJ (PRO me))
           (HVP hot)
           (VBN gemakht)
-          (NP-ACC (D an) (N asife))
+          (NP-OB1 (D an) (N asife))
           (PP (P in)
               (NP (N shul)))
           (PUNC ,)
           (CP-QUE-MAT-THT (WNP-1 (WPRO vemen))
-                          (IP-SUB (NP-ACC *T*-1)
+                          (IP-SUB (NP-OB1 *T*-1)
                                   (MDP zol)
                                   (NP-SBJ (PRO me))
                                   (ADVP (ADV do))
@@ -561,7 +564,7 @@ status (analogously to the case of <a href="#ip-mat-tht">IP-MAT-THT</a>).
 
 ( (IP-MAT (VBP freg)
           (NP-SBJ (PRO ikh))
-	  (NP-DTV (D dem) (N fish))
+	  (NP-OB2 (D dem) (N fish))
           (PUNC ,)
           (CP-QUE-MAT-THT (C tsi)
                           (IP-SUB (HVP hot)
@@ -570,7 +573,7 @@ status (analogously to the case of <a href="#ip-mat-tht">IP-MAT-THT</a>).
                                   (VBN gezen)
                                   (PP (P in)
                                       (NP (N vaser)))
-                                  (NP-ACC (D dem) (N yidn)))
+                                  (NP-OB1 (D dem) (N yidn)))
                           (PUNC ?))
           (PUNC "))
   (ID 1947E-ROYTE-POMERANTSEN,47.1240))
@@ -619,7 +622,7 @@ clause-initial) position is the one that counts as doubled.
 ( (IP-MAT (VB-DBL hern)
           (HVP hob)
           (NP-SBJ (PRO ikh))
-          (NP-ACC (PRO es))
+          (NP-OB1 (PRO es))
           (NEG nit)
           (VBN gehert)
           (PUNC .))
@@ -627,7 +630,7 @@ clause-initial) position is the one that counts as doubled.
 
 ( (CP-THT (C az)
           (IP-SUB (VP (VB-DBL trinken)
-                      (NP-ACC (D di) (N tey)))
+                      (NP-OB1 (D di) (N tey)))
                   (HVP hot)
                   (NP-SBJ (PRO ir))
                   (VBN getrunken)
@@ -715,6 +718,49 @@ target="_new">IcePaHC</a>, ES is used in the following constructions:
 
 </blockquote>
 
+<a name="expletives">
+<h4>Expletives</h4>
+
+<blockquote>
+
+When an expletive corresponds to a dative experiencer, we adopt the simplest parse with no coindexing.
+
+<pre>( (IP-MAT (ADVP-TMP (ADV yetst))
+          (VBP shraybn)
+          (NP-SBJ (D di)
+                  (NS gazetn))
+          (PUNC ,)
+          (CP-THT (C az)
+                  (IP-SUB (NP-SBJ (ES 's))
+                          (BEP iz)
+                          (NP-XPR (PRO ir))
+                          (ADJP (ADJR beser))))
+          (PUNC ,)))
+
+</pre>
+
+Nominative theme NPs in expletive constructions are coindexed with the expletive subject.
+
+<pre>
+( (IP-MAT (NP-XPR (PRO im))
+          (VBP art)
+          (NP-SBJ-1 *exp*)
+          (NEG nit)
+          (NP-1 (D di)
+                (ADJ efentlekhe)
+                (N meynung))
+          (PUNC ,)))
+
+</pre>
+
+<!-- perhaps include an example of LGS too, since it's not in the English corpus -->
+
+</blockquote>
+
+
+
+
+<!-- commenting this out for now as we're probably not doing glosses
 <a name="hebrew">
 <h4>Hebrew material</h4>
 
@@ -726,7 +772,7 @@ caret.  Unknown glosses are indicated by UNKNOWN.
 <blockquote>
 <pre>
 (NP (H hbtsulh^the_young_woman))
-(NP-ACC (D das) (H tbet^ring) (H zhb^UNKNOWN))
+(NP-OB1 (D das) (H tbet^ring) (H zhb^UNKNOWN))
 </pre>
 </blockquote>
 
@@ -757,6 +803,7 @@ but the Yiddish material is annotated as if it had been.
 </blockquote>
 
 </blockquote>
+-->
 
 <a name="ip-mat-deg">
 <h4>IP-MAT-DEG</h4>
@@ -804,7 +851,7 @@ tag to facilitate their retrieval.
 <pre>
 ( (IP-MAT (NP-SBJ (PRO ikh))
           (VBP hab)
-          (NP-ACC (D eyn)
+          (NP-OB1 (D eyn)
                   (N kind)
                   (CODE {TEXT:kund})
                   (IP-MAT-REL (NP-SBJ *pro*)
@@ -831,7 +878,7 @@ complement clauses) are annotated as IP-MAT-THT.
           (VBP hof)
           (IP-MAT-THT (NP-SBJ (PRO er))
                       (MDP zul)
-                      (NP-DTV (PRO mir))
+                      (NP-OB2 (PRO mir))
                       (VB gebn)))
   (ID 1XXXX-COURT-TESTIMONY,33_c1460_w?.127))
 </pre>
@@ -1002,8 +1049,8 @@ target="mainframe">split</a> from their verbal hosts.
           (PP (DR+P derfar))
           (BEP iz)
           (NEG nit)
-          (RP on@)
-          (VAN @gevizn)
+          (RP on&gt;)
+          (VAN &lt;gevizn)
           (NP-SBJ (Q keyn) (N yor))
           (PUNC ;))
   (ID 1928E-WEINREICH-KINES,192.15))
@@ -1036,13 +1083,13 @@ German) are treated as wh- pronouns.
 
 <blockquote>
 <pre>
-( (NP-ACC (D den)
+( (NP-OB1 (D den)
           (N ktb)
           (CP-REL (WNP-1 (WPRO den))
-                  (IP-SUB (NP-ACC *T*-1)
+                  (IP-SUB (NP-OB1 *T*-1)
                           (NP-SBJ (PRO du))
 		          (HVP hast)
-                          (NP-DTV (NPR r') (NPR zelikmn))
+                          (NP-OB2 (NPR r') (NPR zelikmn))
                           (VBN gshikt)))))
 </pre>
 </blockquote>
@@ -1055,15 +1102,15 @@ be realized as AZ or DZ.
 
 <blockquote>
 <pre>
-( (NP-ACC (D di)
+( (NP-OB1 (D di)
 	  (N mayse)
 	  (PUNC ,)
 	  (CP-REL (WNP-1 0)
 		  (C vos)
-		  (IP-SUB (NP-ACC *T*-1)
+		  (IP-SUB (NP-OB1 *T*-1)
 			  (NP-SBJ (D der) (N rov))
 			  (HVP hot)
-			  (NP-DTV (PRO im))
+			  (NP-OB2 (PRO im))
 			  (VBN gezogt))))
   (ID 1947E-ROYTE-POMERANTSEN,223.5696))
 </pre>
@@ -1079,11 +1126,11 @@ texts after 1800, VOS is invariably treated as a complementizer.
 
 <blockquote>
 <pre>
-( (NP-ACC (D daz)
+( (NP-OB1 (D daz)
 	  (N land)
 	  (CP-REL (WNP-1 (WPRO vaz))
-		  (IP-SUB (NP-ACC *T*-1)
-			  (NP-DTV (PRO unz))
+		  (IP-SUB (NP-OB1 *T*-1)
+			  (NP-OB2 (PRO unz))
 			  (NP-SBJ (NPR gat))
 			  (VBN far_shprakhin)
 			  (HVP hat))))
@@ -1158,7 +1205,7 @@ antecedent and the resumptive element.
 		  (C vos)
 		  (IP-SUB (NP-SBJ (PRO me))
 			  (VBP ken)
-			  (NP-ACC-RSP-1 (PRO im)))))
+			  (NP-OB1-RSP-1 (PRO im)))))
   (ID 1947E-ROYTE-POMERANTSEN,43.1084))
 </pre>
 </blockquote>
@@ -1204,7 +1251,7 @@ other analyses are possible).
 
 <blockquote>
 <pre>
-( (IP-MAT (NP-SBJ (CP-FRL (WQP-1 (WADV vi@) (Q @fl))
+( (IP-MAT (NP-SBJ (CP-FRL (WQP-1 (WADV vi&gt;) (Q &lt;fl))
                           (IP-SUB (NP-SBJ (ES es))
                                   (BEP iz)
                                   (VBN geven)
@@ -1301,7 +1348,7 @@ for issues concerning transliteration
 <li>Positive (ADJ, ADV, Q) vs. comparative (ADJR, ADVR, QR) and
 superlative (ADJS, ADVS, QS)
 <li>Common noun (N, N$) vs. proper noun (NPR, NPR$)
-<li>NP-BEN (benefactive) vs. NP-DTV (dative)
+<li>NP-BEN (benefactive) vs. NP-OB2 (indirect object)
 </ul>
 </ul>
 
@@ -1329,12 +1376,14 @@ superlative (ADJS, ADVS, QS)
 <li>ES, expletive (see <a href="#es">Expletive ES</a>)
 <li><a href="#es">Expletive ES</a>
 <li>Expletive subject (see <a href="#es">Expletive ES</a>)
+<li><a href="#expletives">Expletive constructions</a>
 <a name="f">
 <li>Formal subject (see <a href="#es">Expletive ES</a>)
 <a name="g">
 <li>Grammatical subject (see <a href="#es">Expletive ES</a>)
-<a name="h">
+<!--<a name="h">
 <li><a href="#hebrew">Hebrew material</a>
+-->
 <a name="i">
 <li><a href="#indirect-question-with-inversion">Indirect question with inversion</a>
 <li><a href="#ip-mat-rel">IP-MAT functioning as relative clause</a>
