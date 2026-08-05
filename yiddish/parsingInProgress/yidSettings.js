@@ -62,7 +62,7 @@ var testValidLeafLabel   = undefined;
  * clausal nodes (IP and CP), and those that apply to non-leaf, non-clause
  * nodes.
  */
-var extensions        = ["RSP","LFD","MAT","THT","SBJ","PRN","SPE","TTL","XXX"];
+var extensions        = ["RSP","LFD","MAT","THT","SBJ","PRN","SPE","TTL","BY","XXX"];
 var clause_extensions = ["RSP","LFD","MAT","THT","SBJ","PRN","SPE","TTL","XXX"];
 var leaf_extensions   = ["D"]; 
 
