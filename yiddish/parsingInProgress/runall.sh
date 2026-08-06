@@ -29,6 +29,24 @@ echo "Fix mer"
 $CS ../../scripts/structure_building/fix-mer.q $FILE > problemfile.txt
 mv -f $FILE.out $FILE
 
+echo ""
+echo "Fix do"
+$CS ../../scripts/structure_building/fix-do.q $FILE > problemfile.txt
+mv -f $FILE.out $FILE
+
+echo ""
+echo "Fix shoyn"
+$CS ../../scripts/structure_building/fix-shoyn.q $FILE > problemfile.txt
+mv -f $FILE.out $FILE
+
+echo ""
+echo "Fix other diagn"
+$CS ../../scripts/structure_building/fix-diagn.q $FILE > problemfile.txt
+mv -f $FILE.out $FILE
+
+
+
+
 mv -f $FILE $2
 
 grep -a12 "WARNING" problemfile.txt

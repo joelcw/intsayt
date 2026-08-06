@@ -7,6 +7,7 @@ Moralizing to a criminal is as effective as cupping a corpse.
 dreyen a spodik: annoy
 
 Old syntax:
-ver se gefint, der gevint finders keepers source: "vi zogt men af yidish"
+ver se gefint, der gevint
+finders keepers source: "vi zogt men af yidish"
 
-eybike kleyder burial shrouds (euphamism) source: Chaim Grade
+eybike kleyder: burial shrouds (euphamism) source: Chaim Grade
