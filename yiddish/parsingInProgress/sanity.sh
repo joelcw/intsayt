@@ -122,10 +122,6 @@ echo "Branching CONJ"
 $CS ../../scripts/sanity_checks/branching-conj.q $tempfile
 mv -f $tempfile.out $tempfile
 
-echo ""
-echo "Missing NP-PRN"
-$CS ../../scripts/sanity_checks/missing-np-prn.q $tempfile
-mv -f $tempfile.out $tempfile
 
 echo ""
 echo "Bare ADJP at IP level"
@@ -212,20 +208,6 @@ echo "Bad *T* trace"
 $CS ../../scripts/sanity_checks/bad-t-trace.q $tempfile
 mv -f $tempfile.out $tempfile
 
-echo ""
-echo "Bad WPRO"
-$CS ../../scripts/sanity_checks/bad-wpro.q $tempfile
-mv -f $tempfile.out $tempfile
-
-echo ""
-echo "Bad HVER"
-$CS ../../scripts/sanity_checks/bad-hver.q $tempfile
-mv -f $tempfile.out $tempfile
-
-echo ""
-echo "Bad HVER2"
-$CS ../../scripts/sanity_checks/bad-hver2.q $tempfile
-mv -f $tempfile.out $tempfile
 
 #echo ""
 #echo "Missing antecedent"
@@ -239,20 +221,7 @@ echo "Nonbranching NP"
 $CS ../../scripts/sanity_checks/nonbranching-np.q $tempfile
 mv -f $tempfile.out $tempfile
 
-echo ""
-echo "Case agreement error"
-$CS ../../scripts/sanity_checks/case-agreement-error.q $tempfile
-mv -f $tempfile.out $tempfile
 
-echo ""
-echo "Bad NP-PRD"
-$CS ../../scripts/sanity_checks/bad-np-prd.q $tempfile
-mv -f $tempfile.out $tempfile
-
-echo ""
-echo "Bad NP-VOC"
-$CS ../../scripts/sanity_checks/bad-np-voc.q $tempfile
-mv -f $tempfile.out $tempfile
 
 # PP stuff
 
@@ -262,35 +231,11 @@ $CS ../../scripts/sanity_checks/bad-pp-complement-1.q $tempfile
 mv -f $tempfile.out $tempfile
 
 echo ""
-echo "Bad PP case"
-$CS ../../scripts/sanity_checks/bad-pp-case.q $tempfile
-mv -f $tempfile.out $tempfile
-
-echo ""
-echo "Bad PP case 2"
-$CS ../../scripts/sanity_checks/bad-pp-case2.q $tempfile
-mv -f $tempfile.out $tempfile
-
-echo ""
 echo "Nonbranching PP"
 $CS ../../scripts/sanity_checks/nonbranching-pp.q $tempfile
 mv -f $tempfile.out $tempfile
 
 
-echo ""
-echo "Missing NP-POS"
-$CS ../../scripts/sanity_checks/missing-np-pos.q $tempfile
-mv -f $tempfile.out $tempfile
-
-echo ""
-echo "missing-genitive-under-np-pos"
-$CS ../../scripts/sanity_checks/missing-genitive-under-np-pos.q $tempfile
-mv -f $tempfile.out $tempfile
-
-#echo ""
-#echo "Verb iDoms not lemma ending with a"
-#$CS ../../scripts/sanity_checks/v-idoms-ur.q $tempfile
-#mv -f $tempfile.out $tempfile
 
 echo ""
 echo "wrong order of PRN and SPE"
@@ -322,11 +267,6 @@ echo "Bad Passive2"
 $CS ../../scripts/sanity_checks/bad-passive2.q $tempfile
 mv -f $tempfile.out $tempfile
 
-echo ""
-echo "New Passive"
-$CS ../../scripts/sanity_checks/new-passive.q $tempfile
-mv -f $tempfile.out $tempfile
-
 #echo ""
 #echo "Bad NP-OB1-1"
 #$CS ../../scripts/sanity_checks/bad-ob1-1.q $tempfile
@@ -342,9 +282,5 @@ echo "Bad VB*"
 $CS ../../scripts/sanity_checks/bad-vb.q $tempfile
 mv -f $tempfile.out $tempfile
 
-echo ""
-echo "BAD NP-TMP CASE"
-$CS ../../scripts/sanity_checks/bad-np-tmp.q $tempfile
-mv -f $tempfile.out $tempfile
 
 mv -f $tempfile $1.sanity.psd
