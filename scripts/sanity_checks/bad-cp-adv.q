@@ -2,7 +2,6 @@ node: $ROOT
 
 copy_corpus: t
 
-define: def/ICE.def
 
 query: ({1}CP-ADV* exists) AND (!IP*|PP*|$ROOT|CONJP*|CP-ADV* idoms CP-ADV*)
 

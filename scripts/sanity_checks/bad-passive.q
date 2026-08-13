@@ -1,6 +1,6 @@
 copy_corpus: t
 
-define: ../structure_building/manydefs.def 
+define: ../../scripts/structure_building/manydefs.def 
 
 
 node: IP*|CP*|FRAG|QTP

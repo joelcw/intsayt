@@ -2,7 +2,7 @@ node: IP*
 
 copy_corpus: t
 
-define: ../structure_building/manydefs.def
+define: ../../scripts/structure_building/manydefs.def
 
 query: (IP* iDoms {1}NP-PRN)
    AND (IP* idoms NP-SBJ*)
