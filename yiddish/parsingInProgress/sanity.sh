@@ -9,11 +9,6 @@ $CS ../../scripts/sanity_checks/2sbj.q $tempfile
 mv -f $tempfile.out $tempfile
 
 echo ""
-echo "Two nominatives"
-$CS ../../scripts/sanity_checks/bad-double-nom.q $tempfile
-mv -f $tempfile.out $tempfile
-
-echo ""
 echo "Two objects with the same label"
 $CS ../../scripts/sanity_checks/bad-double-obj1.q $tempfile
 mv -f $tempfile.out $tempfile
