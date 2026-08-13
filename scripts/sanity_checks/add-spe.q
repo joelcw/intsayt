@@ -1,6 +1,6 @@
 node: IP*SPE*|CP*SPE*|QTP
 
-define: def/ICE.def
+define: ../structure_building/manydefs.def
 
 copy_corpus: t
 
