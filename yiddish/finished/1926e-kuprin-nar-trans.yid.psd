@@ -25,7 +25,7 @@
           (NP-SBJ (D אַ)
                   (ADJ װאַנדערנדיקע)
                   (N טרופּע))
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.2))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.2))
 
 ( (CODE <page_num:7_text_block_num:2>))
 
@@ -50,7 +50,7 @@
                         (PUNC ,)
                         (ADJ ראָזאָװן)))
               (N צונג))
-          (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.4))
+          (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.4))
 
 ( (IP-MAT (CONJ און)
           (IP-MAT-1 (NP-PRD (D אַן)
@@ -62,7 +62,7 @@
           (CONJP (IP-MAT=1 (ADVP (ADV עלעהײ))
                            (NP-SBJ (D אַ)
                                    (N לײבּ))))
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.5))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.5))
 
 ( (IP-MAT (IP-MAT-1 (PP (P װאו)
                         (NP (D אַ)
@@ -88,7 +88,7 @@
                            (VBN <געקוקט)
                            (PP (P אַף)
                                (ADVP (RP-ADV צוריק)))))
-          (PUNC ...)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.6))
+          (PUNC ...)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.6))
 
 ( (IP-MAT (PP (P דורך)
               (NP (ADJ געװיסע)
@@ -110,7 +110,7 @@
           (VBN געטראָפן)
           (NP-OB1 (D דעם)
                   (N װעג))
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.7))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.7))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ *con*)
@@ -130,7 +130,7 @@
           (PUNC ,)
           (ADVP (ADV װידעראַמאָל))
           (ADVP-DIR (ADV פאָרױס))
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.8))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.8))
 
 ( (CODE <page_num:7_text_block_num:3>))
 
@@ -160,7 +160,7 @@
                                                   (N טעפּיך)))
                                   (PP (P צוליבּ)
                                       (NP (ADJ אַקראָבּאַטישע)
-                                          (NS איבּונגען))))))) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.10))
+                                          (NS איבּונגען))))))) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.10))
 
 ( (IP-MAT (CONJ און)
           (PP (P אין)
@@ -210,7 +210,7 @@
                                                                                       (VB גײן)
                                                                                       (PP (P אין)
                                                                                           (NP (N לעבּן)))))))))))))
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.11))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.11))
 
 ( (CODE <page_num:7_text_block_num:4>))
 
@@ -234,7 +234,7 @@
                           (N זײדע))
                   (NP-PRN (NPR מאַרטין)
                           (NPR לאָדיזשקין)))
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.13))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.13))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (HVP האָט)
@@ -245,7 +245,7 @@
                   (N אַקסל)))
           (NP-OB1 (D די)
                   (N קאַטערינקע))
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.14))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.14))
 
 ( (CODE <page_num:8_text_block_num:0>))
 
@@ -255,7 +255,7 @@
           (BEN געװען)
           (NP-PRD (D אַן)
                   (ADJ אַלטמאָדישע))
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.16))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.16))
 
 ( (IP-MAT (PP (DR+P דערצו))
           (HVP האָט)
@@ -297,7 +297,7 @@
                                                  (ADJ ערשטן)
                                                  (N צענדליק)
                                                  (NP-COM (NS לאַטעס))))))
-                  (PUNC .))) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.17))
+                  (PUNC .))) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.17))
 
 ( (IP-MAT (VBN געשפּילט)
           (HVP האָט)
@@ -321,7 +321,7 @@
                                                 (ADVP *ICH*-2))
                                           (NS יאָר)
                                           (ADVP-2 (ADV אַנערעך)))))))
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.18))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.18))
 
 ( (IP-MAT (ADVP-TMP (ADV איצטער))
           (FP אָבּער)
@@ -330,7 +330,7 @@
           (ADVP-DIAGN-TMP (ADV שױן))
           (NP-SBJ (Q קײנער))
           (NEG ניט)
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.19))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.19))
 
 ( (CODE <page_num:8_text_block_num:1>))
 
@@ -343,7 +343,7 @@
               (NP (NUM צװײ)
                   (ADJ פאַרעטערישע)
                   (NS פײפלעך)))
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.21))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.21))
 
 ( (IP-MAT (NP-SBJ (ONE אײנע)
                   (PUNC -LRB-)
@@ -356,7 +356,7 @@
           (VBN <געװאױרן)
           (NP-OB1 (D די)
                   (N שטים))
-          (PUNC ;)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.22))
+          (PUNC ;)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.22))
 
 ( (IP-MAT (NP-SBJ (PRO זי))
           (HVP האָט)
@@ -364,7 +364,7 @@
           (CODE {COM:ocr_error_nit?})
           (NEG ניס)
           (MDN געקענט)
-          (VB שפּילן)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.23))
+          (VB שפּילן)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.23))
 
 ( (IP-MAT (CONJ און)
           (ADVP (DR+P דערומאַך))
@@ -391,7 +391,7 @@
                                  (VB <הינקען)))
                   (CONJP (CONJ און)
                          (IP-INF (VB שטאַמלען))))
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.24))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.24))
 
 ( (IP-MAT (ADVP-TMP (ADV הײנט))
           (PP (P באַ)
@@ -426,7 +426,7 @@
                           (HVP האָט)
                           (MDN געדאַרפט)
                           (VB *)))
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.25))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.25))
 
 ( (IP-MAT (CONJ און)
           (HVP האָט)
@@ -434,7 +434,7 @@
           (NP-XPR (PRO זיך))
           (FP נאָר)
           (VBN געעפנט)
-          (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.26))
+          (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.26))
 
 ( (IP-MAT (ADVP (ADV אַזױ))
           (HVP האָט)
@@ -458,7 +458,7 @@
                                                    (NP-OB1 (Q אַלע)
                                                            (ADJ איבּעריקע)
                                                            (NS קלאַנגען)))))))
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.27))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.27))
 
 ( (IP-MAT (ADVP (ADVP (ADVR אַזױ)
                       (ADV לאַנג))
@@ -481,7 +481,7 @@
                           (ADVP (ADV אלײן))
                           (NEG ניט)
                           (MD פאַרװעלן)
-                          (VB אופהערן)))) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.28))
+                          (VB אופהערן)))) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.28))
 
 ( (IP-MAT (CONJ און)
           (ADVP-TMP (ADV דענסמאָלט))
@@ -490,7 +490,7 @@
           (VAN אַנשװיגן)
           (CODE {COM:inseparable?})
           (RDN געװאָרן)
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.29))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.29))
 
 ( (IP-MAT (NP-SBJ (D דער)
                   (N זײדע))
@@ -510,7 +510,7 @@
                                   (NP-SBJ (PRO$ זײן)
                                           (N מאַשין))
                                   (VBP פאַרמאָגט)))))
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.30))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.30))
 
 ( (IP-MAT (CONJ און)
           (ADVP-TMP (ADV אַמאָל))
@@ -537,7 +537,7 @@
                                           (PP (P פון)
                                               (NP (ADJ בּאַהאַלטענעם)
                                                   (N צאַאַר)))))))
-          (PUNC :)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.31))
+          (PUNC :)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.31))
 
 ( (CODE <page_num:8_text_block_num:2>))
 
@@ -548,16 +548,16 @@
               (NEG גאָרניט)
               (VB העלפן)
               (PUNC !)
-              (PUNC ..)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.33))
+              (PUNC ..)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.33))
 
 ( (FRAG (NP (D אַ)
             (ADJ פאַרעלטערטער)
             (N אָרגל))
-        (PUNC ...)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.34))
+        (PUNC ...)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.34))
 
 ( (FRAG (NP (D אַ)
             (ADJ צוגעקילטער)
-            (PUNC ...))) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.35))
+            (PUNC ...))) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.35))
 
 ( (IP-MAT-SPE (CP-ADV-SPE (IP-SUB-SPE (VBP הײבּסט>)
                                       (NP-SBJ (PRO <דו))
@@ -574,7 +574,7 @@
               (ADVP (ADV גלײך))
               (NP-PRN-1 (D די)
                         (NS דאַטשניקעס))
-              (PUNC :)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.36))
+              (PUNC :)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.36))
 
 ( (IP-MAT-SPE (PUNC „)
               (INTJ פע)
@@ -605,7 +605,7 @@
 (PUNC ,)
 (CONJP (ADJP (ADV גאַנץ)
 (ADJ מאָדישע))))))
-(PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.37))
+(PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.37))
 
 ( (IP-IMP (CONJ אָבּער)
 (VBI גײ)
@@ -623,7 +623,7 @@
 (PP (P מיט)
 (NP (PRO$ אונזער)
 (N מוזיק)))))
-(PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.38))
+(PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.38))
 
 ( (IP-IMP (NP-OB2 (PRO זײ))
 (VBI דערלאַנג)
@@ -647,7 +647,7 @@
 (PUNC „)
 (TTL (N פױגל־פאַרקױפער)))))))
 (PUNC “)
-(PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.39))
+(PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.39))
 
 ( (FRAG (CONJ און)
 (ADVP (ADV טאַקע))
@@ -658,7 +658,7 @@
 (ADJ שלימאַזלדיקע)
 (NUM צװײ)
 (NS פײפלעך))
-(PUNC ...)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.40))
+(PUNC ...)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.40))
 
 ( (IP-MAT (NP-SBJ (PRO איך))
 (HVP האָבּ)
@@ -672,7 +672,7 @@
 (PP-PRN-1 (P מיט>)
 (NP (D <ן)
 (N אָרגל)))
-(PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.41))
+(PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.41))
 
 ( (IP-MAT (PP (P צו>)
 (NP (D <ם)
@@ -688,7 +688,7 @@
 (ADVP-DIR (ADV אַרײן))
 (NEG ניט)
 (VB נעמען)
-(PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.42))
+(PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.42))
 
 ( (IP-MAT-SPE (PUNC „)
 (NP-SBJ (MAN מע))
@@ -702,7 +702,7 @@
 (VB <שטעלן)
 (NP-OB1 (ADJ נײע)
 (NS פײפלעך))
-(PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.43))
+(PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.43))
 
 ( (IP-IMP-SPE (CONJ און)
 (CP-ADV-SPE (C װען)
@@ -745,7 +745,7 @@
 (ADJ אַלטער)
 (N דײנקמאָל)))
 (PUNC ...)
-(PUNC “)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.44))
+(PUNC “)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.44))
 
 ( (IP-MAT (INTJ נו)
 (PUNC ,)
@@ -758,7 +758,7 @@
 (ADJ גוטער)
 (N יאָר))
 (PUNC .)
-(CODE {COM:something_idiomatic_for_enough_is_enough?})) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.45))
+(CODE {COM:something_idiomatic_for_enough_is_enough?})) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.45))
 
 ( (IP-MAT (CP-QUE-MAT-PRN (IP-SUB (VBP הערסט>)
 (NP-SBJ (PRO <דו))
@@ -772,7 +772,7 @@
 (CODE {COM:German_gespeist})
 (PP (P בּיז)
 (ADVP (ADV איצט)))
-(PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.46))
+(PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.46))
 
 ( (IP-MAT (CONJ און)
 (NP-SBJ *con*)
@@ -782,7 +782,7 @@
 (VB שפײזן)
 (NP-MSR (D אַ@)
 (N @בּיסל))
-(PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.47))
+(PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.47))
 
 ( (CODE <page_num:9_text_block_num:0>))
 
@@ -819,7 +819,7 @@
 (PUNC ,)
 (NP-DBL (D אַן)
 (ADJ אײגענעם))))))))
-(PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.49))
+(PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.49))
 
 ( (CODE <page_num:9_text_block_num:1>))
 
@@ -863,7 +863,7 @@
 (NP (D דעם)
 (ADJ קלײנינקן)
 (NPR-D סערגײען)))))
-(PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.51))
+(PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.51))
 
 ( (IP-MAT (NP-OB1 (D דעם)
 (N אינגעלע))
@@ -885,7 +885,7 @@
 (N שוסטער))
 (NP-PRN (D אַן)
 (N אַלמען))))
-(PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.52))
+(PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.52))
 
 ( (IP-MAT (NP-SBJ (D דער)
 (ADJ אַלטער))
@@ -903,7 +903,7 @@
 (N רובּל))
 (NP-MSR (Q יעדער)
 (N כױדעש)))
-(PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.53))
+(PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.53))
 
 ( (IP-MAT (CONJ אָבּער)
 (NP-SBJ (D דער)
@@ -912,7 +912,7 @@
 (ADVP-TMP (ADV אינגיכן))
 (ADVP (ADV אַװעק>))
 (VBN <געשטאָרבּן)
-(PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.54))
+(PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.54))
 
 ( (IP-MAT (CONJ און)
 (NP-SBJ (NPR סערגײ))
@@ -936,7 +936,7 @@
 (ADJ קלײנע)
 (ADJ טאָגטעגלעכע)
 (NS לעבּנס־בּאַדערפענישן))))))
-(PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.55))
+(PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.55))
 
 ( (CODE <page_num:9_text_block_num:2>))
 
@@ -965,7 +965,7 @@
 (NP (D די)
 (ADJ הונדערטיעריקע)
 (NS אײלבּערט־בּײמער)))))))
-(PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.59))
+(PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.59))
 
 ( (IP-MAT (NP-SBJ (D דער)
 (N יאַם))
@@ -977,7 +977,7 @@
 (PP (P פון)
 (PP (P צװישן)
 (NP (D די)
-(NS בּײמער))))) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.60))
+(NS בּײמער))))) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.60))
 
 ( (IP-MAT (CONJ און)
 (ADVP-TMP (ADV דענסטמאָלט))
@@ -1016,7 +1016,7 @@
 (ADJ רואיקער)
 (ADJ ריזיקער)
 (N װאַנט)))))
-(PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.61))
+(PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.61))
 
 ( (IP-MAT (CONJ און)
 (NP-SBJ (PRO$ זײן)
@@ -1031,7 +1031,7 @@
 (NP (D די)
 (ADJ בּאזילבּערט־גרינע)
 (NS בלעטער))))
-(PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.62))
+(PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.62))
 
 ( (CODE <page_num:10_text_block_num:0>))
 
@@ -1063,7 +1063,7 @@
 (VBN פארגאנגן)
 (NP-SBJ (D די)
 (NS ציקאַדעס))
-(PUNC ;)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.64))
+(PUNC ;)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.64))
 
 ( (IP-MAT (NP-SBJ (D די)
 (N לופט))
@@ -1077,7 +1077,7 @@
 (CONJ און)
 (ADJ אומופהערלעכן))
 (N געשרײ)))
-(PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.65))
+(PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.65))
 
 ( (IP-MAT (NP-SBJ (D דער)
 (N טאָג))
@@ -1094,7 +1094,7 @@
 (PP (P אָן)
 (NP (D דעם)
 (ADJS מינדסטן)
-(N װינטל)))) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.66))
+(N װינטל)))) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.66))
 
 ( (IP-MAT (CONJ און)
 (NP-SBJ (D די)
@@ -1107,7 +1107,7 @@
 (PP (P פון)
 (NP (D די)
 (NS פיס))))
-(PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.67))
+(PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.67))
 
 ( (CODE <page_num:10_text_block_num:1>))
 
@@ -1143,7 +1143,7 @@
 (NP (PRO אים)))
 (RP אױס>)
 (VB <גלײכן)))))
-(PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.69))
+(PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.69))
 
 ( (CODE <page_num:10_text_block_num:2>))
 
@@ -1159,7 +1159,7 @@
 (VBP פרעגט)
 (NP-SBJ (D דער)
 (N קאַטערינשטשיק))
-(PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.71))
+(PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.71))
 
 ( (CODE <page_num:10_text_block_num:3>))
 
@@ -1179,7 +1179,7 @@
                           (TO <צו>)
                           (VB <טראָגן))
               (PUNC !)
-              (PUNC ..)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.73))
+              (PUNC ..)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.73))
 
 ( (QTP (ADVP (ADV עפשער))
        (NP-RFL (PRO זיך))
@@ -1189,7 +1189,7 @@
        (CP-QUE-TAG (CONJ אָדער)
                    (WNP (WPRO װאָס)))
        (PUNC ?)
-       (PUNC ..)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.74))
+       (PUNC ..)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.74))
 
 ( (CODE <page_num:10_text_block_num:4>))
 
@@ -1222,7 +1222,7 @@
                            (NP-OB1 (D דעם)
                                    (ADJ פארשװיצטן)
                                    (N פּאָנעם))))
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.76))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.76))
 
 ( (CODE <page_num:10_text_block_num:5>))
 
@@ -1239,7 +1239,7 @@
           (NP-SBJ (PRO ער))
           (RP אָפּ>)
           (VBN <געאַטעמט)
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.78))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.78))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ *con*)
@@ -1258,7 +1258,7 @@
                           (NP (D @ס)
                               (CODE {COM:OCR_error-_m})
                               (N יאַם))))))
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.79))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.79))
 
 ( (IP-MAT-SPE (PUNC —@)
               (ADVP (QR @מער)
@@ -1272,7 +1272,7 @@
               (NP-XPR (PRO דיך))
               (ADVP (ADVR ערגער))
               (VB צעקאָכן)
-              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.80))
+              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.80))
 
 ( (IP-MAT-SPE (NP-OB2 (PRO מיר))
               (HVP האָס)
@@ -1297,7 +1297,7 @@
                           (PP (P אַפ>)
                               (NP (D <ן)
                                   (N-D מענטשן))))
-              (PUNC ...)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.81))
+              (PUNC ...)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.81))
 
 ( (IP-MAT-SPE (NP-OB1 (D דאָס))
               (MDP דאַרף)
@@ -1320,7 +1320,7 @@
                                                      (PP (P פון)
                                                          (NP (N יאַם))))))
               (ADVP (ADVR אַזױ))
-              (PUNC ...)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.82))
+              (PUNC ...)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.82))
 
 ( (CODE <page_num:10_text_block_num:6>))
 
@@ -1338,7 +1338,7 @@
           (ADJP-SPR (NEG ניט)
                     (ADJ זיכער))
           (VBN בּאמערקט)
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.84))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.84))
 
 ( (CODE <page_num:10_text_block_num:7>))
 
@@ -1351,7 +1351,7 @@
                   (VBN געדרײט)
                   (NP-OB1 (D אַ)
                           (N ליגן))
-                  (PUNC !)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.86))
+                  (PUNC !)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.86))
 
 ( (CP-QUE-MAT-SPE (WPP-1 (P צו)
                          (WNP (WPRO װאָס)))
@@ -1361,7 +1361,7 @@
                               (NP-MSR (Q עפּעס))
                               (VB דרײען)
                               (NP-OB1 (NS ליגונים))
-                              (PUNC ?))) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.87))
+                              (PUNC ?))) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.87))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO ער))
               (HVP האָט)
@@ -1371,7 +1371,7 @@
                               (ADJ אײגענע)))
               (PP (P אין)
                   (NP (NPR סעװאסטאָפּאָל)))
-              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.88))
+              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.88))
 
 ( (IP-MAT-SPE (CONJ און)
               (ADVP (ADV װײטער))
@@ -1392,11 +1392,11 @@
                                             (PP (P צו>)
                                                 (NP (D <ם)
                                                     (N יאַם))))))
-              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.89))
+              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.89))
 
 ( (IP-IMP-SPE (VBI װאַרט)
               (RP אױס)
-              (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.90))
+              (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.90))
 
 ( (IP-IMP-SPE (VBI לאָ>)
               (IP-INF-SPE (NP-SBJ (PRO <מיר))
@@ -1406,7 +1406,7 @@
                           (VB פארגײן)
                           (PP (P קײן)
                               (NP (NPR מיסכאָר))))
-              (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.91))
+              (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.91))
 
 ( (IP-MAT-SPE (ADVP-LOC (ADV דאָרט))
               (MDP װעלן)
@@ -1419,7 +1419,7 @@
               (NP-OB1 (PRO$ אונזערע)
                       (ADJ זינדיקע)
                       (NS לײבּער))
-              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.92))
+              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.92))
 
 ( (IP-MAT-SPE (IP-MAT-SPE-1 (PP (P פאַר)
                                 (NP (N מיטאָג)))
@@ -1444,14 +1444,14 @@
                                    (IP-INF-SPE (VB כאַפּן)
                                                (NP-OB1 (D אַ)
                                                        (N דרעמל)))))
-              (PUNC ...)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.93))
+              (PUNC ...)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.93))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ (ES סע))
           (VBP גײט)
           (NP-LGS (D א)
                   (N געשעפט))
-          (PUNC ...)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.94))
+          (PUNC ...)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.94))
 
 ( (CODE <page_num:11_text_block_num:0>))
 
@@ -1471,7 +1471,7 @@
                            (PP (P צו)
                                (NP (D די)
                                    (NS מענטשן)))))
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.96))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.96))
 
 ( (IP-MAT (NP-SBJ (PRO$ זײנע)
                   (ADJP (ADJ גוטע)
@@ -1483,14 +1483,14 @@
           (VBN געזשמורעט)
           (PP (P פון)
               (NP (D דער)
-                  (N היץ)))) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.97))
+                  (N היץ)))) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.97))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ *con*)
           (HVP האָבּן)
           (ADVP (RP-ADJ ליבּ))
           (VBN געקוקט)
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.98))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.98))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ (D דער)
@@ -1506,7 +1506,7 @@
                   (ADJP (ADJ גיכן)
                         (ADJ אָפטן))
                   (N אָטעם)))
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.99))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.99))
 
 ( (CODE <page_num:11_text_block_num:1>))
 
@@ -1520,7 +1520,7 @@
           (NP-OB2 (PRO אים))
           (NP-SBJ (D דער)
                   (ADJ אַלטער))
-          (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.101))
+          (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.101))
 
 ( (IP-MAT-SPE (PUNC —@)
               (NP-SBJ (ES @סע))
@@ -1529,7 +1529,7 @@
               (ADJP (ADJ װאַרעם))
               (PUNC ,)
               (INTJ האַ)
-              (PUNC ?)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.102))
+              (PUNC ?)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.102))
 
 ( (CODE <page_num:11_text_block_num:2>))
 
@@ -1540,7 +1540,7 @@
                   (ADJ אָנגעצױגענעם)
                   (N גענעץ))
           (DON געטון)
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.104))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.104))
 
 ( (IP-MAT (NP-SBJ (D דער)
                   (N צונג))
@@ -1554,7 +1554,7 @@
           (PP (P אין)
               (NP (D א)
                   (N פײפל)))
-          (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.105))
+          (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.105))
 
 ( (IP-MAT (IP-MAT-1 (PP (DR+P דערנאָך))
                     (HVP האָט)
@@ -1572,7 +1572,7 @@
                                    (ADJ דינעם)
                                    (N װישטשע))
                            (DON געטוּן)))
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.106))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.106))
 
 ( (CODE <page_num:11_text_block_num:3>))
 
@@ -1590,7 +1590,7 @@
               (NP-1 (Q קײן)
                     (OTHER אנדער)
                     (N בּרײרע))
-              (PUNC ...)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.108))
+              (PUNC ...)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.108))
 
 ( (IP-MAT-SPE (ADVP (ADV אזױ))
               (VBP שטײט)
@@ -1632,13 +1632,13 @@
                                                  (FP נאָר)
                                                  (NP (D אַ)
                                                      (N מאָרדע)))))
-              (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.109))
+              (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.109))
 
 ( (QTP (CONJ אָבּער)
        (ADVP-DIAGN (ADV דאָך))
        (PUNC ,)
        (ADVP (ADV פונדעסטװעגן))
-       (PUNC ...)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.110))
+       (PUNC ...)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.110))
 
 ( (IP-MAT-SPE (INTJ נו)
               (PUNC ,)
@@ -1655,7 +1655,7 @@
               (PUNC ,)
               (CONJP (IP-MAT-SPE=1 (NEG ניט>)
                                    (ADVP (ADV <אָ))
-                                   (ADVP-LOC (ADV דאָ))))) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.111))
+                                   (ADVP-LOC (ADV דאָ))))) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.111))
 
 ( (CP-EXL-SPE (WNP-1 (WPRO װאס))
               (IP-INF-SPE (NP-ADV *T*-1)
@@ -1665,7 +1665,7 @@
                           (PP (P אונטער)
                               (NP (D די)
                                   (NS פיס))))
-              (PUNC ...)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.112))
+              (PUNC ...)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.112))
 
 ( (IP-MAT-SPE (CONJ און)
               (NP-SBJ (PRO איך))
@@ -1687,7 +1687,7 @@
                                       (ADJP (ADVP (ADV אַזאַ)
                                                   (ADV ליבּע))
                                             (ADJ װאַרעם))))
-              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.113))
+              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.113))
 
 ( (IP-MAT-SPE (NP-SBJ (FP אָס)
                       (CODE {COM:OCR_error-_ot})
@@ -1696,7 +1696,7 @@
                       (N אָרגל)
                       (FP נאָר))
               (VBP שטערט)
-              (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.114))
+              (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.114))
 
 ( (IP-MAT-SPE (CONJ און)
               (ADVP (ADV אזױ)
@@ -1736,14 +1736,14 @@
                               (IP-MAT-SPE-PRN (VBP הײסט)
                                               (NP-SBJ (PRO עס)))
                               (PUNC ,)
-                              (ADVP-DIR (ADV ארוף))))) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.115))
+                              (ADVP-DIR (ADV ארוף))))) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.115))
 
 ( (IP-MAT-SPE (CONJ און)
               (VBP לײג)
               (NP-SBJ *con*)
               (NP-RFL (PRO זיך))
               (RP אױס)
-              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.116))
+              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.116))
 
 ( (IP-MAT-SPE (PP (P פאַר)
                   (NP (PRO$ אונזערע)
@@ -1786,7 +1786,7 @@
                                          (CONJP (CONJ און)
                                                 (ADJP (ADJ בּלענד־װײסן))))
                                    (N װעג)))))
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.118))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.118))
 
 ( (IP-MAT (ADVP-LOC (ADV דא))
           (HVP האָט)
@@ -1817,7 +1817,7 @@
                                           (CONJP (NX (NS אראנזשערײעס)))
                                           (CONJP (CONJ און)
                                                  (NX (NS פאנטאנען)))))))
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.119))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.119))
 
 ( (IP-MAT (NP-XPR (NPR-D לאָדיזשקינען))
           (BEP זײנען)
@@ -1828,7 +1828,7 @@
           (BEN געװען)
           (ADJP (Q גענוג)
                 (ADJ בּאקאנט))
-          (PUNC ;)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.120))
+          (PUNC ;)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.120))
 
 ( (IP-MAT (NP-TMP (Q יעדער)
                   (N יאָר))
@@ -1867,7 +1867,7 @@
                                         (CONJ און)
                                         (ADJ פרײלעכן))
                                   (N אױלעם)))))
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.121))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.121))
 
 ( (CODE <page_num:12_text_block_num:0>))
 
@@ -1886,7 +1886,7 @@
                       (WPRO װאס)))
           (RP אָנ>)
           (VBN <גערירט)
-          (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.123))
+          (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.123))
 
 ( (IP-MAT (CONJ אָבּער)
           (PP (DR+P דערפאַר))
@@ -1912,7 +1912,7 @@
                                           (ADJ ערשן)
                                           (CODE {COM:ershtn})
                                           (N מאָל)))))))
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.124))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.124))
 
 ( (FRAG (NP (NP (D די)
                 (NS מאגנאָליעס)
@@ -1979,7 +1979,7 @@
             (CONJP (CONJ און)
                    (NP (D די)
                        (NS װאסער־פאַלן))))
-        (PUNC ;)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.125))
+        (PUNC ;)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.125))
 
 ( (IP-MAT (CONJ און)
           (ADVP-LOC (ADV אומעטום@)
@@ -2003,7 +2003,7 @@
           (NP-SBJ (ADJP (ADJ גרױסאַרטיקע)
                         (ADJ שמעקעדיקע))
                   (NS רױזן))
-          (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.126))
+          (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.126))
 
 ( (IP-MAT (PUNC —@)
           (NP-SBJ (F @אָט)
@@ -2021,7 +2021,7 @@
           (PP (P אפ>)
               (NP (D <ן)
                   (N אינגל)))
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.127))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.127))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (HVP האָט)
@@ -2042,7 +2042,7 @@
                   (PP (P פאר>)
                       (NP (D <ן)
                           (N ארבּל))))
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.128))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.128))
 
 ( (CODE <page_num:12_text_block_num:1>))
 
@@ -2059,7 +2059,7 @@
               (ADVP (ADVR גיכער))
               (NP-OB1 (D א)
                       (N קוק))
-              (PUNC :)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.130))
+              (PUNC :)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.130))
 
 ( (IP-MAT-SPE (ADVP-LOC (ADV אָט־אָ)
                         (PP (P אין)
@@ -2069,7 +2069,7 @@
               (NP-1 (ADJ גאלדענע)
                     (NS פישעלעך))
               (PUNC !)
-              (PUNC ..)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.131))
+              (PUNC ..)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.131))
 
 ( (IP-MAT-SPE (MDP זאָל)
               (NP-SBJ (PRO איך))
@@ -2083,7 +2083,7 @@
                             (C אז)
                             (IP-SUB-SPE (ADVP *T*-2)
                                         (NP-SBJ (ADJ גאָלדענע))))
-              (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.132))
+              (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.132))
 
 ( (IP-MAT (IP-MAT-1 (IP-IMP-SPE (VBI לאָ>)
                                 (IP-INF-SPE (NP-SBJ (PRO <מיך))
@@ -2129,7 +2129,7 @@
                                                                        (PP (P אינ@)
                                                                            (NP (D @דער@)
                                                                                (N @מיט))))))))))))
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.133))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.133))
 
 ( (IP-IMP-SPE (NP-VOC (N זײדעשי))
               (PUNC ,)
@@ -2137,7 +2137,7 @@
               (FP נאָר)
               (CP-QUE-SUB (WNP-X (WD סאַראַ)
                                  (NS פערשקעס)))
-              (PUNC !)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.134))
+              (PUNC !)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.134))
 
 ( (QTP (INTJ אָנ־אָ)
        (PUNC ,)
@@ -2147,19 +2147,19 @@
        (PP (P אף)
            (NP (ONE אײן)
                (N בּױם)))
-       (PUNC !)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.135))
+       (PUNC !)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.135))
 
 ( (CODE <page_num:12_text_block_num:2>))
 
 ( (IP-IMP-SPE (PUNC —)
               (VBI גײ)
               (ADVP-DIAGN-TMP (ADV שױן))
-              (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.137))
+              (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.137))
 
 ( (IP-IMP-SPE (VBI גײ)
               (PUNC ,)
               (NP-VOC (N נאַרעלע))
-              (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.138))
+              (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.138))
 
 ( (IP-MAT (CP-QUE-MAT-SPE (WNP-1 (WPRO װאָס))
                           (IP-SUB-SPE (NP-ADV *T*-1)
@@ -2180,13 +2180,13 @@
                   (N שפּאס)))
           (RP אונטער>)
           (VBN <געשטופּט)
-          (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.139))
+          (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.139))
 
 ( (IP-IMP-SPE (PUNC —@)
               (VBI @װארט)
               (FP נאָר)
               (RP אױס)
-              (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.140))
+              (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.140))
 
 ( (IP-MAT-SPE (FP אָט)
               (MDP װעלן)
@@ -2195,7 +2195,7 @@
               (PP (P קײן)
                   (NP (NPR נאָװאָראָסיסק)
                       (NP-PRN (D דער)
-                              (N שטאָט))))) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.141))
+                              (N שטאָט))))) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.141))
 
 ( (IP-MAT-SPE (CONJ און)
               (PUNC ,)
@@ -2209,7 +2209,7 @@
               (VB <לאָזן)
               (PP (ADVR טיפער)
                   (PP (P אין)
-                      (NP (N דאָרעם))))) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.142))
+                      (NP (N דאָרעם))))) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.142))
 
 ( (PUNC .))
 
@@ -2230,7 +2230,7 @@
                                                                         (N קוק))
                                                                 (TO צו)
                                                                 (DO טוּן)))))
-                (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.144))
+                (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.144))
 
 ( (CODE <page_num:13_text_block_num:0>))
 
@@ -2261,7 +2261,7 @@
                       (PUNC ,)
                       (CONJP (NP (NPR בּאַסום)
                                  (CODE {COM:OCR_error_Batum}))))
-              (PUNC ...)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.146))
+              (PUNC ...)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.146))
 
 ( (IP-MAT-SPE (NP-SBJ (D די)
                       (NS אױגן))
@@ -2275,7 +2275,7 @@
                   (P פון)
                   (NP (ONE אײן)
                       (N-D קוקן)))
-              (PUNC ...)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.147))
+              (PUNC ...)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.147))
 
 ( (IP-IMP-SPE (IP-PPL-SPE (PP (P צו>)
                               (NP (D <ם)
@@ -2293,7 +2293,7 @@
                                           (PP (P אין)
                                               (NP (D דער)
                                                   (N װעלט))))))
-              (PUNC !)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.148))
+              (PUNC !)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.148))
 
 ( (IP-MAT-SPE (NP-SBJ (D דער)
                       (N שטאם))
@@ -2310,7 +2310,7 @@
                                                       (N שטיק)
                                                       (NP-COM (N פּילץ)
                                                               (CODE {COM:OCR_error_filts}))))))
-              (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.149))
+              (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.149))
 
 ( (IP-MAT-SPE (CONJ און)
               (NP-SBJ (Q יעדער)
@@ -2345,7 +2345,7 @@
                                             (PP (P אין)
                                                 (NP (PRO אים)))
                                             (VB בּאהאַלטן))))
-              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.150))
+              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.150))
 
 ( (CODE <page_num:13_text_block_num:1>))
 
@@ -2367,14 +2367,14 @@
 ( (IP-IMP-SPE (PUNC —)
               (VBI האַר)
               (RP אױס)
-              (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.154))
+              (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.154))
 
 ( (IP-MAT-SPE (RDP װעסט)
               (NP-SBJ *pro*)
               (ADVP-DIAGN-TMP (ADV שױן))
               (ADVP (ADV אלײן))
               (VB זען)
-              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.155))
+              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.155))
 
 ( (QTP (NP-PRN (D אַ)
                (N מאַלע)
@@ -2388,7 +2388,7 @@
                                        (ADVP-LOC (ADV דאָרט))
                                        (RP אָנ>)
                                        (VB <זען))))
-       (PUNC ?)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.156))
+       (PUNC ?)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.156))
 
 ( (IP-MAT-SPE (NP-LFD (NP (D דער)
                           (N מאראַנץ)
@@ -2415,13 +2415,13 @@
                   (NP (NS קלײטעלע)))
               (PUNC ,)
               (INTJ האַ)
-              (PUNC ?)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.157))
+              (PUNC ?)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.157))
 
 ( (CODE <page_num:13_text_block_num:3>))
 
 ( (QTP (PUNC —)
        (INTJ נו)
-       (PUNC ?)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.159))
+       (PUNC ?)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.159))
 
 ( (CODE <page_num:13_text_block_num:4>))
 
@@ -2430,7 +2430,7 @@
        (PUNC ,)
        (ADVP (ADVR אַזױ))
        (NP-RFL (PRO זיך))
-       (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.161))
+       (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.161))
 
 ( (IP-MAT-SPE (CONJ און)
               (NP-SBJ (PRO ס’>))
@@ -2464,7 +2464,7 @@
                                                     (CONJP (CONJ אָדער)
                                                            (NP (D אַ)
                                                                (N בּאַר)))))))
-              (PUNC ...)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.162))
+              (PUNC ...)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.162))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ (D דאָס)
@@ -2499,7 +2499,7 @@
           (NP-PRN (D אַ)
                   (ADJ מעסוקן)
                   (N פאָלקל))
-          (PUNC !)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.163))
+          (PUNC !)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.163))
 
 ( (IP-MAT (CONJ און)
           (CP-ADV (C אױבּ)
@@ -2514,7 +2514,7 @@
           (NP-SBJ (D די)
                   (NS עפיאָפן)
                   (CODE {COM:עטיאָפּן}))
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.164))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.164))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO איך))
               (HVP האָבּ)
@@ -2524,13 +2524,13 @@
               (NP-TMP (Q אַסאַך)
                       (N מאָל))
               (VBN געזען)
-              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.165))
+              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.165))
 
 ( (CODE <page_num:13_text_block_num:5>))
 
 ( (QTP (PUNC —)
        (NP-X (NS עפיאָפּן))
-       (PUNC ?)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.167))
+       (PUNC ?)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.167))
 
 ( (IP-MAT (IP-MAT-SPE (NP-SBJ (PRO איך))
                       (VBP װײס)
@@ -2551,7 +2551,7 @@
           (NP-SBJ (NPR סערגײ))
           (PP (P מיט)
               (NP (N זיכערקײט)))
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.168))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.168))
 
 ( (CODE <page_num:13_text_block_num:6>))
 
@@ -2570,12 +2570,12 @@
                   (NP (PRO זײ)))
               (NEG ניט>)
               (ADVP (ADV <אָ))
-              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.170))
+              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.170))
 
 ( (IP-MAT (NP-SBJ (D דאָס))
           (BEP איז)
           (NP-PRD (N שעקער))
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.171))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.171))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO זײ))
               (BEP זײנען)
@@ -2588,13 +2588,13 @@
                                             (NP-SBJ (FP אָט)
                                                     (D דער)
                                                     (N שטיװל)))))
-              (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.172))
+              (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.172))
 
 ( (IP-MAT-SPE (CONJ און)
               (NP-SBJ (PRO זײ))
               (VBP גלאַנצן)
               (FP אַפילע)
-              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.173))
+              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.173))
 
 ( (IP-MAT-SPE (IP-MAT-SPE-1 (NP-SBJ (NS ליפּאָנעס))
                             (BEP זײנען)
@@ -2623,7 +2623,7 @@
                                                                  (PP-PRN (P צו>)
                                                                          (NP (D <ם)
                                                                              (N בּײשפּיל))))))))
-              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.174))
+              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.174))
 
 ( (CODE <page_num:13_text_block_num:7>))
 
@@ -2636,7 +2636,7 @@
               (NP-SBJ (FP אָט־אָ)
                       (D די)
                       (NS עפיאָפּן))
-              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.176))
+              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.176))
 
 ( (CODE <page_num:13_text_block_num:8>))
 
@@ -2647,7 +2647,7 @@
                               (NP-SBJ (PRO איך))
                               (NP-OB2 (PRO דיר))
                               (VB זאָגן))
-                  (PUNC ?)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.178))
+                  (PUNC ?)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.178))
 
 ( (IP-MAT-SPE (PP (P פון)
                   (NP (NEG ניט)
@@ -2656,7 +2656,7 @@
               (NP-SBJ (PRO עס))
               (ADVP (ADV טאַקע))
               (ADVP (ADV פּונקט))
-              (PUNC ...)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.179))
+              (PUNC ...)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.179))
 
 ( (IP-MAT-SPE (NP-SBJ *pro*)
               (VBP רוקסט)
@@ -2666,7 +2666,7 @@
               (RP אָפּ)
               (PP (P פון)
                   (NP (PRO זײ)))
-              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.180))
+              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.180))
 
 ( (IP-MAT-SPE (INTJ נו)
               (PUNC ,)
@@ -2686,7 +2686,7 @@
                                       (NEG ניט)
                                       (NP-OB1 (Q קײן)
                                               (N מױרע))))
-              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.181))
+              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.181))
 
 ( (IP-MAT-SPE (RDP װערסט>)
               (NP-SBJ (PRO <דו))
@@ -2694,7 +2694,7 @@
               (ADVP (ADV אַלײן))
               (ADVP (ADV אױך))
               (ADJP (ADJR דרײסטער))
-              (PUNC ...)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.182))
+              (PUNC ...)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.182))
 
 ( (IP-MAT-SPE (ADVP (ADV בּעקיצער))
               (PUNC ,)
@@ -2715,26 +2715,26 @@
                   (NP (N (N21 פױגל)
                          (N22 מילך)
                          (CODE {COM:dainties}))))
-              (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.183))
+              (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.183))
 
 ( (IP-MAT-SPE (ADVP (ADV טאָמער))
               (VBP װילסט>)
               (NP-SBJ (PRO <דו))
-              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.184))
+              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.184))
 
 ( (IP-MAT-SPE (INTJ מײלע)
               (PUNC ,)
               (NP-SBJ (PRO מיר))
               (MDP װעלן)
               (VB קומען@)
-              (PUNC @—@)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.185))
+              (PUNC @—@)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.185))
 
 ( (IP-MAT-SPE (MDP @װעס@)
               (NP-SBJ (PRO @טו))
               (ADVP-DIAGN-TMP (ADV שױן))
               (ADVP (ADV אַלײן))
               (VB זען)
-              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.186))
+              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.186))
 
 ( (IP-MAT-SPE (NP-SBJ (ONE אײנס)
                       (NP-PRN *ICH*-1))
@@ -2761,7 +2761,7 @@
                                                                (N היץ)
                                                                (NP-PRN (D אַ)
                                                                        (ADJ היציקע))))))))
-              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.187))
+              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.187))
 
 ( (IP-MAT-SPE (NP-LFD (D די)
                       (ADJ דאָרטיקע)
@@ -2777,14 +2777,14 @@
               (NEG ניט)
               (NP-OB1 (Q קײן)
                       (N מױרע))
-              (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.188))
+              (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.188))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO ס’>))
               (VBP <װירקט)
               (NEG ניט)
               (PP (P אַף)
                   (NP (PRO זײ)))
-              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.189))
+              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.189))
 
 ( (IP-MAT-SPE (CONJ אָבּער)
               (NP-SBJ (D אַ)
@@ -2793,7 +2793,7 @@
               (PUNC @־@)
               (VBP @שײנט)
               (RP אָפּ)
-              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.190))
+              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.190))
 
 ( (QTP (ADVP (ADV בּעקיצער))
        (PUNC ,)
@@ -2810,7 +2810,7 @@
                    (PP (P מיט)
                        (NP (D די)
                            (NS צינגער))))
-       (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.191))
+       (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.191))
 
 ( (IP-IMP-SPE (VBI קריך)
               (FP נאָר)
@@ -2822,7 +2822,7 @@
               (PP (ADV אַהער)
                   (PP (P אין)
                       (NP (N הױף־טירל))))
-              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.192))
+              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.192))
 
 ( (IP-MAT-SPE (ADVP-LOC (FP אָט)
                         (ADV דאָ)
@@ -2833,7 +2833,7 @@
               (NP-SBJ (ADJP (ADV זײער)
                             (ADJ װאױלע))
                       (NS פריצים))
-              (PUNC ...)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.193))
+              (PUNC ...)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.193))
 
 ( (IP-MAT-SPE (IP-MAT-SPE-PRN (NP-SBJ (PRO דו))
                               (VBP פרעג)
@@ -2851,7 +2851,7 @@
                                                   (N קער))
                                           (TO צו)
                                           (DO טון)))
-              (PUNC !)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.194))
+              (PUNC !)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.194))
 
 ( (CODE <page_num:14_text_block_num:0>))
 
@@ -2866,7 +2866,7 @@
           (ADVP (ADV איבעריקס))
           (RP אײנ>)
           (VBN <געגעבּן)
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.196))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.196))
 
 ( (IP-MAT (PP (P פון)
               (NP (OTHER אנדערע)
@@ -2884,7 +2884,7 @@
                                 (HVP <האָט)
                                 (NP-OB1 (PRO זײ))
                                 (VBN דערזען))))
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.197))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.197))
 
 ( (IP-MAT (PP (P אין)
               (NP (Q אײניקע)))
@@ -2931,7 +2931,7 @@
                                             (ADVP (ADVR גיכער))
                                             (ADVP-DIR (ADV אַװעק>))
                                             (VB <גײן))))
-          (PUNC ;)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.198))
+          (PUNC ;)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.198))
 
 ( (IP-MAT (PP (ADV גאָר)
               (P אין)
@@ -2951,7 +2951,7 @@
                           (ADVP-DIR (ADV ארײנ>))
                           (VBN <געפאָרן)))
           (PUNC .)
-          (PUNC “)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.199))
+          (PUNC “)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.199))
 
 ( (IP-MAT (IP-MAT-1 (PP (P אין)
                         (NP (NUM צװײ)
@@ -3014,7 +3014,7 @@
                                   (BEP *)
                                   (PP (P אין)
                                       (NP (N קעשענע))))))
-          (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.200))
+          (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.200))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ *con*)
@@ -3022,7 +3022,7 @@
           (NP-RFL (PRO זיך))
           (ADVP (ADV גוטמוטיק))
           (ADVP-DIR (ADV ארױס))
-          (PUNC :)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.201))
+          (PUNC :)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.201))
 
 ( (CODE <page_num:14_text_block_num:1>))
 
@@ -3035,7 +3035,7 @@
               (NP-SBJ (PRO מיר))
               (NP-OB1 (NUM 7)
                       (NS קאָפּיקעס))
-              (PUNC ...)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.203))
+              (PUNC ...)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.203))
 
 ( (IP-MAT-SPE (INTJP (WADVP (WADV װי))
                      (ADVP-DIAGN (ADV דען)))
@@ -3048,7 +3048,7 @@
               (BEP איז)
               (ADVP (ADV אױך))
               (NP-PRD (N געלט))
-              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.204))
+              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.204))
 
 ( (IP-MAT-SPE (NP-MSR (NUMP (NP-MSR (NUM זיבּן)
                                     (N מאָל))
@@ -3082,7 +3082,7 @@
                                                            (MDP װעט)
                                                            (NP-SBJ-2 *exp*)
                                                            (BE זײן)))))
-              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.205))
+              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.205))
 
 ( (IP-MAT-SPE (CONJ און)
               (NP-SBJ (D דער)
@@ -3113,7 +3113,7 @@
               (PUNC ,)
               (IP-MAT-SPE-PRN (VBP הײסט)
                               (NP-SBJ (PRO עס)))
-              (PUNC ...)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.206))
+              (PUNC ...)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.206))
 
 ( (IP-MAT (INTJ עך)
           (PUNC ,)
@@ -3125,7 +3125,7 @@
           (PUNC ,)
           (NP-PRN-1 (D די)
                     (NS פּריצים))
-          (PUNC !)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.207))
+          (PUNC !)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.207))
 
 ( (IP-MAT-SPE (IP-INF-SPE-1 (NP-OB1 (D אַ)
                                     (N פערציקער))
@@ -3135,7 +3135,7 @@
               (NP-XPR (PRO אים))
               (NP-PRD (D אַ)
                       (N שאָד))
-              (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.208))
+              (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.208))
 
 ( (IP-MAT-SPE (CONJ און)
               (NP-1 (D אַ)
@@ -3146,7 +3146,7 @@
               (NP-XPR *pro*)
               (NP-PRD (D אַ)
                       (N כאַרפּע))
-              (PUNC ...)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.209))
+              (PUNC ...)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.209))
 
 ( (IP-MAT-SPE (INTJ נו)
               (PUNC ,)
@@ -3160,7 +3160,7 @@
               (VB נעמען)
               (NP-OB1 (D דעם)
                       (N װעג))
-              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.210))
+              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.210))
 
 ( (IP-MAT-SPE (CONJ און)
               (PP (P-DBL נאָך)
@@ -3175,7 +3175,7 @@
                       (NUM זעקס)
                       (NS גראָשן)
                       (CODE {COM:6_groshn_=_3_kopeks}))
-              (PUNC ...)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.211))
+              (PUNC ...)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.211))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO איך))
               (MDP װעל)
@@ -3183,13 +3183,13 @@
               (ADVP-DIAGN (ADV דאָך))
               (NEG ניט)
               (VB בּאַלײדיקן)
-              (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.212))
+              (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.212))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO איך))
               (BEP בין)
               (NP-RFL (PRO זיך))
               (ADVP (ADV אזױ))
-              (PUNC ...)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.213))
+              (PUNC ...)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.213))
 
 ( (CP-QUE-MAT-SPE (WPP-1 (P צוליבּ)
                          (WNP (WPRO װאָס)))
@@ -3197,7 +3197,7 @@
                   (IP-INF-SPE (PP *T*-1)
                               (VB בּאלײדיקן)
                               (NP-RFL (PRO זיך)))
-                  (PUNC ?)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.214))
+                  (PUNC ?)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.214))
 
 ( (CODE <page_num:15_text_block_num:0>))
 
@@ -3210,7 +3210,7 @@
                   (N מענטש)
                   (NP-DBL (D אַ)
                           (ADJ בּאַשײדענער)))
-          (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.216))
+          (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.216))
 
 ( (IP-MAT (CONJ און)
           (CP-ADV (FP אַפילע)
@@ -3227,7 +3227,7 @@
                   (N פאריבּל))
           (NEG ניט)
           (HVN געהאַט)
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.217))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.217))
 
 ( (IP-MAT (CONJ אָבּער)
           (ADVP-TMP (ADV הײנט))
@@ -3247,7 +3247,7 @@
                                 (NEG ניט)
                                 (RP אױס>)
                                 (VBN <געהאלטן))))
-          (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.218))
+          (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.218))
 
 ( (IP-MAT (CONJ און)
           (VP (ADVP (ADV ארױס>))
@@ -3282,7 +3282,7 @@
                                                     (CONJP (CONJ און)
                                                            (PP (P מיט)
                                                                (NP (NS בּלומען)))))))))))
-          (PUNC :)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.219))
+          (PUNC :)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.219))
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ (PRO זי))
                     (HVP האָט)
@@ -3308,7 +3308,7 @@
                                               (PUNC „)
                                               (NS שטיק)))))))
           (PUNC “)
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.220))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.220))
 
 ( (IP-MAT (PP (DR+P דערנאָך))
           (HVP האָט)
@@ -3372,7 +3372,7 @@
                       (CONJP (CONJ און)
                              (FRAG (ADVP (ADV אַזױ))
                                    (ADVP (ADVR װײטער)))))
-          (PUNC ;)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.221))
+          (PUNC ;)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.221))
 
 ( (IP-MAT (PP (DR+P דערנאָך))
           (HVP האָט)
@@ -3382,7 +3382,7 @@
           (PUNC “)
           (IP-INF (NP-SBJ *pro*)
                   (TO צו)
-                  (VB װאַרטן))) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.222))
+                  (VB װאַרטן))) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.222))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ (PRO זי))
@@ -3392,7 +3392,7 @@
           (PP (P אין)
               (NP (D די)
                   (NS צימערן)))
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.223))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.223))
 
 ( (CODE <page_num:15_text_block_num:1>))
 
@@ -3401,14 +3401,14 @@
           (ADVP-DIR (RP-ADV אַװעק))
           (VBN *)
           (NP-LGS (NUM צען)
-                  (N מינוט))) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.225))
+                  (N מינוט))) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.225))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ (PRO זי))
           (BEP איז)
           (NEG ניט>)
           (ADVP (ADV <אָ))
-          (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.226))
+          (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.226))
 
 ( (IP-MAT (NP-ADT (D א)
                   (NUM פערטל)
@@ -3417,7 +3417,7 @@
           (NP-SBJ (PRO @זי))
           (BEP איז)
           (NEG ניט>)
-          (ADVP-LOC (ADV <אָ))) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.227))
+          (ADVP-LOC (ADV <אָ))) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.227))
 
 ( (IP-MAT (CONJ און)
           (PUNC ,)
@@ -3446,7 +3446,7 @@
                                (ADJP (ADJ אַזעלכע)
                                      (ADJ פילצוזאָגנדיקע))))
                   (NS האָפענונגען))
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.228))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.228))
 
 ( (IP-MAT (NP-SBJ (D דער)
                   (ADJ אַלטער))
@@ -3479,7 +3479,7 @@
                                             (NP (D אַ)
                                                 (N זאַסלענקע)
                                                 (CODE {COM:za'slinke})))))))
-          (PUNC :)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.229))
+          (PUNC :)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.229))
 
 ( (CODE <page_num:15_text_block_num:2>))
 
@@ -3500,13 +3500,13 @@
                       (N שטיק)
                       (NP-COM (N מאַזל)
                               (CODE {COM:מזל})))
-              (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.231))
+              (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.231))
 
 ( (IP-IMP-SPE (NP-SBJ (PRO דו))
               (VBI פאָלג)
               (ADVP-DIAGN-TMP (ADV שױן))
               (NP-OB1 (PRO מיך))
-              (PUNC :)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.232))
+              (PUNC :)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.232))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO איך))
               (VBP װײס)
@@ -3514,7 +3514,7 @@
               (NP-VOC (N בּרודער))
               (PUNC ,)
               (NP-OB1 (Q אַלץ))
-              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.233))
+              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.233))
 
 ( (IP-MAT-SPE (MDP קען)
               (BE זײן)
@@ -3536,14 +3536,14 @@
                                           (CONJP (CONJ אָדער)
                                                  (IP-SUB-SPE=1 (PP (P פון)
                                                                    (NP (N שוכװאַרג)))))))
-              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.234))
+              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.234))
 
 ( (IP-MAT-SPE (NP-SBJ (D דאָס))
               (BEP איז)
               (ADVP-DIAGN-TMP (ADV שױן))
               (PP (P אף)
                   (ADVP (ADV געװיס)))
-              (PUNC !)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.235))
+              (PUNC !)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.235))
 
 ( (CODE <page_num:16_text_block_num:0>))
 
@@ -3558,7 +3558,7 @@
           (PP (P אַפ>)
               (NP (D <ן)
                   (N בּאַלקאָן)))
-          (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.237))
+          (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.237))
 
 ( (IP-MAT (NP-SBJ *con*)
           (HVP האָט)
@@ -3576,7 +3576,7 @@
                   (D אַ)
                   (ADJ װײסע)
                   (N מאַטבּײעלע)
-                  (CODE {COM:from_מטבע}))) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.238))
+                  (CODE {COM:from_מטבע}))) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.238))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ (PRO זי))
@@ -3605,7 +3605,7 @@
                            (PP (P מיט)
                                (NP (D אַ)
                                    (N לעכל)))))
-          (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.239))
+          (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.239))
 
 ( (IP-MAT (NP-SBJ *con*)
           (VBP װײזט)
@@ -3614,7 +3614,7 @@
           (NP-PRD (D @אַ)
                   (N גריװינקע)
                   (CODE {COM:type_of_coin}))
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.240))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.240))
 
 ( (IP-MAT (NP-SBJ (D דער)
                   (ADJ אַלטינקער))
@@ -3625,7 +3625,7 @@
                        (IP-PPL (RP אופ@)
                                (VAN @געבּראַכט))))
           (VBN בּאַטראכט)
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.241))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.241))
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ (PRO ער))
                     (BEP איז)
@@ -3642,7 +3642,7 @@
                            (PP (P פון)
                                (NP (D דער)
                                    (N דאַטשע)))))
-          (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.242))
+          (PUNC ,)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.242))
 
 ( (IP-MAT (CONJ אָבּער)
           (NP-SBJ (PRO ער))
@@ -3667,7 +3667,7 @@
                                 (NP-OB1 (D די)
                                         (N װאָג)
                                         (NP-POS (PRO$ אירע))))))
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.243))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.243))
 
 ( (CODE <page_num:16_text_block_num:1>))
 
@@ -3687,7 +3687,7 @@
                            (RP אָפּ>)
                            (VBN <געשטעלט)))
           (PUNC ,)
-          (PUNC —@)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.245))
+          (PUNC —@)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.245))
 
 ( (IP-MAT (NP-SBJ (MAN @מע))
           (MDP קען)
@@ -3695,7 +3695,7 @@
           (ADVP-DIAGN-TMP (ADV שױן))
           (VB זאָגן)
           (PUNC !)
-          (PUNC ..)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.246))
+          (PUNC ..)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.246))
 
 ( (IP-MAT-SPE (CONJ און)
               (NP-SBJ (PRO מיר)
@@ -3707,7 +3707,7 @@
               (NP-MSR (D אַ)
                       (N בּיסל))
               (VBN געפלײסט)
-              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.247))
+              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.247))
 
 ( (IP-MAT-SPE (INTJ נעכאַי)
               (VLP װאָלט)
@@ -3722,7 +3722,7 @@
               (PUNC ,)
               (CP-QUE-TAG (CONJ אָדער)
                           (WNP-X (WPRO װאָס)))
-              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.248))
+              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.248))
 
 ( (IP-MAT-SPE (PP (P אַפ>)
                   (NP (D <ן)
@@ -3740,7 +3740,7 @@
                                                 (NP-SBJ (ES ס’>))
                                                 (NEG <ניט)
                                                 (BEP איז))))
-              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.249))
+              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.249))
 
 ( (CP-QUE-MAT-SPE (CONJ און)
                   (WNP-1 (WPRO װאָס))
@@ -3752,7 +3752,7 @@
                                       (N שטיקל)
                                       (NP-COM (N מיסט))))
                               (DO טון)
-                              (PUNC ?))) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.250))
+                              (PUNC ?))) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.250))
 
 ( (IP-MAT-SPE (NP-SBJ (D די)
                       (N פריצטע))
@@ -3779,7 +3779,7 @@
                           (PUNC ,))
               (IP-MAT-SPE-PRN (VBP הײסט)
                               (NP-SBJ (PRO עס)))
-              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.251))
+              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.251))
 
 ( (IP-MAT-EXL-SPE (INTJ נײן)
                   (PUNC ,)
@@ -3792,7 +3792,7 @@
                           (CODE {COM:טעות}))
                   (PUNC ,)
                   (NP-VOC (N בּאַלעבּאָסטינקע))
-                  (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.252))
+                  (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.252))
 
 ( (IP-MAT-SPE (NP-SBJ (D דער)
                       (ADJ אלטער)
@@ -3804,7 +3804,7 @@
                       (N שטיק)))
               (NEG ניט)
               (VB פארנעמען)
-              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.253))
+              (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.253))
 
 ( (IP-MAT-SPE (INTJ יאָ־הם)
               (PUNC !)
@@ -3817,7 +3817,7 @@
                       (N גריװינקע))
               (PUNC !)
               (FP אָט)
-              (PUNC !)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.254))
+              (PUNC !)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.254))
 
 ( (CODE <page_num:16_text_block_num:2>))
 
@@ -3856,7 +3856,7 @@
                                                            (N שטױבּ)
                                                            (PP (P פון)
                                                                (NP (N װעג))))))))))
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.256))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.256))
 
 ( (CODE <page_num:16_text_block_num:3>))
 
@@ -3883,7 +3883,7 @@
           (NP-MSR (D דעם)
                   (ADJ גאַנצן)
                   (N זומער־אישעװל)
-                  (CODE {COM:from_ייִשובֿ}))) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.258))
+                  (CODE {COM:from_ייִשובֿ}))) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.258))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ (PRO זײ))
@@ -3896,7 +3896,7 @@
                       (PP (P צו>)
                           (NP (D <ם)
                               (N יאַם))))
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.259))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.259))
 
 ( (IP-MAT (PP (P אַף)
               (NP (D דער)
@@ -3909,7 +3909,7 @@
           (NP-1 (D די)
                 (ADJ לעצטע)
                 (N דאַטשע))
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.260))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.260))
 
 ( (IP-MAT (NP-SBJ (MAN מע))
           (HVP האָט)
@@ -3947,6 +3947,6 @@
                                                             (NP (ADJP (ADJ לאַנגע)
                                                                       (ADJ שװארץ־גרױע))
                                                                 (NS שפּינדלעך)))))))))))
-          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.PSD.NOID,.261))
+          (PUNC .)) (ID 1926E-KUPRIN-NAR-TRANS.YID.PSD,.261))
 
 ( (CODE {COM:removed_incomplete_sentence_fragment_from_below}))
