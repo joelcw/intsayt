@@ -15,6 +15,11 @@ $CS ../../scripts/structure_building/add-c.q $FILE > problemfile.txt
 mv -f $FILE.out $FILE
 
 echo ""
+echo "Add trace for CP-RELs"
+$CS ../../scripts/structure_building/add-rel-trace.q $FILE > problemfile.txt
+mv -f $FILE.out $FILE
+
+echo ""
 echo "Fix lekh"
 $CS ../../scripts/structure_building/fix-lekh.q $FILE > problemfile.txt
 mv -f $FILE.out $FILE
@@ -37,6 +42,11 @@ mv -f $FILE.out $FILE
 echo ""
 echo "Fix shoyn"
 $CS ../../scripts/structure_building/fix-shoyn.q $FILE > problemfile.txt
+mv -f $FILE.out $FILE
+
+echo ""
+echo "Fix vi"
+$CS ../../scripts/structure_building/fix-vi.q $FILE > problemfile.txt
 mv -f $FILE.out $FILE
 
 echo ""
