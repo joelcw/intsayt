@@ -105,7 +105,7 @@ function customCommands() {
     addCommand({ keycode: 70 }, setLabel, ["PP","ADVP","ADVP-TMP","ADVP-LOC",
                                            "ADVP-DIR","ADVP-DIAGN"]); // f
     addCommand({ keycode: 50 }, setLabel, ["NP","NP-PRN","NP-POS",
-                                           "NP-COM"]); // 2
+                                           "NP-COM","NP-MSR"]); // 2
     addCommand({ keycode: 50, shift: true }, splitWord); // 2
     addCommand({ keycode: 52 }, toggleExtension, "PRN"); // 4
     addCommand({ keycode: 53 }, toggleExtension, "SPE"); // 5
