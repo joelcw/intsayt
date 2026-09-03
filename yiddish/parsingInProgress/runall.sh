@@ -59,6 +59,11 @@ echo "Add PRD to NPs in copular clauses"
 $CS ../../scripts/structure_building/add-prd.q $FILE > problemfile.txt
 mv -f $FILE.out $FILE
 
+echo ""
+echo "Add -COM to likely suspects"
+$CS ../../scripts/structure_building/add-npcom.q $FILE > problemfile.txt
+mv -f $FILE.out $FILE
+
 
 mv -f $FILE $2
 
