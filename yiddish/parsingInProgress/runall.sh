@@ -54,7 +54,10 @@ echo "Fix other diagn"
 $CS ../../scripts/structure_building/fix-diagn.q $FILE > problemfile.txt
 mv -f $FILE.out $FILE
 
-
+echo ""
+echo "Add PRD to NPs in copular clauses"
+$CS ../../scripts/structure_building/add-prd.q $FILE > problemfile.txt
+mv -f $FILE.out $FILE
 
 
 mv -f $FILE $2
