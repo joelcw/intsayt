@@ -10008,8 +10008,8 @@
                                         (HVP האָבן)
                                         (NP-OB1 (PRO דיך))
                                         (VBN באַפֿאַלן)
-                                        (PP (P21 אין)
-                                            (P22 מיטן)
+                                        (PP (P (P21 אין)
+                                               (P22 מיטן))
                                             (NP (N װאַלד))))))
           (PUNC ,)))
 
@@ -10064,8 +10064,8 @@
 ( (IP-IMP (VBI קום)
           (IP-INF (TO צו)
                   (VB פֿאָרן)
-                  (ADVP-DIR (ADV21 אַ)
-                            (ADV22 הײם)))
+                  (ADVP-DIR (ADV (ADV21 אַ)
+                                 (ADV22 הײם))))
           (PUNC ,)))
 
 ( (IP-MAT (MDP װעסט)
