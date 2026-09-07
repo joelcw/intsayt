@@ -323,7 +323,7 @@
               (VB זען@)
               (PUNC @—@)
               (IP-MAT-PRN (HVP @האָט)
-                          (PRO ער)
+                          (NP-SBJ (PRO ער))
                           (VBN געזאָגט@))
               (PUNC @—@)
               (IP-MAT-THT (NP-SBJ (PRO @מיר))
