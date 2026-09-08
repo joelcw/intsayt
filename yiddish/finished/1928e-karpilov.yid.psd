@@ -1,6 +1,7 @@
 ( (CODE <page_num:5_text_block_num:0>))
 
-( (NP-TTL (N עלענד)) (ID 1928E-KARPILOV.YID.PSD,.2))
+( (NP-TTL (N עלענד))
+  (ID 1928E-KARPILOV.YID.PSD,.2))
 
 ( (CODE <page_num:5_text_block_num:1>))
 
@@ -12,7 +13,8 @@
           (NP-SBJ (PRO ער))
           (BEN געװען)
           (PP (P בײ)
-              (NP (PRO מיר)))) (ID 1928E-KARPILOV.YID.PSD,.4))
+              (NP (PRO מיר))))
+  (ID 1928E-KARPILOV.YID.PSD,.4))
 
 ( (IP-MAT (CONJ און)
           (PUNC —)
@@ -29,7 +31,8 @@
           (ADJP-PRD (ADJ קלײן)
                     (CONJ און)
                     (ADJ עלענד))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.5))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.5))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (BEP איז)
@@ -39,7 +42,8 @@
           (IP-INF-PRP (NP-OB2 *ICH*-1)
                       (VB געבען)
                       (NP-OB1 (N גליק)))
-          (PUNC ;)) (ID 1928E-KARPILOV.YID.PSD,.6))
+          (PUNC ;))
+  (ID 1928E-KARPILOV.YID.PSD,.6))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (BEP איז)
@@ -51,7 +55,8 @@
                                            (NEG ניט)
                                            (PP (P אין)
                                                (NP (ADJ גאַנצען))))))
-          (PUNC :)) (ID 1928E-KARPILOV.YID.PSD,.7))
+          (PUNC :))
+  (ID 1928E-KARPILOV.YID.PSD,.7))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (VBP רעכענט)
@@ -75,7 +80,8 @@
                                                   (PP (P אין)
                                                       (NP (D אַ)
                                                           (N חוב))))))))
-          (PUNC ...)) (ID 1928E-KARPILOV.YID.PSD,.8))
+          (PUNC ...))
+  (ID 1928E-KARPILOV.YID.PSD,.8))
 
 ( (CODE <page_num:5_text_block_num:2>))
 
@@ -95,7 +101,8 @@
                           (NEG ניט)
                           (VB מאָהנען)))
           (PUNC ,)
-          (PUNC —)) (ID 1928E-KARPILOV.YID.PSD,.10))
+          (PUNC —))
+  (ID 1928E-KARPILOV.YID.PSD,.10))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (MDP װעט)
@@ -114,7 +121,8 @@
                           (NP-MSR (QR מעהר))
                           (NEG ניט)
                           (VB ליעבען)))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.11))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.11))
 
 ( (IP-MAT (NP-SBJ (PRO איך))
           (BEP בין)
@@ -125,7 +133,8 @@
                         (ADJP (ADJR אונגליקליכער))
                         (TO צו)
                         (BE זײן)))
-          (PUNC ...)) (ID 1928E-KARPILOV.YID.PSD,.12))
+          (PUNC ...))
+  (ID 1928E-KARPILOV.YID.PSD,.12))
 
 ( (IP-MAT (CONJ אָבער)
           (NP-SBJ (PRO איך))
@@ -135,7 +144,8 @@
           (MDN געקענט)
           (ADVP (ADV אַרױס>))
           (VB <רעדען)
-          (PUNC ...)) (ID 1928E-KARPILOV.YID.PSD,.13))
+          (PUNC ...))
+  (ID 1928E-KARPILOV.YID.PSD,.13))
 
 ( (IP-MAT (NP-SBJ (PRO איך))
           (HVP האָב)
@@ -152,7 +162,8 @@
                               (NP (PRO$ מײן)
                                   (ADJ אָפּפערװיליגע)
                                   (N ליעבע))))))
-          (PUNC ...)) (ID 1928E-KARPILOV.YID.PSD,.14))
+          (PUNC ...))
+  (ID 1928E-KARPILOV.YID.PSD,.14))
 
 ( (IP-MAT (NP-SBJ (PRO$ זײן)
                   (ADJ אױבערפלעכליכע)
@@ -167,7 +178,8 @@
           (VBN <גענומען)
           (NP-OB1 (PRO$ מײן)
                   (N שפּראַך))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.15))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.15))
 
 ( (IP-MAT (NP-SBJ (PRO$ זײנע)
                   (ADJ לײכטע)
@@ -202,7 +214,8 @@
                                                       (MDP קען)
                                                       (NP-1 (Q גאָרנישט))
                                                       (BE זײן))))))
-          (PUNC ...)) (ID 1928E-KARPILOV.YID.PSD,.16))
+          (PUNC ...))
+  (ID 1928E-KARPILOV.YID.PSD,.16))
 
 ( (CODE <page_num:5_text_block_num:3>))
 
@@ -217,7 +230,8 @@
             (IP-INF-2 (TO צו)
                       (VB פארגעסען)
                       (NP-RFL (PRO זיך)))
-            (PUNC ...)) (ID 1928E-KARPILOV.YID.PSD,.18))
+            (PUNC ...))
+  (ID 1928E-KARPILOV.YID.PSD,.18))
 
 ( (IP-MAT (NP-SBJ-1 (ES עס))
           (BEP איז)
@@ -235,7 +249,8 @@
           (IP-INF-1 (TO צו)
                     (VB געדענקען)
                     (NP-RFL (PRO זיך)))
-          (PUNC ...)) (ID 1928E-KARPILOV.YID.PSD,.19))
+          (PUNC ...))
+  (ID 1928E-KARPILOV.YID.PSD,.19))
 
 ( (IP-MAT (NP-SBJ (PRO$ זײן)
                   (ADJP (ADJ װאָכעדיגע)
@@ -245,7 +260,8 @@
           (VBP בעגרײפט)
           (NP-OB1 (PRO עס))
           (NEG ניט)
-          (PUNC ,)) (ID 1928E-KARPILOV.YID.PSD,.20))
+          (PUNC ,))
+  (ID 1928E-KARPILOV.YID.PSD,.20))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ (PRO איך))
@@ -254,7 +270,8 @@
           (NP-OB2 (PRO איהם))
           (NEG ניט)
           (VB ערקלעהרען)
-          (PUNC ...)) (ID 1928E-KARPILOV.YID.PSD,.21))
+          (PUNC ...))
+  (ID 1928E-KARPILOV.YID.PSD,.21))
 
 ( (CODE <page_num:5_text_block_num:4>))
 
@@ -285,7 +302,8 @@
                                                        (NP (PRO מיר)))
                                                    (RP איבער>)
                                                    (VBN <געלאָזען))))))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.23))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.23))
 
 ( (IP-MAT (NP-SBJ (PRO איך))
           (HVP האָב)
@@ -296,7 +314,8 @@
           (PP (P בײ)
               (NP (D דיעזער)
                   (N עראינערונג)))
-          (PUNC ;)) (ID 1928E-KARPILOV.YID.PSD,.24))
+          (PUNC ;))
+  (ID 1928E-KARPILOV.YID.PSD,.24))
 
 ( (IP-MAT (IP-SMC (NP-SBJ *-1)
                   (VAN בעלײדיגט))
@@ -304,7 +323,8 @@
           (NP-SBJ-1 (PRO איך))
           (NP-RFL (PRO זיך))
           (VBN געפיהלט)
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.25))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.25))
 
 ( (CODE <page_num:5_text_block_num:5>))
 
@@ -327,7 +347,8 @@
                                   (NP-RFL (PRO זיך))
                                   (NP-LGS (PRO$ מײן)
                                           (N נשמה))))))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.27))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.27))
 
 ( (IP-MAT (NP-SBJ (PRO איך))
           (VBP זוך)
@@ -337,7 +358,8 @@
                       (NP (NS געדאַנקען־שטײנער)))
                   (TO צו)
                   (VB פערװאַרפען))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.28))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.28))
 
 ( (IP-MAT (NP-SBJ (PRO איך))
           (VBP מאַך)
@@ -422,7 +444,8 @@
                                                                  (IP-INF (NP-OB1 (PRO מיך))
                                                                          (TO צו)
                                                                          (VB נעהמען))))))))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.29))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.29))
 
 ( (IP-MAT (NP-SBJ (PRO איך))
           (BEP בין)
@@ -437,7 +460,8 @@
                                             (IP-SUB (NP-OB1 *T*-1)
                                                     (NP-SBJ (PRO ער))
                                                     (VBP מײנט)))))))
-          (PUNC ...)) (ID 1928E-KARPILOV.YID.PSD,.30))
+          (PUNC ...))
+  (ID 1928E-KARPILOV.YID.PSD,.30))
 
 ( (IP-MAT (NP-SBJ (PRO איך))
           (VLP װאָלט)
@@ -450,7 +474,8 @@
                     (PP (P פון)
                         (NP (PRO איהם)))
                     (NP-OB1 (NS פּפליכטען)))
-          (PUNC ...)) (ID 1928E-KARPILOV.YID.PSD,.31))
+          (PUNC ...))
+  (ID 1928E-KARPILOV.YID.PSD,.31))
 
 ( (IP-MAT (NP-SBJ (PRO$ זײן)
                   (N עהרליכקײט))
@@ -458,7 +483,8 @@
           (IP-SMC (NP-SBJ (PRO איהם))
                   (ADJP (ADVR אַזױ)
                         (ADJ לעכערליך)))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.32))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.32))
 
 ( (CP-QUE-MAT (IP-SUB (HVP האָט)
                       (NP-SBJ (PRO ער))
@@ -473,7 +499,8 @@
                                           (ADVP (ADVR אזױ)
                                                 (ADV פרעהלאך))
                                           (VBN געלאַכט))))
-              (PUNC ?)) (ID 1928E-KARPILOV.YID.PSD,.33))
+              (PUNC ?))
+  (ID 1928E-KARPILOV.YID.PSD,.33))
 
 ( (IP-MAT (NP-EXPL (D דאָס))
           (HVP האָב)
@@ -501,7 +528,8 @@
                                                                               (TO צו)
                                                                               (VB שרעקען)
                                                                               (NP-RFL (PRO זיך))))))))))))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.34))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.34))
 
 ( (CODE <page_num:6_text_block_num:0>))
 
@@ -515,7 +543,8 @@
                   (MDP װעט)
                   (VB בלײבען)
                   (RP-V שטעהן))
-          (PUNC !)) (ID 1928E-KARPILOV.YID.PSD,.36))
+          (PUNC !))
+  (ID 1928E-KARPILOV.YID.PSD,.36))
 
 ( (IP-SUB (NP-SBJ-1 (ES עס))
           (MDP קען)
@@ -530,7 +559,8 @@
                                 (N כאַפּ))
                         (PP (P צו)
                             (NP (PRO מיר))))
-          (PUNC ...)) (ID 1928E-KARPILOV.YID.PSD,.37))
+          (PUNC ...))
+  (ID 1928E-KARPILOV.YID.PSD,.37))
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ (PRO איך))
                     (MDP װעל)
@@ -547,7 +577,8 @@
                            (PP (P אױפ’>)
                                (NP (D <ן)
                                    (N טהיר)))))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.38))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.38))
 
 ( (IP-MAT (NP-SBJ (D דאָס))
           (VLP װאָלט)
@@ -557,7 +588,8 @@
                   (PP (P פאר)
                       (NP (PRO$ זײן)
                           (N ליעבע))))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.39))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.39))
 
 ( (CODE <page_num:6_text_block_num:1>))
 
@@ -572,11 +604,14 @@
                               (NP-OB1 (D דאָס))
                               (MDN געקענט)
                               (DO טהאָן)
-                              (PUNC ...)))))( (CODE <page_num:6_text_block_num:2>))
+                              (PUNC ...)))))
+
+( (CODE <page_num:6_text_block_num:2>))
 
 ( (FRAG (PUNC .)
         (PUNC .)
-        (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.42))
+        (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.42))
 
 ( (IP-MAT (ADJP-SPR (ADJ אַלײן))
           (VBP געה)
@@ -589,7 +624,8 @@
                   (PP (P פון)
                       (NP (NPR ניו)
                           (NPR יאָרק)))))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.43))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.43))
 
 ( (IP-MAT (PP (P מיט)
               (NP (NS הערבסט־געדאַנקען)))
@@ -597,7 +633,8 @@
           (NP-SBJ (PRO איך))
           (NP-OB1 (D דעם)
                   (N זומער))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.44))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.44))
 
 ( (IP-MAT (NP-SBJ (D אַ)
                   (ADJ װינטערדיגע)
@@ -606,7 +643,8 @@
           (ADVP (ADV אַרום))
           (NP-OB1 (PRO$ מײן)
                   (N נשמה))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.45))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.45))
 
 ( (IP-MAT (CP-ADV (C װען)
                   (IP-SUB (NP-SBJ (Q אלעס)
@@ -624,7 +662,8 @@
                           (VBP שטאַרבט)
                           (NP-SBJ (Q עפּעס))
                           (RP אָב)))
-          (PUNC ...)) (ID 1928E-KARPILOV.YID.PSD,.46))
+          (PUNC ...))
+  (ID 1928E-KARPILOV.YID.PSD,.46))
 
 ( (IP-MAT (NP-SBJ (PRO איך))
           (VBP װײס)
@@ -633,20 +672,23 @@
                       (IP-SUB (NP-PRD *T*-1)
                               (NP-SBJ (D דאָס))
                               (BEP איז)))
-          (PUNC —)) (ID 1928E-KARPILOV.YID.PSD,.47))
+          (PUNC —))
+  (ID 1928E-KARPILOV.YID.PSD,.47))
 
 ( (IP-MAT (NP-SBJ (PRO ס’>))
           (BEP <איז)
           (NP-PRD (D די)
                   (N האָפנונג))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.48))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.48))
 
 ( (IP-MAT (NP-SBJ (PRO זי))
           (VBP געהט)
           (PP (P אין)
               (NP (PRO מיר)))
           (RP אױס)
-          (PUNC ...)) (ID 1928E-KARPILOV.YID.PSD,.49))
+          (PUNC ...))
+  (ID 1928E-KARPILOV.YID.PSD,.49))
 
 ( (CODE <page_num:6_text_block_num:3>))
 
@@ -666,7 +708,8 @@
                                   (NP-OB1 (PRO מיך))
                                   (PP (P אָן)
                                       (NP (PRO איהם)))))))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.51))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.51))
 
 ( (IP-MAT (NP-SBJ (PRO איך))
           (MDP טאָר)
@@ -674,26 +717,30 @@
               (NP (PRO איהם)))
           (NEG ניט)
           (VB טראַכטען)
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.52))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.52))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (BEP איז)
           (PP (P פאַר)
               (NP (PRO מיר)))
           (VBN געשטאָרבען)
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.53))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.53))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (VBP ליעבט)
           (NP-OB1 (OTHER אַנדערע))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.54))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.54))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (MDP קען)
           (RP צו>)
           (VB <טהײלען)
           (NP-OB1 (PRO$ זײן)
-                  (N ליעבע))) (ID 1928E-KARPILOV.YID.PSD,.55))
+                  (N ליעבע)))
+  (ID 1928E-KARPILOV.YID.PSD,.55))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ (PRO איך))
@@ -701,14 +748,16 @@
           (NP-OB1 (PRO עס))
           (NEG ניט)
           (VB *)
-          (PUNC ;)) (ID 1928E-KARPILOV.YID.PSD,.56))
+          (PUNC ;))
+  (ID 1928E-KARPILOV.YID.PSD,.56))
 
 ( (IP-MAT (NP-SBJ (PRO איך))
           (MDP קען)
           (VB ליעבען)
           (NP-OB1 (FP נאָר)
                   (ONE אײנעם))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.57))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.57))
 
 ( (IP-MAT (CONJ אָבער)
           (PUNC ,)
@@ -718,7 +767,8 @@
           (ADVP-DIAGN-TMP (ADV שױן))
           (NP-MSR (QR מעהר))
           (NEG ניט)
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.58))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.58))
 
 ( (IP-MAT (NP-SBJ (PRO איך))
           (HVP האָב)
@@ -726,7 +776,8 @@
           (RP-N פײנט)
           (NP-OB1 (PRO$ מײן)
                   (N עלענדקײט))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.59))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.59))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (MDP קען)
@@ -737,7 +788,8 @@
                                     (NP-SBJ (PRO ער))
                                     (MDP װיל)
                                     (VB *))))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.60))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.60))
 
 ( (IP-MAT (CP-ADV (C אַז)
                   (IP-SUB (NP-SBJ (PRO ער))
@@ -757,7 +809,8 @@
                           (IP-SUB (NP-SBJ *T*-1)
                                   (VBP צוטהײלט)
                                   (NP-OB1 (PRO אונז)))))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.61))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.61))
 
 ( (IP-MAT (CP-ADV (C װען)
                   (IP-SUB (NP-SBJ (PRO ער))
@@ -773,7 +826,8 @@
                   (IP-INF (BE זײן)
                           (PP (P מיט)
                               (NP (PRO מיר))))))
-          (PUNC ;)) (ID 1928E-KARPILOV.YID.PSD,.62))
+          (PUNC ;))
+  (ID 1928E-KARPILOV.YID.PSD,.62))
 
 ( (IP-MAT (CP-ADV (C װען)
                   (IP-SUB (NP-SBJ (PRO ער))
@@ -791,13 +845,15 @@
                               (MDP װעט)
                               (ADVP-DIR (ADV אַװעק>))
                               (VB <געהן)
-                              (PUNC ...)))) (ID 1928E-KARPILOV.YID.PSD,.63))
+                              (PUNC ...))))
+  (ID 1928E-KARPILOV.YID.PSD,.63))
 
 ( (CODE <page_num:7_text_block_num:0>))
 
 ( (FRAG (PUNC *)
         (PUNC *)
-        (PUNC *)) (ID 1928E-KARPILOV.YID.PSD,.65))
+        (PUNC *))
+  (ID 1928E-KARPILOV.YID.PSD,.65))
 
 ( (CODE <page_num:7_text_block_num:1>))
 
@@ -820,13 +876,15 @@
                                                    (ADJP (ADJ אומזיסט))
                                                    (NP-LGS (PRO$ מײן)
                                                            (IP-INF (VB װאַרטען))))))))
-          (PUNC —)) (ID 1928E-KARPILOV.YID.PSD,.67))
+          (PUNC —))
+  (ID 1928E-KARPILOV.YID.PSD,.67))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (MDP װעט)
           (NEG ניט)
           (VB קומען)
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.68))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.68))
 
 ( (IP-MAT (NP-SBJ (PRO איך))
           (MD װעל)
@@ -836,7 +894,8 @@
           (PP (P איבער’>)
               (NP (D <ן)
                   (N טומעל)))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.69))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.69))
 
 ( (IP-MAT (IP-MAT-1 (MDP זאָל)
                     (NP-SBJ (PRO ער))
@@ -847,7 +906,8 @@
                            (VB טרעפען)
                            (PP (P בײ)
                                (NP (PRO זיך)))))
-          (PUNC ...)) (ID 1928E-KARPILOV.YID.PSD,.70))
+          (PUNC ...))
+  (ID 1928E-KARPILOV.YID.PSD,.70))
 
 ( (IP-MAT (NP-SBJ (PRO איך))
           (MDP װעל)
@@ -864,7 +924,8 @@
                                   (ADVP (ADV װײט)
                                         (PUNC ,)
                                         (ADV װײט))))))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.71))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.71))
 
 ( (IP-MAT (MDP זאָל)
           (NP-SBJ (PRO זי))
@@ -874,7 +935,8 @@
               (NP (PRO$ מײנע)
                   (ADJ שװערע)
                   (NS געדאַנקען)))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.72))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.72))
 
 ( (IP-MAT (NP-SBJ (ES עס))
           (MDP װעט)
@@ -889,7 +951,8 @@
                                         (NP-RFL (PRO זיך))
                                         (PP (P מיט)
                                             (NP (PRO זײ)))))))
-          (PUNC ...)) (ID 1928E-KARPILOV.YID.PSD,.73))
+          (PUNC ...))
+  (ID 1928E-KARPILOV.YID.PSD,.73))
 
 ( (CODE <page_num:7_text_block_num:2>))
 
@@ -910,7 +973,8 @@
         (PUNC —)
         (PUNC —)
         (PUNC —)
-        (PUNC —)) (ID 1928E-KARPILOV.YID.PSD,.75))
+        (PUNC —))
+  (ID 1928E-KARPILOV.YID.PSD,.75))
 
 ( (CODE <page_num:7_text_block_num:3>))
 
@@ -933,7 +997,8 @@
                           (NP-RFL (PRO זיך))
                           (RP אָב>)
                           (VBN <געשטעלט)))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.77))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.77))
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ (Q אַלע)
                             (NS פּאַסאַזשירען))
@@ -942,7 +1007,8 @@
           (CONJP (CONJ און)
                  (IP-MAT=1 (NP-SBJ (PRO איך))
                            (ADVP (ADV אױך))))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.78))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.78))
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ (D דער)
                             (N קאָנדוקטאָר))
@@ -963,7 +1029,8 @@
                  (IP-MAT=1 (VBN געקוקט)
                            (PP (P אױף)
                                (NP (PRO מיר)))))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.79))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.79))
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ (PRO איך))
                     (BEP בין)
@@ -990,7 +1057,8 @@
                                                                        (VB <פאָהרען)
                                                                        (PP (P פון)
                                                                            (NP (PRO מיר)))))))))
-          (PUNC ...)) (ID 1928E-KARPILOV.YID.PSD,.80))
+          (PUNC ...))
+  (ID 1928E-KARPILOV.YID.PSD,.80))
 
 ( (IP-MAT (PUNC „)
           (IP-MAT-SPE (PP (P נאָך)
@@ -1030,7 +1098,8 @@
                                                                               (NP-SBJ (PRO איך))
                                                                               (VBP געפין)
                                                                               (NP-RFL (PRO זיך)))))))))
-                  (PUNC .))) (ID 1928E-KARPILOV.YID.PSD,.81))
+                  (PUNC .)))
+  (ID 1928E-KARPILOV.YID.PSD,.81))
 
 ( (CODE <page_num:7_text_block_num:4>))
 
@@ -1041,7 +1110,8 @@
           (NP-OB1 (D אַ)
                   (H בית)
                   (H עולם))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.83))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.83))
 
 ( (IP-MAT (NP-SBJ (PRO איך))
           (BEP בין)
@@ -1055,7 +1125,8 @@
                   (NEG ניט)
                   (VAG װיסענדיג)
                   (PP (DR+P דערפון)))
-          (PUNC ...)) (ID 1928E-KARPILOV.YID.PSD,.84))
+          (PUNC ...))
+  (ID 1928E-KARPILOV.YID.PSD,.84))
 
 ( (IP-MAT (NP-SBJ (D די)
                   (PUNC ,)
@@ -1069,7 +1140,8 @@
           (NP-OB1 (PRO עס))
           (ADVP-DIAGN (ADV יאָ))
           (VBN געװאוסט)
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.85))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.85))
 
 ( (IP-MAT (IP-MAT-1 (RP אָן)
                     (VBP געהען)
@@ -1089,7 +1161,8 @@
                            (PUNC ,)
                            (PP (P מיט)
                                (NP (NS בלומען)))))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.86))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.86))
 
 ( (CP-QUE-MAT (WPP-1 (P צו)
                      (WNP (WPRO װאָס)))
@@ -1109,7 +1182,8 @@
                                       (CONJP (IP-SUB=2 (NEG ניט)
                                                        (VB שמעקען))))))
               (PUNC ?)
-              (PUNC ...)) (ID 1928E-KARPILOV.YID.PSD,.87))
+              (PUNC ...))
+  (ID 1928E-KARPILOV.YID.PSD,.87))
 
 ( (CODE <page_num:7_text_block_num:5>))
 
@@ -1150,7 +1224,8 @@
                                                   (IP-PPL-OB1 (NP-SBJ (D א)
                                                                       (N מאַן))
                                                               (VAG שטעהענדיג)))))))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.89))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.89))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (HVP האָט)
@@ -1161,11 +1236,14 @@
                   (N בליק)))
           (RP אָנ>)
           (VBN <געקוקט)
-          (PUNC .)))( (IP-MAT (NP-SBJ (PRO איך))
+          (PUNC .)))
+
+( (IP-MAT (NP-SBJ (PRO איך))
           (HVP האָב)
           (ADVP (ADV שטיל))
           (RP אָב>)
-          (VBN <געטראָטען)) (ID 1928E-KARPILOV.YID.PSD,.90))
+          (VBN <געטראָטען))
+  (ID 1928E-KARPILOV.YID.PSD,.90))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ (PRO ער))
@@ -1176,7 +1254,8 @@
           (VBN <געטראטען)
           (PP-1 (P צו)
                 (NP (PRO$ זײן)
-                    (PUNC ...)))) (ID 1928E-KARPILOV.YID.PSD,.91))
+                    (PUNC ...))))
+  (ID 1928E-KARPILOV.YID.PSD,.91))
 
 ( (CP-QUE-MAT-PRN (WNP-1 (WPRO װאס))
                   (IP-SUB (NP-PRD *T*-1)
@@ -1185,7 +1264,8 @@
                           (NP-BEN (PRO איהם))
                           (BEN געװען))
                   (PUNC ?)
-                  (PUNC ...)) (ID 1928E-KARPILOV.YID.PSD,.92))
+                  (PUNC ...))
+  (ID 1928E-KARPILOV.YID.PSD,.92))
 
 ( (CODE <page_num:7_text_block_num:6>))
 
@@ -1218,7 +1298,8 @@
                                                    (NP-SBJ (OTHER אַנדערע))
                                                    (BEP זײנען)
                                                    (VBN געשטאַנען))))))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.94))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.94))
 
 ( (IP-MAT (NP-SBJ-1 *exp*)
           (NP-XPR (PRO מיר))
@@ -1239,7 +1320,8 @@
                                             (CONJP (CONJ און)
                                                    (NP (PRO$ זײערע)
                                                        (ADJ טױטע))))))))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.95))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.95))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ (D די)
@@ -1264,7 +1346,8 @@
                           (VB <קוקען)
                           (NP-OB1 (PRO$ זײערע)
                                   (NS קברים)))))
-          (PUNC ...)) (ID 1928E-KARPILOV.YID.PSD,.96))
+          (PUNC ...))
+  (ID 1928E-KARPILOV.YID.PSD,.96))
 
 ( (CP-QUE-MAT (WNP-1 (WPRO װאָס))
               (IP-SUB (NP-PRD *T*-1)
@@ -1284,7 +1367,8 @@
                                              (NP-OB1 (PRO$ זײער)
                                                      (N רוה))))))
               (PUNC !)
-              (PUNC ..)) (ID 1928E-KARPILOV.YID.PSD,.97))
+              (PUNC ..))
+  (ID 1928E-KARPILOV.YID.PSD,.97))
 
 ( (IP-MAT (NP-SBJ (PRO איך))
           (HVP האָב)
@@ -1292,7 +1376,8 @@
           (VBN געשעהמט)
           (PP (P פאַר)
               (NP (PRO זײ)))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.98))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.98))
 
 ( (CP-EXL (CP-ADV (CP-ADV (IP-SUB (VLP װאָלט)
                                   (NP-SBJ (PRO איך))
@@ -1314,7 +1399,8 @@
                   (NP-RFL (PRO מיך))
                   (ADVP (ADV דאָ))
                   (VBN געפיהלט))
-          (PUNC !)) (ID 1928E-KARPILOV.YID.PSD,.99))
+          (PUNC !))
+  (ID 1928E-KARPILOV.YID.PSD,.99))
 
 ( (FRAG (NEG ניט)
         (ADJP (ADVR אזױ)
@@ -1330,11 +1416,13 @@
                             (NP (NP (ADJ לעבעדיגע))
                                 (CONJP (CONJ און)
                                        (NP (ADJ טױטע)))))))
-        (PUNC ...)) (ID 1928E-KARPILOV.YID.PSD,.100))
+        (PUNC ...))
+  (ID 1928E-KARPILOV.YID.PSD,.100))
 
 ( (CODE <page_num:9_text_block_num:0>))
 
-( (NP-TTL (H יאוש)) (ID 1928E-KARPILOV.YID.PSD,.102))
+( (NP-TTL (H יאוש))
+  (ID 1928E-KARPILOV.YID.PSD,.102))
 
 ( (CODE <page_num:9_text_block_num:1>))
 
@@ -1342,7 +1430,8 @@
             (N בריעף)
             (PP (P פון)
                 (NP (PRO איהם))))
-        (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.104))
+        (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.104))
 
 ( (IP-MAT (NP-SBJ (PRO$ מײן)
                   (N הארץ))
@@ -1350,13 +1439,15 @@
           (RP אױפ>)
           (VBN <געהערט)
           (IP-INF (VB קלאפּען))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.105))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.105))
 
 ( (IP-MAT (NP-SBJ (PRO איך))
           (HVP האָב)
           (NP-OB1 (PRO איהם))
           (VBN געעפענט)
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.106))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.106))
 
 ( (CODE <page_num:9_text_block_num:2>))
 
@@ -1368,7 +1459,8 @@
           (CONJP (IP-MAT=1 (PP (P צו)
                                (NP (PRO מיר)))
                            (VB קומען)))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.108))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.108))
 
 ( (IP-MAT (CP-ADV (WADVP-1 (WADV װי))
                   (C 0)
@@ -1387,7 +1479,8 @@
                   (PP (P פון)
                       (NP (PRO$ מײן)
                           (N יאוש))))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.109))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.109))
 
 ( (IP-MAT (NP-SBJ (Q אלעס)
                   (PP (P פאר)
@@ -1415,7 +1508,8 @@
                                                        (VB <שלעפּען)
                                                        (PP (P מיט)
                                                            (NP (PRO זיך))))))))
-          (PUNC ...)) (ID 1928E-KARPILOV.YID.PSD,.110))
+          (PUNC ...))
+  (ID 1928E-KARPILOV.YID.PSD,.110))
 
 ( (IP-MAT (NP-SBJ (PRO איך))
           (HVP האָב)
@@ -1453,7 +1547,8 @@
                                                       (PP (P נאָך)
                                                           (NP (PRO$ זײן)
                                                               (IP-INF (VB קומען)))))))))))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.111))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.111))
 
 ( (CODE <page_num:9_text_block_num:3>))
 
@@ -1468,7 +1563,8 @@
                   (VBP אָטעמט)
                   (NP-LGS (PRO$ זײן)
                           (N האַנדשריפט)))
-          (PUNC !)) (ID 1928E-KARPILOV.YID.PSD,.113))
+          (PUNC !))
+  (ID 1928E-KARPILOV.YID.PSD,.113))
 
 ( (CP-EXL (WNP-1 (WQP (WADV װי@)
                       (Q @פיעל))
@@ -1481,7 +1577,8 @@
                   (PP (P אין)
                       (NP (PRO$ זײן)
                           (IP-INF (VB שרײבען)))))
-          (PUNC !)) (ID 1928E-KARPILOV.YID.PSD,.114))
+          (PUNC !))
+  (ID 1928E-KARPILOV.YID.PSD,.114))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (VBP שרײבט)
@@ -1493,7 +1590,8 @@
                                 (NP-OB1 (PRO עס))
                                 (MD מעגען)
                                 (VB לעזען))))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.115))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.115))
 
 ( (IP-MAT (PP (P פאַר)
               (NP (PRO מיר)))
@@ -1505,7 +1603,8 @@
               (NP (D די)
                   (ADJ שמאָלע)
                   (NS שורות)))
-          (PUNC ...)) (ID 1928E-KARPILOV.YID.PSD,.116))
+          (PUNC ...))
+  (ID 1928E-KARPILOV.YID.PSD,.116))
 
 ( (IP-MAT (NP-EXPL (D דאָס))
           (HVP האָט)
@@ -1515,7 +1614,8 @@
           (NEG ניט)
           (IP-INF (TO צו)
                   (DO טהאָן))
-          (PUNC ;)) (ID 1928E-KARPILOV.YID.PSD,.117))
+          (PUNC ;))
+  (ID 1928E-KARPILOV.YID.PSD,.117))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (BEP איז)
@@ -1535,7 +1635,8 @@
                                                     (VBP לעז)
                                                     (PP (P צװישען)
                                                         (NP (PRO זײ))))))))
-          (PUNC ...)) (ID 1928E-KARPILOV.YID.PSD,.118))
+          (PUNC ...))
+  (ID 1928E-KARPILOV.YID.PSD,.118))
 
 ( (CODE <page_num:9_text_block_num:4>))
 
@@ -1562,7 +1663,8 @@
                   (PP-XXX (P אױף)
                           (ADVP (ADV שפּעטער)))
                   (VBN געװאונען))
-          (PUNC ,)) (ID 1928E-KARPILOV.YID.PSD,.120))
+          (PUNC ,))
+  (ID 1928E-KARPILOV.YID.PSD,.120))
 
 ( (IP-MAT (CONJ אָבער)
           (PUNC ...)
@@ -1573,10 +1675,12 @@
           (ADVP-DIAGN (ADV דאָך))
           (NP-OB1 (PRO איהם))
           (VB זעהען)
-          (PUNC !)) (ID 1928E-KARPILOV.YID.PSD,.121))
+          (PUNC !))
+  (ID 1928E-KARPILOV.YID.PSD,.121))
 
 ( (FRAG (NP-SBJ (PRO איך))
-        (PUNC ...)) (ID 1928E-KARPILOV.YID.PSD,.122))
+        (PUNC ...))
+  (ID 1928E-KARPILOV.YID.PSD,.122))
 
 ( (IP-MAT (INTJ יע)
           (PUNC ,)
@@ -1584,7 +1688,8 @@
           (MDP װעל)
           (NP-OB2 (PRO איהם))
           (VB ענטפערען)
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.123))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.123))
 
 ( (IP-MAT (PP (P אין)
               (NP (ADJ קאַלטע)
@@ -1602,7 +1707,8 @@
                                 (NP-OB1 *pro*)
                                 (MD מעגען)
                                 (VB לעזען))))
-          (PUNC ,)) (ID 1928E-KARPILOV.YID.PSD,.124))
+          (PUNC ,))
+  (ID 1928E-KARPILOV.YID.PSD,.124))
 
 ( (IP-MAT (CONJ און)
           (PP (P בײ)
@@ -1620,7 +1726,8 @@
           (VB <װײזען)
           (NP-OB2 (PRO איהם))
           (NP-OB1 (N גלײכגילטיגקײט))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.125))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.125))
 
 ( (CODE <page_num:9_text_block_num:5>))
 
@@ -1628,7 +1735,8 @@
           (BEP איז)
           (ADVP-TMP (ADV ערשט))
           (ADVP-DIR (ADV אַװעק))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.127))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.127))
 
 ( (IP-MAT (NP-SBJ (PRO איך))
           (VBP פיהל)
@@ -1637,7 +1745,8 @@
                               (NP (PRO אונז)))
                           (BEP איז)
                           (NP-SBJ (Q אַלעס))
-                          (VAN געענדיגט)))) (ID 1928E-KARPILOV.YID.PSD,.128))
+                          (VAN געענדיגט))))
+  (ID 1928E-KARPILOV.YID.PSD,.128))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ (PRO איך))
@@ -1651,7 +1760,8 @@
                   (IP-INF (NEG ניט)
                           (TO צו)
                           (BE זײן))))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.129))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.129))
 
 ( (CODE <page_num:10_text_block_num:0>))
 
@@ -1666,14 +1776,16 @@
           (NP-SBJ (MAN מען))
           (NP-OB2 (D יענעם))
           (IP-INF (ADVP-DIR (RP-ADV אַװעק>))
-                  (VB <געהן))) (ID 1928E-KARPILOV.YID.PSD,.131))
+                  (VB <געהן)))
+  (ID 1928E-KARPILOV.YID.PSD,.131))
 
 ( (IP-MAT (CONJ אָדער)
           (NP-SBJ (MAN מען))
           (VBP געהט)
           (ADJP-SPR (ADJ אַלײן))
           (ADVP-DIR (RP-ADV אַװעק))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.132))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.132))
 
 ( (CP-QUE-MAT (WNP-1 (WPRO װאָס))
               (IP-SUB (NP-OB1 *T*-1)
@@ -1682,13 +1794,15 @@
                       (ADVP (ADV אָבער))
                       (PP (P מיט)
                           (NP (PRO זיך))))
-              (PUNC ?)) (ID 1928E-KARPILOV.YID.PSD,.133))
+              (PUNC ?))
+  (ID 1928E-KARPILOV.YID.PSD,.133))
 
 ( (IP-MAT (NP-SBJ (PRO איך))
           (BEP בין)
           (NP-RFL (PRO זיך))
           (ADJP (ADJ איבעריג))
-          (PUNC ,)) (ID 1928E-KARPILOV.YID.PSD,.134))
+          (PUNC ,))
+  (ID 1928E-KARPILOV.YID.PSD,.134))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ (PRO איך))
@@ -1698,7 +1812,8 @@
           (NEG ניט)
           (BE *)
           (ADVP-DIR (ADV אַװעק))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.135))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.135))
 
 ( (CODE <page_num:10_text_block_num:1>))
 
@@ -1738,7 +1853,8 @@
                                                                   (HVP האָב)
                                                                   (NEG ניט)
                                                                   (VBN געזאָגט))
-                                                          (PUNC .)))))))) (ID 1928E-KARPILOV.YID.PSD,.137))
+                                                          (PUNC .))))))))
+  (ID 1928E-KARPILOV.YID.PSD,.137))
 
 ( (IP-MAT (NP-SBJ (D די)
                   (N שפּראַך))
@@ -1759,7 +1875,9 @@
                                                    (PUNC ,)
                                                    (ADJ אַלגעמײנע))
                                              (NS זאַכען))))))))
-          (PUNC .)))( (IP-MAT (NP-SBJ-1 (ES עס))
+          (PUNC .)))
+
+( (IP-MAT (NP-SBJ-1 (ES עס))
           (BEP איז)
           (ADJP (ADJ שװער))
           (IP-INF-1 (IP-INF (TO צו)
@@ -1789,7 +1907,8 @@
                                                    (PP (P פון)
                                                        (NP (D דער)
                                                            (N נאָהענטקײט))))))))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.138))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.138))
 
 ( (IP-MAT (IP-PPL (VAG װאַרטענדיג)
                   (PP (P פאַר)
@@ -1808,7 +1927,8 @@
                         (MDP זאָל)
                         (NEG ניט)
                         (VB קומען))
-          (PUNC ;)) (ID 1928E-KARPILOV.YID.PSD,.139))
+          (PUNC ;))
+  (ID 1928E-KARPILOV.YID.PSD,.139))
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ (PRO איך))
                     (VLP װאָלט)
@@ -1825,7 +1945,8 @@
                                    (N פאָרטזעצונג)
                                    (PP (P פון)
                                        (NP (Q גאָרנישט)))))))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.140))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.140))
 
 ( (CODE <page_num:10_text_block_num:2>))
 
@@ -1877,7 +1998,8 @@
                                                                           (PP (P פאַר)
                                                                               (NP (D דער)
                                                                                   (N צוקונפט)))))))))))))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.142))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.142))
 
 ( (CODE <page_num:10_text_block_num:3>))
 
@@ -1885,14 +2007,16 @@
           (VBP האַס)
           (NP-OB1 (PRO$ זײן)
                   (N ליעבע))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.144))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.144))
 
 ( (IP-MAT (NP-SBJ (PRO איך))
           (VBP װיל)
           (NP-OB1 (PRO זי))
           (NP-MSR (QR מעהר))
           (NEG ניט)
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.145))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.145))
 
 ( (IP-MAT (NP-SBJ (D אַ)
                   (N ליעבע)
@@ -1914,7 +2038,8 @@
           (PP (P אין)
               (NP (D דער)
                   (N געגענװאַרט)))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.146))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.146))
 
 ( (IP-MAT (NP-SBJ (ADJ װײטע)
                   (NS בעציהונגען))
@@ -1930,7 +2055,8 @@
                                         (NP (PRO זײ)))
                                     (VBP קומען)
                                     (NP-SBJ (ADJ נאָהענטע)))))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.147))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.147))
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ (MAN מען))
                     (MDP מעג)
@@ -1943,18 +2069,21 @@
                            (NEG ניט)
                            (PP (P אין)
                                (NP (N ליעבע)))))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.148))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.148))
 
 ( (IP-MAT (NP-SBJ (N ליעבע))
           (VBP װיל)
           (NP-OB1 (NS פאַנאַטיקער))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.149))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.149))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (BEP איז)
           (NP-PRD (D דאָס))
           (NEG ניט)
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.150))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.150))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (BEP איז)
@@ -1984,7 +2113,8 @@
                                                                                         (NP-SBJ (PRO ער))
                                                                                         (MDP זאָל)
                                                                                         (VB פערליערען))))))))))
-          (PUNC ...)) (ID 1928E-KARPILOV.YID.PSD,.151))
+          (PUNC ...))
+  (ID 1928E-KARPILOV.YID.PSD,.151))
 
 ( (CODE <page_num:10_text_block_num:4>))
 
@@ -1999,7 +2129,8 @@
                                           (NP-RFL (PRO זיך))
                                           (RP אַױס>)
                                           (VBN <געװײנט))))
-            (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.153))
+            (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.153))
 
 ( (IP-MAT (NP-SBJ (D די)
                   (NS טרערען))
@@ -2019,7 +2150,8 @@
                                      (PP (P אין)
                                          (NP (D אַ)
                                              (N נס))))))))
-          (PUNC —)) (ID 1928E-KARPILOV.YID.PSD,.154))
+          (PUNC —))
+  (ID 1928E-KARPILOV.YID.PSD,.154))
 
 ( (CP-QUE-MAT (IP-SUB (BEP איז)
                       (NP-SBJ (PRO$ זײן)
@@ -2028,7 +2160,8 @@
                               (C 0)
                               (IP-SUB (ADVP *T*-1)
                                       (NP-SBJ (PRO$ מײנע)))))
-              (PUNC ...)) (ID 1928E-KARPILOV.YID.PSD,.155))
+              (PUNC ...))
+  (ID 1928E-KARPILOV.YID.PSD,.155))
 
 ( (CODE <page_num:10_text_block_num:5>))
 
@@ -2082,18 +2215,21 @@
                                         (NP-MSR (QR מעהר))
                                         (NEG ניט)
                                         (VB זעהן))))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.157))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.157))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (HVP האָט)
           (VBN געשװיגען)
-          (PUNC ...)) (ID 1928E-KARPILOV.YID.PSD,.158))
+          (PUNC ...))
+  (ID 1928E-KARPILOV.YID.PSD,.158))
 
 ( (IP-MAT (ADVP (ADV אַזױ))
           (HVP האָב)
           (NP-SBJ (PRO איך))
           (DON געטהאָן)
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.159))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.159))
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ (PRO מיר))
                     (HVP האָבען)
@@ -2113,7 +2249,8 @@
                            (RP צו>)
                            (VB <גאַנגען)
                            (CODE {COM:appears_to_mean_"tsegangn",_i.e._separate,_but_the_vov_is_in_the_text.})))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.160))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.160))
 
 ( (CODE <page_num:11_text_block_num:0>))
 
@@ -2124,7 +2261,8 @@
           (PUNC ,)
           (NP-1 (D די)
                 (N ליעבע))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.162))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.162))
 
 ( (IP-MAT (NP-SBJ (PRO איך))
           (MDP װעל)
@@ -2136,7 +2274,8 @@
                     (RP אָפּ>)
                     (TO <צו>)
                     (VB <רופען))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.163))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.163))
 
 ( (IP-MAT (NP-SBJ (D אַ)
                   (ADJ טױדטע)
@@ -2152,7 +2291,8 @@
           (NP-RFL (PRO זיך))
           (NP-OB1 (PRO עס))
           (FP נאָר)
-          (PUNC ,)) (ID 1928E-KARPILOV.YID.PSD,.164))
+          (PUNC ,))
+  (ID 1928E-KARPILOV.YID.PSD,.164))
 
 ( (IP-MAT (CONJ אָבער)
           (ADVP (ADV צוריק)
@@ -2162,19 +2302,22 @@
           (VBP קומט)
           (NP-SBJ (PRO עס))
           (NEG ניט)
-          (PUNC ...)) (ID 1928E-KARPILOV.YID.PSD,.165))
+          (PUNC ...))
+  (ID 1928E-KARPILOV.YID.PSD,.165))
 
 ( (CODE <page_num:12_text_block_num:0>))
 
 ( (NP-TTL (ADJ װײטער)
           (N פריהלינג)
-          (PUNC ...)) (ID 1928E-KARPILOV.YID.PSD,.167))
+          (PUNC ...))
+  (ID 1928E-KARPILOV.YID.PSD,.167))
 
 ( (CODE <page_num:12_text_block_num:1>))
 
 ( (NP-TTL (ADJ װײטער)
           (N פריהלינג)
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.169))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.169))
 
 ( (CODE <page_num:12_text_block_num:2>))
 
@@ -2212,7 +2355,8 @@
                                                           (NP (N גליק))))))))))
               (PUNC .)
               (PUNC “)
-              (PUNC —)) (ID 1928E-KARPILOV.YID.PSD,.171))
+              (PUNC —))
+  (ID 1928E-KARPILOV.YID.PSD,.171))
 
 ( (IP-MAT-SPE (ADVP (ADV אזױ))
               (VBP זאָגען)
@@ -2227,7 +2371,8 @@
                                                    (VBP בעזינגען))
                                               (NP-OB1 (D דעם)
                                                       (N פריהלינג)))))
-              (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.172))
+              (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.172))
 
 ( (CODE <page_num:12_text_block_num:3>))
 
@@ -2236,12 +2381,14 @@
           (VBP זאָג)
           (NP-OB1 (PRO עס))
           (NEG ניט)
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.174))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.174))
 
 ( (IP-MAT (NP-SBJ (PRO איך))
           (VBP פיהל)
           (ADVP (ADV אַנדערש))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.175))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.175))
 
 ( (IP-MAT (CP-ADV (C װען)
                   (IP-SUB (NP-SBJ (PRO איך))
@@ -2258,7 +2405,8 @@
                         (VBP *)
                         (ADVP (ADV װײטער))
                         (NP-SBJ (N װינטער)))
-          (PUNC ...)) (ID 1928E-KARPILOV.YID.PSD,.176))
+          (PUNC ...))
+  (ID 1928E-KARPILOV.YID.PSD,.176))
 
 ( (CODE <page_num:12_text_block_num:4>))
 
@@ -2275,7 +2423,8 @@
           (NP-OB1 (D די)
                   (ADJ פערװעלקטע)
                   (N בלום))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.178))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.178))
 
 ( (IP-MAT (CP-ADV (C װען)
                   (IP-SUB (NP-SBJ (D די)
@@ -2312,7 +2461,8 @@
                                                      (PP (P פון)
                                                          (NP (ADJ בײזען)
                                                              (N װינט))))))))
-          (PUNC ...)) (ID 1928E-KARPILOV.YID.PSD,.179))
+          (PUNC ...))
+  (ID 1928E-KARPILOV.YID.PSD,.179))
 
 ( (CODE <page_num:12_text_block_num:5>))
 
@@ -2328,7 +2478,8 @@
                           (RDP װערען)
                           (ADVP (ADV ערשט))
                           (VBN געבאָרען)))
-          (PUNC ...)) (ID 1928E-KARPILOV.YID.PSD,.181))
+          (PUNC ...))
+  (ID 1928E-KARPILOV.YID.PSD,.181))
 
 ( (CODE <page_num:12_text_block_num:6>))
 
@@ -2339,7 +2490,8 @@
           (RP אָפּ)
           (ADJP-SPR (ADJ אלײן))
           (PP (P מיט)
-              (NP (PRO זיך)))) (ID 1928E-KARPILOV.YID.PSD,.183))
+              (NP (PRO זיך))))
+  (ID 1928E-KARPILOV.YID.PSD,.183))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ *con*)
@@ -2351,7 +2503,8 @@
                           (NP (PRO מיר)))
                       (NEG ניט)
                       (VB קומען))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.184))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.184))
 
 ( (IP-MAT (NP-XPR (PRO מיר))
           (VBP װילט)
@@ -2362,7 +2515,9 @@
                         (NP (Q קײנעם)))
                     (NEG ניט)
                     (VB געהן))
-          (PUNC .)))( (IP-MAT (NP-SBJ (PRO איך))
+          (PUNC .)))
+
+( (IP-MAT (NP-SBJ (PRO איך))
           (VBP קוק)
           (ADVP (NP-MSR (NS שטונדען))
                 (ADV לאַנג))
@@ -2401,7 +2556,8 @@
                                                                           (ADJ גרױסע)
                                                                           (NS (NS21 טענעמענט)
                                                                               (NS22 הײזער)))))))))))))
-          (PUNC ,)) (ID 1928E-KARPILOV.YID.PSD,.185))
+          (PUNC ,))
+  (ID 1928E-KARPILOV.YID.PSD,.185))
 
 ( (CP-EXL (WADVP-1 (WADV װי))
           (C 0)
@@ -2426,7 +2582,8 @@
                                                   (N לעבען))
                                           (PP (P אונטער)
                                               (NP (PRO זײ))))))))
-          (PUNC ...)) (ID 1928E-KARPILOV.YID.PSD,.186))
+          (PUNC ...))
+  (ID 1928E-KARPILOV.YID.PSD,.186))
 
 ( (CODE <page_num:12_text_block_num:7>))
 
@@ -2466,7 +2623,8 @@
                                                                    (PUNC „)
                                                                    (VB ענדיגען))))))))
           (PUNC “)
-          (PUNC ...)) (ID 1928E-KARPILOV.YID.PSD,.188))
+          (PUNC ...))
+  (ID 1928E-KARPILOV.YID.PSD,.188))
 
 ( (IP-MAT-SPE (PUNC „)
               (NP-SBJ (PRO ער))
@@ -2478,7 +2636,8 @@
               (PP (P פון)
                   (ADVP (ADV אױבען)))
               (ADVP-DIR (ADV אראָפּ))
-              (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.189))
+              (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.189))
 
 ( (IP-MAT (PP (P פון)
               (NP (PRO$ איהרע)
@@ -2501,7 +2660,8 @@
                                     (NEG ניט)
                                     (MD װעלען)
                                     (VB קוקען)))))
-          (PUNC ...)) (ID 1928E-KARPILOV.YID.PSD,.190))
+          (PUNC ...))
+  (ID 1928E-KARPILOV.YID.PSD,.190))
 
 ( (IP-MAT (NP-SBJ (PRO איך))
           (VBP זעה)
@@ -2528,7 +2688,8 @@
                                                               (NP (N געיעג)))
                                                           (PP (P נאָך)
                                                               (NP (N ערפאָלג)))))))))))
-          (PUNC ...)) (ID 1928E-KARPILOV.YID.PSD,.191))
+          (PUNC ...))
+  (ID 1928E-KARPILOV.YID.PSD,.191))
 
 ( (CODE <page_num:13_text_block_num:0>))
 
@@ -2541,7 +2702,8 @@
                   (IP-INF (ADJP *T*-1)
                           (TO צו)
                           (BE זײן)))
-          (PUNC !)) (ID 1928E-KARPILOV.YID.PSD,.193))
+          (PUNC !))
+  (ID 1928E-KARPILOV.YID.PSD,.193))
 
 ( (FRAG (WADJP (WADJP (WADV װי)
                       (VAN דערשלאָגען))
@@ -2557,7 +2719,8 @@
                                (IP-SUB (NP-SBJ (PRO ער))
                                        (VBP קומט)
                                        (NEG ניט)))))
-        (PUNC !)) (ID 1928E-KARPILOV.YID.PSD,.194))
+        (PUNC !))
+  (ID 1928E-KARPILOV.YID.PSD,.194))
 
 ( (IP-MAT (CONJ און)
           (CP-ADV (C װען)
@@ -2591,19 +2754,22 @@
                                           (CONJP (NP-PRN (D א)
                                                          (ADJP (QR מעהר)
                                                                (ADJ צופריעדענשטלענדע)))))))))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.195))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.195))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (VBP זעהט)
           (NP-OB1 (PRO עס))
-          (PUNC ...)) (ID 1928E-KARPILOV.YID.PSD,.196))
+          (PUNC ...))
+  (ID 1928E-KARPILOV.YID.PSD,.196))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ (D דאָס))
           (VBP פערגרעסערט)
           (NP-OB1 (D דעם)
                   (N אומגליק))
-          (PUNC ;)) (ID 1928E-KARPILOV.YID.PSD,.197))
+          (PUNC ;))
+  (ID 1928E-KARPILOV.YID.PSD,.197))
 
 ( (IP-MAT (NP-SBJ (N ליעבע))
           (BEP איז)
@@ -2619,7 +2785,8 @@
                                   (VB װײזען)
                                   (NP-OB1 (D די)
                                           (NS קאָרטען)))))
-          (PUNC ...)) (ID 1928E-KARPILOV.YID.PSD,.198))
+          (PUNC ...))
+  (ID 1928E-KARPILOV.YID.PSD,.198))
 
 ( (CODE <page_num:13_text_block_num:1>))
 
@@ -2634,7 +2801,8 @@
                   (PP (P פון)
                       (NP (PRO$ איהר)
                           (N לעבען))))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.200))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.200))
 
 ( (IP-MAT (NP-SBJ (D דאָס))
           (BEP איז)
@@ -2644,7 +2812,8 @@
                       (NP (D דער)
                           (ADJ רײכע)
                           (N פרױ))))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.201))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.201))
 
 ( (IP-MAT (NP-SBJ (D די)
                   (ADJP (ADJ אָרימע)
@@ -2654,7 +2823,8 @@
           (NEG ניט)
           (PP (P פון)
               (NP (N פריהלינג)))
-          (PUNC ,)) (ID 1928E-KARPILOV.YID.PSD,.202))
+          (PUNC ,))
+  (ID 1928E-KARPILOV.YID.PSD,.202))
 
 ( (IP-MAT (PP (P פאַר)
               (NP (PRO איהר)))
@@ -2663,7 +2833,8 @@
           (NP-SBJ (N הערבסט)
                   (CONJ און)
                   (N װינטער))
-          (PUNC ...)) (ID 1928E-KARPILOV.YID.PSD,.203))
+          (PUNC ...))
+  (ID 1928E-KARPILOV.YID.PSD,.203))
 
 ( (CODE <page_num:13_text_block_num:2>))
 
@@ -2680,7 +2851,8 @@
                           (PP (P פון)
                               (NP (D דער)
                                   (N פרױ)))))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.205))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.205))
 
 ( (IP-MAT (CONJ און)
           (RDP װערט)
@@ -2693,7 +2865,8 @@
                       (NP (PRO$ איהר)
                           (PUNC ...)
                           (N שװאַכקײט)))))
-          (PUNC ,)) (ID 1928E-KARPILOV.YID.PSD,.206))
+          (PUNC ,))
+  (ID 1928E-KARPILOV.YID.PSD,.206))
 
 ( (IP-MAT (RDP װערט)
           (NP-SBJ (PRO ער))
@@ -2701,7 +2874,8 @@
           (PP (DR+P דערפאַר))
           (NP-PRD (D אַ)
                   (N שונא))
-          (PUNC ...)) (ID 1928E-KARPILOV.YID.PSD,.207))
+          (PUNC ...))
+  (ID 1928E-KARPILOV.YID.PSD,.207))
 
 ( (CODE <page_num:13_text_block_num:3>))
 
@@ -2742,7 +2916,8 @@
                       (RP-H מוחל)
                       (BE זײן))
           (PUNC ...)
-          (PUNC “)) (ID 1928E-KARPILOV.YID.PSD,.209))
+          (PUNC “))
+  (ID 1928E-KARPILOV.YID.PSD,.209))
 
 ( (CODE <page_num:13_text_block_num:4>))
 
@@ -2750,7 +2925,8 @@
           (VBP קוק)
           (PP (P אױף)
               (NP (PRO$ מײן)
-                  (N האַנד)))) (ID 1928E-KARPILOV.YID.PSD,.211))
+                  (N האַנד))))
+  (ID 1928E-KARPILOV.YID.PSD,.211))
 
 ( (IP-MAT=1 (CONJ און)
             (NP-SBJ *con*)
@@ -2777,14 +2953,16 @@
                                     (PUNC ,)
                                     (RP איבער>)
                                     (VBN <געלאָזען))))
-            (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.212))
+            (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.212))
 
 ( (IP-MAT (NP-SBJ (PRO איך))
           (HVP האָב)
           (NP-OB1 (PRO איהם))
           (PUNC ...)
           (RP-ADJ ליעב)
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.213))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.213))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (VBP װײסט)
@@ -2797,7 +2975,8 @@
                               (NP-SBJ (PRO איך))
                               (VBP ליעב)
                               (NP-OB1 (PRO איהם))))
-          (PUNC ,)) (ID 1928E-KARPILOV.YID.PSD,.214))
+          (PUNC ,))
+  (ID 1928E-KARPILOV.YID.PSD,.214))
 
 ( (IP-MAT-1 (CONJ און)
             (NP-SBJ (PRO איך))
@@ -2811,7 +2990,8 @@
                           (NP-OB2 (PRO איהם)))
             (NEG ניט)
             (VB זאָגען)
-            (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.215))
+            (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.215))
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ (PRO$ זײן)
                             (IP-INF (NEG ניט)
@@ -2846,7 +3026,8 @@
                            (VB בעלײדיגען)
                            (NP-OB1 (PRO$ מײן)
                                    (N שטאָלץ))))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.216))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.216))
 
 ( (IP-MAT (IP-MAT-1 (NP-OB1 (PRO$ מײן)
                             (ADJ בעלײדיגטען)
@@ -2861,7 +3042,8 @@
                                    (N האַרץ))
                            (PUNC —)
                            (NEG ניט)))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.217))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.217))
 
 ( (IP-MAT (NP-SBJ (PRO איך))
           (MDP קען)
@@ -2873,7 +3055,8 @@
                       (PUNC ,)
                       (ADV גוט))
                 (VB בעהאַלטען))
-          (PUNC ...)) (ID 1928E-KARPILOV.YID.PSD,.218))
+          (PUNC ...))
+  (ID 1928E-KARPILOV.YID.PSD,.218))
 
 ( (CODE <page_num:13_text_block_num:5>))
 
@@ -2886,7 +3069,8 @@
           (ADJP (ADJ טײער))
           (NP-PRN-2 (PRO$ מײנע)
                     (NS לײדען))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.220))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.220))
 
 ( (IP-MAT (NP-SBJ (PRO איך))
           (VBP פערשטאַרק)
@@ -2899,7 +3083,8 @@
                       (NP (PRO$ זײן)
                           (N ליעבע)
                           (PP (P צו)
-                              (NP (OTHER אַנדערע)))))))) (ID 1928E-KARPILOV.YID.PSD,.221))
+                              (NP (OTHER אַנדערע))))))))
+  (ID 1928E-KARPILOV.YID.PSD,.221))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ *con*)
@@ -2915,7 +3100,8 @@
                          (IP-INF (VB לײדען)
                                  (PP (P פאַר)
                                      (NP (PRO איהם)))))))
-          (PUNC ...)) (ID 1928E-KARPILOV.YID.PSD,.222))
+          (PUNC ...))
+  (ID 1928E-KARPILOV.YID.PSD,.222))
 
 ( (CODE <page_num:14_text_block_num:0>))
 
@@ -2927,7 +3113,8 @@
           (IP-INF (PP (P צו)
                       (NP (PRO איהם)))
                   (VB קומען))
-          (PUNC !)) (ID 1928E-KARPILOV.YID.PSD,.224))
+          (PUNC !))
+  (ID 1928E-KARPILOV.YID.PSD,.224))
 
 ( (IP-MAT-SPE (IP-MAT-SPE-1 (PP (P בײ)
                                 (NP (PRO איהם)))
@@ -2956,14 +3143,17 @@
                                                                    (VB שטערען)
                                                                    (PP (P צו)
                                                                        (NP (N ליעבע))))))))
-              (PUNC .)))( (IP-MAT (NP-XPR (PRO איהם))
+              (PUNC .)))
+
+( (IP-MAT (NP-XPR (PRO איהם))
           (VBP אַרט)
           (NP-SBJ-1 *exp*)
           (NEG ניט)
           (NP-1 (D די)
                 (ADJ עפענטליכע)
                 (N מײנונג))
-          (PUNC ,)) (ID 1928E-KARPILOV.YID.PSD,.225))
+          (PUNC ,))
+  (ID 1928E-KARPILOV.YID.PSD,.225))
 
 ( (IP-MAT (CONJ און)
           (ADVP-DIAGN (ADV דאָך))
@@ -2974,7 +3164,8 @@
                       (NP (PRO איהר)))
                   (TO צו)
                   (VB בעהאַלטען))
-          (PUNC ...)) (ID 1928E-KARPILOV.YID.PSD,.226))
+          (PUNC ...))
+  (ID 1928E-KARPILOV.YID.PSD,.226))
 
 ( (CP-QUE-MAT (CP-ADV (C אױב)
                       (IP-SUB (NP-SBJ (D די)
@@ -3011,7 +3202,8 @@
                                         (PP (P מיט)
                                             (NP (D אַ)
                                                 (N פערברעכען))))))
-              (PUNC ?)) (ID 1928E-KARPILOV.YID.PSD,.227))
+              (PUNC ?))
+  (ID 1928E-KARPILOV.YID.PSD,.227))
 
 ( (CODE <page_num:14_text_block_num:1>))
 
@@ -3029,7 +3221,8 @@
           (BE זײן)
           (NP-PRD (D די)
                   (N בעזיעגטע))
-          (PUNC ,)) (ID 1928E-KARPILOV.YID.PSD,.229))
+          (PUNC ,))
+  (ID 1928E-KARPILOV.YID.PSD,.229))
 
 ( (IP-MAT (MDP זאָל)
           (NP-SBJ (PRO$ מײן)
@@ -3048,7 +3241,8 @@
                                   (IP-INF (NP-OB1 *T*-1)
                                           (NP-SBJ *arb*)
                                           (VB בעזיעגען))))))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.230))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.230))
 
 ( (IP-MAT (NP-SBJ (PRO איך))
           (MDP מוז)
@@ -3072,7 +3266,8 @@
                                           (PP (P צו)
                                               (NP (PRO$ זײן)
                                                   (N געװיסען))))))))
-          (PUNC ,)) (ID 1928E-KARPILOV.YID.PSD,.231))
+          (PUNC ,))
+  (ID 1928E-KARPILOV.YID.PSD,.231))
 
 ( (FRAG (CP-QUE-SUB (WPP-1 (P צו)
                            (WNP (WPRO װאָס)))
@@ -3088,7 +3283,8 @@
                                                     (NP (PRO מיר)))
                                                 (VB לײדען)))))
         (PUNC ?)
-        (PUNC !)) (ID 1928E-KARPILOV.YID.PSD,.232))
+        (PUNC !))
+  (ID 1928E-KARPILOV.YID.PSD,.232))
 
 ( (IP-MAT (INTJ נײן)
           (PUNC .)
@@ -3098,7 +3294,8 @@
               (NP (PRO איהם)))
           (NEG ניט)
           (VB געהן)
-          (PUNC ,)) (ID 1928E-KARPILOV.YID.PSD,.233))
+          (PUNC ,))
+  (ID 1928E-KARPILOV.YID.PSD,.233))
 
 ( (CP-EXL (IP-SUB (MDP מעג)
                   (NP-SBJ (PRO ער))
@@ -3108,7 +3305,8 @@
                   (ADVP-TMP (ADV קײנמאָל))
                   (NEG ניט)
                   (VB קומען))
-          (PUNC !)) (ID 1928E-KARPILOV.YID.PSD,.234))
+          (PUNC !))
+  (ID 1928E-KARPILOV.YID.PSD,.234))
 
 ( (CODE <page_num:14_text_block_num:2>))
 
@@ -3132,7 +3330,8 @@
                           (PP (P פון)
                               (NP (PRO$ זײן)
                                   (N צימער)))))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.236))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.236))
 
 ( (CODE <page_num:14_text_block_num:3>))
 
@@ -3141,7 +3340,8 @@
           (BEN געװען)
           (ADJP (VAN האַלב־בעלױכטען))
           (PUNC .)
-          (PUNC —)) (ID 1928E-KARPILOV.YID.PSD,.238))
+          (PUNC —))
+  (ID 1928E-KARPILOV.YID.PSD,.238))
 
 ( (IP-MAT (NP-SBJ (Q קײנער))
           (HVP האָט)
@@ -3153,7 +3353,8 @@
           (NEG ניט)
           (VBN געזעהען)
           (PUNC .)
-          (PUNC —)) (ID 1928E-KARPILOV.YID.PSD,.239))
+          (PUNC —))
+  (ID 1928E-KARPILOV.YID.PSD,.239))
 
 ( (IP-MAT (NP-SBJ (PRO איך))
           (BEP בין)
@@ -3167,7 +3368,8 @@
                   (N (N21 זײט)
                      (N22 גאַס))
                   (ADVP (ADV געגענאיבער))))
-          (PUNC ,)) (ID 1928E-KARPILOV.YID.PSD,.240))
+          (PUNC ,))
+  (ID 1928E-KARPILOV.YID.PSD,.240))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ (PRO$ מײן)
@@ -3175,16 +3377,19 @@
           (HVP האָט)
           (ADVP (ADV שטארק))
           (VBN געקלאַפּט)
-          (PUNC :)) (ID 1928E-KARPILOV.YID.PSD,.241))
+          (PUNC :))
+  (ID 1928E-KARPILOV.YID.PSD,.241))
 
 ( (FRAG (NP (PRO$ זײן)
             (N פינסטער))
-        (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.242))
+        (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.242))
 
 ( (IP-MAT (NP-SBJ (PRO ס’>))
           (BEP <איז)
           (ADJP (ADJ ליכטיג))
-          (PUNC ...)) (ID 1928E-KARPILOV.YID.PSD,.243))
+          (PUNC ...))
+  (ID 1928E-KARPILOV.YID.PSD,.243))
 
 ( (IP-MAT (CP-ADV (C װען)
                   (IP-SUB (NP-SBJ (PRO איך))
@@ -3199,7 +3404,8 @@
           (NEG ניט)
           (NP-MSR (QR מעהר))
           (ADJP (ADJ אַלײן))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.244))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.244))
 
 ( (FRAG (IP-INF (IP-INF-1 (FP נאָר)
                           (ADVP-DIR (ADV אַרײנ>))
@@ -3207,7 +3413,8 @@
                 (CONJP (CONJ און)
                        (IP-INF=1 (ADV גלײך)
                                  (ADVP-DIR (RP-ADV אַװעק)))))
-        (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.245))
+        (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.245))
 
 ( (FRAG (IP-INF (ADVP-DIR (ADV אַװעק>))
                 (VB <טראָגען)
@@ -3227,7 +3434,8 @@
                         (PUNC ,)
                         (CONJP (NP (D אַ)
                                    (N װאָרט)))))
-        (PUNC ...)) (ID 1928E-KARPILOV.YID.PSD,.246))
+        (PUNC ...))
+  (ID 1928E-KARPILOV.YID.PSD,.246))
 
 ( (CODE <page_num:14_text_block_num:4>))
 
@@ -3242,7 +3450,8 @@
           (NEG ניט)
           (MDN געקענט)
           (VB בעשליסען)
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.248))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.248))
 
 ( (CP-QUE-MAT (WNP-1 (WPRO װאָס))
               (IP-SUB (NP-OB1 *T*-1)
@@ -3256,7 +3465,8 @@
                       (PP (P װעגען)
                           (NP (PRO מיר))))
               (PUNC ?)
-              (PUNC !)) (ID 1928E-KARPILOV.YID.PSD,.249))
+              (PUNC !))
+  (ID 1928E-KARPILOV.YID.PSD,.249))
 
 ( (IP-MAT (INTJ נײן)
           (PUNC ,)
@@ -3266,7 +3476,8 @@
               (NP (PRO איהם)))
           (NEG ניט)
           (VB געהן)
-          (PUNC ,)) (ID 1928E-KARPILOV.YID.PSD,.250))
+          (PUNC ,))
+  (ID 1928E-KARPILOV.YID.PSD,.250))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (MDP קען)
@@ -3274,7 +3485,8 @@
           (PP (P צו)
               (NP (PRO מיר)))
           (VB קומען)
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.251))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.251))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ (D דאָס)
@@ -3306,7 +3518,8 @@
                 (ADV װי))
           (NEG ניט)
           (VBN געשעהן)
-          (PUNC ...)) (ID 1928E-KARPILOV.YID.PSD,.252))
+          (PUNC ...))
+  (ID 1928E-KARPILOV.YID.PSD,.252))
 
 ( (CODE <page_num:14_text_block_num:5>))
 
@@ -3314,7 +3527,8 @@
           (BEP איז)
           (NP-PRD (PRO$ זײן)
                   (N פענסטער))
-          (PUNC .)) (ID 1928E-KARPILOV.YID.PSD,.254))
+          (PUNC .))
+  (ID 1928E-KARPILOV.YID.PSD,.254))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (VBP זיצט)
@@ -3325,10 +3539,11 @@
                   (PP (P פון)
                       (NP (PRO$ זיין)
                           (ADJ אָפּגעזונדערטען)
-                          (N צימער)))))) (ID 1928E-KARPILOV.YID.PSD,.255))
+                          (N צימער))))))
+  (ID 1928E-KARPILOV.YID.PSD,.255))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ *con*)
           (VBP לעזט)
           (PUNC .))
-	  (ID 1928E-KARPILOV.YID.PSD,.256))
+  (ID 1928E-KARPILOV.YID.PSD,.256))

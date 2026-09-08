@@ -108,7 +108,7 @@
                                               (HVP האָבּן)
                                               (NP-OB1 (Q גאָרנישט)
                                                       (PUNC ,)
-                                                      (CP-REL-SPE (WNP-2 0)
+                                                      (CP-EOP-SPE (WNP-2 0)
                                                                   (C װאָס)
                                                                   (IP-INF-SPE (NP-OB1 *T*-2)
                                                                               (TO צו)
