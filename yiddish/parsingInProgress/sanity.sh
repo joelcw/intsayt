@@ -203,10 +203,11 @@ echo "Bad *ICH* trace"
 $CS ../../scripts/sanity_checks/bad-ich-trace.q $tempfile
 mv -f $tempfile.out $tempfile
 
-echo ""
-echo "Bad *T* trace"
-$CS ../../scripts/sanity_checks/bad-t-trace.q $tempfile
-mv -f $tempfile.out $tempfile
+####This was introducing errors and needs debugged
+#echo ""
+#echo "Bad *T* trace"
+#$CS ../../scripts/sanity_checks/bad-t-trace.q $tempfile
+#mv -f $tempfile.out $tempfile
 
 
 #echo ""
