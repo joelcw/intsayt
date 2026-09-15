@@ -289,6 +289,7 @@
         (PUNC .)))
 
 ( (FRAG (NP-OB1 (CP-FRL (WNP-1 (WPRO װאָס))
+                        (C 0)
                         (IP-SUB (NP-LGS *T*-1)
                                 (NP-SBJ (ES עס))
                                 (MDP פֿלעגט)
@@ -310,11 +311,12 @@
                 (CONJP (NP (H פּורים))))
         (PUNC .)))
 
-( (IP-MAT (IP-MAT-PRN (VBP װײסט))
+( (IP-MAT (IP-MAT-PRN (NP-SBJ *pro*)
+                      (VBP װײסט))
           (PUNC ,)
           (NP-SBJ (MAN מען))
           (MDP פֿלעגט)
-          (QP (Q אַלע))
+          (Q אַלע)
           (VB זיצן)
           (PP (P בײַ>)
               (NP (D <ן)
