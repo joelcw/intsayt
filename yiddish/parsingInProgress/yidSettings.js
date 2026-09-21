@@ -178,6 +178,7 @@ function customConLeafBefore() {
     addConLeafBefore("CODE"   , "{COM:XXX}" );
     addConLeafAfter("CODE"   , "{COM:XXX}" );
     addConLeafAfter( "VB", "*");
+    addConLeafAfter( "BREAK", "0");
 }
 
 // An example of a CSS rule for coloring a syntactic tag.  The styleTag
