@@ -1,11 +1,11 @@
 import sys,string
 from glob import glob
 
-filelist = glob('%s' % sys.stdin.read())
+filelist = glob('%s' % sys.argv[1])
 
 
 for file in filelist:
 
     string = open(file,"r").read()
-    sys.stdout.write("%s\n\n" % string)
-    file.close()
+    sys.stdout.write("%s\n" % string)
+
