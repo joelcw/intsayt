@@ -435,8 +435,6 @@
             (NEG ניט)
             (PUNC .)))
 
-( (CODE {COM:check_-_RNR?_tape_2_at_16-37}))
-
 ( (FRAG (INTJ DA)
         (PUNC .))
   (ID Dora_Shapiro,2_0_1208_1209.361))
