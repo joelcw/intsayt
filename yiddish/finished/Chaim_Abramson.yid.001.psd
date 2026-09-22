@@ -607,7 +607,7 @@
                               (MDP זאָל))))
           (PUNC ,)
           (FS (CP-ADV (C אַז)
-                      (IP-SUB (NP-SBJ (MAN מע)))))
+                      (FRAG (NP-SBJ (MAN מע)))))
           (NP-SBJ (PRO סע))
           (HVP האָט)
           (MDN געדאַרפֿט)
