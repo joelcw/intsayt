@@ -546,6 +546,7 @@
           (RP אױס>)
           (VB <קאָכן)
           (NP-OB1 (CP-FRL (WNP-1 (WPRO װאָס))
+                          (C 0)
                           (IP-SUB (NP-SBJ *T*-1)
                                   (NEG ניט)
                                   (BEP איז))))
