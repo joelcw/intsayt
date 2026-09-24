@@ -12,10 +12,12 @@
                       (PP (P אין)
                           (NP (NPR גאָט)))
                       (CP-ADV (C אַז)
+                              (CODE *ZZZ_MISS_SBJ*)
                               (IP-SUB (VP (VBN פּאַסירט)
                                           (NP-SBJ (ADJ אַזאַ)
                                                   (N זאַך)))
-                                      (BEP איז)))))
+                                      (BEP איז)))
+                      (CODE {COM:check_this})))
   (ID Chaim_Abramson,1_0_1417_1430.188))
 
 ( (FRAG (INTJ NO)
@@ -429,11 +431,11 @@
               (NP (D <ן)
                   (X UNK)))))
 
-( (IP-MAT (NP-SBJ *exp*)
+( (IP-MAT (NP-SBJ-1 *exp*)
           (BEP *)
           (BEN געװען)
-          (NP-SBJ (D אַ)
-                  (N פֿראָסט))
+          (NP-1 (D אַ)
+                (N פֿראָסט))
           (PUNC ,)))
 
 ( (IP-MAT (NP-SBJ (PRO ס’>))
