@@ -35,6 +35,11 @@ $CS ../../scripts/structure_building/fix-eyn.q $FILE > problemfile.txt
 mv -f $FILE.out $FILE
 
 echo ""
+echo "Fix unk"
+$CS ../../scripts/structure_building/fix-unk.q $FILE > problemfile.txt
+mv -f $FILE.out $FILE
+
+echo ""
 echo "Fix mer"
 $CS ../../scripts/structure_building/fix-mer.q $FILE > problemfile.txt
 mv -f $FILE.out $FILE
