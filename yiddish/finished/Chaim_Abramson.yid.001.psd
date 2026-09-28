@@ -586,8 +586,8 @@
           (PUNC .))
   (ID Chaim_Abramson,1_0_0907_0915.133))
 
-( (IP-MAT (CP-ADV (IP-SUB (NP-SBJ *pro*)
-                          (HVP האָט)
+( (IP-MAT (CP-ADV (IP-SUB (HVP האָט)
+                          (NP-SBJ *pro*)
                           (MDN געװעלט)
                           (ADVP-DIR (ADV אַרױס>))
                           (VB <גײן)))
