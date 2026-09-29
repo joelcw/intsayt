@@ -550,7 +550,7 @@
 ( (FRAG (CONJ און)
         (NP-RFL (PRO זיך))
         (VBN געקװעטשט)
-        (NP-ADV (ONE אײנער)
+        (NP-ADV (NP (ONE אײנער))
                 (PP (P אין)
                     (NP (D די)
                         (OTHER אַנדערע))))
