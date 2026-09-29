@@ -29,7 +29,8 @@
               (NP (N לאַגער)))
           (PUNC .)))
 
-( (IP-MAT (CP-ADV (IP-SUB (NP-SBJ (MAN מ’>))
+( (IP-MAT (CP-ADV (C 0)
+                  (IP-SUB (NP-SBJ (MAN מ’>))
                           (HVP <האָט)
                           (MDN געדאַרפֿט)
                           (ADVP-DIR (ADV אַרױס>))
