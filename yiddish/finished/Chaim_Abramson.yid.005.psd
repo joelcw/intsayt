@@ -2,8 +2,7 @@
         (PUNC .))
   (ID Chaim_Abramson,2_0_0235_0236.294))
 
-( (IP-MAT (NP-ADT (NPR STUTTHOF))
-          (CODE {COM:in_Stutthof})
+( (IP-MAT (NP-LOC (NPR STUTTHOF))
           (HVP האָט)
           (NP-SBJ (MAN מען))
           (NP-OB1 (PRO אונדז))
