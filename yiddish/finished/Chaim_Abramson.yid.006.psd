@@ -318,7 +318,7 @@
                     (NS מענטשן))
           (PUNC .)))
 
-( (CP-QUE-MAT (IP-MAT (NP-SBJ (PRO איר))
+( (CP-QUE-MAT (IP-SUB (NP-SBJ (PRO איר))
                       (VBP פֿאַרשטײט))
               (PUNC ?)))
 
