@@ -104,7 +104,7 @@ function customCommands() {
                                            "QP"]); // g
     addCommand({ keycode: 70 }, setLabel, ["PP","ADVP","ADVP-TMP","ADVP-LOC",
                                            "ADVP-DIR","ADVP-DIAGN"]); // f
-    addCommand({ keycode: 50 }, setLabel, ["NP","NP-PRN","NP-POS",
+    addCommand({ keycode: 50 }, setLabel, ["NP","NP-PRN","NP-DBL","NP-POS",
                                            "NP-COM","NP-MSR"]); // 2
     addCommand({ keycode: 50, shift: true }, splitWord); // 2
     addCommand({ keycode: 52 }, toggleExtension, "PRN"); // 4
@@ -143,7 +143,7 @@ var defaultConMenuGroup = ["VBP","VBD","VBI","VAN","VAG","VBN","VB","VBN-IPP"];
 function customConMenuGroups() {
     addConMenuGroup( ["IP-SUB","IP-MAT","IP-INF","IP-IMP","CP-QUE","CP-EOP","QTP","FRAG","META","NP-TTL"] );
     addConMenuGroup( ["ADJP","ADJX","NP-MSR","QP","NP","ADVP","IP-PPL","IP-SMC"] );
-    addConMenuGroup( ["NP-SBJ","NP-OB1","NP-OB2","NP-PRD","NP-RFL","NP-XPR","NP-EXPL","NP-LGS","NP-BEN","NP-POS","NP-PRN",
+    addConMenuGroup( ["NP-SBJ","NP-OB1","NP-OB2","NP-PRD","NP-RFL","NP-XPR","NP-EXPL","NP-LGS","NP-BEN","NP-POS","NP-PRN","NP-DBL",
                       "NP","NX","NP-MSR","NP-TMP","NP-ADV","NP-COM","NP-CMP",
                       "NP-DIR","NP-ADT","NP-VOC","QP"] );
     addConMenuGroup( ["PP","ADVP","ADVP-TMP","ADVP-LOC","ADVP-DIR","ADVP-DIAGN","ADVP-DIAGN-TMP","NP-MSR","NP-ADV"] );
