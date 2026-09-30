@@ -334,7 +334,7 @@
                           (NP-TMP (Q אַלע)
                                   (N מאָל))))
           (PUNC ,)
-          (NP-MSR (CP-CMP (WNP-2 (WPRO װאָס)
+          (NP-MSR (CP-CMP (WNP-2 (WNP-MSR (WPRO װאָס))
                                  (QR מער))
                           (C 0)
                           (IP-SUB (NP-MSR *T*-2)
@@ -354,7 +354,7 @@
                   (NS פיס)))
           (PUNC ,)))
 
-( (IP-MAT (ADVP (CP-CMP (WADVP-1 (WPRO װאָס)
+( (IP-MAT (ADVP (CP-CMP (WADVP-1 (WNP-MSR (WPRO װאָס))
                                  (ADVR האַסטיגער))
                         (C 0)
                         (IP-SUB (ADVP *T*-1)
@@ -463,7 +463,7 @@
           (PUNC .))
   (ID 1922e-shniurson,32_4_0021_0030.136))
 
-( (IP-MAT (NP-MSR (CP-CMP (WNP-1 (WPRO װאָס)
+( (IP-MAT (NP-MSR (CP-CMP (WNP-1 (WNP-MSR (WPRO װאָס))
                                  (QR מער))
                           (C 0)
                           (IP-SUB (NP-OB1 *T*-1)

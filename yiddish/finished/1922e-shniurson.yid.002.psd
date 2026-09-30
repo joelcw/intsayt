@@ -224,7 +224,7 @@
   (ID 1922e-shniurson,28_1_0149_0160.59))
 
 ( (IP-MAT (CONJ און)
-          (NP-MSR (CP-CMP (WNP-1 (WPRO װאָס)
+          (NP-MSR (CP-CMP (WNP-1 (WNP-MSR (WPRO װאָס))
                                  (QR מער))
                           (C 0)
                           (IP-SUB (NP-OB1 *T*-1)
