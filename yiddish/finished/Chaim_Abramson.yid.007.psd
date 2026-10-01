@@ -331,7 +331,7 @@
                     (ADVP-DIR (ADV אַװעק>))
                     (VBN <געפֿירט))
           (PUNC ,)
-          (CONJP (IP-MAT=1 (VBN געװעלט)
+          (CONJP (IP-MAT=1 (MDN געװעלט)
                            (VB פֿירן)))
           (PUNC ,)
           (CONJP (IP-MAT=1 (VBN געברענגט)
@@ -390,7 +390,7 @@
 ( (FRAG (PP (P אין)
             (NP (NPR ITALY)))
         (PP (P ביז)
-            (BREAK 0))))
+            (NP (BREAK 0)))))
 
 ( (CP-QUE-MAT (WPP-1 (P ביז)
                      (WADVP (WADV װאַנעט)))
