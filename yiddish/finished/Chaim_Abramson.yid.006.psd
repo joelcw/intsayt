@@ -288,8 +288,8 @@
               (IP-SUB (NP-SBJ *T*-1)
                       (MDP קען)
                       (NP-OB1 (D דאָס))
-                      (VB געדענקען)
-                      (PUNC ?))))
+                      (VB געדענקען))
+              (PUNC ?)))
 
 ( (FRAG (CP-ADV (C אַז)
                 (IP-SUB (NP-SBJ (MAN מ’>))
@@ -318,8 +318,8 @@
                     (NS מענטשן))
           (PUNC .)))
 
-( (CP-QUE-MAT (IP-SUB (NP-SBJ (PRO איר))
-                      (VBP פֿאַרשטײט))
+( (IP-MAT-QUE (NP-SBJ (PRO איר))
+              (VBP פֿאַרשטײט)
               (PUNC ?)))
 
 ( (FRAG (CONJ און)

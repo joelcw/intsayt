@@ -289,9 +289,9 @@
   (ID Chaim_Abramson,2_0_0443_0446.319))
 
 ( (FRAG (PP (P ביז)
-            (NP (NUM (NUM פֿינף)
-                     (PUNC ,)
-                     (NUM זעקס))
+            (NP (NUMP (NUM פֿינף)
+                      (PUNC ,)
+                      (NUM זעקס))
                 (NP-COM (D אַ)
                         (N זײגער))
                 (PP (P בײַ)
