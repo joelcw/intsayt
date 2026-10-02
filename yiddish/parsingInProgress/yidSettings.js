@@ -62,8 +62,8 @@ var testValidLeafLabel   = undefined;
  * clausal nodes (IP and CP), and those that apply to non-leaf, non-clause
  * nodes.
  */
-var extensions        = ["RSP","LFD","MAT","THT","SBJ","PRN","SPE","TTL","BY","XXX"];
-var clause_extensions = ["RSP","LFD","MAT","THT","SBJ","PRN","SPE","TTL","XXX"];
+var extensions        = ["RSP","LFD","MAT","THT", "QUE", "SBJ","PRN","SPE","TTL","BY","XXX"];
+var clause_extensions = ["RSP","LFD","MAT","THT", "QUE","SBJ","PRN","SPE","TTL","XXX"];
 var leaf_extensions   = ["D"]; 
 
 /*
@@ -144,7 +144,7 @@ function customConMenuGroups() {
     addConMenuGroup( ["IP-SUB","IP-MAT","IP-INF","IP-IMP","CP-QUE","CP-EOP","QTP","FRAG","META","NP-TTL"] );
     addConMenuGroup( ["ADJP","ADJX","NP-MSR","QP","NP","ADVP","IP-PPL","IP-SMC"] );
     addConMenuGroup( ["NP-SBJ","NP-OB1","NP-OB2","NP-PRD","NP-RFL","NP-XPR","NP-EXPL","NP-LGS","NP-BEN","NP-POS","NP-PRN","NP-DBL",
-                      "NP","NX","NP-MSR","NP-TMP","NP-ADV","NP-COM","NP-CMP",
+                      "NP","NX","NP-MSR","NP-TMP", "NP-LOC", "NP-ADV","NP-COM","NP-CMP",
                       "NP-DIR","NP-ADT","NP-VOC","QP"] );
     addConMenuGroup( ["PP","ADVP","ADVP-TMP","ADVP-LOC","ADVP-DIR","ADVP-DIAGN","ADVP-DIAGN-TMP","NP-MSR","NP-ADV"] );
     addConMenuGroup( ["HVP","HVD","HVI","HV","HAN","HVN-IPP","VB","BE"] );
