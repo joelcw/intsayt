@@ -142,10 +142,10 @@ var defaultConMenuGroup = ["VBP","VBD","VBI","VAN","VAG","VBN","VB","VBN-IPP"];
  */
 function customConMenuGroups() {
     addConMenuGroup( ["IP-SUB","IP-MAT","IP-INF","IP-IMP","CP-QUE","CP-EOP","QTP","FRAG","META","NP-TTL"] );
-    addConMenuGroup( ["ADJP","ADJX","NP-MSR","QP","NP","ADVP","IP-PPL","IP-SMC"] );
+    addConMenuGroup( ["ADJP","ADJX","NP-MSR","QP", "NUMP", "NP","ADVP","IP-PPL","IP-SMC"] );
     addConMenuGroup( ["NP-SBJ","NP-OB1","NP-OB2","NP-PRD","NP-RFL","NP-XPR","NP-EXPL","NP-LGS","NP-BEN","NP-POS","NP-PRN","NP-DBL",
                       "NP","NX","NP-MSR","NP-TMP", "NP-LOC", "NP-ADV","NP-COM","NP-CMP",
-                      "NP-DIR","NP-ADT","NP-VOC","QP"] );
+                      "NP-DIR","NP-ADT","NP-VOC","QP", "NUMP"] );
     addConMenuGroup( ["PP","ADVP","ADVP-TMP","ADVP-LOC","ADVP-DIR","ADVP-DIAGN","ADVP-DIAGN-TMP","NP-MSR","NP-ADV"] );
     addConMenuGroup( ["HVP","HVD","HVI","HV","HAN","HVN-IPP","VB","BE"] );
     addConMenuGroup( ["VBP","VBD","VBI","VAN","VAN","VBN","VB","VBN-IPP","VLP","VX","HVP","DOP","RDP","BEP","BEN","HVN","MDP","HV"] );
@@ -156,7 +156,7 @@ function customConMenuGroups() {
     addConMenuGroup( ["RP","P","ADV","ADVR","ADVS","ADJ","ADJR","ADJS","VAG","VAN","C","WPRO","CONJ","ALSO"] );
     addConMenuGroup( ["WADVP","WNP","WPP","WQP","WADJP"] );
     addConMenuGroup( ["CP-THT","CP-QUE-MAT","CP-QUE-SUB","CP-REL","CP-DEG","CP-ADV","CP-CMP"] );
-    addConMenuGroup( ["N","NS","NPR","NPRS", "PRO","D","ES","MAN","N-D","NUM","ONE","OTHER","ADJ","ADJR","ADJS","VAG","VAN","Q","QR","QS","FW","H","X"] );
+    addConMenuGroup( ["N","NS","NPR","NPRS", "PRO","D","ES","MAN","N-D","NUM", "ONE","OTHER","ADJ","ADJR","ADJS","VAG","VAN","Q","QR","QS","FW","H","X"] );
 }
 
 /*
