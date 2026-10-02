@@ -20,6 +20,7 @@
 
 ( (IP-MAT (NP-SBJ *pro*)
           (VBP ערציט)
+          (CODE {COM:raises})
           (NP-RFL (PRO זיך))
           (ADJP (ADJ ייִדיש))
           (PUNC .)))
