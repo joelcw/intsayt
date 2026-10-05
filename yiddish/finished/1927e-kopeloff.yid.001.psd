@@ -234,7 +234,7 @@
 ( (IP-MAT (NP-SBJ (PRO ער))
           (HVP האָט)
           (NP-OB1 (PRO אוּנז)
-                  (Q בּײדע))
+                  (QP (Q בּײדע)))
           (VBN בּאַקענט)))
 
 ( (IP-MAT (CONJ אוּן)
