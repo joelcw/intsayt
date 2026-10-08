@@ -37,6 +37,7 @@
 ( (IP-MAT (NP-SBJ (ADV טאַקע)
                   (FP נאָר)
                   (NS חסידים))
+          (CODE {COM:from_here_to_end_of_sentence_added_by_hand_because_it_was_cut_off_in_the_parse})
           (HVP האָבּן)
           (MDN געקענט)
           (VB פאַרשטײן)
