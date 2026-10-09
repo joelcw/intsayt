@@ -1,7 +1,8 @@
 ( (CODE <page_num:25_text_block_num:0>))
 
 ( (FRAG (PUNC I)
-        (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.2))
+        (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.2))
 
 ( (CODE <page_num:25_text_block_num:1>))
 
@@ -58,7 +59,8 @@
                                   (ADVP-TMP (ADV אײנמאָל))
                                   (RP פאָר@)
                                   (VBN @געלײגט)))))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.4))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.4))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (BEP איז)
@@ -94,7 +96,8 @@
                                                   (BE זײן)
                                                   (NP-PRD (ADJ אמת’ע)
                                                           (NS ײדן))))))))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.5))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.5))
 
 ( (IP-MAT (HVP האָט)
           (NP-SBJ (PRO ער))
@@ -104,7 +107,8 @@
           (PP (P אין)
               (NP (PRO$ זײן)
                   (N מלמדות)))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.6))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.6))
 
 ( (IP-MAT (ADVP-TMP (ADV אַמאָל))
           (HVP האָט)
@@ -130,7 +134,8 @@
                                                   (PP (P אַרום)
                                                       (NP (ADJ יונגע)
                                                           (NS נשמות))))))))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.7))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.7))
 
 ( (IP-MAT (NP-SBJ (D דער)
                   (N סדר)
@@ -175,7 +180,8 @@
                                                                        (ADJR שטאַרקער)
                                                                        (CONJP (CONJ און)
                                                                               (ADJX (ADJR קלאָרער))))))))))))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.8))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.8))
 
 ( (IP-MAT (NP-SBJ (D די)
                   (NS תּלמידים))
@@ -184,7 +190,8 @@
           (IP-PPL (VAG ציטערנדיג))
           (RP-ADJ ליבּ)
           (VBN געהאַט)
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.9))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.9))
 
 ( (CODE <page_num:25_text_block_num:2>))
 
@@ -214,7 +221,8 @@
                                    (PP (P פון)
                                        (NP (D די)
                                            (NS קינדער))))))
-          (PUNC ,)) (ID 1922E-SHNIURSON.NAR-REL.YID,.11))
+          (PUNC ,))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.11))
 
 ( (IP-MAT (IP-MAT-1 (CONJ נאָר)
                     (NP-OB2 (FP אפילו)
@@ -231,7 +239,8 @@
                            (PP (P אין)
                                (NP (D די)
                                    (NS זאַכן)))))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.12))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.12))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (HVP האָט)
@@ -267,7 +276,8 @@
                                                           (NP (D <ן)
                                                               (NPR כּלל)
                                                               (NPR ישראל)))))))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.13))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.13))
 
 ( (CODE <page_num:26_text_block_num:0>))
 
@@ -275,7 +285,8 @@
           (VBP <דערצײלט)
           (NP-OB1 (FP אָט)
                   (WPRO װאָס))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.15))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.15))
 
 ( (IP-MAT (NP-LFD (NPR געציע)
                   (NPR אַמטשיסלאַװער)
@@ -357,7 +368,8 @@
               (NP (NPR$ חײס’ען)
                   (CODE {COM:ocr_error_khayim})
                   (VB לערנען)))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.16))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.16))
 
 ( (IP-MAT (BEP איז)
           (NP-SBJ (PRO ער))
@@ -367,7 +379,8 @@
                         (NP (NPR הײם)
                             (NPR גראַװיצער)
                             (CODE {COM:ocr_error})))
-                    (ADV אַהײם))) (ID 1922E-SHNIURSON.NAR-REL.YID,.17))
+                    (ADV אַהײם)))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.17))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ *con*)
@@ -378,7 +391,8 @@
                           (ADV כּלומר’שט)
                           (ADV גאָר))
                     (ADJ הכנעה’דיג))
-          (PUNC :)) (ID 1922E-SHNIURSON.NAR-REL.YID,.18))
+          (PUNC :))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.18))
 
 ( (CODE <page_num:26_text_block_num:1>))
 
@@ -394,13 +408,15 @@
               (NP-SBJ (Q קײנער))
               (NEG נישט)
               (VB לערנען)
-              (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.20))
+              (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.20))
 
 ( (QTP (CONJ נאָר)
        (WNP (WNP (WPRO װאָס)
                  (FP זשע))
             (ADVP-DIAGN (ADV דען)))
-       (PUNC ?)) (ID 1922E-SHNIURSON.NAR-REL.YID,.21))
+       (PUNC ?))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.21))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO איך))
               (HVP האָבּ)
@@ -411,7 +427,8 @@
               (RP-N (D אַ)
                     (N פרעג))
               (DO טון)
-              (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.22))
+              (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.22))
 
 ( (IP-MAT-SPE (FP אָט)
               (VBP לערנט)
@@ -420,7 +437,8 @@
                   (NP (D די)
                       (NS קינדער)))
               (NP-OB1 (N גמרא))
-              (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.23))
+              (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.23))
 
 ( (IP-MAT-SPE (MDP קאָן)
               (BE זײן)
@@ -442,7 +460,8 @@
                                                                 (CONJP (CONJ און)
                                                                        (NP (OTHER אַנדערע)
                                                                            (NS מפרשים)))))))
-              (PUNC ,)) (ID 1922E-SHNIURSON.NAR-REL.YID,.24))
+              (PUNC ,))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.24))
 
 ( (IP-MAT (NP-SBJ (D דאָס))
           (VBP שאַרפט)
@@ -452,7 +471,8 @@
                          (PP (DR+P דערצו))))
           (PUNC .)
           (PUNC .)
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.25))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.25))
 
 ( (CODE <page_num:26_text_block_num:2>))
 
@@ -466,7 +486,8 @@
           (NP-OB1 (PRO$ זײנע)
                   (ADJ גרױסע)
                   (ADJ שװאַרצע)
-                  (NS אױגן))) (ID 1922E-SHNIURSON.NAR-REL.YID,.27))
+                  (NS אױגן)))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.27))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ *con*)
@@ -475,7 +496,8 @@
           (ADVP (ADV האַסטיג))
           (RP איבּער>)
           (VBN <געריסן)
-          (PUNC :)) (ID 1922E-SHNIURSON.NAR-REL.YID,.28))
+          (PUNC :))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.28))
 
 ( (CODE <page_num:26_text_block_num:3>))
 
@@ -495,7 +517,8 @@
                                       (NP-2 (D די)
                                             (ADJ לאַנגע)
                                             (NS רײד))))
-              (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.30))
+              (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.30))
 
 ( (CP-QUE-MAT-SPE (WNP-1 (WPRO װאָס))
                   (IP-SUB-SPE (NP-OB1 *T*-1)
@@ -519,15 +542,18 @@
                                                           (NP (PRO$ דײן)
                                                               (ADJ מתנגדישן)
                                                               (N שטערן))))))
-                  (PUNC ?)) (ID 1922E-SHNIURSON.NAR-REL.YID,.31))
+                  (PUNC ?))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.31))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO דו))
               (RDP װערסט)
               (ADJP (ADJ בּרוגז))
-              (PUNC ?)) (ID 1922E-SHNIURSON.NAR-REL.YID,.32))
+              (PUNC ?))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.32))
 
 ( (INTJP (INTJ אַהאַ)
-         (PUNC !)) (ID 1922E-SHNIURSON.NAR-REL.YID,.33))
+         (PUNC !))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.33))
 
 ( (IP-MAT-SPE (CONJ װאָרום)
               (NP-SBJ (PRO דו)
@@ -560,7 +586,8 @@
                                           (PP (DR+P דערױף)))
                                       (VAN בּאַשאַפן)
                                       (RDN געװאָרן)))
-              (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.34))
+              (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.34))
 
 ( (CP-QUE-MAT-SPE (WPP-1 (P פאַר>)
                          (WNP (WPRO <װאָס)
@@ -585,18 +612,21 @@
                                                                                (NP (PRO$ דײנע)
                                                                                    (ADJ װאָלאָזשינער)
                                                                                    (NS פּלפּולים)))))))
-                              (PUNC ?))) (ID 1922E-SHNIURSON.NAR-REL.YID,.35))
+                              (PUNC ?)))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.35))
 
 ( (CP-QUE-MAT-SPE (WNP-1 (WPRO װער))
                   (IP-SUB-SPE (NP-SBJ *T*-1)
                               (VBP נױט)
                               (NP-OB1 (PRO דיך))
-                              (PUNC ?))) (ID 1922E-SHNIURSON.NAR-REL.YID,.36))
+                              (PUNC ?)))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.36))
 
 ( (IP-IMP-SPE (VBI נעם)
               (NP-OB2 (PRO דיר))
               (NP-OB1 (PRO$ דײן)
-                      (N זונדל))) (ID 1922E-SHNIURSON.NAR-REL.YID,.37))
+                      (N זונדל)))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.37))
 
 ( (IP-IMP-SPE (CONJ און)
               (VBI מאַך)
@@ -605,7 +635,8 @@
               (NP-OB1 (D אַ)
                       (ADJ מתנגדישע)
                       (N בּעבּקע))
-              (PUNC ,)) (ID 1922E-SHNIURSON.NAR-REL.YID,.38))
+              (PUNC ,))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.38))
 
 ( (IP-MAT-SPE (CONJ נאָר)
               (PP (P מיט)
@@ -619,7 +650,8 @@
                                               (VB בּרײען))))
               (PUNC .)
               (PUNC .)
-              (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.39))
+              (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.39))
 
 ( (CODE <page_num:26_text_block_num:4>))
 
@@ -633,7 +665,8 @@
           (PP (P אױף)
               (NP (Q קײן)
                   (N שכר־למוד)))
-          (PUNC ,)) (ID 1922E-SHNIURSON.NAR-REL.YID,.41))
+          (PUNC ,))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.41))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ *exp*)
@@ -653,7 +686,8 @@
                               (PP (P אױף)
                                   (NP (D דער)
                                       (N הוצאה)))))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.42))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.42))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (MDP פלעגט)
@@ -662,7 +696,8 @@
               (NP (PRO$ זײן)
                   (ADJ ענגער)
                   (N שטובּ)))
-          (PUNC ,)) (ID 1922E-SHNIURSON.NAR-REL.YID,.43))
+          (PUNC ,))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.43))
 
 ( (IP-MAT (CONJ נאָר)
           (CP-ADV (C אױבּ)
@@ -684,7 +719,8 @@
                   (PP (FP אפילו)
                       (P אין)
                       (NP (NS דערפער))))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.44))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.44))
 
 ( (IP-MAT (HVP האָט)
           (ADVP-DIAGN-TMP (ADV שױן))
@@ -713,7 +749,8 @@
                                               (NP (N דחקות)))))
                           (NP-OB1 (D די)
                                   (N הוצאה))))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.45))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.45))
 
 ( (CODE <page_num:27_text_block_num:0>))
 
@@ -753,7 +790,8 @@
                           (NP-OB1 (D דעם)
                                   (H כּסא)
                                   (NP-COM (H הרבּנות)))))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.47))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.47))
 
 ( (IP-MAT (NP-SBJ (MAN מ’>))
           (HVP <האָט)
@@ -770,7 +808,8 @@
                                     (RP אײנ>)
                                     (TO <צו>)
                                     (VB <בּעטן))))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.48))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.48))
 
 ( (CODE <page_num:27_text_block_num:1>))
 
@@ -786,7 +825,8 @@
                            (PP (P מיט>)
                                (NP (D <ן)
                                    (N קאָפּ)))))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.50))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.50))
 
 ( (CODE <page_num:27_text_block_num:2>))
 
@@ -809,7 +849,8 @@
                                                                   (NP (D אַ)
                                                                       (ADJ שײנעם)
                                                                       (N רב)))))))
-                  (PUNC ?)) (ID 1922E-SHNIURSON.NAR-REL.YID,.52))
+                  (PUNC ?))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.52))
 
 ( (IP-MAT-SPE (ADVP-TMP (ADV ערשטענס))
               (PUNC ,)
@@ -857,7 +898,8 @@
                                                                                                                                (CONJP (CONJ און)
                                                                                                                                       (PP (P פאַר)
                                                                                                                                           (NP (OTHER אַנדערע))))))))))))))))
-              (PUNC —)) (ID 1922E-SHNIURSON.NAR-REL.YID,.53))
+              (PUNC —))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.53))
 
 ( (CP-QUE-MAT-SPE (IP-SUB-SPE (VBP פּאַסט)
                               (NP-SBJ (D דאָס)
@@ -868,7 +910,8 @@
                                       (N רב))))
                   (PUNC ,)
                   (INTJ האַ)
-                  (PUNC ?)) (ID 1922E-SHNIURSON.NAR-REL.YID,.54))
+                  (PUNC ?))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.54))
 
 ( (IP-MAT-SPE (ADVP-TMP (ADV צװײטנס))
               (PUNC ,)
@@ -887,7 +930,8 @@
                   (CP-QUE-MAT-SPE (IP-SUB-SPE (BEP זײנען)
                                               (NP-SBJ (PRO זײ))
                                               (ADJP (ADJ כּשר)))))
-              (PUNC —)) (ID 1922E-SHNIURSON.NAR-REL.YID,.55))
+              (PUNC —))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.55))
 
 ( (IP-MAT-SPE (CONJ און)
               (NP-TMP (D אַן)
@@ -917,7 +961,8 @@
                                                           (NP-PRD (D אַ)
                                                                   (ADJ כּשרע)
                                                                   (N בּריאה)))))
-              (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.56))
+              (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.56))
 
 ( (IP-MAT-SPE (ADVP-TMP (ADV דריטנס))
               (PUNC ,)
@@ -939,7 +984,8 @@
                                              (H לצלן))
                                       (PUNC ,)
                                       (NP-PRD (NS נאַראָנים))))
-              (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.57))
+              (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.57))
 
 ( (CP-QUE-MAT (ADVP-TMP (ADV הײנט))
               (PUNC ,)
@@ -962,7 +1008,8 @@
                       (PP (P װעגן)
                           (NP (D דעם)))
                       (VB דערמאָנען))
-              (PUNC ?)) (ID 1922E-SHNIURSON.NAR-REL.YID,.58))
+              (PUNC ?))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.58))
 
 ( (IP-MAT (IP-MAT-1 (CONJ נאָר)
                     (ADVP (ADV דערהױפּט))
@@ -977,7 +1024,8 @@
                            (VBN <געהױבּן)
                            (PP (P מיט)
                                (NP (N כּעס)))))
-          (PUNC —)) (ID 1922E-SHNIURSON.NAR-REL.YID,.59))
+          (PUNC —))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.59))
 
 ( (CP-QUE-MAT-SPE (WNP-1 (WPRO װאָס))
                   (IP-SUB-SPE (NP-OB1 *T*-1)
@@ -996,13 +1044,15 @@
                                                       (NP-OB2 (D דעם)
                                                               (N-D רבּי’ן)))))
                   (PUNC ?)
-                  (PUNC !)) (ID 1922E-SHNIURSON.NAR-REL.YID,.60))
+                  (PUNC !))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.60))
 
 ( (IP-IMP-SPE (VBI װענדעט)
               (NP-OB1 (PRO אײך))
               (PP (P אין)
                   (NP (NPR ליובּאַװיטש)))
-              (PUNC —)) (ID 1922E-SHNIURSON.NAR-REL.YID,.61))
+              (PUNC —))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.61))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO מיר))
               (VBP ציהען)
@@ -1013,7 +1063,8 @@
               (NP-OB1 (PRO$ אונזער)
                       (ADJ גאַנצע)
                       (N חיונה))
-              (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.62))
+              (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.62))
 
 ( (IP-IMP-SPE (DOI טוט)
               (FP נאָר)
@@ -1034,7 +1085,8 @@
                                                       (NP (N פוס)))
                                                   (PP (P פון)
                                                       (NP (N ליובּאַװיטש))))))
-              (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.63))
+              (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.63))
 
 ( (IP-MAT (PUNC -LRB-)
           (NP-SBJ (PRO ער))
@@ -1055,12 +1107,14 @@
                                           (N טיש)))
                                   (VAN געלעגן)))))
           (PUNC -RRB-)
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.64))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.64))
 
 ( (IP-MAT-SPE (VBP לערנט)
               (NP-SBJ (MAN מען))
               (NP-OB1 (PRO זײ))
-              (PUNC ,)) (ID 1922E-SHNIURSON.NAR-REL.YID,.65))
+              (PUNC ,))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.65))
 
 ( (IP-MAT-SPE (VBP הױבּט)
               (NP-RFL (PRO זיך))
@@ -1075,7 +1129,8 @@
                                           (HVP האָט)
                                           (RP-H זוכה)
                                           (BEN געװען)))
-              (PUNC !)) (ID 1922E-SHNIURSON.NAR-REL.YID,.66))
+              (PUNC !))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.66))
 
 ( (CP-QUE-MAT-SPE (WNP-1 (WPRO װער)
                          (FP זשע))
@@ -1086,7 +1141,8 @@
                               (NP-OB1 (D די)
                                       (ADJ הײליגע)
                                       (NS מאמרים))
-                              (PUNC ?))) (ID 1922E-SHNIURSON.NAR-REL.YID,.67))
+                              (PUNC ?)))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.67))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO איר))
               (VBP פאַרלאָזט)
@@ -1104,7 +1160,8 @@
                       (NPR גראַװיצער)
                       (NP-PRN (D דעם)
                               (N שכור))))
-              (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.68))
+              (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.68))
 
 ( (IP-MAT-SPE (NP-SBJ (D דער)
                       (N רבּי))
@@ -1142,13 +1199,16 @@
                                                                                                  (ADVP (ADV גאָר))
                                                                                                  (NEG ניט)
                                                                                                  (RP אױס))))))))))
-              (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.69))
+              (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.69))
 
 ( (INTJP (INTJ גװאַלד)
-         (PUNC !)) (ID 1922E-SHNIURSON.NAR-REL.YID,.70))
+         (PUNC !))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.70))
 
 ( (FRAG (NP (N נאַראָנים))
-        (PUNC !)) (ID 1922E-SHNIURSON.NAR-REL.YID,.71))
+        (PUNC !))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.71))
 
 ( (IP-MAT (HVP האָבּן)
           (VBN געפונען)
@@ -1161,7 +1221,8 @@
                               (VB שפּילן)))
           (PUNC —)
           (NP-SBJ (N שטאָט־נאַראָנים))
-          (PUNC !)) (ID 1922E-SHNIURSON.NAR-REL.YID,.72))
+          (PUNC !))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.72))
 
 ( (CODE <page_num:28_text_block_num:0>))
 
@@ -1195,7 +1256,8 @@
                 (PP (P אױף)
                     (NP (D דער)
                         (N נשמה))))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.74))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.74))
 
 ( (CODE <page_num:28_text_block_num:1>))
 
@@ -1234,7 +1296,8 @@
                                (NP (PRO אים)))
                            (RP-H בּטל)
                            (RD װערן)))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.76))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.76))
 
 ( (IP-MAT (NP-MSR (Q עפּעס))
           (BEP איז)
@@ -1243,7 +1306,8 @@
           (NP-SBJ (Q אַלץ))
           (BEN געװען)
           (ADJP (ADJ אומגעװײנלאַך))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.77))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.77))
 
 ( (FRAG (NP (D אַ)
             (ADJ הױכער)
@@ -1281,7 +1345,8 @@
                     (ADJ לאַנגער)
                     (ADJ געדיכט־שװאַרצער)
                     (N בּאָרד)))
-            (PUNC .))) (ID 1922E-SHNIURSON.NAR-REL.YID,.78))
+            (PUNC .)))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.78))
 
 ( (IP-MAT (NP-TMP (N זומער)
                   (CONJ און)
@@ -1305,7 +1370,8 @@
                   (PP (P אין)
                       (NP (D די)
                           (NS כאָליעװעס))))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.79))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.79))
 
 ( (IP-MAT (CONJ נאָר)
           (NP-SBJ (PRO$ זײן)
@@ -1320,7 +1386,8 @@
                 (ADJ שאַרף)
                 (CONJP (CONJ און)
                        (ADJX (VAN אַנטשלאָסן))))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.80))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.80))
 
 ( (IP-MAT (PP (P אױף)
               (NP (D אַ)
@@ -1334,7 +1401,8 @@
           (NP-OB1 (FP נאָר)
                   (ADJ רײנעם)
                   (N ספּירט))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.81))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.81))
 
 ( (IP-MAT (CONJ און)
           (IP-MAT-1 (ADVP (ADVR אַזױ)
@@ -1364,7 +1432,8 @@
                                          (PP (P אױף)
                                              (NP (D אַ)
                                                  (N האָר))))))
-          (PUNC !)) (ID 1922E-SHNIURSON.NAR-REL.YID,.82))
+          (PUNC !))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.82))
 
 ( (IP-MAT (ADVP-TMP (ADV אָפט))
           (VBP שיט)
@@ -1378,7 +1447,8 @@
           (NP-OB1 (D אַ)
                   (N בּיסל)
                   (NP-COM (N פעפער)))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.83))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.83))
 
 ( (IP-MAT (CONJ און)
           (NP-MSR (CP-CMP (WNP-1 (WNP-MSR (WPRO װאָס))
@@ -1395,7 +1465,8 @@
                 (ADJR שאַרפער)
                 (CONJP (CONJ און)
                        (ADJX (ADJR קלאָרער))))
-          (PUNC ,)) (ID 1922E-SHNIURSON.NAR-REL.YID,.84))
+          (PUNC ,))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.84))
 
 ( (IP-MAT (CONJ נאָר)
           (NP-SBJ (D די)
@@ -1405,7 +1476,8 @@
                 (CONJP (CONJ און)
                        (ADJP (ADV מאָדנע)
                              (ADJ פײערדיגע))))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.85))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.85))
 
 ( (IP-MAT (MDP פלעגט)
           (NP-SBJ (PRO ער))
@@ -1417,14 +1489,16 @@
               (P אױף)
               (NP (D אַ)
                   (ADJ ציקאַװע)))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.86))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.86))
 
 ( (IP-MAT (NP-SBJ (NS װערטער))
           (VBP פאַלן)
           (CP-ADV (C װי)
                   (IP-SUB (NP-SBJ (D די)
                                   (ADJ אײזערנע)
-                                  (NS קױלן))))) (ID 1922E-SHNIURSON.NAR-REL.YID,.87))
+                                  (NS קױלן)))))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.87))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ *con*)
@@ -1432,7 +1506,8 @@
           (CODE {COM:pierce...koyln_bullets})
           (ADVP (ADV אומערבּאַרמליך))
           (RP אַדורך)
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.88))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.88))
 
 ( (CODE <page_num:29_text_block_num:0>))
 
@@ -1482,7 +1557,8 @@
                                                                  (PP (P אױפ>)
                                                                      (NP (D <ן)
                                                                          (N אָרט)))))))))))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.90))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.90))
 
 ( (CODE <page_num:29_text_block_num:1>))
 
@@ -1495,7 +1571,8 @@
           (NP-SBJ (MAN מען))
           (ADVP (ADV שטילערהײט))
           (VB דערצײלן)
-          (PUNC :)) (ID 1922E-SHNIURSON.NAR-REL.YID,.92))
+          (PUNC :))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.92))
 
 ( (CODE <page_num:29_text_block_num:2>))
 
@@ -1512,7 +1589,8 @@
           (ADVP (ADV אומדערהערט))
           (RP-H מעיז)
           (BEN געװען)
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.94))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.94))
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ (D דער)
                             (N רבּי))
@@ -1526,7 +1604,8 @@
                                (NP (PRO אים)))
                            (RP אָנ>)
                            (VBN <געשריגן)))
-          (PUNC :)) (ID 1922E-SHNIURSON.NAR-REL.YID,.95))
+          (PUNC :))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.95))
 
 ( (CODE <page_num:29_text_block_num:3>))
 
@@ -1544,7 +1623,8 @@
               (VB קומען)
               (PUNC .)
               (PUNC .)
-              (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.97))
+              (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.97))
 
 ( (CODE <page_num:29_text_block_num:4>))
 
@@ -1555,7 +1635,8 @@
           (NEG ניט)
           (RP-N (D אַ)
                 (N ציטער))
-          (DON געטאָן)) (ID 1922E-SHNIURSON.NAR-REL.YID,.99))
+          (DON געטאָן))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.99))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ *con*)
@@ -1565,7 +1646,8 @@
                     (PP (P פון)
                         (NP (NP-POS (N$ רבּינס))
                             (N חדר))))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.100))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.100))
 
 ( (CODE <page_num:29_text_block_num:5>))
 
@@ -1578,7 +1660,8 @@
                   (N יאָר)))
           (RP-H נעלם)
           (RDN געװאָרן)
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.102))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.102))
 
 ( (IP-MAT (NP-SBJ (MAN מ’>))
           (VBP <זאָגט)
@@ -1591,7 +1674,8 @@
                                         (NP (D אַ)
                                             (N דאָרף))))
                           (VBN געקנעלט)))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.103))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.103))
 
 ( (IP-MAT (NP-SBJ (D דאָס))
           (BEP איז)
@@ -1600,7 +1684,8 @@
                   (ADJ אמת’ער)
                   (PUNC „)
                   (N גלות“־יאָר))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.104))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.104))
 
 ( (CODE <page_num:29_text_block_num:6>))
 
@@ -1616,7 +1701,8 @@
           (VBN געקומען)
           (PP (P אין)
               (NP (NPR ליובּאַװיטש)))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.106))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.106))
 
 ( (IP-MAT (CP-ADV (C אַז)
                   (IP-SUB (NP-SBJ (PRO ער))
@@ -1635,7 +1721,8 @@
           (RP (D אַ)
               (N פרעג))
           (DON געטאָן)
-          (PUNC :)) (ID 1922E-SHNIURSON.NAR-REL.YID,.107))
+          (PUNC :))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.107))
 
 ( (CODE <page_num:29_text_block_num:7>))
 
@@ -1645,7 +1732,8 @@
                   (IP-SUB-SPE (HVP האָסט>)
                               (NP-SBJ (PRO <דו))
                               (NP-OB1 (N חרטה)))
-                  (PUNC ?)) (ID 1922E-SHNIURSON.NAR-REL.YID,.109))
+                  (PUNC ?))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.109))
 
 ( (CODE <page_num:29_text_block_num:8>))
 
@@ -1657,7 +1745,8 @@
           (ADVP (ADV שאַרף))
           (RP אָפּ>)
           (VBN <געשניטן)
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.111))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.111))
 
 ( (CODE <page_num:29_text_block_num:9>))
 
@@ -1665,7 +1754,8 @@
                   (N רבּי))
           (HVP האָט)
           (VBN געשװיגן)
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.113))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.113))
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ (NPR הײם))
                     (HVP האָט)
@@ -1673,7 +1763,8 @@
                     (VBN געװאַרט))
           (CONJP (CONJ און)
                  (IP-MAT=1 (VBN געזאָגט)))
-          (PUNC :)) (ID 1922E-SHNIURSON.NAR-REL.YID,.114))
+          (PUNC :))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.114))
 
 ( (CODE <page_num:29_text_block_num:10>))
 
@@ -1691,7 +1782,8 @@
                           (VB האָבּן)
                           (NP-OB1 (D דעם)
                                   (N אמת)))
-              (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.116))
+              (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.116))
 
 ( (IP-MAT-SPE (IP-MAT-SPE-1 (MDP װעל)
                             (NP-OB1 *pro*)
@@ -1728,13 +1820,15 @@
                                                               (PP (P אױף)
                                                                   (NP (D דער)
                                                                       (N װעלט))))))))
-              (PUNC ...)) (ID 1922E-SHNIURSON.NAR-REL.YID,.117))
+              (PUNC ...))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.117))
 
 ( (FRAG (NP (D אַ)
             (N דאגה)
             (NP-DBL (D אַ)
                     (ADJ גרױסע))
-            (PUNC !))) (ID 1922E-SHNIURSON.NAR-REL.YID,.118))
+            (PUNC !)))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.118))
 
 ( (CODE <page_num:30_text_block_num:0>))
 
@@ -1744,7 +1838,8 @@
           (NP-OB2 (PRO אים))
           (NEG גאָרניט)
           (VBN געענטפערט)
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.120))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.120))
 
 ( (IP-MAT (NP-SBJ (NPR חײם))
           (HVP האָט)
@@ -1756,7 +1851,8 @@
                       (NP (H דרך־ארץ)))
                   (IP-PPL (RP אײנ>)
                           (VAN <געבּױגן)))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.121))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.121))
 
 ( (IP-MAT (ADVP-TMP (ADV בּאַלד))
           (HVP האָט)
@@ -1765,7 +1861,8 @@
                   (N רבּי))
           (NP-MSR (Q עטװאָס))
           (RP אָפּ>)
-          (VBN <געקערט)) (ID 1922E-SHNIURSON.NAR-REL.YID,.122))
+          (VBN <געקערט))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.122))
 
 ( (IP-MAT (CONJ און)
           (PP (P אױף)
@@ -1796,7 +1893,8 @@
                                                   (VB לאָזן)
                                                   (PP (P צו)
                                                       (NP (N רוה))))))))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.123))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.123))
 
 ( (CODE <page_num:30_text_block_num:1>))
 
@@ -1807,7 +1905,8 @@
                     (PP (P פון)
                         (NP (NP-POS (NPR$ רבּינס))
                             (N חדר))))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.125))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.125))
 
 ( (IP-MAT (NP-SBJ (D דאָס))
           (BEP איז)
@@ -1815,7 +1914,8 @@
           (NP-PRD (D דער)
                   (ADJ ערשטער)
                   (N קבּלת־שלום))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.126))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.126))
 
 ( (CODE <page_num:30_text_block_num:2>))
 
@@ -1831,7 +1931,8 @@
                           (NP-PRN (D דער)
                                   (N קאַלך־אױװן)
                                   (CODE {COM:limekiln}))))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.128))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.128))
 
 ( (CODE <page_num:30_text_block_num:3>))
 
@@ -1849,7 +1950,8 @@
           (PP (P אױף)
               (NP (ADJ געװײנליכע)
                   (NS שבּתים)))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.130))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.130))
 
 ( (IP-MAT (CONJ נאָר)
           (NP-SBJ (Q יעדעס)
@@ -1876,7 +1978,8 @@
                                   (NP-OB1 (D אַ)
                                           (ADJ מאױס’דיגן)
                                           (N רושם)))))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.131))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.131))
 
 ( (IP-MAT (HVP האָט)
           (NP-SBJ (ES עס))
@@ -1892,7 +1995,8 @@
                           (NPR$ גראַװיצערס))
                   (NS שבּתים)))
           (PUNC “)
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.132))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.132))
 
 ( (CODE <page_num:30_text_block_num:4>))
 
@@ -1932,7 +2036,8 @@
                                     (NP-OB1 (D דעם)
                                             (ADJ גרױסן)
                                             (N זאַל)))))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.134))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.134))
 
 ( (CODE <page_num:30_text_block_num:5>))
 
@@ -1945,7 +2050,8 @@
           (PP (P נאָך)
               (NP (NPR חײם)
                   (NPR גראַװיצער)))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.136))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.136))
 
 ( (IP-MAT (PP (P פון)
               (NP (D דעם)
@@ -1961,7 +2067,8 @@
                                          (ADVR אַזױ))))
           (PUNC ,)
           (VBN דערװאוסט)
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.137))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.137))
 
 ( (IP-MAT (HVP האָבּן)
           (NP-SBJ (Q אַלע))
@@ -1993,7 +2100,8 @@
                                         (NP-RFL (PRO זיך))
                                         (PP (P מיט)
                                             (NP (N פײער))))))
-          (PUNC ,)) (ID 1922E-SHNIURSON.NAR-REL.YID,.138))
+          (PUNC ,))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.138))
 
 ( (CP-QUE-MAT (CONJ נאָר)
               (WNP-1 (WPRO װער))
@@ -2002,7 +2110,8 @@
                       (ADVP-DIAGN (ADV דען))
                       (NP-RFL (PRO זיך))
                       (ADVP (ADV אַרײנ>))
-                      (VB <מישן))) (ID 1922E-SHNIURSON.NAR-REL.YID,.139))
+                      (VB <מישן)))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.139))
 
 ( (CP-QUE-MAT (CONJ און)
               (WNP-1 (WPRO װער))
@@ -2016,7 +2125,8 @@
                                           (ADVP-DIAGN (ADV נאָך))
                                           (RP פאָר@)
                                           (VB @קומען))))
-              (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.140))
+              (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.140))
 
 ( (CODE <page_num:30_text_block_num:6>))
 
@@ -2033,7 +2143,8 @@
           (PP (P צו>)
               (NP (D <ם)
                   (N-D רבּין)))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.142))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.142))
 
 ( (IP-MAT (PP (P אין)
               (NP (ADJ קלײנעם)
@@ -2044,7 +2155,8 @@
                   (ADJ גרױסער)
                   (N עולם))
           (BEN געװען)
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.143))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.143))
 
 ( (IP-MAT (NP-SBJ (MAN מ’>))
           (HVP <האָט)
@@ -2054,7 +2166,8 @@
           (PP (P מיט)
               (NP (ADJ אימה’דיגער)
                   (N אָנגעשטרענגטקײט)))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.144))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.144))
 
 ( (IP-MAT (NP-SBJ (NPR חײם))
           (HVP האָט)
@@ -2066,7 +2179,8 @@
               (NP (N יחידות)))
           (PUNC “)
           (VBN פאַרהאַלטן)
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.145))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.145))
 
 ( (IP-MAT (CONJ און)
           (CP-ADV (C אַז)
@@ -2083,7 +2197,8 @@
           (NP-SBJ (D דער)
                   (N פּנים))
           (VBN געלױכטן)
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.146))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.146))
 
 ( (IP-MAT (CONJ און)
           (CP-ADV (C װי)
@@ -2100,7 +2215,8 @@
                   (ADJP (ADJ בּרײט)
                         (ADJ געװאָרענע))
                   (NS נאָז־לעכער)))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.147))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.147))
 
 ( (CODE <page_num:31_text_block_num:0>))
 
@@ -2124,7 +2240,8 @@
                                                       (HVP האָט)
                                                       (NP-OB2 (PRO מיר))
                                                       (VBN געזאָגט))))
-                  (PUNC ?)) (ID 1922E-SHNIURSON.NAR-REL.YID,.149))
+                  (PUNC ?))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.149))
 
 ( (IP-MAT-SPE (CP-ADV-SPE (C װי)
                           (IP-SUB-SPE (FP נאָר)
@@ -2140,7 +2257,8 @@
               (RP (D אַ)
                   (N פרעג))
               (DON געטאָן)
-              (PUNC :)) (ID 1922E-SHNIURSON.NAR-REL.YID,.150))
+              (PUNC :))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.150))
 
 ( (IP-MAT-SPE (NP-VOC (NPR חײם))
               (PUNC ,)
@@ -2158,7 +2276,8 @@
                                       (VBP קומסט)
                                       (PP (P אין)
                                           (NP (NPR ליובּאַװיטש)))))
-              (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.151))
+              (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.151))
 
 ( (IP-MAT-SPE (HVP האָסט>)
               (NP-SBJ (PRO <דו))
@@ -2174,7 +2293,8 @@
                                               (N װעג))
                                       (RP דורכ>)
                                       (VB <מאַכן)))))
-              (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.152))
+              (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.152))
 
 ( (IP-MAT-SPE (PP (P אױף)
                   (NP (NPR-D אברהם’ען)))
@@ -2182,7 +2302,8 @@
               (PUNC :)
               (QTP-SBJ (H הלך)
                        (H ונסע))
-              (PUNC —)) (ID 1922E-SHNIURSON.NAR-REL.YID,.153))
+              (PUNC —))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.153))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO ער))
               (HVP האָט)
@@ -2190,7 +2311,8 @@
               (ADVP-TMP (ADV תּמיד))
               (PP (P אין)
                   (NP (N װעג)))
-              (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.154))
+              (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.154))
 
 ( (IP-MAT-SPE (PP (P אין)
                   (NP (D אַן)
@@ -2211,7 +2333,8 @@
                                                (PP (P אױף)
                                                    (NP (PRO$ דײן)
                                                        (N פערדל))))))
-              (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.155))
+              (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.155))
 
 ( (IP-IMP-SPE (VBP זעהסט>)
               (NP-SBJ (PRO <דו))
@@ -2242,7 +2365,8 @@
                                   (NP (D דעם)
                                       (VAN געװינשטן)
                                       (N אָרט))))
-              (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.156))
+              (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.156))
 
 ( (IP-MAT-SPE (CONJ נאָר)
               (NP-SBJ (PRO עס))
@@ -2254,7 +2378,8 @@
                    (PP-PRN (P אױף)
                            (NP (PRO$ דײן)
                                (N פערדל))))
-              (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.157))
+              (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.157))
 
 ( (IP-MAT-SPE (CONJ װאָרום)
               (NP-SBJ (Q יעדער)
@@ -2263,7 +2388,8 @@
               (NP-RFL (PRO זיך))
               (NP-OB1 (PRO$ זײן)
                       (N פערדל))
-              (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.158))
+              (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.158))
 
 ( (IP-MAT-SPE (NP-LFD (D דער)
                       (ADJP (ADJ פּשוט’ער)
@@ -2296,7 +2422,8 @@
               (PP (P צו>)
                   (NP (D <ם)
                       (H ארץ־החײם)))
-              (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.159))
+              (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.159))
 
 ( (CP-QUE-MAT (WADVP-1 (WADV װען)
                        (FP זשע))
@@ -2309,7 +2436,8 @@
                           (NP-OB1 (Q אַלע)
                                   (NS צױמען))
                           (VB בּרעכן))
-              (PUNC ?)) (ID 1922E-SHNIURSON.NAR-REL.YID,.160))
+              (PUNC ?))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.160))
 
 ( (QTP (CP-ADV-SPE (C אױבּ)
                    (IP-SUB-SPE (NP-SBJ (PRO דו))
@@ -2318,7 +2446,8 @@
                                (VBN דערגרײכט)
                                (NP-OB1 (D דעם)
                                        (H ארץ־החײם)))
-                   (PUNC !))) (ID 1922E-SHNIURSON.NAR-REL.YID,.161))
+                   (PUNC !)))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.161))
 
 ( (IP-MAT-SPE (ADVP-LOC (ADV דאָרט))
               (MDP קענסט>)
@@ -2326,7 +2455,8 @@
               (NP-OB1 (Q אַלע)
                       (NS צױמען))
               (VB װאַרפן)
-              (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.162))
+              (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.162))
 
 ( (IP-MAT-SPE (CONJ װאָרום)
               (ADVP-LOC (ADV דאָרט))
@@ -2342,7 +2472,8 @@
                   (CONJP (PP (P צו)
                              (NP (PRO אים)
                                  (ADVP (ADV אַלײן))))))
-              (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.163))
+              (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.163))
 
 ( (IP-MAT-SPE (NP-SBJ (ES ס’>))
               (VBP <טראָגט)
@@ -2352,7 +2483,8 @@
                   (P מיט)
                   (NP (D דעם)
                       (N רײטער)))
-              (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.164))
+              (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.164))
 
 ( (IP-MAT-SPE (H והחיות)
               (H נושאות)
@@ -2361,14 +2493,16 @@
               (NP-SBJ (D די)
                       (NS היות)
                       (CODE {COM:khayos?}))
-              (VBP טראָגן)) (ID 1922E-SHNIURSON.NAR-REL.YID,.165))
+              (VBP טראָגן))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.165))
 
 ( (IP-MAT-SPE (CONJ און)
               (NP-SBJ *con*)
               (RDP װערן)
               (ADVP (ADV אַלײן))
               (VAN געטראָגן)
-              (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.166))
+              (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.166))
 
 ( (IP-MAT-SPE (CONJ און)
               (NP-ADT (CP-CMP-SPE (WADJP-1 (WNP-MSR (WPRO װאָס))
@@ -2385,7 +2519,8 @@
               (VB קומען)
               (PUNC .)
               (PUNC .)
-              (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.167))
+              (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.167))
 
 ( (CODE <page_num:31_text_block_num:1>))
 
@@ -2402,7 +2537,8 @@
                             (NP (D די)
                                 (NS פּלײצעס)))
                         (ADV אַראָפּ))
-              (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.169))
+              (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.169))
 
 ( (IP-MAT-SPE (NP-SBJ (MAN מ’>))
               (HVP <האָט)
@@ -2410,17 +2546,20 @@
               (ADVP-DIAGN (ADV שױן))
               (ADVP (ADV שטילערהײט))
               (VBN געפרײט)
-              (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.170))
+              (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.170))
 
 ( (QTP (INTJ אַהאַ)
-       (PUNC !)) (ID 1922E-SHNIURSON.NAR-REL.YID,.171))
+       (PUNC !))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.171))
 
 ( (IP-MAT (NP-SBJ (D דער)
                   (NPR גראַװיצער))
           (HVP האָט)
           (RP אױס>)
           (VBN <געפירט)
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.172))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.172))
 
 ( (IP-MAT (NP-SBJ (D דער)
                   (N רבּי))
@@ -2429,7 +2568,8 @@
           (ADVP-DIR (ADV אַרױס)
                     (PP (P פון)
                         (NP (N בּאַהעלטעניש))))
-          (PUNC ...)) (ID 1922E-SHNIURSON.NAR-REL.YID,.173))
+          (PUNC ...))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.173))
 
 ( (CODE <page_num:32_text_block_num:0>))
 
@@ -2443,7 +2583,8 @@
           (VBN געשטאַנען)
           (PP (P אין)
               (NP (ADJ קלײנעם)
-                  (N זאַל)))) (ID 1922E-SHNIURSON.NAR-REL.YID,.175))
+                  (N זאַל))))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.175))
 
 ( (IP-MAT (CONJ און)
           (ADVP (ADV שטײענדינערהײט)
@@ -2459,7 +2600,8 @@
                           (N-D$ רבּי’נס))
                   (NPR תּורה))
           (VBN גע’חזר’ט)
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.176))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.176))
 
 ( (IP-MAT (CONJ נאָר)
           (PP (P אין)
@@ -2472,7 +2614,8 @@
           (VBN (VBN <געצונדן)
                (CONJ און)
                (VBN געגליהט))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.177))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.177))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (BEP איז)
@@ -2509,7 +2652,8 @@
                                                        (NP (D אַ)
                                                            (ADJ נײעם)
                                                            (N בּרען)))))))))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.178))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.178))
 
 ( (IP-MAT (NP-SBJ (D דאָס))
           (BEP איז)
@@ -2537,7 +2681,8 @@
           (PUNC „)
           (PUNC .)
           (PUNC .)
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.179))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.179))
 
 ( (IP-MAT (CONJ װאָרום)
           (PP (P מיט)
@@ -2558,7 +2703,8 @@
                   (ADJP (ADJ פרעמד)
                         (CONJ און)
                         (ADJ בּאַזונדער)))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.180))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.180))
 
 ( (IP-MAT (CP-ADV (IP-SUB (NP-SBJ *pro*)
                           (VBP טוקט)
@@ -2571,7 +2717,8 @@
           (PUNC ,)
           (VBP גײט)
           (NP-SBJ (PRO איר))
-          (ADVP-DIR (ADV אַרױס))) (ID 1922E-SHNIURSON.NAR-REL.YID,.181))
+          (ADVP-DIR (ADV אַרױס)))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.181))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ *con*)
@@ -2589,7 +2736,8 @@
                                           (NP (N װאַסער)))
                                       (NEG ניט)
                                       (BEN געװען)))))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.182))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.182))
 
 ( (IP-MAT (IP-MAT-1 (CONJ נאָר)
                     (CP-ADV (IP-SUB (VBP גײט)
@@ -2612,7 +2760,8 @@
                                    (PUNC „)
                                    (QTP (N איך)))))
           (PUNC “)
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.183))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.183))
 
 ( (IP-MAT (IP-MAT-1 (ADVP-LOC (ADV דאָ))
                     (BEP איז)
@@ -2632,7 +2781,8 @@
                                (H הבּיטול))))
           (PUNC .)
           (PUNC .)
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.184))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.184))
 
 ( (IP-MAT (CONJ און)
           (CP-ADV (C אַז)
@@ -2650,7 +2800,8 @@
           (NP-PRD (H אש)
                   (H אכלה))
           (PUNC ...)
-          (PUNC “)) (ID 1922E-SHNIURSON.NAR-REL.YID,.185))
+          (PUNC “))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.185))
 
 ( (CODE <page_num:32_text_block_num:2>))
 
@@ -2660,7 +2811,8 @@
           (NP-SBJ (NPR חײם))
           (ADVP (ADV פאַנאַנדער>))
           (VBN <געגאַנגען)
-          (PUNC ,)) (ID 1922E-SHNIURSON.NAR-REL.YID,.187))
+          (PUNC ,))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.187))
 
 ( (IP-MAT (CONJ און)
           (CP-ADV (WADVP-1 (WADV װי))
@@ -2687,7 +2839,8 @@
           (PP (P אױף)
               (NP (D די)
                   (NS פיס)))
-          (PUNC ,)) (ID 1922E-SHNIURSON.NAR-REL.YID,.188))
+          (PUNC ,))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.188))
 
 ( (IP-MAT (ADVP (CP-CMP (WADVP-1 (WNP-MSR (WPRO װאָס))
                                  (ADVR האַסטיגער))
@@ -2702,7 +2855,8 @@
           (VBP בּאַהערשט)
           (NP-SBJ (PRO ער))
           (NP-RFL (PRO זיך))
-          (PUNC ,)) (ID 1922E-SHNIURSON.NAR-REL.YID,.189))
+          (PUNC ,))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.189))
 
 ( (IP-MAT (FP אָט)
           (VBP שטײט)
@@ -2711,7 +2865,8 @@
                   (ADJ גליהענדיגער))
           (PP (P מיט)
               (NP (ADJ אָפענע)
-                  (NS אױגן)))) (ID 1922E-SHNIURSON.NAR-REL.YID,.190))
+                  (NS אױגן))))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.190))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ *con*)
@@ -2722,7 +2877,8 @@
                   (IP-SUB (ADVP *T*-1)
                           (PP (P פון)
                               (NP (N פײער)))))
-          (PUNC ,)) (ID 1922E-SHNIURSON.NAR-REL.YID,.191))
+          (PUNC ,))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.191))
 
 ( (IP-MAT (NP-SBJ *con*)
           (VBP (VBP שלײפט)
@@ -2743,7 +2899,8 @@
                                       (P אין)
                                       (NP (D דער)
                                           (N נשמה))))))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.192))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.192))
 
 ( (CODE <page_num:32_text_block_num:3>))
 
@@ -2754,7 +2911,8 @@
           (ADVP (ADV אַלײן))
           (RP איבּער>)
           (VBN <געריסן)
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.194))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.194))
 
 ( (CODE <page_num:32_text_block_num:4>))
 
@@ -2768,7 +2926,8 @@
                               (IP-SUB (ADVP *T*-2)
                                       (NP-SBJ (D די)
                                               (NS נאַרן)))))
-              (PUNC ?)) (ID 1922E-SHNIURSON.NAR-REL.YID,.196))
+              (PUNC ?))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.196))
 
 ( (IP-MAT (ADVP-LOC (ADV דאָ)
                     (PP (P אין)
@@ -2782,7 +2941,8 @@
                   (ADJ אמת’ן)
                   (N בּיסל)
                   (NP-COM (N ספּירט)))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.197))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.197))
 
 ( (IP-MAT (ADVP-LOC (ADV דאָ))
           (MDP קען)
@@ -2793,7 +2953,8 @@
           (VAN (VAN פאַר’שכּור’ט)
                (PUNC ,)
                (VAN אומגעצױמט))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.198))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.198))
 
 ( (IP-MAT (NP-MSR (CP-CMP (WNP-1 (WNP-MSR (WPRO װאָס))
                                  (QR מער))
@@ -2810,7 +2971,8 @@
           (VB געװינען)
           (PUNC .)
           (PUNC .)
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.199))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.199))
 
 ( (CODE <page_num:33_text_block_num:0>))
 
@@ -2824,7 +2986,8 @@
               (N פרעג))
           (DON געטאָן)
           (NP-SBJ (NPR משה־מרדכי))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.201))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.201))
 
 ( (IP-MAT (NP-SBJ (D דאָס))
           (BEP איז)
@@ -2843,7 +3006,8 @@
                         (PUNC “)
                         (PP (P אין)
                             (NP (N חסידות)))))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.202))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.202))
 
 ( (IP-MAT (NP-TMP (Q אַלע)
                   (N טאָג)
@@ -2866,7 +3030,8 @@
                                               (PUNC „)
                                               (VBP ציאמעט)))))
           (PUNC “)
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.203))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.203))
 
 ( (IP-MAT (NP-SBJ *con*)
           (PUNC „)
@@ -2888,7 +3053,8 @@
                   (VAG פאַרשטײענדיג)
                   (NP-OB1 (D אײן)
                           (N װאָרט)))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.204))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.204))
 
 ( (IP-MAT (CONJ נאָר)
           (IP-ABS (NP-SBJ (D אַ)
@@ -2928,7 +3094,8 @@
                                              (IP-INF (NP-SBJ (PRO זיך))
                                                      (FP נאָר)
                                                      (VB הערן))))))))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.205))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.205))
 
 ( (IP-MAT (CONJ און)
           (NP-MSR (CP-CMP (WADVP-1 (WNP-MSR (WPRO װאָס))
@@ -2949,7 +3116,8 @@
           (NP-RFL (PRO זיך))
           (PP (P פון)
               (NP (N התפּעלות)))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.206))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.206))
 
 ( (IP-MAT (ADVP (FP אָט)
                 (ADVR אַזױ))
@@ -2977,7 +3145,8 @@
                                           (IP-SUB (ADVP *T*-2)
                                                   (NP-SBJ (ADJ שטאַרקער)
                                                           (N װײן)))))))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.207))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.207))
 
 ( (IP-MAT (IP-MAT-1 (PP (DR+P דערפאַר))
                     (BEP איז)
@@ -2998,7 +3167,8 @@
                                    (ADJ חסידישער)
                                    (H יומא)
                                    (H דפּגרא)))))
-          (PUNC ,)) (ID 1922E-SHNIURSON.NAR-REL.YID,.208))
+          (PUNC ,))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.208))
 
 ( (IP-MAT (NP-SBJ *con*)
           (BEP איז)
@@ -3013,7 +3183,8 @@
                                 (Q יעדן)
                                 (ADJ חסידישן)
                                 (N שלעפּער))))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.209))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.209))
 
 ( (IP-MAT (CONJ און)
           (IP-MAT-1 (CP-ADV (C אַז)
@@ -3039,14 +3210,16 @@
           (CONJP (IP-MAT=1 (PP (DR+P דערפון)
                                (ADVP (ADV אַלײן)))
                            (ADJP (ADJ שכּור))))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.210))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.210))
 
 ( (CODE <page_num:33_text_block_num:1>))
 
 ( (CP-QUE-MAT (PUNC —)
               (WNP (WPRO װאָס))
               (INTJ אז)
-              (PUNC ?)) (ID 1922E-SHNIURSON.NAR-REL.YID,.212))
+              (PUNC ?))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.212))
 
 ( (IP-MAT-QUE (NP-SBJ (MAN מ’>))
               (HVP <האָט)
@@ -3061,7 +3234,8 @@
                                           (NP (NPR ליובּאַװיטש))))))
               (NEG ניט)
               (VBN געזעהן)
-              (PUNC ?)) (ID 1922E-SHNIURSON.NAR-REL.YID,.213))
+              (PUNC ?))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.213))
 
 ( (IP-MAT (ADVP-LOC (FP נאָר)
                     (ADV דאָ))
@@ -3072,7 +3246,8 @@
                   (PP (P פון)
                       (NP (H דברי־אלקים)
                           (H חײם))))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.214))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.214))
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ (NPR יעקב)
                             (NPR אבינו))
@@ -3087,7 +3262,8 @@
           (CONJP (CONJ און)
                  (IP-MAT=1 (VBN געלײגט)
                            (ADVP-LOC (ADV צוקאָפּנס))))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.215))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.215))
 
 ( (IP-MAT (CONJ און)
           (PP (P בּײ)
@@ -3099,7 +3275,8 @@
           (NP-SBJ (NPR ליובּאַװיטש))
           (BE זײן)
           (ADVP-LOC (ADV צוקאָפּנס))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.216))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.216))
 
 ( (FRAG (ADVP (ADV בּקיצור))
         (PUNC ,)
@@ -3112,7 +3289,8 @@
                        (NX (N ספּירט))))
         (PUNC .)
         (PUNC .)
-        (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.217))
+        (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.217))
 
 ( (CODE <page_num:33_text_block_num:2>))
 
@@ -3126,7 +3304,8 @@
           (VBN פּאַסירט)
           (NP-SBJ (ADJ אַזאַ)
                   (N מעשה))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.219))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.219))
 
 ( (IP-MAT (NP-SBJ (ES ס’>))
           (BEP <איז)
@@ -3143,7 +3322,8 @@
                   (PP (P צו>)
                       (NP (D <ם)
                           (N-D רבּין)))))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.220))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.220))
 
 ( (IP-MAT (PP (P אין)
               (NP (D דעם)
@@ -3183,7 +3363,8 @@
                                                  (PUNC „)
                                                  (NS דינים))))))
           (PUNC “)
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.221))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.221))
 
 ( (CODE <page_num:34_text_block_num:0>))
 
@@ -3205,7 +3386,8 @@
           (PP (P צו>)
               (NP (D <ם)
                   (N-D רבּין)))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.223))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.223))
 
 ( (IP-MAT (ADVP-LOC (ADV דאָרט))
           (BEP זײנען)
@@ -3219,7 +3401,8 @@
                        (ADVP-TMP (ADV דאמאלסט))
                        (NP-PRD (H גדולי)
                                (H ישראל))))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.224))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.224))
 
 ( (CODE <page_num:34_text_block_num:1>))
 
@@ -3235,7 +3418,8 @@
                   (N ידיעה))
           (PP (P אין)
               (NP (N ליובּאַװיטש)))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.226))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.226))
 
 ( (IP-MAT (BEP זײנען)
           (ADVP-DIAGN-TMP (ADV שױן))
@@ -3244,7 +3428,8 @@
           (ADVP (ADV שטאַרק))
           (RP אױפ>)
           (VAN <געטראָגן)
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.227))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.227))
 
 ( (IP-MAT (NP-SBJ *exp*)
           (ADVP (ADV דערהױפּט))
@@ -3256,7 +3441,8 @@
                   (PP (P אױפ>)
                       (NP (D <ן)
                           (N-D רבּין))))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.228))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.228))
 
 ( (CP-QUE-MAT (WNP-1 (WPRO װאָס))
               (IP-SUB (NP-OB1 *T*-1)
@@ -3267,7 +3453,8 @@
                       (PP (P פון)
                           (NP (PRO אים)))
                       (HV האָבּן)
-                      (PUNC ?))) (ID 1922E-SHNIURSON.NAR-REL.YID,.229))
+                      (PUNC ?)))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.229))
 
 ( (IP-MAT (VBP דוכט)
           (NP-RFL (PRO זיך))
@@ -3281,7 +3468,8 @@
                                   (N גאונות)))
                           (PP (P אין)
                               (NP (N נגלה))))
-          (PUNC —)) (ID 1922E-SHNIURSON.NAR-REL.YID,.230))
+          (PUNC —))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.230))
 
 ( (IP-MAT (NP-SBJ (PRO זײ))
           (VBP הערן)
@@ -3293,17 +3481,20 @@
                           (NP (PRO אים)))
                       (NP-OB1 (NS (H שאלות)
                                   (H ותשובות)))))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.231))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.231))
 
 ( (FRAG (CONJ נאָר)
         (NP-MSR (Q גאָרנישט))
-        (PUNC —)) (ID 1922E-SHNIURSON.NAR-REL.YID,.232))
+        (PUNC —))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.232))
 
 ( (IP-MAT (NP-SBJ (NS עכבּרים))
           (HVP האָבּן)
           (RP-H מורא)
           (PP (P פאַר)
-              (NP (N ליכט)))) (ID 1922E-SHNIURSON.NAR-REL.YID,.233))
+              (NP (N ליכט))))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.233))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ *con*)
@@ -3312,7 +3503,8 @@
           (PP (P אין)
               (NP (D די)
                   (NS לעכער)))
-          (PUNC ,)) (ID 1922E-SHNIURSON.NAR-REL.YID,.234))
+          (PUNC ,))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.234))
 
 ( (IP-MAT (CONJ נאָר)
           (CP-ADV (C אַז)
@@ -3331,7 +3523,8 @@
           (NP-SBJ (PRO זײ))
           (PP (P פון)
               (NP (D די)
-                  (NS לעכער)))) (ID 1922E-SHNIURSON.NAR-REL.YID,.235))
+                  (NS לעכער))))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.235))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ *con*)
@@ -3340,14 +3533,16 @@
                   (N ליכט))
           (INTJ חלילה)
           (VB פאַרלעשן)
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.236))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.236))
 
 ( (FRAG (NP (ADJ אַזאַ)
             (N קליפּה))
         (PUNC ,)
         (INTJP (H רחמנא)
                (H לצלן))
-        (PUNC !)) (ID 1922E-SHNIURSON.NAR-REL.YID,.237))
+        (PUNC !))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.237))
 
 ( (IP-MAT (NP-SBJ (MAN מען))
           (VBP זאָגט)
@@ -3389,7 +3584,8 @@
                                           (BE זײן)))))
           (PUNC .)
           (PUNC .)
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.238))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.238))
 
 ( (CODE <page_num:34_text_block_num:2>))
 
@@ -3418,7 +3614,8 @@
                                           (N מורא)
                                           (PP (P פאַר)
                                               (NP (NPR פּעטערבּורג))))))))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.240))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.240))
 
 ( (IP-MAT (PP (FP אָט)
               (P פון)
@@ -3446,7 +3643,8 @@
                           (PUNC „)
                           (NS דאָפּראָסן))))
           (PUNC “)
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.241))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.241))
 
 ( (IP-MAT (HVP האָט)
           (NP-SBJ (D דאָס))
@@ -3463,14 +3661,16 @@
                   (PP (P פון)
                       (NP (ADJ מסירת־נפש’דיגער)
                           (N שמחה))))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.242))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.242))
 
 ( (IP-MAT (CONJ װאָרום)
           (NP-SBJ (N שמחה))
           (BEP איז)
           (ADVP-DIAGN (ADV דאָך))
           (RP-H מבטל)
-          (NP-OB1 (NS דינים))) (ID 1922E-SHNIURSON.NAR-REL.YID,.243))
+          (NP-OB1 (NS דינים)))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.243))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ (D די)
@@ -3485,7 +3685,8 @@
                   (ADJ אמת־חסידישע)
                   (N בּיסל)
                   (NP-COM (N בּראָנפן))))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.244))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.244))
 
 ( (IP-MAT (CONJ נאָר)
           (NP-SBJ (D דער)
@@ -3498,7 +3699,8 @@
               (NP (PRO$ זײנע)
                   (VAN אױסגעהאָרעװעטע)
                   (NS פּלײצעס)))
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.245))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.245))
 
 ( (IP-MAT (NP-TMP (D די)
                   (ADJ לעצטע)
@@ -3533,7 +3735,8 @@
                                                       (QTP (H עניני)
                                                            (NPR פּעטערבּורג))))))))
           (PUNC “)
-          (PUNC .)) (ID 1922E-SHNIURSON.NAR-REL.YID,.246))
+          (PUNC .))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.246))
 
 ( (IP-MAT (NP-SBJ (ADV טאַקע)
                   (FP נאָר)
@@ -3562,5 +3765,5 @@
                                       (NP-PRN (D אַ)
                                               (ADJ גאַנצע)
                                               (NUM האַלבע)
-                                              (N שעה)))))) (ID 1922E-SHNIURSON.NAR-REL.YID,.247))
-
+                                              (N שעה))))))
+  (ID 1922E-SHNIURSON.NAR-REL.YID,.247))
