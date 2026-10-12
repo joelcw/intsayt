@@ -177,6 +177,7 @@ function customConLeafBefore() {
 	addConLeafBefore( "WPP", "0");
     addConLeafBefore("CODE"   , "{COM:XXX}" );
     addConLeafAfter("CODE"   , "{COM:XXX}" );
+    addConLeafAfter("OCR"   , "{COM:XXX}" );
     addConLeafAfter( "VB", "*");
     addConLeafAfter( "BREAK", "0");
 }
