@@ -507,8 +507,9 @@
   (ID 1967E-GLATSTEIN.YID.PSD,.24))
 
 ( (IP-MAT-SPE (CONJ און)
-              (NP-SBJ (D דאָס)
-                      (N האַרץ))
+              (NP-SBJ-1 *exp*)
+              (NP-1 (D דאָס)
+                    (N האַרץ))
               (BEP איז)
               (NP-XPR (PRO מיר))
               (VAN פאַרװאַנדלט)
@@ -2248,7 +2249,8 @@
                                                                                                                  (ADV אַראָפּ))
                                                                                                        (VB װאַרפן))))))))))
               (PUNC “)
-              (PUNC .))
+              (PUNC .)
+              (CODE {COM:check}))
   (ID 1967E-GLATSTEIN.YID.PSD,.108))
 
 ( (IP-MAT (NP-SBJ (D דער)

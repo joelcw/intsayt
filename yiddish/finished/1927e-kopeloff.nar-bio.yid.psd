@@ -1,7 +1,8 @@
 ( (CODE <page_num:15_text_block_num:0>))
 
 ( (META (TTL א)
-        (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.2))
+        (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.2))
 
 ( (CODE <page_num:15_text_block_num:1>))
 
@@ -64,7 +65,8 @@
                               (D אַ)
                               (N שטיקל)
                               (NP-COM (N תּכלית))))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.4))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.4))
 
 ( (CODE <page_num:15_text_block_num:2>))
 
@@ -89,7 +91,8 @@
                   (QP (Q בּײדע)))
           (NEG נישט)
           (HVN געהאַט)
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.6))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.6))
 
 ( (IP-MAT (NP-SBJ (PRO מיר))
           (HVP האָבן)
@@ -117,7 +120,8 @@
                                                            (IP-INF (NP-OB1 *T*-3)
                                                                    (TO צוּ)
                                                                    (DO טוּן)))))))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.7))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.7))
 
 ( (IP-MAT (NP-SBJ (PRO מיר))
           (BEP זענען)
@@ -129,7 +133,8 @@
                           (HVP האָט)
                           (NP-OB1 (PRO אונז))
                           (VBN געטריבּן)))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.8))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.8))
 
 ( (IP-MAT (PP (P אין)
               (NP (NPR בּאָבּרױסק)))
@@ -185,7 +190,8 @@
                                                                             (BEP איז)
                                                                             (BEN געװען)
                                                                             (ADJP (ADJ אױסגעשלאָסן)))))))))))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.9))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.9))
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ *exp*)
                     (NP-XPR (PRO אוּנז))
@@ -216,7 +222,8 @@
                                    (ADJ אײגענע)
                                    (N שטיקל)
                                    (NP-COM (N בּרױט)))))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.10))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.10))
 
 ( (IP-MAT (NP-SBJ-1 (ES עס))
           (BEP איז)
@@ -244,7 +251,8 @@
                                      (PP (P אױף)
                                          (NP (NP-POS (PRO$ זײן)
                                                      (N$ טאַטנס)))))))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.11))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.11))
 
 ( (CODE <page_num:16_text_block_num:0>))
 
@@ -264,7 +272,8 @@
           (BEP איז)
           (BEN געװען)
           (NP-PRD (NPR מינסק))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.13))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.13))
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ (PRO מיר))
                     (BEP זענען)
@@ -300,7 +309,8 @@
           (PUNC ,)
           (CONJP (CONJ אָבּער)
                  (IP-MAT=1 (ADVP (ADV אוּמזיסט))))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.14))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.14))
 
 ( (IP-MAT (NP-SBJ (MAN מען))
           (HVP האָט)
@@ -309,7 +319,8 @@
               (ADVP (ADV ערגעץ)))
           (NEG נישט)
           (VBN בּאַדאַרפט)
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.15))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.15))
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ (PRO איך))
                     (BEP בּין)
@@ -335,7 +346,8 @@
                  (IP-MAT=1 (ADVP (ADV אוּמזיסט))
                            (NP-SBJ (D די)
                                    (N טרחה))))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.16))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.16))
 
 ( (IP-MAT (NP-SBJ (D דער)
                   (N ראַבּינער))
@@ -352,7 +364,8 @@
                           (BEP איז)
                           (ADVP (ADV שטאַרק))
                           (VAN געשלאָגן)))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.17))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.17))
 
 ( (IP-MAT (NP-SBJ (NUM הוּנדערטער)
                   (N ײנגעלײט)
@@ -370,7 +383,8 @@
               (NP (D דער)
                   (ADJ זעלבּיקער)
                   (N בּקשה)))
-          (PUNC ;)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.18))
+          (PUNC ;))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.18))
 
 ( (IP-MAT (NP-SBJ (PRO זײ))
           (BEP זענען)
@@ -388,7 +402,8 @@
                                        (NP-OB1 (D אַ)
                                                (N שטיקל)
                                                (NP-COM (N בּרױט)))))))
-          (PUNC ,)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.19))
+          (PUNC ,))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.19))
 
 ( (IP-MAT (CONJ אָבּער)
           (NP-SBJ (ES עס))
@@ -397,7 +412,8 @@
           (ADVP-LOC (ADV <אָ))
           (NP-LGS (Q קײן)
                   (N אױסזיכט))
-          (PUNC ;)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.20))
+          (PUNC ;))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.20))
 
 ( (IP-MAT (CONJ אוּן)
           (NP-SBJ (IP-INF (VB קריגן)
@@ -415,7 +431,8 @@
                   (N רײד))
           (NEG נישט>)
           (ADVP-LOC (ADV <אָ))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.21))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.21))
 
 ( (IP-MAT (NP-SBJ (NP (D די)
                       (NS פּאָגראָמען))
@@ -435,7 +452,8 @@
           (NP-OB1 (ADV גאָר)
                   (D אַ)
                   (N תּל))
-          (PUNC ,)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.22))
+          (PUNC ,))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.22))
 
 ( (IP-MAT (NP-SBJ (PRO זײ))
           (MDP װעלן)
@@ -444,7 +462,8 @@
           (NP-OB1 (PRO אוּנז))
           (ADVP (ADV אינגאַנצן))
           (VB דערשטיקן)
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.23))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.23))
 
 ( (CODE <page_num:16_text_block_num:1>))
 
@@ -459,7 +478,8 @@
           (ADJP (ADV ערנסט)
                 (ADJ קראַנק))
           (RDN געװאָרן)
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.25))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.25))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (HVP האָט)
@@ -471,7 +491,8 @@
                          (IP-INF (VB שפּײען)
                                  (PP (P מיט)
                                      (NP (N בּלוּט))))))
-          (PUNC ;)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.26))
+          (PUNC ;))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.26))
 
 ( (IP-MAT (NP-SBJ-1 *exp*)
           (PP (P נאָך)
@@ -495,7 +516,8 @@
                                       (PUNC —)
                                       (PP (P קײן)
                                           (NP (NPR בּאָבּרױסק))))))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.27))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.27))
 
 ( (IP-MAT (PP (P מיט)
               (NP (ADJ שװערע)
@@ -504,7 +526,8 @@
           (NP-SBJ (PRO מיר))
           (NP-RFL (PRO זיך))
           (VBN צעשײדט)
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.28))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.28))
 
 ( (IP-MAT (PUNC -LRB-)
           (PP (P אין)
@@ -520,7 +543,8 @@
                           (BEP איז)
                           (VBN געשטאָרבּן)))
           (PUNC -RRB-)
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.29))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.29))
 
 ( (CODE <page_num:16_text_block_num:2>))
 
@@ -535,7 +559,8 @@
                   (N זינען))
           (NEG נישט)
           (HVN געהאַט)
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.31))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.31))
 
 ( (IP-MAT (CONJ אוּן)
           (PP (P מיט)
@@ -550,7 +575,8 @@
                 (PP (P צוּ)
                     (NP (D דער)
                         (N גרענעץ))))
-          (PUNC —)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.32))
+          (PUNC —))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.32))
 
 ( (IP-MAT (NP-MSR (Q עפּעס))
           (HVP האָבּ)
@@ -594,7 +620,8 @@
                                                                                (PP (P פאַר)
                                                                                    (NP (D אַ)
                                                                                        (N ײד))))))))))))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.33))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.33))
 
 ( (CODE <page_num:16_text_block_num:3>))
 
@@ -617,7 +644,8 @@
           (PP (P אױף)
               (NP (D אַ)
                   (N בּאַן־בּילעט)))
-          (PUNC ,)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.35))
+          (PUNC ,))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.35))
 
 ( (IP-MAT (CONJ און)
           (CP-ADV (C װען)
@@ -642,14 +670,16 @@
                   (N רוּבּל)
                   (PP (P מיט)
                       (NP (NS קאָפּיקעס))))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.36))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.36))
 
 ( (IP-MAT (NP-SBJ (D די)
                   (N אכסניה))
           (BEP איז)
           (BEN געװען)
           (ADJP (ADJ פּוּסטלעך))
-          (PUNC ;)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.37))
+          (PUNC ;))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.37))
 
 ( (IP-MAT (PP (P (P21 אַ)
                  (P22 חוּץ))
@@ -674,7 +704,8 @@
           (NP-SBJ (Q קײנער))
           (NEG נישט)
           (BEN געװען)
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.38))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.38))
 
 ( (CODE <page_num:17_text_block_num:0>))
 
@@ -724,7 +755,8 @@
                                                                    (ADVR אַזױ))))))))
           (PUNC .)
           (PUNC .)
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.40))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.40))
 
 ( (IP-MAT (NP-SBJ (PRO איך))
           (HVP האָבּ)
@@ -743,7 +775,8 @@
                                                  (N רוּבּל)
                                                  (PP (P מיט)
                                                      (NP (NS קאָפּיקעס))))))))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.41))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.41))
 
 ( (CODE <page_num:17_text_block_num:1>))
 
@@ -770,7 +803,8 @@
           (NP-SBJ (PRO ער))
           (FP נאָר)
           (ADVP (ADV גוּטמוּטיק))
-          (VBN געשמײכלט)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.43))
+          (VBN געשמײכלט))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.43))
 
 ( (IP-MAT (CONJ אוּן)
           (PUNC ,)
@@ -806,7 +840,8 @@
                                           (C װי)
                                           (IP-SUB-SPE (ADJP *T*-1)
                                                       (NP-SBJ (PRO איר))))))
-          (PUNC ,)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.44))
+          (PUNC ,))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.44))
 
 ( (IP-MAT-SPE (NP-SBJ *pro*)
               (HVP האָט)
@@ -818,18 +853,21 @@
                       (N נשמה)))
               (NEG נישט)
               (PUNC “)
-              (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.45))
+              (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.45))
 
 ( (QTP (H אח)
        (H לצרה)
        (H יולד)
-       (PUNC !)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.46))
+       (PUNC !))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.46))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (HVP האָט)
           (NP-OB1 (PRO אוּנז)
                   (QP (Q בּײדע)))
-          (VBN בּאַקענט)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.47))
+          (VBN בּאַקענט))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.47))
 
 ( (IP-MAT (CONJ אוּן)
           (NP-SBJ *con*)
@@ -844,14 +882,16 @@
                       (VBI געזאָרגט)
                       (PUNC ,)
                       (NP-VOC (NS קינדער))
-                      (PUNC ,))) (ID 1927E-KOPELOFF.NAR-BIO.YID,.48))
+                      (PUNC ,)))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.48))
 
 ( (IP-MAT-SPE (ADVP (ADV מסתּמא))
               (MDP װעט)
               (NP-SBJ (NPR גאָט))
               (VB העלפן)
               (PUNC “)
-              (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.49))
+              (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.49))
 
 ( (CODE <page_num:17_text_block_num:2>))
 
@@ -883,7 +923,8 @@
                     (NP-OB1 (PRO מיך)))
           (CONJP (CONJ אוּן)
                  (IP-MAT=1 (VBN דערמוּטיקט)))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.51))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.51))
 
 ( (CODE <page_num:17_text_block_num:3>))
 
@@ -922,7 +963,8 @@
                                                                  (PP (P מיט)
                                                                      (NP (D אַ)
                                                                          (N שװעסטער))))))))))
-          (PUNC ,)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.53))
+          (PUNC ,))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.53))
 
 ( (IP-MAT (CONJ אָבּער)
           (NP-SBJ (D דער)
@@ -955,7 +997,8 @@
           (PP (P אין)
               (NP (D יענער)
                   (N שטאָט)))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.54))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.54))
 
 ( (IP-MAT (NP-SBJ (NP-POS (PRO$ מײן)
                           (ADJ נײעם)
@@ -965,7 +1008,8 @@
           (ADVP (ADV אינגאַנצן))
           (RP אױס>)
           (VAN <געראַבּירט)
-          (RDN געװאָרן)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.55))
+          (RDN געװאָרן))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.55))
 
 ( (IP-MAT (CONJ אוּן)
           (NP-SBJ (PRO זײ))
@@ -974,7 +1018,8 @@
           (ADJP (ADJ הױלע)
                 (CONJ אוּן)
                 (ADJ נאַקעטע))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.56))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.56))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (HVP האָט)
@@ -990,7 +1035,8 @@
                       (PP (P בּאַ)
                           (NP (PRO$ זײן)
                               (N פאַך))))
-          (PUNC ,)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.57))
+          (PUNC ,))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.57))
 
 ( (IP-MAT (CONJ אָבּער)
           (NP-SBJ (PRO ער))
@@ -999,7 +1045,8 @@
           (MDN געקאָנט)
           (NP-OB1 *pro*)
           (VB געפינען)
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.58))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.58))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (VLP װאָלט)
@@ -1007,7 +1054,8 @@
           (ADVP-TMP (ADV אמאָל))
           (VB *)
           (PP (P אין)
-              (NP (NPR אַמעריקע)))) (ID 1927E-KOPELOFF.NAR-BIO.YID,.59))
+              (NP (NPR אַמעריקע))))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.59))
 
 ( (CODE <page_num:18_text_block_num:0>))
 
@@ -1025,7 +1073,8 @@
                            (ADVP-LOC (ADV ערגעץ)
                                      (PP (P קײן)
                                          (NP (N אױסלאַנד))))))
-          (PUNC ,)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.61))
+          (PUNC ,))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.61))
 
 ( (IP-MAT (ADVP-LOC (ADV דאָרטן))
           (VLP װאָלט)
@@ -1042,7 +1091,8 @@
                       (VBN דערקלערט)
                       (NP-OB1 (PRO$ זײן)
                               (N לאַגע)))
-          (PUNC —)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.62))
+          (PUNC —))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.62))
 
 ( (CP-QUE-MAT (CONJ אָבּער)
               (WNP-1 (WPRO װאָס))
@@ -1067,7 +1117,8 @@
                                                             (NP (N אָרט)))
                                                         (TO צוּ)
                                                         (VB רירן))))))
-              (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.63))
+              (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.63))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (HVP האָט)
@@ -1090,7 +1141,8 @@
                           (ADVP (ADV דװקא))
                           (NP-PRD (D אַ)
                                   (ADJ פּראָסטער))))
-          (PUNC ,)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.64))
+          (PUNC ,))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.64))
 
 ( (IP-MAT (CONJ און)
           (CP-ADV (C אױבּ)
@@ -1112,7 +1164,8 @@
                   (NP-PRN (D אַ)
                           (H יד)
                           (H אחת)))
-          (PUNC !)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.65))
+          (PUNC !))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.65))
 
 ( (IP-MAT (NP-SBJ (FP אָט)
                   (PUNC ,)
@@ -1130,7 +1183,8 @@
           (PP (P מיט>)
               (NP (D <ן)
                   (ADJ צװײטן)))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.66))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.66))
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ (PRO איך))
                     (HVP האָבּ)
@@ -1150,20 +1204,23 @@
                                                                (IP-INF-SPE (VB טאַנצן)))))))
           (PUNC .)
           (PUNC .)
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.67))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.67))
 
 ( (IP-MAT (CONJ אָבּער)
           (NP-SBJ (PRO ער))
           (BEP איז)
           (RP צו>)
-          (VBN <ּגעשטאַנען)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.68))
+          (VBN <ּגעשטאַנען))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.68))
 
 ( (IP-MAT (CONJ אוּן)
           (NP-SBJ (PRO איך))
           (BEP בּין)
           (ADJP (ADJ מרוּצה))
           (RDN געװאַרן)
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.69))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.69))
 
 ( (IP-MAT (CP-ADV (WADVP-1 (WADV װי))
                   (C 0)
@@ -1182,7 +1239,8 @@
           (ADJP (NP-MSR (D אַ)
                         (N בּיסל))
                 (ADJR הײמלעכער))
-          (PUNC ,)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.70))
+          (PUNC ,))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.70))
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ *pro*)
                     (VBP פאָרט)
@@ -1193,7 +1251,8 @@
                  (IP-MAT=1 (NEG נישט)
                            (ADJP-SPR (ADVR אַזױ)
                                      (ADJ עלנד))))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.71))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.71))
 
 ( (CODE <page_num:18_text_block_num:1>))
 
@@ -1206,7 +1265,8 @@
           (VBN אינטערעסירט)
           (PP (P מיט)
               (NP (PRO אוּנז)))
-          (PUNC ,)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.73))
+          (PUNC ,))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.73))
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ (PRO ער))
                     (MDP פלעגט)
@@ -1233,7 +1293,8 @@
                                            (NP (D אַ)
                                                (N לאַד))))))
           (PUNC !)
-          (PUNC “)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.74))
+          (PUNC “))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.74))
 
 ( (IP-MAT (IP-MAT-1 (FRAG (FRAG (WNP (WPRO װאָס))
                                 (NP (N לאַד)))
@@ -1273,7 +1334,8 @@
                                                           (NP-SBJ *con*)
                                                           (VBP גיט)
                                                           (NP-OB1 (N עסן))))))))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.75))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.75))
 
 ( (IP-MAT (PP (P בּאַ)
               (NP (PRO זיך)
@@ -1294,7 +1356,8 @@
                           (PUNC „)
                           (NP-OB1 (NS שטעלעס))))
           (PUNC “)
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.76))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.76))
 
 ( (CODE <page_num:18_text_block_num:2>))
 
@@ -1302,7 +1365,8 @@
                   (N פרימאָרגן))
           (BEP איז)
           (NP-SBJ (PRO ער))
-          (ADVP-DIR (RP-ADV אַװעק))) (ID 1927E-KOPELOFF.NAR-BIO.YID,.78))
+          (ADVP-DIR (RP-ADV אַװעק)))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.78))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ *con*)
@@ -1313,7 +1377,8 @@
           (VBN @גענוּמען)
           (NP-OB1 (D דעם)
                   (ADJ בּאַלטער))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.79))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.79))
 
 ( (IP-MAT (ADVP-TMP (ADV שפּעטער)
                     (PUNC ,)
@@ -1332,12 +1397,14 @@
           (ADJP (ADV גאָר)
                 (ADJ מלא)
                 (NP-COM (N שמחה)))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.80))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.80))
 
 ( (CP-QUE-MAT-SPE (WNP-1 (WPRO װאָס))
                   (IP-SUB-SPE (NP-SBJ *T*-1)
                               (BEP איז))
-                  (PUNC ?)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.81))
+                  (PUNC ?))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.81))
 
 ( (IP-MAT (NP-SBJ (ES עס))
           (HVP האָט)
@@ -1354,7 +1421,8 @@
                                       (ADJ פּאָגראָם־געליטענע)
                                       (PP (P אין)
                                           (NP (NPR בּאַלטע)))))))
-          (PUNC ,)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.82))
+          (PUNC ,))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.82))
 
 ( (IP-MAT (CONJ אוּן)
           (NP-SBJ-1 *exp*)
@@ -1416,7 +1484,8 @@
                                            (N משפּחה)))
                                    (PP (P קײן)
                                        (NP (NPR בּאַלטע))))))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.83))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.83))
 
 ( (CODE <page_num:18_text_block_num:3>))
 
@@ -1431,7 +1500,8 @@
           (PP (P בּאַ)
               (NP (PRO$ אוּנזער)
                   (N יד־אַחת־אָפּמאַך)))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.85))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.85))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (HVP האָט)
@@ -1456,7 +1526,8 @@
                                   (N װאַסער)))))
           (PUNC .)
           (PUNC .)
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.86))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.86))
 
 ( (IP-MAT (NP-SBJ (D דער)
                   (N בּאַלעבּאָס))
@@ -1465,7 +1536,8 @@
               (NP (PRO$ זײנע)
                   (N רײד)))
           (NP-OB1 (N עדות))
-          (VBN געזאָגט)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.87))
+          (VBN געזאָגט))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.87))
 
 ( (IP-MAT (CONJ אוּן)
           (NP-SBJ *con*)
@@ -1475,7 +1547,8 @@
           (NP-OB1 (PRO מיך))
           (ADVP (ADV שטאַרק))
           (VBN געלױבּט)
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.88))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.88))
 
 ( (IP-MAT (NP-SBJ (D דער)
                   (N קאָמיטעט))
@@ -1489,7 +1562,8 @@
                           (RP דוּרכ>)
                           (TO <צו>)
                           (VB <שמועסן)))
-          (PUNC ,)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.89))
+          (PUNC ,))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.89))
 
 ( (IP-MAT (CONJ אוּן)
           (NP-SBJ-1 (ES עס))
@@ -1500,7 +1574,8 @@
                     (NP-OB1 (PRO מיך))
                     (TO צוּ)
                     (VB שטיצן))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.90))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.90))
 
 ( (CODE <page_num:19_text_block_num:0>))
 
@@ -1533,7 +1608,8 @@
                            (ADVP-DIR (PP (P אין)
                                          (NP (N װעג)))
                                      (ADV אַרײן))))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.92))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.92))
 
 ( (CODE <page_num:19_text_block_num:1>))
 
@@ -1562,7 +1638,8 @@
                                              (CONJP (NP (NPR ליטע)))
                                              (CONJP (CONJ אוּן)
                                                     (NP (NPR אוּקראַינע)))))))))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.94))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.94))
 
 ( (IP-MAT (NP-SBJ (ES עס))
           (BEP זענען)
@@ -1575,7 +1652,8 @@
                       (NP (H עם)
                           (H עולם))))
           (PUNC “)
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.95))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.95))
 
 ( (IP-MAT (ADVP-LOC (ADV אוּמעטוּם))
           (HVP האָט)
@@ -1592,7 +1670,8 @@
           (REP (NP (H עם)
                    (H עולם)))
           (PUNC “)
-          (PUNC ,)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.96))
+          (PUNC ,))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.96))
 
 ( (IP-MAT (CONJ אָבּער)
           (CP-QUE-SUB (WNP-1 (WPRO װער))
@@ -1605,7 +1684,8 @@
           (NP-SBJ (PRO איך))
           (NEG נישט)
           (VBN געװאוּסט)
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.97))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.97))
 
 ( (IP-MAT (NP-SBJ (NP (D די)
                       (NS בּאַנען))
@@ -1618,7 +1698,8 @@
           (VBN געפּאַקט)
           (PP (P מיט)
               (NP (NS ײדן)))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.98))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.98))
 
 ( (CODE <page_num:19_text_block_num:2>))
 
@@ -1663,7 +1744,8 @@
                                                                                      (PP (P אין)
                                                                                          (NP (N יאַדקוּנין))))))
                                                                      (ADVP (ADV בּפרט)))))))))))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.100))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.100))
 
 ( (IP-MAT (NP-SBJ (D די)
                   (N דעלעגאַציע))
@@ -1691,7 +1773,8 @@
                                           (VB גנבנען)
                                           (NP-OB1 (D די)
                                                   (N גרענעץ))
-                                          (PUNC .))))))) (ID 1927E-KOPELOFF.NAR-BIO.YID,.101))
+                                          (PUNC .)))))))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.101))
 
 ( (CODE <page_num:19_text_block_num:3>))
 
@@ -1730,7 +1813,8 @@
                                                   (PP (P מיט)
                                                       (NP (Q יעדן)
                                                           (N צוּג))))))))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.103))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.103))
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ (D דער)
                             (N קאָמיטעט־פאָרשטײער))
@@ -1756,7 +1840,8 @@
                                                        (NP-LGS (D אַן)
                                                                (H הכנסות)
                                                                (H אורחים)))))))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.104))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.104))
 
 ( (IP-MAT (NP-SBJ (PRO מיר))
           (HVP האָבּן)
@@ -1811,7 +1896,8 @@
                                                                                                    (VB פאָרן)
                                                                                                    (PP (P נאָך)
                                                                                                        (NP (NPR האַמבּוּרג)))))))))))))))))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.105))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.105))
 
 ( (CODE <page_num:20_text_block_num:0>))
 
@@ -1843,7 +1929,8 @@
                                                                  (PP (P פוּן)
                                                                      (NP (D די)
                                                                          (NS עמיגראַנטן)))))))))))
-          (PUNC ,)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.107))
+          (PUNC ,))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.107))
 
 ( (IP-MAT (CONJ אָבּער)
           (ADVP (ADV יעדנפאַלס))
@@ -1871,7 +1958,8 @@
                   (CONJP (CONJ אוּן)
                          (NP (D אַ)
                              (N פאַרבּרעכן))))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.108))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.108))
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ (MAN מען))
                     (HVP האָט)
@@ -1924,7 +2012,8 @@
                                                                       (NP (D דער)
                                                                           (ADJ נאַקעטער)
                                                                           (N ערד)))))))))))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.109))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.109))
 
 ( (CODE <page_num:20_text_block_num:1>))
 
@@ -1938,23 +2027,27 @@
           (MDN געקאָנט)
           (ADJP (ADJ טױבּ))
           (RD װערן)
-          (PUNC ,)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.111))
+          (PUNC ,))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.111))
 
 ( (IP-MAT (NP-SBJ (ADJ קראַנקע))
           (HVP האָבּן)
-          (VBN געקרעכצט)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.112))
+          (VBN געקרעכצט))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.112))
 
 ( (IP-MAT (CONJ אוּן)
           (NP-SBJ (NS קינדערלעך))
           (HVP האָבּן)
           (VBN געװײנט)
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.113))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.113))
 
 ( (IP-MAT (ADVP-LOC (ADV דאָ))
           (VBP זיצט)
           (NP-SBJ (D אַן)
                   (ADJ אַלטער)
-                  (N ײד))) (ID 1927E-KOPELOFF.NAR-BIO.YID,.114))
+                  (N ײד)))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.114))
 
 ( (IP-MAT (CONJ אוּן)
           (VBP גיסט)
@@ -1963,7 +2056,8 @@
           (PP (P איבּער@)
               (NP (D @ן)
                   (NS תּהילים)))
-          (PUNC ,)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.115))
+          (PUNC ,))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.115))
 
 ( (IP-MAT (CONJ אוּן)
           (PP (P לעבּן)
@@ -1971,7 +2065,8 @@
           (VBP שטײט)
           (NP-SBJ (D אַן)
                   (ADJ אָנגעפרעסענער)
-                  (N קצב־ײנג))) (ID 1927E-KOPELOFF.NAR-BIO.YID,.116))
+                  (N קצב־ײנג)))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.116))
 
 ( (IP-MAT (CONJ אוּן)
           (NP-SBJ *con*)
@@ -1979,12 +2074,14 @@
           (NP-OB1 (Q עפּעס)
                   (D אַ)
                   (N טעאַטערלידל))
-          (PUNC ;)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.117))
+          (PUNC ;))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.117))
 
 ( (IP-MAT (ADVP-LOC (ADV דאָ))
           (VBP זיצט)
           (NP-SBJ (D אַ)
-                  (N מאַמע))) (ID 1927E-KOPELOFF.NAR-BIO.YID,.118))
+                  (N מאַמע)))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.118))
 
 ( (IP-MAT (CONJ אוּן)
           (NP-SBJ *con*)
@@ -1997,7 +2094,8 @@
                                   (N בּת־יחידקע))
                           (BEP איז)
                           (ADVP (ADV גאָר)
-                                (ADV פאַרבּײ))))) (ID 1927E-KOPELOFF.NAR-BIO.YID,.119))
+                                (ADV פאַרבּײ)))))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.119))
 
 ( (IP-MAT (IP-MAT (CONJ אוּן)
                   (PP (DR+P דערבּײ))
@@ -2021,7 +2119,8 @@
                                  (N בּחוּר)))))
           (PUNC .)
           (PUNC .)
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.120))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.120))
 
 ( (FRAG (NP-X (NP (NS טשעמאָדאַנעס))
               (PUNC ,)
@@ -2052,7 +2151,8 @@
                                                  (PP (P צוּ>)
                                                      (NP (D <ם)
                                                          (N כּשרן)))))))))
-        (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.121))
+        (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.121))
 
 ( (IP-MAT (NP-SBJ (NP (NS שאָלעכץ)
                       (PP (P פוּן)
@@ -2068,7 +2168,8 @@
                            (PP (P אין)
                                (NP (Q איטלעכן)
                                    (N װינקל)))))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.122))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.122))
 
 ( (CODE <page_num:20_text_block_num:2>))
 
@@ -2103,7 +2204,8 @@
                           (NP (QP (ADVR אַזױ)
                                   (Q פיל))
                               (N שמוּץ))))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.124))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.124))
 
 ( (IP-MAT (NP-SBJ *exp*)
           (NP-OB1 (PRO מיך))
@@ -2111,7 +2213,8 @@
           (ADVP (ADV ממש))
           (RP אָפּ>)
           (VBN <געעקלט)
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.125))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.125))
 
 ( (CODE <page_num:20_text_block_num:3>))
 
@@ -2162,7 +2265,8 @@
                                       (ADVP-LOC (ADV דאָ))
                                       (PP (P אין)
                                           (NP (N הקדש)))))
-                      (PUNC .))) (ID 1927E-KOPELOFF.NAR-BIO.YID,.127))
+                      (PUNC .)))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.127))
 
 ( (IP-MAT (NP-SBJ (PRO מיר))
           (VBP זענען)
@@ -2184,7 +2288,8 @@
                                           (VBN פאַרבּליבּן)
                                           (NP-MSR (NUM 3)
                                                   (NS טעג))))))))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.128))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.128))
 
 ( (IP-MAT (PP (P אױף)
               (NP (D דעם)
@@ -2197,7 +2302,8 @@
           (IP-INF (VB מאַכן)
                   (NP-RFL (PRO זיך))
                   (ADJP (ADJ פאַרטיק)))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.129))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.129))
 
 ( (IP-MAT (NP-TMP (ADV אַרוּם)
                   (NUM 2)
@@ -2219,7 +2325,8 @@
           (PP (P צוּ)
               (NP (D דער)
                   (N גרענעץ)))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.130))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.130))
 
 ( (IP-MAT (NP-OB1 (NP (NS װײבּער))
                   (PUNC ,)
@@ -2232,7 +2339,8 @@
           (VBN געפירט)
           (PP (P אױף)
               (NP (NS פוּרן)))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.131))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.131))
 
 ( (CODE <page_num:21_text_block_num:0>))
 
@@ -2254,7 +2362,8 @@
                                   (NP-LGS (D אַ)
                                           (ADJ קלײן)
                                           (N װאַסערל))))))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.133))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.133))
 
 ( (IP-MAT (NP-SBJ (NS סאָלדאַטן)
                   (PP (P מיט)
@@ -2262,7 +2371,8 @@
           (HVP האָבּן)
           (NP-OB1 (PRO אוּנז))
           (VBN בּאַגלײט)
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.134))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.134))
 
 ( (IP-MAT (IP-MAT-1 (ADVP (ADV אַזױ)
                           (CP-ADV (C װי)
@@ -2287,7 +2397,8 @@
                            (PP (P איבּער>)
                                (NP (D <ן)
                                    (N װאַסער)))))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.135))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.135))
 
 ( (CODE <page_num:21_text_block_num:1>))
 
@@ -2306,7 +2417,8 @@
               (NP (D אַ)
                   (ADJ קהליש)
                   (N הױז)))
-          (PUNC ,)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.137))
+          (PUNC ,))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.137))
 
 ( (IP-MAT (CONJ אָבּער)
           (ADVP (ADV אַזױ)
@@ -2349,7 +2461,8 @@
                           (VB <קוּקן)
                           (NP-OB1 (D דאָס)
                                   (N הקדש))))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.138))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.138))
 
 ( (CODE <page_num:21_text_block_num:2>))
 
@@ -2383,7 +2496,8 @@
                                                        (PP (P אוּנטער)
                                                            (NP (PRO$ זײן)
                                                                (N השגחה)))))))))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.140))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.140))
 
 ( (IP-MAT (NP-SBJ (PRO$ מײן)
                   (N פרײנט))
@@ -2394,7 +2508,8 @@
           (VBN <געלאָפן)
           (ADVP-DIR (PP (P אין)
                         (NP (N קאָמיטעט)))
-                    (ADV אַרײן))) (ID 1927E-KOPELOFF.NAR-BIO.YID,.141))
+                    (ADV אַרײן)))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.141))
 
 ( (IP-MAT (CONJ אוּן)
           (NP-SBJ *con*)
@@ -2402,7 +2517,8 @@
           (ADVP (ADV שטאַרק))
           (RP אײנ>)
           (VBN <געטענהט)
-          (PUNC ;)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.142))
+          (PUNC ;))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.142))
 
 ( (IP-MAT (NP-SBJ (D דער)
                   (N בּאַלעבּאָס)
@@ -2413,7 +2529,8 @@
           (NP-OB2 (PRO אים))
           (RP צו>)
           (VBN <ּגעהאָלפן)
-          (PUNC ,)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.143))
+          (PUNC ,))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.143))
 
 ( (IP-MAT (CONJ אוּן)
           (NP-SBJ (MAN מען))
@@ -2426,7 +2543,8 @@
                   (VB שיקן)
                   (PP (P נאָך)
                       (NP (NPR האַמבּוּרג))))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.144))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.144))
 
 ( (CODE <page_num:21_text_block_num:3>))
 
@@ -2463,7 +2581,8 @@
                                  (PP (P אױף)
                                      (IP-INF (RP אָנ@)
                                              (VB @בּײסן)))))))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.146))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.146))
 
 ( (IP-MAT (NP-OB1 (NUM פיר)
                   (N װאַגאָנעס))
@@ -2483,7 +2602,8 @@
               (NP (H אַחינוּ)
                   (PUNC —)
                   (NP-PRN (NS עמיגראַנטן))))
-          (PUNC ,)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.147))
+          (PUNC ,))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.147))
 
 ( (IP-MAT (CONJ אוּן)
           (IP-PPL (VAG װינטשנדיק)
@@ -2497,7 +2617,8 @@
           (NP-OB1 (PRO אוּנז))
           (ADVP-DIR (ADV אַװעק>))
           (VBN <געשיקט)
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.148))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.148))
 
 ( (CODE <page_num:21_text_block_num:4>))
 
@@ -2519,7 +2640,8 @@
                           (N טעם)
                           (PP (P פוּן)
                               (NP (N עמיגראַציע)))))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.150))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.150))
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ-2 *exp*)
                     (NP-2 (Q קײן)
@@ -2537,7 +2659,8 @@
                                  (N הבּסא))
                            (ADVP (ADV אױך))
                            (NEG נישט)))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.151))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.151))
 
 ( (IP-MAT (NP-SBJ (NS מענטשן))
           (HVP האָבּן)
@@ -2557,7 +2680,8 @@
                           (PP (P צוּ)
                               (NP (D אַ)
                                   (N סטאַציע)))))
-          (PUNC ,)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.152))
+          (PUNC ,))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.152))
 
 ( (IP-MAT-1 (CONJ אָבּער)
             (NP-SBJ (NEG נישט)
@@ -2571,7 +2695,8 @@
             (CONJP (IP-MAT=1 (NP-SBJ (NS קינדער))
                              (ADVP (ADV אַװדאי))
                              (NEG נישט)))
-            (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.153))
+            (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.153))
 
 ( (IP-MAT (CONJ אוּן)
           (NP-SBJ (MAN מען))
@@ -2596,7 +2721,8 @@
                               (PP (P אין)
                                   (NP (D די)
                                       (NS װאַגאָנעס)))))
-          (PUNC !)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.154))
+          (PUNC !))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.154))
 
 ( (IP-MAT (NP-SBJ-1 *exp*)
           (ADVP-LOC (ADV דאָרט))
@@ -2605,7 +2731,8 @@
           (NP-1 (D אַ)
                 (ADJ שרעקלעכע)
                 (N ענגשאַפט))
-          (PUNC ,)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.155))
+          (PUNC ,))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.155))
 
 ( (IP-MAT (NP-SBJ (MAN מען))
           (HVP האָט)
@@ -2619,7 +2746,8 @@
                   (CONJP (CONJ אָדער)
                          (NP (D אַ)
                              (N פוּס))))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.156))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.156))
 
 ( (IP-MAT (IP-PPL (VAG זיצנדיק)
                   (ADVP (ADVR אַזױ))
@@ -2633,7 +2761,8 @@
           (NP-SBJ (D דער)
                   (N שלאָף))
           (VBN געמאַטערט)
-          (PUNC ,)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.157))
+          (PUNC ,))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.157))
 
 ( (IP-MAT (CONJ אָבּער)
           (VP (VB שלאָפן))
@@ -2641,7 +2770,8 @@
           (NP-SBJ (MAN מען))
           (NEG נישט)
           (MDN געקענט)
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.158))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.158))
 
 ( (IP-MAT (NP-SBJ (D דער)
                   (N צער)
@@ -2658,7 +2788,8 @@
           (PP (P בּאַ>)
               (NP (D <ם)
                   (N האַרץ)))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.159))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.159))
 
 ( (IP-MAT (NP-SBJ (PRO אוּנז)
                   (PUNC ,)
@@ -2695,7 +2826,8 @@
                                           (NP-RFL (PRO זיך))
                                           (NP-OB1 (D די)
                                                   (NS בּײנער))))))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.160))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.160))
 
 ( (IP-MAT (IP-MAT-1 (PP (DR+P דערפאַר))
                     (ADVP (ADV אָבּער))
@@ -2727,7 +2859,8 @@
                                                                          (MDP דאַרף))))))))))
           (PUNC .)
           (PUNC .)
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.161))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.161))
 
 ( (CODE <page_num:22_text_block_num:0>))
 
@@ -2763,7 +2896,8 @@
                                              (NP-OB1 (D די)
                                                      (ADJ עלנדע)
                                                      (NS װאַנדערער))))))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.163))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.163))
 
 ( (IP-MAT (IP-MAT-1 (PP (P אין)
                         (NP (NPR בּערלין)))
@@ -2781,7 +2915,8 @@
           (CONJP (CONJ אוּן)
                  (IP-MAT=1 (PP (P מיט)
                                (NP (N װײן)))))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.164))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.164))
 
 ( (IP-MAT (NP-OB2 (D די)
                   (ADV גאָר)
@@ -2796,7 +2931,8 @@
                              (PP (P צוּ)
                                  (NP (Q עטלעכע)
                                      (N גאָלד־מאַרק))))))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.165))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.165))
 
 ( (CODE <page_num:22_text_block_num:1>))
 
@@ -2818,7 +2954,8 @@
                                          (ADJP (ADJ אוּמגליקלעכע)
                                                (ADJ רוּסישע))
                                          (NS בּרידער)))))
-          (PUNC ,)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.167))
+          (PUNC ,))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.167))
 
 ( (IP-MAT (CONJ אָבּער)
           (CP-QUE-SUB (C אױבּ)
@@ -2832,7 +2969,8 @@
           (NP-SBJ (PRO איך))
           (PP (P אין)
               (NP (N ספק)))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.168))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.168))
 
 ( (IP-MAT (PP (PP (P אױף)
                   (NP (D די)
@@ -2869,14 +3007,16 @@
                                   (IP-SUB-SPE (NP-OB1 *T*-1)
                                               (VBP מײנען)
                                               (NP-SBJ (PRO זײ)))))
-          (PUNC ?)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.169))
+          (PUNC ?))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.169))
 
 ( (IP-MAT (NP-SBJ (PRO מיר))
           (VBP זענען)
           (NP-PRD (NS שנאָרערס)
                   (PUNC ,)
                   (NP-PRN (NS בּעטלערס)))
-          (PUNC ,)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.170))
+          (PUNC ,))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.170))
 
 ( (CP-QUE-MAT (WNP-1 (WPRO װאָס))
               (IP-SUB (NP-SBJ *pro*)
@@ -2887,14 +3027,16 @@
                           (NP (PRO$ זײערע)
                               (Q עטלעכע)
                               (NS מטבּעות))))
-              (PUNC ?)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.171))
+              (PUNC ?))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.171))
 
 ( (FRAG (H מוחל)
         (PUNC ,)
         (H מוחל)
         (NP-OB1 (ADJ אַזעלכע)
                 (NS טובות))
-        (PUNC !)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.172))
+        (PUNC !))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.172))
 
 ( (FRAG (INTJ אָ)
         (PUNC ,)
@@ -2911,7 +3053,8 @@
         (PUNC .)
         (PUNC .)
         (PUNC .)
-        (PUNC “)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.173))
+        (PUNC “))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.173))
 
 ( (CODE <page_num:22_text_block_num:2>))
 
@@ -2951,7 +3094,8 @@
                                            (NP-ADV (NP (ONE אײנער))
                                                    (NP (D דעם)
                                                        (ADJ צװײטן)))))))
-        (PUNC ?)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.175))
+        (PUNC ?))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.175))
 
 ( (CODE <page_num:23_text_block_num:0>))
 
@@ -2968,7 +3112,8 @@
                   (N בּאַן)
                   (PP (P קײן)
                       (NP (NPR האַמבּוּרג)))))
-          (PUNC ;)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.177))
+          (PUNC ;))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.177))
 
 ( (IP-MAT (NP-SBJ (NP (D די)
                       (N קאָנדוּקטאָרן))
@@ -2994,7 +3139,8 @@
                                                              (N שטאַדט)))
                                                      (ADV הין)))))
           (PUNC !)
-          (PUNC “)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.178))
+          (PUNC “))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.178))
 
 ( (IP-MAT (CONJ אָבּער)
           (NP-SBJ (Q עטלעכע)
@@ -3008,7 +3154,8 @@
           (BEN געװען)
           (PP (P אױפ>)
               (NP (D <ן)
-                  (N פאַרבּאָט)))) (ID 1927E-KOPELOFF.NAR-BIO.YID,.179))
+                  (N פאַרבּאָט))))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.179))
 
 ( (IP-MAT (CONJ אוּן)
           (NP-SBJ (PRO מיר))
@@ -3020,7 +3167,8 @@
                   (NP-OB1 (D די)
                           (ADJ דײטשישע)
                           (N הױפּט־שטאָט)))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.180))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.180))
 
 ( (CODE <page_num:23_text_block_num:1>))
 
@@ -3071,7 +3219,8 @@
                               (NP-OB1 (PRO$ מײנע)
                                       (ADJ הוּנגעריקע)
                                       (NS אױגן))))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.182))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.182))
 
 ( (CODE <page_num:23_text_block_num:2>))
 
@@ -3085,7 +3234,8 @@
               (NP (D דער)
                   (ADJ אוּמדעװאַרטעטער)
                   (N פּראַכט)))
-          (PUNC ;)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.184))
+          (PUNC ;))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.184))
 
 ( (IP-MAT (NP-SBJ *exp*)
           (NP-XPR (PRO מיר))
@@ -3096,11 +3246,13 @@
                   (VB שװינדלען)
                   (NP-SBJ (D דער)
                           (N קאָפּ)))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.185))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.185))
 
 ( (FRAG (NP-X (NPR גאָט)
               (NP-POS (PRO$ מײנער)))
-        (PUNC !)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.186))
+        (PUNC !))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.186))
 
 ( (FRAG (NP-X (QP (ADVR אַזױ)
                   (Q פיל))
@@ -3114,7 +3266,8 @@
                            (PUNC ,)
                            (ADJ גלאַטע))
                      (NS פּנימער))))
-        (PUNC !)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.187))
+        (PUNC !))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.187))
 
 ( (CP-EXL (WPP-1 (P מיט)
                  (WNP (WPRO װאָס)
@@ -3128,7 +3281,8 @@
                   (NP-SBJ (MAN מען))
                   (VBP גײט)
                   (NP-EXPL (ES עס)))
-          (PUNC !)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.188))
+          (PUNC !))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.188))
 
 ( (FRAG (WNP (WNP (WPRO װאָס)
                   (PP (P פאַר)
@@ -3143,7 +3297,8 @@
                                  (N מין)
                                  (NP-COM (ADJ פײן)
                                          (N לשון)))))))
-        (PUNC !)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.189))
+        (PUNC !))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.189))
 
 ( (CODE <page_num:23_text_block_num:3>))
 
@@ -3152,7 +3307,8 @@
           (ADVP (ADVR אַזױ))
           (RP-H נתפּעל)
           (RDN געװאָרן)
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.191))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.191))
 
 ( (IP-MAT (ADJP (ADVR אַזױ)
                 (ADV װאוּנדערלעך)
@@ -3237,7 +3393,8 @@
                                                                                                                                                  (ADJP (ADJ פײנע)
                                                                                                                                                        (ADJ הױכע))
                                                                                                                                                  (NS מױערן))))))))))))))))))))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.192))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.192))
 
 ( (CODE <page_num:23_text_block_num:4>))
 
@@ -3288,7 +3445,8 @@
                                                                                                 (CONJP (NX (NS גוּטס)))
                                                                                                 (CONJP (CONJ אוּן)
                                                                                                        (NX (N האָבּ)))))))))))))))))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.194))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.194))
 
 ( (CODE <page_num:24_text_block_num:0>))
 
@@ -3296,25 +3454,27 @@
           (IP-PPL (NEG גאָרנישט)
                   (VAG װילנדיק))
           (BEP איז)
+          (NP-SBJ-1 *exp*)
           (ADVP (ADV פּלוּצלינג))
-          (NP-SBJ (NP (NPR בּאָבּרױסק))
-                  (PUNC ,)
-                  (CONJP (NP (D די)
-                             (N מאַמע)))
-                  (PUNC ,)
-                  (CONJP (NP (D דער)
-                             (N טאַטע)))
-                  (CONJP (CONJ אוּן)
-                         (NP (PRO$ אוּנזער)
-                             (ADJ אָרעמע)
-                             (N שטוּבּ))))
+          (NP-1 (NP (NPR בּאָבּרױסק))
+                (PUNC ,)
+                (CONJP (NP (D די)
+                           (N מאַמע)))
+                (PUNC ,)
+                (CONJP (NP (D דער)
+                           (N טאַטע)))
+                (CONJP (CONJ אוּן)
+                       (NP (PRO$ אוּנזער)
+                           (ADJ אָרעמע)
+                           (N שטוּבּ))))
           (ADVP-DIR (ADV אַרױפ>))
           (VBN <געשװאוּמען)
           (NP-XPR (PRO מיר))
           (PP (P אױפ>)
               (NP (D <ן)
                   (N זינען)))
-          (PUNC ;)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.196))
+          (PUNC ;))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.196))
 
 ( (IP-MAT (NP-SBJ (D די)
                   (ADJP (PP (P בּיזן)
@@ -3335,7 +3495,8 @@
                         (ADJ אױסגעפלאַסטערטע))
                   (NS גאַסן)
                   (ADVP (ADV פוּנדאַנען))))
-          (PUNC ;)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.197))
+          (PUNC ;))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.197))
 
 ( (IP-MAT (NP-SBJ (D די)
                   (ADJP (ADJ פאַרחושכטע)
@@ -3366,7 +3527,8 @@
                           (PP (P פוּן)
                               (NP (D די)
                                   (NS דײטשן)))))))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.198))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.198))
 
 ( (IP-MAT (NP-SBJ (D די)
                   (ADJ עלעגאַנטע)
@@ -3400,7 +3562,8 @@
                                         (NP-CMP (D אַ)
                                                 (N יאָר)
                                                 (NUM פערציק)))))))
-          (PUNC ,)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.199))
+          (PUNC ,))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.199))
 
 ( (IP-MAT (CONJ אוּן)
           (NP-SBJ (PRO עס))
@@ -3420,7 +3583,8 @@
                                         (IP-SUB (ADVP *T*-1)
                                                 (NP-SBJ (D אַ)
                                                         (ADJ צינענס)))))))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.200))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.200))
 
 ( (CODE <page_num:24_text_block_num:1>))
 
@@ -3472,7 +3636,8 @@
                                                                      (PP (P פוּן)
                                                                          (NP (D אַ)
                                                                              (N מאַנסבּיל))))))))))))
-          (PUNC ,)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.202))
+          (PUNC ,))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.202))
 
 ( (IP-MAT (CONJ אוּן)
           (NP-SBJ *pro*)
@@ -3483,7 +3648,8 @@
               (NP (D די)
                   (ADJ בּערלינער)
                   (NS פרױען)))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.203))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.203))
 
 ( (CP-EXL (INTJ אַ)
           (PUNC ,)
@@ -3496,7 +3662,8 @@
           (IP-SUB (NP-OB1 *T*-1)
                   (NP-SBJ (PRO זײ))
                   (VBP טראָגן))
-          (PUNC ,)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.204))
+          (PUNC ,))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.204))
 
 ( (CP-EXL (WPP-1 (P מיט)
                  (WNP (WPRO װאָס)
@@ -3510,7 +3677,8 @@
                   (NP-SBJ (PRO זײ))
                   (VBP בּאַװעגן)
                   (NP-RFL (PRO זיך)))
-          (PUNC ,)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.205))
+          (PUNC ,))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.205))
 
 ( (CP-EXL (WPP-1 (P מיט)
                  (WNP (WPRO װאָס)
@@ -3549,7 +3717,8 @@
                                                       (WPP (P פאַר>)
                                                            (WNP (WPRO <װאָס)))
                                                       (NEG נישט)))))))
-          (PUNC ;)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.206))
+          (PUNC ;))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.206))
 
 ( (IP-IMP-SPE (INTJ אַ)
               (INTJ נוּ)
@@ -3558,7 +3727,8 @@
               (NP-RFL (PRO זיך))
               (FP נאָר)
               (PUNC “)
-              (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.207))
+              (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.207))
 
 ( (CODE <page_num:24_text_block_num:2>))
 
@@ -3592,7 +3762,8 @@
           (ADVP (ADV פאַרבּײ>))
           (VBN <געטראָגן)
           (NP-RFL (PRO זיך))
-          (PUNC .)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.209))
+          (PUNC .))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.209))
 
 ( (CODE <page_num:24_text_block_num:3>))
 
@@ -3603,14 +3774,16 @@
           (DON געטוּן)
           (PP (P אױף)
               (NP (PRO זיך)
-                  (ADVP (ADV אַלײן))))) (ID 1927E-KOPELOFF.NAR-BIO.YID,.211))
+                  (ADVP (ADV אַלײן)))))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.211))
 
 ( (IP-MAT (CONJ אוּן)
           (NP-SBJ *pro*)
           (HVP האָבּ)
           (NP-RFL (PRO זיך))
           (VBN פאַרשעמט)
-          (PUNC ,)) (ID 1927E-KOPELOFF.NAR-BIO.YID,.212))
+          (PUNC ,))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.212))
 
 ( (IP-MAT (NP-SBJ *pro*)
           (BEP בּין)
@@ -3620,4 +3793,5 @@
           (PP (P פאַר)
               (NP (N בּוּשה)))
           (PUNC .)
-          (CODE {COM:the_next_sentence_was_deleted_as_it_was_cut_off_with_30_words_on_the_following_page})) (ID 1927E-KOPELOFF.NAR-BIO.YID,.213))
+          (CODE {COM:the_next_sentence_was_deleted_as_it_was_cut_off_with_30_words_on_the_following_page}))
+  (ID 1927E-KOPELOFF.NAR-BIO.YID,.213))
