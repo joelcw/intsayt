@@ -172,7 +172,7 @@
           (PUNC ,)))
 
 ( (IP-MAT (NP-SBJ (MAN מ’>))
-          (VBP <האָט)
+          (HVP <האָט)
           (NP-OB2 (PRO זײ))
           (DISFL eh)
           (VBN *)
@@ -466,7 +466,8 @@
                           (MDN געדאַרפֿט)
                           (RP צו>)
                           (VB <דעקן)
-                          (CP-ADV (IP-SUB (NP-SBJ (MAN מע))
+                          (CP-ADV (C 0)
+                                  (IP-SUB (NP-SBJ (MAN מע))
                                           (MDP זאָל)
                                           (NEG נישט)
                                           (VB זען)))))
