@@ -2,8 +2,7 @@
           (IP-SUB (NP-SBJ (NPR מענדעלע)
                           (NPR מוכר־ספרים))
                   (HVP האָט)
-                  (VBN געשװיגן)))
-  (ID 1967E-GLATSTEIN.YID.PSD,.1))
+                  (VBN געשװיגן))) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.1))
 
 ( (IP-MAT (NP-SBJ (D די)
                   (N פײערונג)
@@ -39,8 +38,7 @@
                                              (RDN געװאָרן)
                                              (PP (P אין)
                                                  (NP (NUM 1863)))))))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.2))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.2))
 
 ( (IP-MAT (NP-SBJ (NPR שלום)
                   (NPR יעקב)
@@ -69,8 +67,7 @@
                   (NP-TTL (H האבות)
                           (H והבנים))))
           (PUNC “)
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.3))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.3))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (BEP איז)
@@ -94,8 +91,7 @@
                                                       (NP (ADJ פאַרשידענע)
                                                           (ADJ ײדישע)
                                                           (NS פּראָבלעמען))))))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.4))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.4))
 
 ( (IP-MAT (PP (P צװישן)
               (NP (ADJ העברעיִשן)
@@ -104,8 +100,7 @@
           (NP-SBJ (MAN מען))
           (NP-OB1 (PRO אים))
           (ADVP (ADV גוט))
-          (VBN געקענט))
-  (ID 1967E-GLATSTEIN.YID.PSD,.5))
+          (VBN געקענט)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.5))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ (PRO ער))
@@ -114,8 +109,7 @@
           (VBN געהױבן)
           (IP-INF (VB שרײבן)
                   (NP-OB1 (N ײדיש)))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.6))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.6))
 
 ( (IP-MAT (ADVP (ADV בכלל))
           (BEP איז)
@@ -127,8 +121,7 @@
                       (NP (NS שטימונגען)
                           (CONJ און)
                           (NS איבערברוכן))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.7))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.7))
 
 ( (IP-MAT (IP-MAT-1 (PP (P מיט)
                         (IP-SMC (NP-SBJ (D אַ)
@@ -177,8 +170,7 @@
                                                                                            (BEP *)
                                                                                            (NP-SBJ (PRO$ זײן)
                                                                                                    (N ײדיש))))))))))))
-          (PUNC ,))
-  (ID 1967E-GLATSTEIN.YID.PSD,.8))
+          (PUNC ,)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.8))
 
 ( (IP-MAT (NP-SBJ (ES ס’))
           (BEP זענען)
@@ -211,8 +203,7 @@
                                                          (N חשק)
                                                          (IP-INF (TO צו)
                                                                  (VB שרײבן))))))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.9))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.9))
 
 ( (IP-MAT (NP-SBJ (NPR מענדעלע))
           (BEP איז)
@@ -225,8 +216,7 @@
                           (BEP איז)
                           (ADJP (ADJ באַרימט))
                           (RDN געװאָרן)))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.10))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.10))
 
 ( (IP-MAT (CP-ADV (C װען)
                   (PUNC „)
@@ -249,8 +239,7 @@
           (BEN געװען)
           (NP-MSR (NUM 27)
                   (N יאָר))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.11))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.11))
 
 ( (IP-MAT (NP-SBJ (ADJ אַנדערע)
                   (N מײסטערװערק)
@@ -263,8 +252,7 @@
                   (VB װאַרטן)
                   (PP (P אױף)
                       (NP (PRO זיך))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.12))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.12))
 
 ( (IP-MAT (NP-SBJ (ES ס’))
           (BEP זענען)
@@ -285,8 +273,7 @@
                   (CONJP (NP-TTL (D די)
                                  (N טאַקסע))))
           (PUNC “)
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.13))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.13))
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ (PRO ער))
                     (BEP איז)
@@ -309,8 +296,7 @@
                                               (Q22 סך))
                                            (ADJ ײדישע)
                                            (NS פּראָבלעמען))))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.14))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.14))
 
 ( (IP-MAT (CONJ אָבער)
           (PP (P אין)
@@ -337,8 +323,7 @@
                   (N װילן)
                   (IP-INF (TO צו)
                           (VB שרײבן)))
-          (PUNC ,))
-  (ID 1967E-GLATSTEIN.YID.PSD,.15))
+          (PUNC ,)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.15))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (BEP איז)
@@ -347,8 +332,7 @@
           (PP (P אין)
               (NP (D אַ)
                   (ADJ שעפערישער)
-                  (N אַפּאַטיע))))
-  (ID 1967E-GLATSTEIN.YID.PSD,.16))
+                  (N אַפּאַטיע)))) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.16))
 
 ( (IP-MAT (CONJ און)
           (PUNC ,)
@@ -389,8 +373,7 @@
                        (ADJX (ADJR טיפער)))
                 (PP (P אין)
                     (NP (N עצבות))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.17))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.17))
 
 ( (IP-MAT (NP-SBJ (PRO$ זײנע)
                   (N ביאָגראַפן))
@@ -408,8 +391,7 @@
                                       (NP (PRO$ זײן)
                                           (ADJ פּערזענלעכן)
                                           (N לעבן))))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.18))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.18))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (HVP האָט)
@@ -427,8 +409,7 @@
                                             (PP (P פון)
                                                 (NP (D דער)
                                                     (N װעלט)))))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.19))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.19))
 
 ( (IP-MAT (NP-SBJ (PRO$ זײן)
                   (ADJ אײנציקער)
@@ -444,8 +425,7 @@
           (HVP האָט)
           (NP-RFL (PRO זיך))
           (VBN געשמדט)
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.20))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.20))
 
 ( (IP-MAT (NP-OB1 (Q קײן)
                   (N פּרנסה))
@@ -453,8 +433,7 @@
           (NP-SBJ (NPR מענדעלע))
           (NEG נישט)
           (HVN געהאַט)
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.21))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.21))
 
 ( (IP-MAT (NP-SBJ *exp*)
           (BEP איז)
@@ -469,8 +448,7 @@
               (NP (PRO$ זײן)
                   (ADJ גאַנצער)
                   (N באַרימטקײט)))
-          (PUNC ,))
-  (ID 1967E-GLATSTEIN.YID.PSD,.22))
+          (PUNC ,)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.22))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ (Q קײנער))
@@ -480,8 +458,7 @@
           (MDN געקענט)
           (RP אָפּ)
           (VB מונטערן)
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.23))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.23))
 
 ( (IP-MAT (ADVP-TMP (ADV דעמאָלט))
           (HVP האָט)
@@ -503,8 +480,7 @@
                                         (IP-SUB-SPE (ADVP *T*-1)
                                                     (VAN באַגאָסן)
                                                     (PP (P מיט)
-                                                        (NP (N בלײ))))))))
-  (ID 1967E-GLATSTEIN.YID.PSD,.24))
+                                                        (NP (N בלײ)))))))) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.24))
 
 ( (IP-MAT-SPE (CONJ און)
               (NP-SBJ-1 *exp*)
@@ -516,8 +492,7 @@
               (PP (P אין)
                   (NP (N שטײן)))
               (PUNC “)
-              (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.25))
+              (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.25))
 
 ( (IP-MAT (PP (FP ערשט)
               (P אין)
@@ -531,8 +506,7 @@
           (NP-OB1 (D אַ)
                   (N שטיקל)
                   (NP-COM (N פּרנסה־מעמד)))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.26))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.26))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (BEP איז)
@@ -553,8 +527,7 @@
                                           (VBN פאַרביטערט)
                                           (NP-OB1 (D דאָס)
                                                   (N לעבן))))))
-          (PUNC ,))
-  (ID 1967E-GLATSTEIN.YID.PSD,.27))
+          (PUNC ,)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.27))
 
 ( (IP-MAT (CONJ אָבער)
           (NP-SBJ (PRO ער))
@@ -564,8 +537,7 @@
           (NP-OB1 (PRO$ זײן)
                   (ADJ טעגלעך)
                   (N ברױט))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.28))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.28))
 
 ( (IP-MAT (PP (FP ערשט)
               (P אין)
@@ -581,8 +553,7 @@
                   (N באַציִונג)
                   (PP (P צו)
                       (NP (D דער)
-                          (N פּען))))))
-  (ID 1967E-GLATSTEIN.YID.PSD,.29))
+                          (N פּען)))))) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.29))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ (PRO ער))
@@ -592,8 +563,7 @@
           (NP-PRD (D דער)
                   (ADJ קינסטלערישער)
                   (N מענטש))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.30))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.30))
 
 ( (IP-MAT (NP-SBJ (ES ס’))
           (BEP איז)
@@ -603,8 +573,7 @@
                   (PUNC „)
                   (NP-TTL (D דער)
                           (N פּריזיװ)))
-          (PUNC “))
-  (ID 1967E-GLATSTEIN.YID.PSD,.31))
+          (PUNC “)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.31))
 
 ( (IP-MAT (CONJ און)
           (PP (NEG נישט)
@@ -634,8 +603,7 @@
                                                      (NP-OB1 (D דעם)
                                                              (ADJ אָנגענומענעם)
                                                              (N מליצה־סטיל)))))))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.32))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.32))
 
 ( (IP-MAT (NP-SBJ (NPR מענדעלע))
           (BEP איז)
@@ -650,8 +618,7 @@
                           (PP (P אין)
                               (NP (D דער)
                                   (N װעלטליטעראַטור)))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.33))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.33))
 
 ( (IP-MAT (CONJ אָבער)
           (PP (P אין)
@@ -688,8 +655,7 @@
                                           (NP-PRN (NPR ראובן)
                                                   (NPR אָשר)
                                                   (NPR ברױדעס)))))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.34))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.34))
 
 ( (IP-MAT (NP-SBJ (NPR שלום)
                   (NPR יעקב)
@@ -702,8 +668,7 @@
                 (ADJR עלטער)
                 (PP (P פון)
                     (NP (NPR-D ברױדעסן))))
-          (PUNC ,))
-  (ID 1967E-GLATSTEIN.YID.PSD,.35))
+          (PUNC ,)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.35))
 
 ( (IP-MAT (CONJ אָבער)
           (NP-SBJ (NPR מענדעלע))
@@ -713,8 +678,7 @@
               (NP (NP-POS (NPR$ ברױדעס’))
                   (ADJ קאָלירפולער)
                   (N טעטיקײט)))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.36))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.36))
 
 ( (IP-MAT (NP-SBJ (NPR מענדעלע))
           (BEP איז)
@@ -722,8 +686,7 @@
           (BEN געװען)
           (NP-PRD (D אַ)
                   (N זיצער))
-          (PUNC ,))
-  (ID 1967E-GLATSTEIN.YID.PSD,.37))
+          (PUNC ,)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.37))
 
 ( (IP-MAT (CONJ אָבער)
           (NP-OB2 (NPR-D ברױדעסן))
@@ -735,8 +698,7 @@
                   (VB (VB װאַנדערן)
                       (CONJ און)
                       (VB פאָרן)))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.38))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.38))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (BEP איז)
@@ -761,8 +723,7 @@
                                                           (PUNC ,)
                                                           (PP (P פון)
                                                               (NP (NPR ארץ־ישראל))))))))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.39))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.39))
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ (PRO ער))
                     (HVP האָט)
@@ -774,8 +735,7 @@
                  (IP-MAT=1 (VBN געשריבן)
                            (PP (P פאַר)
                                (NP (NS ײדן)))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.40))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.40))
 
 ( (IP-MAT (PP (P אין)
               (NP (NUM 1882)))
@@ -802,8 +762,7 @@
                                                   (PUNC „)
                                                   (NP-TTL (H יהודית))))))))
           (PUNC “)
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.41))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.41))
 
 ( (IP-MAT (PP (P אין)
               (NP (D יענער)
@@ -817,8 +776,7 @@
                 (PP (P מיט)
                     (NP (H אַריכות)
                         (H ימים))))
-          (PUNC ,))
-  (ID 1967E-GLATSTEIN.YID.PSD,.42))
+          (PUNC ,)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.42))
 
 ( (IP-MAT (HVP האָבן)
           (BE זײן)
@@ -837,8 +795,7 @@
                                                       (IP-INF (NP-OB1 *T*-1)
                                                               (TO צו)
                                                               (VB שטױנען))))))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.43))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.43))
 
 ( (IP-MAT (NP-SBJ (NPR ברױדעס))
           (BEP איז)
@@ -848,8 +805,7 @@
                   (PP (P פון)
                       (NP (NUM 51)
                           (N יאָר)))))
-          (PUNC ,))
-  (ID 1967E-GLATSTEIN.YID.PSD,.44))
+          (PUNC ,)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.44))
 
 ( (IP-MAT (IP-MAT-1 (CONJ אָבער)
                     (PP (P אין)
@@ -879,8 +835,7 @@
                                (NP (PRO זײ)))
                            (PP (P װעגן)
                                (NP (NPR ארץ־ישראל)))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.45))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.45))
 
 ( (IP-MAT (NP-SBJ (NPR ד“ר)
                   (NPR הערצל)
@@ -903,8 +858,7 @@
                                   (NP-TTL (D די)
                                           (N װעלט))))))))
           (PUNC “)
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.46))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.46))
 
 ( (IP-MAT (NP-SBJ (D דאָס))
           (BEP איז)
@@ -919,8 +873,7 @@
           (PUNC ,)
           (PP (P אין)
               (NP (NUM 1902)))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.47))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.47))
 
 ( (IP-MAT (PP (P אין)
               (NP (NPR בוקאַרעשט)))
@@ -944,8 +897,7 @@
                                           (NP-OB1 (D אַ)
                                                   (ADJ פרעמדן)
                                                   (N אַגיטאַטאָר))))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.48))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.48))
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ (D די)
                             (N פּאָליצײ))
@@ -976,8 +928,7 @@
                                                               (RP איבער)
                                                               (VAN געריסן)
                                                               (RDN געװאָרן))))))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.49))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.49))
 
 ( (IP-MAT (CONJ אָבער)
           (PP (P אין)
@@ -1016,8 +967,7 @@
                               (NP (D די)
                                   (ADJ רומענישע)
                                   (NS ײדן)))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.50))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.50))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (HVP האָט)
@@ -1041,8 +991,7 @@
                           (PP (P פאַר)
                               (NP (D דער)
                                   (N צײטונג))))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.51))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.51))
 
 ( (IP-MAT (IP-MAT-1 (NP-OB1 (D דעם)
                             (ADJ דאָזיקן)
@@ -1064,8 +1013,7 @@
                                            (PUNC „)
                                            (NP-TTL (NPR יהודית)))))))
           (PUNC “)
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.52))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.52))
 
 ( (IP-MAT (NP-SBJ (NPR ברױדעס))
           (BEP איז)
@@ -1097,8 +1045,7 @@
                                                    (NP-OB1 (PRO$ זײן)
                                                            (ADJ ליטעראַרישע)
                                                            (N קאַריערע))))))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.53))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.53))
 
 ( (IP-MAT (NP-SBJ (MAN מען))
           (MDP קען)
@@ -1130,8 +1077,7 @@
                                                   (VBN דערשינען)
                                                   (PP (P אין)
                                                       (NP (NUM 1876))))))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.54))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.54))
 
 ( (IP-MAT (NP-SBJ (NP-POS (NPR$ ברױדעס’))
                   (PUNC „)
@@ -1147,8 +1093,7 @@
                             (NUM צװעלף)
                             (N יאָר)))
                     (ADVR שפּעטער))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.55))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.55))
 
 ( (IP-MAT (NP-SBJ (NPR מענדעלע))
           (HVP האָט)
@@ -1164,8 +1109,7 @@
                           (PUNC „)
                           (NP-TTL (NPR יהודית)))))
           (PUNC “)
-          (PUNC ,))
-  (ID 1967E-GLATSTEIN.YID.PSD,.56))
+          (PUNC ,)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.56))
 
 ( (IP-MAT (CONJ אָבער)
           (NP-OB1 (D אַ)
@@ -1176,8 +1120,7 @@
           (NP-OB2 (PRO אים))
           (ADVP-DIAGN (ADV יאָ))
           (VBN געשריבן)
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.57))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.57))
 
 ( (IP-MAT (NP-SBJ (D דער)
                   (N אָריגינאַל)
@@ -1208,8 +1151,7 @@
                                                   (PP (P פון)
                                                       (NP (PRO$ איר)
                                                           (N עקזיסטענץ))))))))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.58))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.58))
 
 ( (IP-MAT (PP (P אין)
               (NP (D דעם)
@@ -1225,8 +1167,7 @@
                   (PP (P פאַר)
                       (NP (PRO$ זײן)
                           (N שװײגן))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.59))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.59))
 
 ( (IP-MAT (INTJ אדרבא)
           (PUNC ,)
@@ -1234,8 +1175,7 @@
           (VBP אונטערדריקט)
           (NP-OB1 (PRO עס))
           (ADVP (ADV (ADV21 אין)
-                     (ADV22 גאַנצן))))
-  (ID 1967E-GLATSTEIN.YID.PSD,.60))
+                     (ADV22 גאַנצן)))) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.60))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ (PRO ער))
@@ -1255,8 +1195,7 @@
                                       (NP (D אַ)
                                           (ADJ שרײבערישער)
                                           (N פּאַסיװקײט))))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.61))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.61))
 
 ( (IP-MAT (NP-SBJ (ES ס’))
           (BEP איז)
@@ -1284,8 +1223,7 @@
                                       (NP (ADJ ײדישן)
                                           (ADJ געזעלשאַפטלעכן)
                                           (N לעבן)))))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.62))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.62))
 
 ( (IP-MAT (CP-ADV (WADJP-1 (WADV װי)
                            (ADJ מאָגער))
@@ -1319,8 +1257,7 @@
               (CONJP (PP (P מיט)
                          (NP (Q אַלערלײ)
                              (NS לײזונגען)))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.63))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.63))
 
 ( (IP-MAT (NP-SBJ (ES ס’))
           (HVP האָבן)
@@ -1329,8 +1266,7 @@
           (IP-INF (ADJP (ADJ רײף))
                   (RD װערן))
           (NP-LGS (ADJ ײדישע)
-                  (NS איזמען)))
-  (ID 1967E-GLATSTEIN.YID.PSD,.64))
+                  (NS איזמען))) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.64))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ (NPR מענדעלע)
@@ -1347,8 +1283,7 @@
                   (ADJ גרױסן)
                   (ADJ ײדישן)
                   (N טומל)))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.65))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.65))
 
 ( (IP-MAT (NP-SBJ (D דער)
                   (N אָפּזאָג)
@@ -1363,8 +1298,7 @@
           (NP-PRD (D אַן)
                   (ADJ אינטערעסאַנטער)
                   (N דאָקומענט))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.66))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.66))
 
 ( (IP-MAT (NP-SBJ (PRO ס’))
           (BEP איז)
@@ -1380,8 +1314,7 @@
                   (PUNC ,)
                   (CONJP (NP (PRO$ זײן)
                              (N פעפערדיקײט)))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.67))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.67))
 
 ( (IP-MAT (NP-SBJ (D דער)
                   (ADJR עלטערער)
@@ -1417,8 +1350,7 @@
                                                 (ADJ געזעלשאַפטלעכע)
                                                 (CONJ און)
                                                 (ADJ רעדאַקטאָרישע))))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.68))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.68))
 
 ( (IP-MAT (NP-SBJ (NPR מענדעלע))
           (VBP באַציט)
@@ -1436,8 +1368,7 @@
                        (ADJ ײדישן)
                        (N זשאַרגאָן))))
           (PUNC “)
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.69))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.69))
 
 ( (IP-MAT (PUNC „)
           (NP-SBJ (NP-TTL (NPR יהודית)))
@@ -1447,8 +1378,7 @@
           (PP (P בײ)
               (NP (NPR-D מענדעלען)))
           (NP-PRD (D אַ)
-                  (N כלה)))
-  (ID 1967E-GLATSTEIN.YID.PSD,.70))
+                  (N כלה))) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.70))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ (PRO ער))
@@ -1466,8 +1396,7 @@
                                   (PUNC „)
                                   (N אונטערפירעניש))))))
           (PUNC “)
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.71))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.71))
 
 ( (IP-MAT (NP-SBJ-1 (ES ס’))
           (VBP קאָסט)
@@ -1482,8 +1411,7 @@
                     (PP (P פון)
                         (NP (ADJ דאָזיקן)
                             (N כבוד))))
-          (PUNC ,))
-  (ID 1967E-GLATSTEIN.YID.PSD,.72))
+          (PUNC ,)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.72))
 
 ( (QTP (CONJ אָבער)
        (PUNC ,)
@@ -1500,8 +1428,7 @@
        (PUNC ,)
        (CP-THT-SPE (C אַז)
                    (IP-SUB-SPE (NP-SBJ (PRO איך))
-                               (VBP שװײג))))
-  (ID 1967E-GLATSTEIN.YID.PSD,.73))
+                               (VBP שװײג)))) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.73))
 
 ( (IP-MAT-SPE (CONJ און)
               (NP-SBJ (D די)
@@ -1520,8 +1447,7 @@
                                               (VB שרײבן)
                                               (NP-OB1 (Q עפּעס)))))
               (PUNC “)
-              (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.74))
+              (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.74))
 
 ( (IP-MAT (NP-SBJ (NPR מענדעלע))
           (VBP פאַרכאַפּט)
@@ -1542,8 +1468,7 @@
                                           (VBN גענומען)
                                           (NP-OB1 (D דאָס)
                                                   (N לשון))))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.75))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.75))
 
 ( (IP-MAT-SPE (PUNC „)
               (NP-OB1 (D די)
@@ -1557,8 +1482,7 @@
               (PUNC ,)
               (NEG נישט)
               (VB פּיקן)
-              (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.76))
+              (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.76))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO ס’))
               (BEP איז)
@@ -1570,8 +1494,7 @@
                           (NP (N געפּילדער)
                               (CONJ און)
                               (N גערױש’))))
-              (PUNC “))
-  (ID 1967E-GLATSTEIN.YID.PSD,.77))
+              (PUNC “)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.77))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ (PRO ער))
@@ -1579,8 +1502,7 @@
           (NP-OB1 (PRO עס))
           (NEG נישט)
           (VB פאַרטראָגן)
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.78))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.78))
 
 ( (IP-IMP-SPE (PUNC „)
               (IP-IMP-PRN (VBI גײ))
@@ -1597,8 +1519,7 @@
                               (H הפלגה))))
               (PUNC .)
               (PUNC .)
-              (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.79))
+              (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.79))
 
 ( (IP-MAT-SPE (NP-OB2 (Q איטלעכן))
               (VBP שיטן)
@@ -1608,8 +1529,7 @@
                       (NP-COM (N רײד)))
               (PP (P פונע)
                   (NP (D ם)
-                      (N מױל))))
-  (ID 1967E-GLATSTEIN.YID.PSD,.80))
+                      (N מױל)))) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.80))
 
 ( (IP-MAT-SPE (CONJ און)
               (NP-SBJ (NS בױך־סברות)
@@ -1629,8 +1549,7 @@
               (PUNC .)
               (PUNC .)
               (PUNC .)
-              (PUNC “))
-  (ID 1967E-GLATSTEIN.YID.PSD,.81))
+              (PUNC “)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.81))
 
 ( (FRAG (NP-X (Q קײן)
               (ONE אײן)
@@ -1651,8 +1570,7 @@
                                           (IP-PPL (NP-SBJ (PRO$ זײן))
                                                   (VBN אַנטשװיגן)
                                                   (RD װערן))))))))
-        (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.82))
+        (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.82))
 
 ( (IP-MAT (NP-SBJ (NPR מענדעלע))
           (VBP ציט)
@@ -1701,8 +1619,7 @@
                                                                                                  (NP (ADJ פולע)
                                                                                                      (NS קעשענעס)))))))))))))
           (PUNC “)
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.83))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.83))
 
 ( (IP-MAT (NP-SBJ (NPR מענדעלע))
           (VBP האַלט)
@@ -1731,8 +1648,7 @@
                                                                  (RP איבער)
                                                                  (VB נעמען))))))))
           (PUNC “)
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.84))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.84))
 
 ( (IP-MAT-SPE (INTJP (ADV אמת))
               (PUNC ,)
@@ -1748,8 +1664,7 @@
               (IP-INF-SPE=1 (TO צו)
                             (VB שװײגן))
               (PUNC —)
-              (PUNC „))
-  (ID 1967E-GLATSTEIN.YID.PSD,.85))
+              (PUNC „)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.85))
 
 ( (IP-MAT-SPE (NP-SBJ (D דאָס)
                       (N האַרץ))
@@ -1771,8 +1686,7 @@
                                           (PP (P פון)
                                               (NP (Q אַלע)
                                                   (NS זײטן))))))
-              (PUNC ,))
-  (ID 1967E-GLATSTEIN.YID.PSD,.86))
+              (PUNC ,)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.86))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO עס))
               (VBP גלוסט)
@@ -1796,8 +1710,7 @@
                                                                              (PP (P אױף)
                                                                                  (NP (D דער)
                                                                                      (N לונג))))))))
-                          (PUNC ,)))
-  (ID 1967E-GLATSTEIN.YID.PSD,.87))
+                          (PUNC ,))) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.87))
 
 ( (CP-QUE-MAT-SPE (CONJ נאָר)
                   (IP-SUB-SPE (MDP קען)
@@ -1821,8 +1734,7 @@
                                                       (ADJ שרעקלעכן)
                                                       (N שטורעמװינט)))))))
                   (PUNC ?)
-                  (PUNC “))
-  (ID 1967E-GLATSTEIN.YID.PSD,.88))
+                  (PUNC “)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.88))
 
 ( (IP-MAT (ADVP (ADV הכלל))
           (PUNC ,)
@@ -1831,8 +1743,7 @@
           (NP-RFL (PRO זיך))
           (PP (P פון)
               (NP (N טומל)))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.89))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.89))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (VBP באַשליסט)
@@ -1849,8 +1760,7 @@
                                   (RP אױס)
                                   (VB שרײען))))
           (PUNC “)
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.90))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.90))
 
 ( (IP-MAT (ADVP (ADV איז))
           (NP-OB1 (Q קײן)
@@ -1865,8 +1775,7 @@
                   (NP-PRN (NPR ראובן)
                           (NPR אָשר)
                           (NPR ברױדעס)))
-          (PUNC ,))
-  (ID 1967E-GLATSTEIN.YID.PSD,.91))
+          (PUNC ,)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.91))
 
 ( (IP-MAT (CONJ אָבער)
           (NP-OB1 (NS עצות)
@@ -1882,8 +1791,7 @@
                   (N בריװ)))
           (PUNC ,)
           (NP-MSR (Q איבערגענוג))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.92))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.92))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (VBP גיט)
@@ -1903,8 +1811,7 @@
                (PUNC ,)
                (NP-VOC (NPR יהודית)
                        (N לעבן)))
-          (PUNC ,))
-  (ID 1967E-GLATSTEIN.YID.PSD,.93))
+          (PUNC ,)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.93))
 
 ( (QTP (NP-OB1 (QTP (H מזל)
                     (H טוב)))
@@ -1918,8 +1825,7 @@
                    (NP (D דער)
                        (N װעלט)))))
        (PUNC “)
-       (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.94))
+       (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.94))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (VBP שילדערט)
@@ -1950,8 +1856,7 @@
                                                                                      (N װעג))
                                                                              (NP-BEN (NP-TTL (NPR יהודית)))))))))))
           (PUNC “)
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.95))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.95))
 
 ( (IP-MAT (NP-SBJ (NPR$ מענדעלעס)
                   (N לשון)
@@ -1974,8 +1879,7 @@
           (ADJP (ADJ פריש)
                 (CONJ און)
                 (ADJ הײנטיק))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.96))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.96))
 
 ( (IP-MAT (NP-SBJ (MAN מען))
           (VBP געפינט)
@@ -1996,8 +1900,7 @@
                                   (PP (P פון)
                                       (NP (PRO$ אונדזער)
                                           (N לשון))))))
-          (PUNC ,))
-  (ID 1967E-GLATSTEIN.YID.PSD,.97))
+          (PUNC ,)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.97))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ (MAN מען))
@@ -2007,8 +1910,7 @@
           (ADVP-DIR (RP-ADV21 צו)
                     (RP-ADV22 ריק@))
           (VB @ברענגען)
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.98))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.98))
 
 ( (IP-MAT (NP-SBJ (NPR מענדעלע))
           (VBP שרײבט)
@@ -2032,8 +1934,7 @@
                                                   (PP (P אין)
                                                       (NP (N לעבן))))))))
           (PUNC “)
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.99))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.99))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (VBP באַנוצט)
@@ -2052,8 +1953,7 @@
                                   (PP (P בײ)
                                       (NP (PRO אונדז)))
                                   (VB פאַרגעסן)))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.100))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.100))
 
 ( (IP-MAT (PUNC „)
           (NP-OB1 (QTP (H נשים)
@@ -2072,8 +1972,7 @@
                        (NP-OB1 (ADJ שלאַפע)
                                (NS קעפּלעך)))))
           (PUNC “)
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.101))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.101))
 
 ( (IP-MAT (CONJ אָבער)
           (ADJP (ADJ אינטערעסאַנט)
@@ -2101,8 +2000,7 @@
                                                       (IP-INF-SPE (TO צו)
                                                                   (VB געפעלן)
                                                                   (NP-OB1 (NS שוטים)))))))))
-          (PUNC ,))
-  (ID 1967E-GLATSTEIN.YID.PSD,.102))
+          (PUNC ,)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.102))
 
 ( (IP-MAT-SPE (NP-SBJ-1 *exp*)
               (MDP זאָל)
@@ -2110,8 +2008,7 @@
               (NEG נישט)
               (VB אַרן)
               (NP-1 (PRO$ זײער)
-                    (N געשפּעט)))
-  (ID 1967E-GLATSTEIN.YID.PSD,.103))
+                    (N געשפּעט))) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.103))
 
 ( (IP-IMP-SPE (CONJ און)
               (VBI נעם)
@@ -2122,8 +2019,7 @@
                   (NP (PRO$ זײער)
                       (N לױב)))
               (PUNC “)
-              (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.104))
+              (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.104))
 
 ( (IP-MAT (NP-SBJ (Q בײדע)
                   (NS העלפטן)
@@ -2147,8 +2043,7 @@
                                                   (ADVP (ADV צײטנװײז))
                                                   (MDN געמעגט)
                                                   (VB געדענקען))))))
-                  (PUNC .)))
-  (ID 1967E-GLATSTEIN.YID.PSD,.105))
+                  (PUNC .))) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.105))
 
 ( (IP-MAT (CONJ און)
           (FP אָט)
@@ -2182,8 +2077,7 @@
                                                                          (PP (P פאַר)
                                                                              (NP-RSP-1 (PRO אים)))
                                                                          (VB צעקײען))))))))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.106))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.106))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (VBP עצהט)
@@ -2194,8 +2088,7 @@
           (IP-INF-PRN (ADVP (ADVR אַזױ))
                       (TO צו)
                       (VB זאָגן))
-          (PUNC :))
-  (ID 1967E-GLATSTEIN.YID.PSD,.107))
+          (PUNC :)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.107))
 
 ( (IP-MAT-SPE (PUNC „)
               (CP-ADV-SPE (C בשעת)
@@ -2250,15 +2143,13 @@
                                                                                                        (VB װאַרפן))))))))))
               (PUNC “)
               (PUNC .)
-              (CODE {COM:check}))
-  (ID 1967E-GLATSTEIN.YID.PSD,.108))
+              (CODE {COM:check})) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.108))
 
 ( (IP-MAT (NP-SBJ (D דער)
                   (ADJ שטאָלצער)
                   (N קינסטלער))
           (VBP גײט)
-          (ADVP (ADV װײטער)))
-  (ID 1967E-GLATSTEIN.YID.PSD,.109))
+          (ADVP (ADV װײטער))) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.109))
 
 ( (IP-MAT (CONJ און)
           (VBP גיט)
@@ -2283,8 +2174,7 @@
                                                                (PP (P אין)
                                                                    (NP (N רשות)
                                                                        (N הרבים)))))))))
-          (PUNC —))
-  (ID 1967E-GLATSTEIN.YID.PSD,.110))
+          (PUNC —)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.110))
 
 ( (IP-MAT-SPE (IP-MAT-SPE-1 (PUNC „)
                             (MDP זאָלסט)
@@ -2322,8 +2212,7 @@
                                                                                                   (N הױזגעזינט))))))))))
                      (CODE {COM:the_second_clause_is_missing_negation_but_negation_is_implicitly_present_in_"hitn"}))
               (PUNC “)
-              (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.111))
+              (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.111))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ (D דער)
@@ -2349,8 +2238,7 @@
                             (ADVP-DIAGN (ADV נאָך))
                             (NEG נישט)
                             (NP-PRD (Q אַלץ))))
-          (PUNC ,))
-  (ID 1967E-GLATSTEIN.YID.PSD,.112))
+          (PUNC ,)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.112))
 
 ( (IP-MAT (NP-SBJ (MAN מען))
           (MDP מוז)
@@ -2367,8 +2255,7 @@
                   (NS װערטער)))
           (PUNC .)
           (PUNC .)
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.113))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.113))
 
 ( (IP-MAT-SPE (INTJ חלילה)
               (PUNC ,)
@@ -2380,8 +2267,7 @@
               (NP-PRD (D אַ)
                       (ADJ גרױסער)
                       (N פעלער))
-              (PUNC ,))
-  (ID 1967E-GLATSTEIN.YID.PSD,.114))
+              (PUNC ,)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.114))
 
 ( (IP-MAT-SPE (IP-MAT-SPE-1 (NP-SBJ (PRO$ דײן)
                                     (N קלײדל))
@@ -2400,8 +2286,7 @@
                                          (PUNC ,)
                                          (ADJ בנעימותדיק))))
               (PUNC “)
-              (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.115))
+              (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.115))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ (NPR מענדעלע))
@@ -2418,8 +2303,7 @@
                (NP-ADV (ADV נאָך)
                        (D אַ)
                        (N מאָל)))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.116))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.116))
 
 ( (IP-MAT-SPE (IP-MAT-SPE-1 (NP-SBJ (NPR גאָט))
                             (MDP זאָל)
@@ -2438,8 +2322,7 @@
                                    (PUNC —)
                                    (NP-OB1 (ADJ גוטע)
                                            (NS אַרטיקלען))))
-              (PUNC ,))
-  (ID 1967E-GLATSTEIN.YID.PSD,.117))
+              (PUNC ,)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.117))
 
 ( (IP-MAT-SPE-1 (NP-SBJ (PRO דו))
                 (MDP זאָלסט)
@@ -2456,8 +2339,7 @@
                 (PUNC ,)
                 (INTJ אמן)
                 (PUNC “)
-                (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.118))
+                (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.118))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ (NPR מענדעלע))
@@ -2483,15 +2365,13 @@
                                           (NP-TTL (D דער)
                                                   (N פּריזיװ))))))))
           (PUNC “)
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.119))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.119))
 
 ( (META (NUM 11)
         (PUNC .)
         (NUM 12)
         (PUNC .)
-        (NUM 64))
-  (ID 1967E-GLATSTEIN.YID.PSD,.120))
+        (NUM 64)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.120))
 
 ( (IP-MAT (NP-SBJ (NP-POS (NPR יוסף)
                           (NPR$ באָװשאָװערס))
@@ -2567,8 +2447,7 @@
                   (PP (P אױף)
                       (NP (ADJ פאַרשידענע)
                           (NS אופנים))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.121))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.121))
 
 ( (IP-MAT (NP-SBJ-1 (ES ס’))
           (BEP איז)
@@ -2582,8 +2461,7 @@
                             (PP (P צו)
                                 (NP (D ם)
                                     (N ברודער־אַרבעטער)))))
-          (PUNC ;))
-  (ID 1967E-GLATSTEIN.YID.PSD,.122))
+          (PUNC ;)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.122))
 
 ( (IP-MAT (NP-SBJ-1 (ES ס’))
           (MDP קען)
@@ -2606,8 +2484,7 @@
                                                     (HVP האָט)
                                                     (ADVP (ADV זעלטן))
                                                     (VBN געשריבן))))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.123))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.123))
 
 ( (IP-MAT (CONJ אָבער)
           (NP-SBJ (MAN מען))
@@ -2676,8 +2553,7 @@
                                                                             (N אָרט)
                                                                             (PP (P אין)
                                                                                 (NP (N לעבן)))))))))))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.124))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.124))
 
 ( (IP-MAT (CONJ אָבער)
           (NP-ADT (CP-FRL (WNP-1 (WPRO װאָס))
@@ -2724,8 +2600,7 @@
                                                                                                  (ADJ אָנקומענדיקער)
                                                                                                  (ADJ גײסטיקער)
                                                                                                  (N קראַנקײט)))))))))))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.125))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.125))
 
 ( (IP-MAT (NP-SBJ (PRO כ’))
           (VBP ברענג)
@@ -2735,8 +2610,7 @@
                   (NS שורות)
                   (PP (P פון)
                       (NP (N ליד))))
-          (PUNC —))
-  (ID 1967E-GLATSTEIN.YID.PSD,.126))
+          (PUNC —)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.126))
 
 ( (IP-MAT (IP-MAT=1 (NP-SBJ (PRO דו))
                     (MDP קענסט)
@@ -2753,8 +2627,7 @@
                                (NP (N ליבע)))
                            (NEG נישט)
                            (VB קוקן)))
-          (PUNC ,))
-  (ID 1967E-GLATSTEIN.YID.PSD,.127))
+          (PUNC ,)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.127))
 
 ( (CODE {COM:check_conventions_for_citing_another_text}))
 
@@ -2765,8 +2638,7 @@
           (NP-SBJ (PRO$ דײן)
                   (ADJ פרײנדלעכער)
                   (N בליק))
-          (CODE {COM:Glatstein_quoting_a_poem_from_Bovshover}))
-  (ID 1967E-GLATSTEIN.YID.PSD,.129))
+          (CODE {COM:Glatstein_quoting_a_poem_from_Bovshover})) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.129))
 
 ( (IP-MAT (CONJ און)
           (ADJP (ADJ געקרומט))
@@ -2774,8 +2646,7 @@
           (NP-SBJ (PRO$ דײן)
                   (N רוקן))
           (PUNC .)
-          (CODE {COM:Glatstein_quoting_a_poem_from_Bovshover}))
-  (ID 1967E-GLATSTEIN.YID.PSD,.130))
+          (CODE {COM:Glatstein_quoting_a_poem_from_Bovshover})) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.130))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ (N פינצטערניש))
@@ -2784,8 +2655,7 @@
               (NP (PRO$ דײן)
                   (N מוח)))
           (PUNC ,)
-          (CODE {COM:Glatstein_quoting_a_poem_from_Bovshover}))
-  (ID 1967E-GLATSTEIN.YID.PSD,.131))
+          (CODE {COM:Glatstein_quoting_a_poem_from_Bovshover})) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.131))
 
 ( (IP-MAT (NP-SBJ (ES עס))
           (VBP שטײען)
@@ -2793,8 +2663,7 @@
           (NP-LGS (D די)
                   (NS געהירן))
           (PUNC .)
-          (CODE {COM:Glatstein_quoting_a_poem_from_Bovshover}))
-  (ID 1967E-GLATSTEIN.YID.PSD,.132))
+          (CODE {COM:Glatstein_quoting_a_poem_from_Bovshover})) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.132))
 
 ( (IP-MAT (CONJ און)
           (ADVP (ADV װילנלאָז))
@@ -2804,8 +2673,7 @@
                   (NP-OB1 (PRO זיך))
                   (VB קנעטן))
           (PUNC ,)
-          (CODE {COM:Glatstein_quoting_a_poem_from_Bovshover}))
-  (ID 1967E-GLATSTEIN.YID.PSD,.133))
+          (CODE {COM:Glatstein_quoting_a_poem_from_Bovshover})) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.133))
 
 ( (IP-MAT (ADVP (ADV געדאַנקלאָז))
           (VBP לאָזסט)
@@ -2814,8 +2682,7 @@
                   (NP-OB1 (PRO זיך))
                   (VB פירן))
           (PUNC .)
-          (CODE {COM:Glatstein_quoting_a_poem_from_Bovshover}))
-  (ID 1967E-GLATSTEIN.YID.PSD,.134))
+          (CODE {COM:Glatstein_quoting_a_poem_from_Bovshover})) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.134))
 
 ( (IP-MAT (CONJ און)
           (ADJP (ADJ מאָגער)
@@ -2824,8 +2691,7 @@
           (BEP איז)
           (NP-SBJ (PRO$ דײן)
                   (NS פּנים))
-          (CODE {COM:Glatstein_quoting_a_poem_from_Bovshover}))
-  (ID 1967E-GLATSTEIN.YID.PSD,.135))
+          (CODE {COM:Glatstein_quoting_a_poem_from_Bovshover})) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.135))
 
 ( (IP-MAT (CONJ און)
           (ADJP (ADJ שװאַך))
@@ -2834,8 +2700,7 @@
                   (Q יעטװעדער)
                   (N אבר))
           (PUNC ,)
-          (CODE {COM:Glatstein_quoting_a_poem_from_Bovshover}))
-  (ID 1967E-GLATSTEIN.YID.PSD,.136))
+          (CODE {COM:Glatstein_quoting_a_poem_from_Bovshover})) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.136))
 
 ( (IP-MAT (NP-SPR (PP (P פון)
                       (NP (N קנעכטשאַפט)
@@ -2851,8 +2716,7 @@
               (NP (D ם)
                   (N קבר)))
           (PUNC .)
-          (CODE {COM:Glatstein_quoting_a_poem_from_Bovshover}))
-  (ID 1967E-GLATSTEIN.YID.PSD,.137))
+          (CODE {COM:Glatstein_quoting_a_poem_from_Bovshover})) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.137))
 
 ( (IP-MAT (NP-SBJ (ES עס))
           (HVP האָט)
@@ -2867,8 +2731,7 @@
                   (CONJ און)
                   (N דומהײט))
           (VBN געגעבן)
-          (CODE {COM:Glatstein_quoting_a_poem_from_Bovshover}))
-  (ID 1967E-GLATSTEIN.YID.PSD,.138))
+          (CODE {COM:Glatstein_quoting_a_poem_from_Bovshover})) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.138))
 
 ( (IP-MAT (CONJ און)
           (ADVP (ADV האָפענונגסלאָז))
@@ -2881,8 +2744,7 @@
                         (ADJ געשטאָרבענעם))
                   (N לעבן))
           (PUNC .)
-          (CODE {COM:Glatstein_quoting_a_poem_from_Bovshover}))
-  (ID 1967E-GLATSTEIN.YID.PSD,.139))
+          (CODE {COM:Glatstein_quoting_a_poem_from_Bovshover})) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.139))
 
 ( (CODE {COM:check}))
 
@@ -2946,8 +2808,7 @@
                                                                      (IP-SMC (ADJP (ADJ שװאַך))
                                                                              (NP-SBJ (Q יעדעס)
                                                                                      (N אבר))))))))))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.141))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.141))
 
 ( (CODE {page_num:19_text_block_num:0}))
 
@@ -2975,8 +2836,7 @@
                                         (VBN <געדרײט)
                                         (PP (P אױף)
                                             (NP (ADJ ניו־יאָרקער)
-                                                (NS גאַסן)))))))))
-  (ID 1967E-GLATSTEIN.YID.PSD,.143))
+                                                (NS גאַסן))))))))) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.143))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ-1 (ES ס’>))
@@ -3009,8 +2869,7 @@
                                                                         (ADJ זעלטענעם)
                                                                         (ADJ פּערזענלעכן)
                                                                         (N מאַגנעטיזם)))))))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.144))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.144))
 
 ( (IP-MAT (NP-SBJ (D די)
                   (NS חברים))
@@ -3028,8 +2887,7 @@
                           (HVP האָט)
                           (NP-RFL (PRO זיך))
                           (RP אױס>)
-                          (VBN <געקרומט))))
-  (ID 1967E-GLATSTEIN.YID.PSD,.145))
+                          (VBN <געקרומט)))) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.145))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ (NS מענטשן))
@@ -3041,8 +2899,7 @@
           (PP (P אױף)
               (NP (D די)
                   (NS גאַסן)))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.146))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.146))
 
 ( (CODE {page_num:19_text_block_num:1}))
 
@@ -3097,8 +2954,7 @@
                                                                      (VBN געהײסן)
                                                                      (IP-INF-SPE (VB באַצאָלן))))))))
           (PUNC ?)
-          (PUNC “))
-  (ID 1967E-GLATSTEIN.YID.PSD,.148))
+          (PUNC “)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.148))
 
 ( (IP-MAT (IP-MAT-1 (PP (P פאַר)
                         (NP (PRO$ זײנע)
@@ -3120,8 +2976,7 @@
                                        (PP (P צו)
                                            (NP (PRO אים)))
                                        (VB דינען))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.149))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.149))
 
 ( (CODE {page_num:19_text_block_num:2}))
 
@@ -3160,8 +3015,7 @@
                              (NS װײטאָגן)
                              (CONJP (CONJ און)
                                     (NX (NS שרעק־סימנים)))))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.151))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.151))
 
 ( (CODE {page_num:19_text_block_num:3}))
 
@@ -3206,8 +3060,7 @@
                                                           (ADJP (ADV שטאַרק)
                                                                 (ADJ רעליגיעזער))
                                                           (N טאַטע))))))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.153))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.153))
 
 ( (IP-MAT (PP (P פון)
               (NP (PRO אים)))
@@ -3222,8 +3075,7 @@
           (NP-MSR (PRO$ זײן)
                   (ADJ גאַנץ)
                   (N לעבן))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.154))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.154))
 
 ( (IP-MAT (CONJ אָבער)
           (NP-SBJ (PRO ס’>))
@@ -3269,8 +3121,7 @@
                                                        (NP (D אַ)
                                                            (ADJ לעבעדיקער)
                                                            (N יענער־װעלט))))))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.155))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.155))
 
 ( (IP-MAT (NP-SBJ (D דער)
                   (ADJ ײדישער)
@@ -3282,8 +3133,7 @@
           (VBN פאַרגעסן)
           (NP-OB1 (D דאָס)
                   (ADJ ײדישע)
-                  (N לשון)))
-  (ID 1967E-GLATSTEIN.YID.PSD,.156))
+                  (N לשון))) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.156))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ (PRO ער))
@@ -3294,8 +3144,7 @@
                   (ADJ שעקספּירישן)
                   (PUNC “)
                   (N ענגליש))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.157))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.157))
 
 ( (IP-MAT (VP (VBN געקומען))
           (BEP איז)
@@ -3316,8 +3165,7 @@
                             (N ביסל)
                             (NP-COM (ADJ דײטשער)
                                     (N אױסבילדונג)))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.158))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.158))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (HVP האָט)
@@ -3388,8 +3236,7 @@
                                                   (ADJ גרױסן)
                                                   (ADJ אַמעריקאַנער)
                                                   (N פּאָעט))))))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.159))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.159))
 
 ( (IP-MAT (NP-SBJ (D דער)
                   (N רעדאַקטאָר)
@@ -3462,8 +3309,7 @@
                                                              (PUNC —)
                                                              (NP-PRN (NPR װאָלט)
                                                                      (NPR װיטמאַן))))))))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.160))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.160))
 
 ( (CODE {page_num:19_text_block_num:4}))
 
@@ -3492,8 +3338,7 @@
                           (VBN <געהױבן)
                           (NP-SBJ (NPR$ באָװשאָװערס)
                                   (N אומגליק))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.162))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.162))
 
 ( (IP-MAT (NP-SBJ-1 *exp*)
           (NP-1 (D דער)
@@ -3506,8 +3351,7 @@
               (NP (QP (ADV צו)
                       (Q פיל))
                   (NS לױבגעזאַנגען)))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.163))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.163))
 
 ( (IP-MAT (CONJ אָבער)
           (NP-SBJ (D דאָס))
@@ -3521,8 +3365,7 @@
                       (NP (NPR$ באָװשאָװערס)
                           (ADJ גײסטיקער)
                           (N קראַנקײט))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.164))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.164))
 
 ( (IP-MAT (NP-SBJ (D אַ)
                   (ADJ פאַרדרײטער)
@@ -3535,8 +3378,7 @@
                   (N זעלטנקײט))
           (PP (P צװישן)
               (NP (NS קינסטלער)))
-          (PUNC ;))
-  (ID 1967E-GLATSTEIN.YID.PSD,.165))
+          (PUNC ;)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.165))
 
 ( (IP-MAT (CONJ אָבער)
           (PP (P פון)
@@ -3545,8 +3387,7 @@
           (NP-SBJ (MAN מען))
           (NEG נישט)
           (ADJP (ADJ משוגע))
-          (PUNC ,))
-  (ID 1967E-GLATSTEIN.YID.PSD,.166))
+          (PUNC ,)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.166))
 
 ( (IP-MAT (NP-SBJ (MAN מען))
           (RDP װערט)
@@ -3555,8 +3396,7 @@
                 (PUNC —)
                 (PP (P פאַר)
                     (NP (OTHER אַנדערע))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.167))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.167))
 
 ( (IP-MAT (NP-SBJ (NPR באָװשאָװער))
           (BEP איז)
@@ -3575,8 +3415,7 @@
                   (CONJP (CONJ און)
                          (NP (D אַ)
                              (N גרױסהאַלטער))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.168))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.168))
 
 ( (CODE {page_num:20_text_block_num:0}))
 
@@ -3587,8 +3426,7 @@
                       (NP (NPR$ באָװשאָװערס)
                           (N ביאָגראַפיע))))
           (BEP זענען)
-          (VAN פאַרפּלאָנטערט))
-  (ID 1967E-GLATSTEIN.YID.PSD,.170))
+          (VAN פאַרפּלאָנטערט)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.170))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ *pro*)
@@ -3600,8 +3438,7 @@
                   (ADJ פאַרשידענע)
                   (ADJ געשריבענע)
                   (NS ביאָגראַפיעס)))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.171))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.171))
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ (ONE אײן)
                             (N ביאָגראַף)
@@ -3625,8 +3462,7 @@
                                    (ADJ 11טן)
                                    (N אָקטאָבער)
                                    (NP-PRN (NUM 1872)))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.172))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.172))
 
 ( (IP-MAT (PP (FP אַפילו)
               (P װעגן)
@@ -3638,8 +3474,7 @@
           (NP-SBJ (MAN מען))
           (NEG נישט)
           (ADVP (ADV אַקוראַט))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.173))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.173))
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ (ONE אײנער))
                     (VBP זאָגט)
@@ -3664,8 +3499,7 @@
                                                          (NP (D אַ)
                                                              (N יאָר)))
                                                      (ADVR פריִער))))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.174))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.174))
 
 ( (IP-MAT (CP-ADV (C װען)
                   (IP-SUB (NP-SBJ (PRO ס’>))
@@ -3681,8 +3515,7 @@
                   (D אַן)
                   (ADJR ערגערער)
                   (N פּלאָנטער))
-          (PUNC ,))
-  (ID 1967E-GLATSTEIN.YID.PSD,.175))
+          (PUNC ,)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.175))
 
 ( (IP-MAT (CONJ און)
           (ADVP (ADV װידער))
@@ -3691,8 +3524,7 @@
           (NEG נישט)
           (NP-SBJ (NPR$ באָװשאָװערס)
                   (NS ביאָגראַפן))
-          (PUNC ,))
-  (ID 1967E-GLATSTEIN.YID.PSD,.176))
+          (PUNC ,)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.176))
 
 ( (IP-MAT (NP-SBJ (ONE אײנער))
           (VBP דערצײלט)
@@ -3706,8 +3538,7 @@
                                   (ADJ 15טן)
                                   (N דעצעמבער)
                                   (NP-PRN (NUM 1915)))))
-          (PUNC ,))
-  (ID 1967E-GLATSTEIN.YID.PSD,.177))
+          (PUNC ,)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.177))
 
 ( (IP-MAT (NP-SBJ (D אַן)
                   (OTHER אַנדערער))
@@ -3728,8 +3559,7 @@
                                   (ADJ 20סטן)
                                   (N דעצעמבער)
                                   (NP-PRN (NUM 1915)))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.178))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.178))
 
 ( (IP-MAT (CONJ אָבער)
           (PP (P לױט)
@@ -3745,8 +3575,7 @@
           (PP (P אין)
               (NP (N פעברואַר)
                   (NP-PRN (NUM 1916))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.179))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.179))
 
 ( (IP-MAT (NP-ADT (NP (N סוף)
                       (NP-COM (NUM 1915)))
@@ -3768,8 +3597,7 @@
                               (NP (NPR$ באָװשאָװערס)
                                   (ADJ 50סטן)
                                   (N יאָרצײט)))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.180))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.180))
 
 ( (CODE {page_num:20_text_block_num:1}))
 
@@ -3779,8 +3607,7 @@
           (NP-OB1 (D אַ)
                   (ADJ ביטער)
                   (N לעבן))
-          (PUNC ,))
-  (ID 1967E-GLATSTEIN.YID.PSD,.182))
+          (PUNC ,)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.182))
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ (PRO ער))
                     (HVP האָט)
@@ -3825,8 +3652,7 @@
                               (PP (P בײ)
                                   (NP (D אַ)
                                       (N גרינעם)))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.183))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.183))
 
 ( (IP-MAT (NP-SBJ (NPR באָװשאָװער))
           (BEP איז)
@@ -3839,16 +3665,14 @@
                   (CONJP (NP (NPR געטען)))
                   (CONJP (CONJ און)
                          (NP (NPR שילערן)))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.184))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.184))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (HVP האָט)
           (NEG נישט)
           (VBN געקענט)
           (NP-OB1 (Q קײן)
-                  (N רוסיש)))
-  (ID 1967E-GLATSTEIN.YID.PSD,.185))
+                  (N רוסיש))) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.185))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ (PRO ער))
@@ -3879,8 +3703,7 @@
                                         (PP (P אין)
                                             (NP (D אַ)
                                                 (N ליד))))))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.186))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.186))
 
 ( (IP-MAT (NP-SBJ (D די)
                   (ADJR עלטערע)
@@ -3903,8 +3726,7 @@
               (NP (D די)
                   (ADJ רוסישע)
                   (NS פרײהײט־פּאָעטן)))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.187))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.187))
 
 ( (IP-MAT (NP-OB2 (PRO$ זײן)
                   (ADJ ערשט)
@@ -3924,8 +3746,7 @@
           (NP-PRN-1 (NP-TTL (NPR$ קאַפּיטאַלס)
                             (N קרבן)))
           (PUNC “)
-          (PUNC ;))
-  (ID 1967E-GLATSTEIN.YID.PSD,.188))
+          (PUNC ;)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.188))
 
 ( (IP-MAT (ADVP-TMP (ADV שפּעטער)
                     (PUNC ,)
@@ -3946,8 +3767,7 @@
                           (NP (D <ן)
                               (N שטערבע־בעט))))
           (PUNC “)
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.189))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.189))
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ (PRO ער))
                     (BEP איז)
@@ -3984,8 +3804,7 @@
                                                                    (ADJ אַכצניאָריקער)
                                                                    (N בחור))))))))
           (PUNC -RRB-)
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.190))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.190))
 
 ( (CODE {page_num:20_text_block_num:2}))
 
@@ -4021,8 +3840,7 @@
           (NP-SBJ (NPR באָװשאָװער))
           (BEN געװען)
           (ADJP (ADV זײער)
-                (ADJ פּראָדוקטיװ)))
-  (ID 1967E-GLATSTEIN.YID.PSD,.192))
+                (ADJ פּראָדוקטיװ))) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.192))
 
 ( (IP-MAT (CONJ און)
           (PUNC ,)
@@ -4044,8 +3862,7 @@
                           (PUNC „)
                           (NS גוײם))))
           (PUNC “)
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.193))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.193))
 
 ( (CODE {page_num:21_text_block_num:0}))
 
@@ -4075,8 +3892,7 @@
                                                       (NP (D די)
                                                           (ADJS מזלדיקסטע)
                                                           (NS פּאָעטן))))))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.195))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.195))
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ (QP (ADV זײער)
                                 (Q װײניק))
@@ -4096,8 +3912,7 @@
                            (NP-OB1 (ADJ אַזאַ)
                                    (ADJ פּאָעטישע)
                                    (N קאַריערע))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.196))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.196))
 
 ( (IP-MAT (NP-SBJ (NPR יוסף)
                   (NPR באָװשאָװער))
@@ -4114,8 +3929,7 @@
                               (ADJ ײדישע)
                               (ADJ רעװאָלוציאָנערע)
                               (NS אַרבעטער־פאָעטן))))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.197))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.197))
 
 ( (IP-MAT (PP (P אין)
               (NP (NPR סאָװיעט־רוסלאַנד)))
@@ -4134,8 +3948,7 @@
                               (NP (D דער)
                                   (ADJ רעװאָלוציאָנערער)
                                   (N פּאָעזיע)))))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.198))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.198))
 
 ( (IP-MAT (PP (PP (P אין)
                   (NP (NPR מאָסקװע)))
@@ -4154,8 +3967,7 @@
           (NP-SBJ (NS זאַמלונגען)
                   (PP (P פון)
                       (NP (PRO$ זײנע)
-                          (NS לידער)))))
-  (ID 1967E-GLATSTEIN.YID.PSD,.199))
+                          (NS לידער))))) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.199))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ (ADJ ײדישע)
@@ -4172,8 +3984,7 @@
                          (IP-INF (VB שטעלן)
                                  (NP-OB1 (ADJ רעװאָלוציאָנערע)
                                          (NS פאָדערונגען)))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.200))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.200))
 
 ( (CODE {page_num:21_text_block_num:1}))
 
@@ -4190,8 +4001,7 @@
                             (PP (P פון)
                                 (NP (NPR$ באָװשאָװערס)
                                     (NS לידער)))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.202))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.202))
 
 ( (IP-MAT (NP-SBJ (MAN מען))
           (VLP װאָלט)
@@ -4203,8 +4013,7 @@
           (NP-OB1 (D דאָס)
                   (ADJ פאַרדײטשמערטע)
                   (N לשון))
-          (PUNC —))
-  (ID 1967E-GLATSTEIN.YID.PSD,.203))
+          (PUNC —)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.203))
 
 ( (IP-MAT (NP-SBJ (MAN מ’>))
           (MDP <קען)
@@ -4232,8 +4041,7 @@
                              (PUNC „)
                              (QTP (NS קרענצע))))))
           (PUNC “)
-          (PUNC ,))
-  (ID 1967E-GLATSTEIN.YID.PSD,.204))
+          (PUNC ,)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.204))
 
 ( (IP-MAT (CONJ אָבער)
           (NP-SBJ (PRO ס’>))
@@ -4262,8 +4070,7 @@
                                                           (VB אַנטװיקלען)
                                                           (NP-OB1 (PRO$ זײן)
                                                                   (N טאַלאַנט))))))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.205))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.205))
 
 ( (IP-MAT (CP-ADV (C װען)
                   (IP-SUB (NP-SBJ (NPR יוסף)
@@ -4299,8 +4106,7 @@
                               (NP (D דער)
                                   (ADJ ײדישער)
                                   (N פּאָעזיע))))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.206))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.206))
 
 ( (IP-MAT (NP-SBJ (NPR ש)
                   (PUNC .)
@@ -4329,8 +4135,7 @@
                                                   (NP-PRD (D אַ)
                                                           (ADJ רוסישער)
                                                           (N פּאָעט))))))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.207))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.207))
 
 ( (IP-MAT (CONJ אָבער)
           (PP (P אין)
@@ -4346,8 +4151,7 @@
           (NP-ADV (NP (ONE אײנער))
                   (PP (P פון)
                       (NP (OTHER אַנדערן))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.208))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.208))
 
 ( (IP-MAT (PP (P אין)
               (NP (NUM 1888)))
@@ -4367,8 +4171,7 @@
                                           (PUNC —)
                                           (IP-SUB (NP-SBJ *T*-1)
                                                   (NP-PRD (NPR שלום־עליכם)))))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.209))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.209))
 
 ( (IP-MAT (NP-OB1 (NPR-A מענדעלען))
           (HVP האָט)
@@ -4381,8 +4184,7 @@
               (NP (D אַ)
                   (ADJ פּױלישער)
                   (N איבערזעצונג)))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.210))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.210))
 
 ( (IP-MAT (PP (DR+P דערפאַר))
           (MDP דאַרף)
@@ -4410,8 +4212,7 @@
                           (PUNC ,)
                           (PP (P אָן)
                               (NP (NS מדריכים)))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.211))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.211))
 
 ( (IP-MAT (NP-SBJ (PRO$ זײנע)
                   (ADJ ערשטע)
@@ -4423,8 +4224,7 @@
                   (CONJP (NP (NPR װינטשעװסקי)))
                   (CONJP (CONJ און)
                          (NP (NPR ראָזענפעלד))))
-          (PUNC ,))
-  (ID 1967E-GLATSTEIN.YID.PSD,.212))
+          (PUNC ,)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.212))
 
 ( (IP-MAT (CONJ אָבער)
           (NP-SBJ (PRO$ זײן)
@@ -4448,8 +4248,7 @@
                                        (NP (NPR$ שעקספּירס)
                                            (ADJ זאַפטיקע)
                                            (NS שורות))))))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.213))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.213))
 
 ( (IP-MAT (NP-OB1 (PUNC „)
                   (ADJ קלאַסישע)
@@ -4460,8 +4259,7 @@
           (NP-SBJ (PRO ער))
           (NEG נישט)
           (VBN געזען)
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.214))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.214))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (HVP האָט)
@@ -4479,8 +4277,7 @@
                   (PP (P אױף)
                       (NP (ADJ ײדישע)
                           (ADJ ריטמישע)
-                          (NS שורות)))))
-  (ID 1967E-GLATSTEIN.YID.PSD,.215))
+                          (NS שורות))))) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.215))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ (PRO$ זײן)
@@ -4503,8 +4300,7 @@
                           (PP (P פון)
                               (NP (ADJ ײדישן)
                                   (N פּראָצענטניק)))))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.216))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.216))
 
 ( (IP-MAT (NP-SBJ (PRO כ’>))
           (BEP <בין)
@@ -4526,8 +4322,7 @@
                               (NP (PRO$ זײן)
                                   (ADJ ײדישער)
                                   (N טעאַטער־צונג)))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.217))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.217))
 
 ( (IP-MAT (IP-MAT-1 (NP-MSR (D אַ)
                             (N צײט))
@@ -4547,8 +4342,7 @@
                                (NP (D דער)
                                    (ADJ ײדישער)
                                    (N בינע)))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.218))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.218))
 
 ( (CODE {page_num:22_text_block_num:0}))
 
@@ -4580,8 +4374,7 @@
                                   (N פּאָעט)
                                   (PP (P פון)
                                       (NP (ADJ גרױסן)
-                                          (N צוזאָג)))))))
-  (ID 1967E-GLATSTEIN.YID.PSD,.220))
+                                          (N צוזאָג))))))) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.220))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (BEP איז)
@@ -4590,16 +4383,14 @@
                   (ADJP (ADV גאָר)
                         (ADJ פײנער))
                   (N נאַטור־דיכטער))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.221))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.221))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (HVP האָט)
           (VBN געשריבן)
           (NP-OB1 (ADJ גוטע)
                   (NS ליבע־לידער))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.222))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.222))
 
 ( (IP-MAT (NP-SBJ (PRO$ זײנע)
                   (ADJ רעװאָלוציאָנערע)
@@ -4618,8 +4409,7 @@
                              (ADJP (ADJ פלאַמיקן)
                                    (ADJ באַצװינגענדיקן))
                              (N טעמפּעראַמענט)))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.223))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.223))
 
 ( (FRAG (CP-ADV (C װען)
                 (IP-SUB (NP-SBJ (PRO ער))
@@ -4631,8 +4421,7 @@
                         (PP (P מיט)
                             (NP (ADJ אַזאַ)
                                 (N פערז)))))
-        (PUNC —))
-  (ID 1967E-GLATSTEIN.YID.PSD,.224))
+        (PUNC —)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.224))
 
 ( (CODE {page_num:22_text_block_num:1}))
 
@@ -4651,8 +4440,7 @@
           (NP-SBJ (PRO$ אײער)
                   (N מי))
           (PUNC .)
-          (CODE {COM:Glatstein_quoting_a_poem_from_Bovshover}))
-  (ID 1967E-GLATSTEIN.YID.PSD,.226))
+          (CODE {COM:Glatstein_quoting_a_poem_from_Bovshover})) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.226))
 
 ( (CODE {page_num:22_text_block_num:2}))
 
@@ -4663,8 +4451,7 @@
           (NP-1 (Q קײן)
                 (N תפיסה))
           (PUNC ,)
-          (CODE {COM:Glatstein_quoting_a_poem_from_Bovshover}))
-  (ID 1967E-GLATSTEIN.YID.PSD,.228))
+          (CODE {COM:Glatstein_quoting_a_poem_from_Bovshover})) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.228))
 
 ( (IP-MAT (NP-SBJ-1 *exp*)
           (NP-XPR (PRO מיך))
@@ -4673,8 +4460,7 @@
                 (N שאַפאָט))
           (NEG נישט)
           (PUNC ,)
-          (CODE {COM:Glatstein_quoting_a_poem_from_Bovshover}))
-  (ID 1967E-GLATSTEIN.YID.PSD,.229))
+          (CODE {COM:Glatstein_quoting_a_poem_from_Bovshover})) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.229))
 
 ( (IP-MAT (NP-SBJ-1 *exp*)
           (NP-XPR (PRO מיך))
@@ -4683,8 +4469,7 @@
           (NP-1 (Q קײן)
                 (N תליה))
           (PUNC .)
-          (CODE {COM:Glatstein_quoting_a_poem_from_Bovshover}))
-  (ID 1967E-GLATSTEIN.YID.PSD,.230))
+          (CODE {COM:Glatstein_quoting_a_poem_from_Bovshover})) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.230))
 
 ( (CODE {page_num:22_text_block_num:3}))
 
@@ -4695,8 +4480,7 @@
           (PP (P פון)
               (NP (D דר’@)
                   (N @ערד)))
-          (CODE {COM:Glatstein_quoting_a_poem_from_Bovshover}))
-  (ID 1967E-GLATSTEIN.YID.PSD,.232))
+          (CODE {COM:Glatstein_quoting_a_poem_from_Bovshover})) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.232))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ *con*)
@@ -4706,8 +4490,7 @@
               (NP (N װאָפן)))
           (VB באַדעקן)
           (PUNC ,)
-          (CODE {COM:Glatstein_quoting_a_poem_from_Bovshover}))
-  (ID 1967E-GLATSTEIN.YID.PSD,.233))
+          (CODE {COM:Glatstein_quoting_a_poem_from_Bovshover})) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.233))
 
 ( (CODE {page_num:22_text_block_num:4}))
 
@@ -4717,8 +4500,7 @@
                         (ADVP (ADV אײביק))
                         (VB פאַרזינקען)))
         (PUNC ,)
-        (CODE {COM:Glatstein_quoting_a_poem_from_Bovshover}))
-  (ID 1967E-GLATSTEIN.YID.PSD,.235))
+        (CODE {COM:Glatstein_quoting_a_poem_from_Bovshover})) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.235))
 
 ( (FRAG (CP-ADV (C ביז)
                 (IP-SUB (NP-OB1 (PRO אײך))
@@ -4727,8 +4509,7 @@
                                 (N קבר))
                         (VB פאַרמעקן)))
         (PUNC .)
-        (CODE {COM:Glatstein_quoting_a_poem_from_Bovshover}))
-  (ID 1967E-GLATSTEIN.YID.PSD,.236))
+        (CODE {COM:Glatstein_quoting_a_poem_from_Bovshover})) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.236))
 
 ( (CODE {page_num:22_text_block_num:5}))
 
@@ -4740,8 +4521,7 @@
                         (CONJ און)
                         (ADJ דעקלאַמאַטאָרישע))
                   (N עברי))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.238))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.238))
 
 ( (CODE {page_num:22_text_block_num:6}))
 
@@ -4766,8 +4546,7 @@
                                   (NP-PRN (PRO$ זײן)
                                           (ADJ גײסטיקער)
                                           (N קראַנקײט))))))
-          (PUNC .))
-  (ID 1967E-GLATSTEIN.YID.PSD,.240))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.240))
 
 ( (IP-MAT (NP-SBJ (PRO ער))
           (VBP פאַרענדיקט)
@@ -4786,8 +4565,7 @@
                                   (ADJ שװאַרצן)
                                   (N שלײער))))))
           (PUNC “)
-          (PUNC —))
-  (ID 1967E-GLATSTEIN.YID.PSD,.241))
+          (PUNC —)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.241))
 
 ( (CODE {page_num:22_text_block_num:7}))
 
@@ -4822,8 +4600,7 @@
           (NP-VOC (N מעלאַנכאָליע)
                   (NP-POS (PRO$ מײן)))
           (PUNC !)
-          (CODE {COM:Glatstein_quoting_a_poem_from_Bovshover}))
-  (ID 1967E-GLATSTEIN.YID.PSD,.243))
+          (CODE {COM:Glatstein_quoting_a_poem_from_Bovshover})) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.243))
 
 ( (CODE {page_num:22_text_block_num:10}))
 
@@ -4843,4 +4620,4 @@
                            (PP (P פון)
                                (NP (PRO$ זײן)
                                    (N מעלאַנכאָליע)))))
-          (PUNC .)))
+          (PUNC .)) (ID 1967E-GLATSTEIN.OTH-BIO.YID,.244))
