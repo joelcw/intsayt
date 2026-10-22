@@ -2235,7 +2235,7 @@
                                                                                     (MDP װעט)
                                                                                     (NP-RSP-SBJ-1 (PRO ער))
                                                                                     (VB זוכן)
-                                                                                    (IP-INF-SPE (NP-SBJ (PRO$ דײנע))
+                                                                                    (IP-INF-SPE (NP-OB1 (PRO-G דײנע))
                                                                                                 (RP-H פּטור)
                                                                                                 (TO צו)
                                                                                                 (RD װערן)))
