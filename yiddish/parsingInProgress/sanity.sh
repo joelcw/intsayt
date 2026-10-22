@@ -61,6 +61,16 @@ $CS ../../scripts/sanity_checks/add-spe.q $tempfile
 mv -f $tempfile.out $tempfile
 
 echo ""
+echo "Fix SPE order"
+$CS ../../scripts/sanity_checks/fix-prn-spe.q $tempfile
+mv -f $tempfile.out $tempfile
+
+echo ""
+echo "Fix SPE order"
+$CS ../../scripts/sanity_checks/fix-sbj-spe.q $tempfile
+mv -f $tempfile.out $tempfile
+
+echo ""
 echo "Missing SPE"
 $CS ../../scripts/sanity_checks/missing-spe.q $tempfile
 mv -f $tempfile.out $tempfile
