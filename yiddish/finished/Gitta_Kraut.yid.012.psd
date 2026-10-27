@@ -394,7 +394,7 @@
 
 ( (IP-MAT (NP-SBJ *pro*)
           (HVP האָבן)
-          (NP-SBJ (PRO אונדז))
+          (NP-OB2 (PRO אונדז))
           (VBN געװאַרט)
           (PUNC ,)))
 
