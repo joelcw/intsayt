@@ -1,7 +1,8 @@
 ( (NP-TTL (D א)
           (PUNC “)
           (ADJ גרינער)
-          (PUNC “)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.1))
+          (PUNC “))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.1))
 
 ( (IP-MAT (PP (P מיט)
               (IP-SMC (NP-SBJ (NUM פינף)
@@ -43,7 +44,8 @@
                                                   (RP איבער)
                                                   (TO צו)
                                                   (VB טראָגען)))))))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.2))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.2))
 
 ( (IP-MAT (NP-SBJ (D יענע)
                   (N שיף)
@@ -64,7 +66,8 @@
                   (N טיעפעניש)
                   (PP (P פון)
                       (NP (NS ים)))))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.3))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.3))
 
 ( (IP-MAT (NP-SBJ (PRO ס’))
           (BEP איז)
@@ -112,7 +115,8 @@
                                                             (N22 נפש)))
                                                  (NP-OB2 (NPR אמעריקא))
                                                  (VBN פערשאפט))))))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.4))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.4))
 
 ( (IP-MAT (IP-MAT-1 (NP-TMP (D די)
                             (ADJ גאנצע)
@@ -179,7 +183,8 @@
                                                        (P מיט)
                                                        (NP (PRO$ זײער)
                                                            (N װאסער))))))))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.5))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.5))
 
 ( (IP-MAT (NP-SBJ (PRO כ’))
           (HVP האָב)
@@ -237,7 +242,8 @@
                                                                                                                                                       (VBP רינגלען)
                                                                                                                                                       (NP-OB1 (PRO מיך))
                                                                                                                                                       (ADVP-DIR (ADV ארום))))))))))))))))))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.6))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.6))
 
 ( (IP-MAT (ADVP-TMP (ADV צײטענװײז))
           (HVP האָט)
@@ -275,7 +281,8 @@
                                                          (IP-SUB (NP-SBJ *T*-1)
                                                                  (VBP הײסט)
                                                                  (NP-PRD (NPR אמעריקא))))))))))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.7))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.7))
 
 ( (IP-MAT (CONJ װאָרים)
           (IP-PPL (IP-PPL (VAG זיצענדיג)
@@ -320,7 +327,8 @@
                             (C װי)
                             (IP-SUB (ADJP *T*-3)
                                     (NP-SBJ (NPR אמעריקא)))))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.8))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.8))
 
 ( (IP-MAT (PP (P מיט)
               (NP (NS סודות)))
@@ -346,7 +354,8 @@
                                       (NP (PRO זיך)))
                                   (NP-OB1 (D א)
                                           (N הײם)))))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.9))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.9))
 
 ( (IP-MAT (NP-SBJ (Q אלץ)
                   (PUNC ,)
@@ -372,7 +381,8 @@
                                   (N ביכעל)))
                           (ADVP-DIR (ADV ארױס))
                           (VAN גענומען)))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.10))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.10))
 
 ( (IP-MAT (CONJ און)
           (VBP קומט)
@@ -385,7 +395,8 @@
                       (NP (NPR אמעריקא)))
                   (PP (P קײן)
                       (NP (NPR רוסלאַנד))))
-          (PUNC ,)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.11))
+          (PUNC ,))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.11))
 
 ( (IP-MAT (VBP זעהט)
           (NP-SBJ (PRO ער))
@@ -396,7 +407,8 @@
                             (IP-SUB (ADJP *T*-1)
                                     (NP-SBJ (D די)
                                             (ADJ ארומיגע)))))
-          (PUNC ;)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.12))
+          (PUNC ;))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.12))
 
 ( (IP-MAT (NP-SBJ *con*)
           (VBP רעדט)
@@ -425,7 +437,8 @@
                                                                    (CP-EOP-4 (WNP-5 0)
                                                                              (IP-INF (NP-OB1 *T*-5)
                                                                                      (VB דערצעהלען))))))))))
-          (PUNC —)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.13))
+          (PUNC —))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.13))
 
 ( (IP-MAT (IP-MAT-1 (NP-OB1 (D די)
                             (NS מעשיות)
@@ -444,7 +457,8 @@
           (CONJP (CONJ און)
                  (IP-MAT=1 (VBP גלױבען)
                            (NEG ניט)))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.14))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.14))
 
 ( (CP-QUE-MAT (C צי)
               (IP-SUB (MDP קאָן)
@@ -475,7 +489,8 @@
                                                      (NEG ניט))))))
               (PUNC .)
               (PUNC .)
-              (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.15))
+              (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.15))
 
 ( (CP-QUE-MAT (WADVP-1 (WADVP (WADV װי)
                               (ADVR אזױ))
@@ -485,7 +500,8 @@
                       (BEP איז)
                       (NP-SBJ (D דאָס))
                       (VBN געשעהן))
-              (PUNC ?)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.16))
+              (PUNC ?))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.16))
 
 ( (CODE {page_num:6_text_block_num:1}))
 
@@ -523,7 +539,8 @@
                                                                                     (PP (P מיט)
                                                                                         (NP (PRO$ זײערע)
                                                                                             (NS פּעקלעך)))))))))))
-        (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.18))
+        (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.18))
 
 ( (IP-MAT (CONJ און)
           (ADVP-LOC (ADV ערגעץ)
@@ -539,7 +556,8 @@
           (PUNC ,)
           (IP-PPL (PP (P אין)
                       (NP (NUM דרײען)))
-                  (VBN געבױגען))) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.19))
+                  (VBN געבױגען)))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.19))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ *con*)
@@ -548,7 +566,8 @@
           (NP-OB1 (N קאָפּ))
           (PP (P אָן)
               (NP (N װאנט)))
-          (PUNC ,)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.20))
+          (PUNC ,))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.20))
 
 ( (IP-MAT (CP-ADV (WADVP-1 (WADV װי))
                   (C 0)
@@ -580,7 +599,8 @@
                                   (CONJP (IP-SUB (CONJ און)
                                                  (NP-SBJ *con*)
                                                  (VBP שעפּטשעט)))))))
-          (PUNC :)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.21))
+          (PUNC :))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.21))
 
 ( (CODE {page_num:6_text_block_num:2}))
 
@@ -597,14 +617,16 @@
                                       (NEG ניט)
                                       (ADVP (ADV אריבער>))
                                       (VB <טראגען)))
-              (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.23))
+              (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.23))
 
 ( (CODE {page_num:6_text_block_num:3}))
 
 ( (QTP (INTJ נו)
        (PUNC ,)
        (WNP (WPRO װאָס))
-       (PUNC ?)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.25))
+       (PUNC ?))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.25))
 
 ( (IP-MAT (NP-SBJ (PRO$ אײער)
                   (N הארץ))
@@ -613,7 +635,8 @@
               (NP (D דער)
                   (N שטיל)))
           (ADVP (RP-ADV מיט>))
-          (VBN <געװײנט)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.26))
+          (VBN <געװײנט))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.26))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ-1 *exp*)
@@ -668,7 +691,8 @@
                                                              (RP אָנ>)
                                                              (TO <צו>)
                                                              (VB <הױבען)))))))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.27))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.27))
 
 ( (CODE {page_num:6_text_block_num:4}))
 
@@ -710,7 +734,8 @@
                                               (IP-SUB (NP-SBJ *T*-1)
                                                       (VBP הײסט)
                                                       (NP-PRD (NPR אמעריקא)))))))
-          (PUNC ,)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.29))
+          (PUNC ,))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.29))
 
 ( (IP-MAT (CONJ אָבער)
           (NP-ADT (CP-FRL (WNP-1 (WPRO װאָס)
@@ -743,7 +768,8 @@
                                           (BEP <בין)
                                           (RDN געװאָרען)
                                           (VAN געטראָגען))))))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.30))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.30))
 
 ( (CODE {page_num:7_text_block_num:0}))
 
@@ -775,7 +801,8 @@
                                                        (IP-INF (RP אױפ>)
                                                                (VB <עפענען)
                                                                (NP-OB1 (PRO$ מײן)
-                                                                       (N פּעקעל)))))))))) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.32))
+                                                                       (N פּעקעל))))))))))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.32))
 
 ( (IP-MAT (CONJ און)
           (PUNC ,)
@@ -809,7 +836,8 @@
           (IP-PPL (VAG קײענדיג)
                   (PP (DR+P דערבײ))
                   (NP-OB1 (N גומע)))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.33))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.33))
 
 ( (IP-MAT (IP-PPL (VAG קוקענדיג)
                   (PP (PP (P אױף)
@@ -830,7 +858,8 @@
           (PP (P אױפ’>)
               (NP (D <ן)
                   (N-D הארצען)))
-          (PUNC :)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.34))
+          (PUNC :))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.34))
 
 ( (CODE {page_num:7_text_block_num:1}))
 
@@ -839,7 +868,8 @@
             (NP (Q אלדע)
                 (ADJ גוטע)
                 (NS יאָהר)))
-        (PUNC !)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.36))
+        (PUNC !))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.36))
 
 ( (CP-QUE-MAT (WPP-1 (P נאָך)
                      (WNP (WPRO װאָס)))
@@ -878,7 +908,8 @@
                                                          (PP (P אין)
                                                              (NP (PRO$ מײנע)
                                                                  (NS פּעקלעך))))))))
-              (PUNC ....)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.37))
+              (PUNC ....))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.37))
 
 ( (IP-MAT (IP-MAT-1 (ADJP-SPR (ADJ נאקעט))
                     (HVP האָט)
@@ -909,7 +940,8 @@
                                        (NP (D דער)
                                            (ADJ אלטער)
                                            (N װעלט))))))
-          (PUNC !)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.38))
+          (PUNC !))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.38))
 
 ( (CODE {page_num:7_text_block_num:2}))
 
@@ -919,14 +951,16 @@
                     (PP (P אין)
                         (NP (D די)
                             (NS גאסען))))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.40))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.40))
 
 ( (FRAG (NP-SBJ (NS אידען)
                 (PUNC ,)
                 (NS אידען)
                 (PUNC ,)
                 (NS אידען))
-        (PUNC ...)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.41))
+        (PUNC ...))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.41))
 
 ( (CODE {page_num:7_text_block_num:3}))
 
@@ -951,7 +985,8 @@
                                               (PP (P אָן)
                                                   (NP (N װאנט)))
                                               (VBN געשלאָגען)))))
-              (PUNC ?)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.43))
+              (PUNC ?))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.43))
 
 ( (CP-QUE-MAT (WADVP-1 (WADV װאו))
               (IP-SUB (ADVP-LOC *T*-1)
@@ -982,8 +1017,8 @@
                                               (PP (P צו)
                                                   (NP (D דער)
                                                       (N מוטער)))))))
-              (PUNC ?)
-              (CODE {COM:check_NP-PRN_placement})) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.44))
+              (PUNC ?))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.44))
 
 ( (CP-QUE-MAT (WADVP-1 (WADV װאו))
               (IP-SUB (ADVP-LOC *T*-1)
@@ -1024,7 +1059,8 @@
                                                                                         (PUNC ,)
                                                                                         (REP (VB קושען))))))))))))
               (PUNC ?)
-              (PUNC ...)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.45))
+              (PUNC ...))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.45))
 
 ( (CODE {page_num:7_text_block_num:4}))
 
@@ -1036,7 +1072,8 @@
                   (NS גאסען)))
           (NEG ניט)
           (VBN בעגעגענט)
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.47))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.47))
 
 ( (CODE {page_num:7_text_block_num:5}))
 
@@ -1060,7 +1097,8 @@
                                              (ADVP-DIR (PP (P פון)
                                                            (NP (PRO איהר)))
                                                        (ADV ארױס))))))))
-          (PUNC ,)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.49))
+          (PUNC ,))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.49))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ-1 *exp*)
@@ -1091,7 +1129,8 @@
                                                                          (PUNC ,)
                                                                          (ADJ לאנגע))
                                                                    (NS יאָהרען)))))))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.50))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.50))
 
 ( (CODE {page_num:7_text_block_num:6}))
 
@@ -1129,7 +1168,8 @@
                                               (CONJP (CONJ און)
                                                      (PP (P אױף)
                                                          (ADVP (ADV לינקס))))))))))
-          (PUNC —)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.52))
+          (PUNC —))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.52))
 
 ( (IP-MAT (CONJ און)
           (PP (P בײ>)
@@ -1145,7 +1185,8 @@
                           (N װינקעלע)))
                   (NP-RFL (PRO זיך))
                   (VBN בעהאלטען))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.53))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.53))
 
 ( (IP-MAT (ADJP-SPR (ADJ געשראקענע)
                     (PUNC ,)
@@ -1163,7 +1204,8 @@
                   (ADJS קלענסטען)
                   (N װינקעלע))
           (VBN פערנומען)
-          (PUNC :)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.54))
+          (PUNC :))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.54))
 
 ( (CODE {page_num:8_text_block_num:0}))
 
@@ -1173,7 +1215,8 @@
           (VBP פערקױפען)
           (NP-SBJ (NS אידען))
           (NP-OB1 (NS עפּעל))
-          (PUNC ;)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.56))
+          (PUNC ;))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.56))
 
 ( (IP-MAT (PP (P אין)
               (NP (NPR עסטער)
@@ -1181,7 +1224,8 @@
           (VBP פערקױפט)
           (NP-SBJ (MAN מען))
           (NP-OB1 (N הערינג))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.57))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.57))
 
 ( (IP-MAT (CONJ און)
           (ADJP-SPR (ADJP (ADV אזױ)
@@ -1220,7 +1264,8 @@
                                             (PP (P מיט)
                                                 (NP (PRO$ זײן)
                                                     (N דלות)))))))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.58))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.58))
 
 ( (CODE {page_num:8_text_block_num:1}))
 
@@ -1297,7 +1342,8 @@
                                            (NP-RFL (PRO זיך))
                                            (RP צו>)
                                            (VBN <געהערט))))))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.60))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.60))
 
 ( (CODE {page_num:8_text_block_num:3}))
 
@@ -1334,7 +1380,8 @@
                                     (N שפּראך))
                             (RP דורכ>)
                             (VBN <געמישט)))
-          (PUNC ;)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.62))
+          (PUNC ;))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.62))
 
 ( (FRAG (IP-SMC (ADVP (ADV אזױ))
                 (VAN פערשפּיצט)
@@ -1379,7 +1426,8 @@
                                                                                                 (NP (D די)
                                                                                                     (ADJ לעבעדיגע)
                                                                                                     (NS בשעפענישען))))))))))))))))
-        (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.63))
+        (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.63))
 
 ( (CODE {page_num:8_text_block_num:4}))
 
@@ -1415,7 +1463,8 @@
                                                                      (N שלאָפען)))))))))))
           (PUNC .)
           (PUNC —)
-          (PUNC —)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.65))
+          (PUNC —))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.65))
 
 ( (CODE {page_num:8_text_block_num:5}))
 
@@ -1427,7 +1476,8 @@
                   (N יאָהר))
           (ADVP-LOC (ADV דאָ)
                     (PP (P אין)
-                        (NP (N לאנד))))) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.67))
+                        (NP (N לאנד)))))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.67))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ *con*)
@@ -1437,7 +1487,8 @@
           (NEG ניט)
           (RP אױס>)
           (VB <גרינען)
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.68))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.68))
 
 ( (IP-MAT (IP-PPL (RP דורכ>)
                   (VBN <געשניטען)
@@ -1457,7 +1508,8 @@
                   (N הארץ))
           (PP (P נאָך)
               (NP (N פרײהײט)))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.69))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.69))
 
 ( (CODE {page_num:9_text_block_num:0}))
 
@@ -1497,7 +1549,8 @@
                                                                   (PP (P אױף)
                                                                       (NP (PRO$ זײן)
                                                                           (N לײב))))))))))
-          (PUNC —)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.71))
+          (PUNC —))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.71))
 
 ( (IP-MAT (CP-ADV (C 0)
                   (IP-SUB (NP-SBJ *pro*)
@@ -1513,7 +1566,8 @@
                       (IP-SUB (NP-PRD *T*-1)
                               (NP-SBJ (NPR אמעריקא))
                               (BEP איז)))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.72))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.72))
 
 ( (IP-MAT (IP-MAT-1 (CONJ אָבער)
                     (NP-SBJ (NP (PRO איך))
@@ -1542,12 +1596,14 @@
                                          (PUNC ,)
                                          (ADJ װײטע))
                                    (NS חלומות))))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.73))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.73))
 
 ( (CODE {page_num:9_text_block_num:1}))
 
 ( (NP-TTL (D די)
-          (N שטאָט)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.75))
+          (N שטאָט))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.75))
 
 ( (CODE {page_num:9_text_block_num:2}))
 
@@ -1583,7 +1639,8 @@
           (ADVP (ADV אזש))
           (NP-2 (D דער)
                 (N אָטעם))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.77))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.77))
 
 ( (IP-MAT (NP-MSR (NEG ניט)
                   (ONE אײן)
@@ -1593,7 +1650,8 @@
           (NP-SBJ (PRO$ מײנע)
                   (N געפיהלען))
           (VBN דערהױבען)
-          (PUNC ,)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.78))
+          (PUNC ,))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.78))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ-1 *exp*)
@@ -1623,7 +1681,8 @@
                                                   (NS אױגען)))
                                           (VBN געבױרען)
                                           (RDN געװאָרען))))))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.79))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.79))
 
 ( (IP-MAT (CONJ און)
           (CP-ADV (C אױב)
@@ -1670,7 +1729,8 @@
                                                               (HVP האָט)
                                                               (NP-OB1 (PRO זײ))
                                                               (VBN געפּאסעװעט)))))))))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.80))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.80))
 
 ( (IP-MAT (NP-SBJ *pro*)
           (BEP *)
@@ -1683,7 +1743,8 @@
                         (NP (N שטאָט)))
                     (ADV ארײנ>))
           (VBN <געקומען)
-          (PUNC ;)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.81))
+          (PUNC ;))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.81))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ (D די)
@@ -1708,7 +1769,8 @@
                                               (NP (D <ן)
                                                   (N פּלײצע)))))
                                   (NP-OB1 (D די)
-                                          (NS צײכענס)))))) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.82))
+                                          (NS צײכענס))))))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.82))
 
 ( (IP-MAT (CONJ און)
           (PP (P פון)
@@ -1720,7 +1782,8 @@
                   (OTHER אנדער)
                   (N מין)
                   (NP-COM (N לצנות)))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.83))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.83))
 
 ( (IP-MAT (CONJ און)
           (CP-ADV (C אױב)
@@ -1751,7 +1814,8 @@
                                         (NP (D דער)
                                             (N הײם)))
                                     (VBN געטראגען))))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.84))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.84))
 
 ( (IP-MAT (NP-SBJ (D דער)
                   (ADJP (ADJ אײנגעבױגענער)
@@ -1766,7 +1830,8 @@
                       (NP (D דעם)
                           (ADJ בײזען)
                           (N װילען))))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.85))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.85))
 
 ( (IP-MAT (ADVP-LOC (ADV דאָ)
                     (PUNC ,)
@@ -1811,7 +1876,8 @@
                                                                       (ADVP (ADVR פריהער))))
                                                           (TO צו)
                                                           (VB קומען)))))))))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.86))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.86))
 
 ( (IP-MAT (NP-SBJ-1 *exp*)
           (NP-1 (NS טראדיציעס))
@@ -1819,7 +1885,8 @@
           (ADVP-LOC (ADV דאָ))
           (NEG ניט>)
           (ADVP-LOC (ADV <א))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.87))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.87))
 
 ( (IP-MAT (ADVP (QR מעהר)
                 (CP-CMP (WADVP-1 0)
@@ -1834,7 +1901,8 @@
                   (ADVP (ADV אלײן)))
           (NP-OB1 (PRO$ זײער)
                   (N גליק))
-          (PUNC :)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.88))
+          (PUNC :))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.88))
 
 ( (IP-MAT (NP-SBJ *con*)
           (VBP שמידען)
@@ -1842,7 +1910,8 @@
               (NP (PRO זיך)))
           (NP-OB1 (PRO$ זײער)
                   (N מזל))
-          (PUNC ,)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.89))
+          (PUNC ,))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.89))
 
 ( (IP-MAT (NP-SBJ *con*)
           (VBP בױען)
@@ -1850,7 +1919,8 @@
               (NP (PRO זיך)))
           (NP-OB1 (PRO$ זײער)
                   (N לעבען))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.90))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.90))
 
 ( (IP-MAT (NP-SBJ-1 *exp*)
           (BEP *)
@@ -1858,7 +1928,8 @@
           (ADVP (ADV <אָ))
           (NP-1 (Q קײן)
                 (NS טראדיציעס))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.91))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.91))
 
 ( (IP-MAT (CONJ און)
           (CP-ADV (C אױב)
@@ -1895,7 +1966,8 @@
                                   (PP (P פאר)
                                       (NP (D א)
                                           (N בײשפּיעל)))))))
-          (PUNC ;)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.92))
+          (PUNC ;))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.92))
 
 ( (IP-MAT (BEP איז)
           (ADVP-DIAGN (ADV דאָך))
@@ -1915,7 +1987,8 @@
                                   (NEG (NEG21 גאָר)
                                        (NEG22 ניט))
                                   (VB לערנען)))))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.93))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.93))
 
 ( (CODE {page_num:10_text_block_num:0}))
 
@@ -1926,7 +1999,8 @@
               (NP (D דער)
                   (ADJ ניו־יאָרקער)
                   (NPR איסט)
-                  (NPR סײד)))) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.95))
+                  (NPR סײד))))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.95))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ *con*)
@@ -1947,7 +2021,8 @@
                                            (PUNC —)
                                            (NP-OB1 (ADJ זױערע)
                                                    (NS אוגערקעס))))))
-          (PUNC ;)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.96))
+          (PUNC ;))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.96))
 
 ( (IP-MAT (CONJ אָדער)
           (CP-ADV (CP-ADV (C װען)
@@ -2028,7 +2103,8 @@
           (RDP װערט)
           (ADVP-DIAGN (ADV דאָך))
           (ADJP (ADJ צוריסען))
-          (PUNC ,)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.97))
+          (PUNC ,))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.97))
 
 ( (IP-MAT (NP-SBJ (NS טרערען))
           (VBP װערגען)
@@ -2038,7 +2114,8 @@
           (IP-PPL (VAG קוקענדיג)
                   (PP (P פון)
                       (ADVP (ADV װײטען))))
-          (PUNC :)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.98))
+          (PUNC :))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.98))
 
 ( (CODE {page_num:10_text_block_num:1}))
 
@@ -2079,7 +2156,8 @@
                                                       (PP (P פון)
                                                           (NP (N יאוש))))))))))
               (PUNC ?)
-              (PUNC !)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.100))
+              (PUNC !))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.100))
 
 ( (CODE {page_num:10_text_block_num:2}))
 
@@ -2148,7 +2226,8 @@
                                                                  (ADVP-LOC (ADV דאָ)
                                                                            (PP (P אין)
                                                                                (NP (NPR אמעריקא)))))))))))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.102))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.102))
 
 ( (IP-MAT (NP-SBJ (NUM מיליאָנען)
                   (NS װינקעלעך)
@@ -2175,7 +2254,8 @@
                                              (ADVP (ADV פרײ))
                                              (RP אױס>)
                                              (VB <לעבען)))))
-          (PUNC ...)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.103))
+          (PUNC ...))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.103))
 
 ( (IP-MAT (NP-SBJ (NUM טױזענדער)
                   (NS בעהעלטענישען))
@@ -2192,7 +2272,8 @@
                                   (RP אָב>)
                                   (VB <אטעמען)
                                   (CODE {COM:opotemen})))))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.104))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.104))
 
 ( (CP-QUE-MAT (CONJ און)
               (CP-ADV (C אױב)
@@ -2223,7 +2304,8 @@
                       (NP-SBJ (MAN מען))
                       (VB שילטען)
                       (PP (DR+P דערפאר)))
-              (PUNC ?)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.105))
+              (PUNC ?))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.105))
 
 ( (FRAG (NP-OB1 (NP (NPR גאָט)
                     (ADVP (ADV אלײן)))
@@ -2236,7 +2318,8 @@
                        (NP (NEG ניט)
                            (D דאָס)
                            (N לאנד))))
-        (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.106))
+        (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.106))
 
 ( (CODE {page_num:11_text_block_num:0}))
 
@@ -2245,7 +2328,8 @@
           (HVP האָט)
           (NP-OB1 (D א)
                   (N שװעל))
-          (PUNC ;)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.108))
+          (PUNC ;))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.108))
 
 ( (IP-MAT (NP-SBJ (Q יעדעס)
                   (N לאנד))
@@ -2261,7 +2345,8 @@
                       (NP (D <ם)
                           (N (N21 ארײנ>)
                              (N22 <קומען)))))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.109))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.109))
 
 ( (IP-MAT (NP-SBJ (D די)
                   (N שװעל))
@@ -2272,7 +2357,8 @@
                   (ADVP (ADVR בעסער))
                   (TO צו)
                   (VB פערהאקען))
-          (PUNC ;)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.110))
+          (PUNC ;))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.110))
 
 ( (IP-MAT (NP-SBJ (D די)
                   (N שװעל))
@@ -2285,7 +2371,8 @@
                   (IP-INF (VBN געשטרױכעלט)
                           (TO צו)
                           (RD װערען)))
-          (PUNC ;)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.111))
+          (PUNC ;))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.111))
 
 ( (IP-MAT (CONJ און)
           (ADJP (ADJ געפעהרליך))
@@ -2314,7 +2401,8 @@
                                                              (PP (P אין)
                                                                  (NP (N לאנד))))
                                                    (VB מאכען))))))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.112))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.112))
 
 ( (IP-MAT (CONJ און)
           (PP (P צו>)
@@ -2358,7 +2446,8 @@
                                                                                                  (ADJ צײטװײליגען)
                                                                                                  (N לעבען))
                                                                                          (RP אָב)))))))))))))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.113))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.113))
 
 ( (CODE {page_num:11_text_block_num:1}))
 
@@ -2372,7 +2461,8 @@
           (PP (P פון)
               (NP (D די)
                   (NPR קעצקיל־בערג)))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.115))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.115))
 
 ( (IP-MAT (NP-SBJ (PRO כ’>))
           (HVP <האָב)
@@ -2381,7 +2471,8 @@
               (NP (D א)
                   (ADJ אָרטיגען)
                   (N פארמער)))
-          (PUNC ,)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.116))
+          (PUNC ,))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.116))
 
 ( (IP-MAT (IP-MAT-1 (ADVP (ADV פארנאכט)
                           (PUNC ,)
@@ -2413,7 +2504,8 @@
                                                    (VBN געהאלטען)
                                                    (PP (P בײם)
                                                        (IP-INF (VB פערגעהען)))))))))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.117))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.117))
 
 ( (IP-MAT (NP-SBJ (D די)
                   (N זון))
@@ -2428,7 +2520,8 @@
                   (PP (P פון)
                       (NP (D די)
                           (NS בערג)))))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.118))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.118))
 
 ( (IP-MAT (NP-SBJ (NP (N װײב))
                   (CONJP (CONJ און)
@@ -2445,7 +2538,8 @@
           (IP-INF (RP אָב>)
                   (TO <צו>)
                   (VB <רוהען))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.119))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.119))
 
 ( (IP-MAT (PP (P אנטקעגען)
               (NP (PRO אונז))
@@ -2462,7 +2556,8 @@
                         (PUNC ,)
                         (ADJ האלב־יאָהריגע))
                   (NS קעלבלאך))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.120))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.120))
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ (ONE אײנס))
                     (HVP האָט)
@@ -2480,7 +2575,8 @@
                            (RP צו>)
                            (VBN <בריקעװעט)
                            (CODE {COM:tsebrikevet})))
-          (PUNC ,)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.121))
+          (PUNC ,))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.121))
 
 ( (IP-MAT (PP (ADV אזש)
               (ADV שיעור)
@@ -2491,13 +2587,15 @@
           (NP-SBJ (PRO עס))
           (ADVP-DIR (ADV ארױפ>))
           (VBN <געשפּרונגען)
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.122))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.122))
 
 ( (IP-MAT (NP-SBJ (D דער)
                   (N פארמער))
           (HVP האָט)
           (NP-RFL (PRO זיך))
-          (VBN צולאכט)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.123))
+          (VBN צולאכט))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.123))
 
 ( (IP-MAT (CONJ און)
           (ADVP (ADV שפּעטער))
@@ -2514,7 +2612,8 @@
           (RP-ASP (D א)
                   (N פרעג))
           (DON געטהאָן)
-          (PUNC :)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.124))
+          (PUNC :))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.124))
 
 ( (CODE {page_num:11_text_block_num:2}))
 
@@ -2528,7 +2627,8 @@
                   (NP (D דער)
                       (ADJ גרױסער)
                       (N שטאָט)))
-              (PUNC ,)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.126))
+              (PUNC ,))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.126))
 
 ( (CP-QUE-MAT-SPE (IP-SUB-SPE (MDP קענסט>)
                               (NP-SBJ (PRO <דו))
@@ -2539,7 +2639,8 @@
                                   (NP (D דער)
                                       (ADJ גרױסער)
                                       (N שטאָט))))
-                  (PUNC ?)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.127))
+                  (PUNC ?))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.127))
 
 ( (CODE {page_num:11_text_block_num:3}))
 
@@ -2556,7 +2657,8 @@
                                                    (VBP פערשטעה)
                                                    (NP-OB1 (PRO איהם))
                                                    (ADVP (ADV שלעכט)))))))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.129))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.129))
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ (PRO ער))
                     (BEP איז)
@@ -2587,7 +2689,8 @@
                                                                                  (ADVP (ADV אזױ))
                                                                                  (NP-OB1 (PRO$ אונזער)
                                                                                          (N יוגענד))))))))
-          (PUNC ?)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.130))
+          (PUNC ?))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.130))
 
 ( (IP-MAT-SPE (FP אָט)
               (IP-MAT-SPE-PRN (VBP זעהסט>)
@@ -2598,7 +2701,8 @@
                       (PUNC ,)
                       (NP-PRN (PRO$ מײנע)
                               (NS טעכטער)))
-              (PUNC ,)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.131))
+              (PUNC ,))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.131))
 
 ( (IP-MAT-SPE (CONJ און)
               (NP-SBJ *con*)
@@ -2608,7 +2712,8 @@
                   (NP (D דער)
                       (ADJ גרױסער)
                       (N שטאָט)))
-              (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.132))
+              (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.132))
 
 ( (IP-MAT-SPE (NP-SBJ (D די)
                       (ADJR עלטערע))
@@ -2618,7 +2723,8 @@
               (NP-MSR (D די)
                       (ADJ לעצטע)
                       (Q פּאָר)
-                      (NP-COM (N יאָהר)))) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.133))
+                      (NP-COM (N יאָהר))))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.133))
 
 ( (IP-MAT-SPE (CONJ און)
               (NP-SBJ (PRO כ’>))
@@ -2653,12 +2759,14 @@
                                                                                                                (CONJP (CONJ און)
                                                                                                                       (IP-SUB-SPE=3 (RP אױס>)
                                                                                                                                     (VBN <געװאקסען))))))))))))))
-              (PUNC —)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.134))
+              (PUNC —))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.134))
 
 ( (IP-MAT-SPE (RDN װערט)
               (NP-SBJ (PRO זי))
               (ADJP (ADJ פרעמד))
-              (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.135))
+              (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.135))
 
 ( (CODE {page_num:12_text_block_num:0}))
 
@@ -2670,14 +2778,16 @@
               (PP (DP+P דאבײ))
               (NEG ניט)
               (VB העלפען)
-              (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.137))
+              (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.137))
 
 ( (CODE {page_num:12_text_block_num:1}))
 
 ( (QTP (PUNC —)
        (WPP (P פאר>)
             (WNP (WPRO <װאָס)))
-       (PUNC ?)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.139))
+       (PUNC ?))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.139))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO איהר)
                       (QP (Q אלע))
@@ -2686,7 +2796,8 @@
               (PP (P אין)
                   (NP (D דעם)))
               (ADJP (ADJ שולדיג))
-              (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.140))
+              (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.140))
 
 ( (CP-QUE-MAT-SPE (WNP (WPRO װאָס))
                   (IP-SUB-SPE (VBP װילען)
@@ -2696,7 +2807,8 @@
                               (PP (P מיט)
                                   (NP (PRO$ זײערע)
                                       (NS שטעט))))
-                  (PUNC ?)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.141))
+                  (PUNC ?))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.141))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO זײ))
               (VBP קומען)
@@ -2711,7 +2823,8 @@
                                                  (PP (P פון)
                                                      (NP (PRO$ זײערע)
                                                          (NS טאטעס))))))
-              (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.142))
+              (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.142))
 
 ( (IP-MAT-SPE (NP-SBJ (MAN מען))
               (VBP רעדט)
@@ -2745,24 +2858,26 @@
                                                                                      (NP (N שטאל)))
                                                                                  (ADVP-DIR (ADV ארױס>))
                                                                                  (VB <נעהמען)))))))
-              (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.143))
+              (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.143))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO ס’>))
               (BEP <איז)
               (ADVP-DIAGN (ADV דאָך))
               (NP-PRD (NS נארישקײטען))
-              (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.144))
+              (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.144))
 
 ( (CP-QUE-MAT-SPE (WNP-1 (WPRO װער))
                   (IP-SUB-SPE (NP-SBJ *T*-1)
                               (MDP בעדארף)
                               (ADVP-DIAGN (ADV דען))
-                              (PP (P בײ)
-                                  (WPRO װעמען))
-                              (CODE {COM:check_wh_in_situ})
+                              (WPP (P בײ)
+                                   (WNP (WPRO װעמען)))
                               (NP-OB1 (Q עפּעס))
                               (VB נעהמען)
-                              (PUNC ?))) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.145))
+                              (PUNC ?)))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.145))
 
 ( (CP-QUE-MAT-SPE (WNP-1 (WPRO װאָס))
                   (IP-SUB-SPE (NP-ADV *T*-1)
@@ -2771,13 +2886,15 @@
                               (ADVP-DIR (ADV אהער))
                               (NP-OB1 (D דעם)
                                       (N אונצוטרױ)))
-                  (PUNC —)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.146))
+                  (PUNC —))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.146))
 
 ( (CP-QUE-MAT-SPE (WNP-1 (WPRO װער))
                   (IP-SUB-SPE (NP-SBJ *T*-1)
                               (VBP בעדארף)
                               (NP-OB1 (PRO עס)))
-                  (PUNC ?)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.147))
+                  (PUNC ?))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.147))
 
 ( (IP-MAT-SPE (NP-SBJ *pro*)
               (VBP גלױבסט)
@@ -2785,7 +2902,8 @@
               (ADVP (ADV אודאי))
               (PP (P אין)
                   (NP (NPR גאָט)))
-              (PUNC ,)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.148))
+              (PUNC ,))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.148))
 
 ( (IP-IMP-SPE (ADVP (ADV טאָ))
               (VBI זאָג)
@@ -2805,14 +2923,16 @@
                                                                   (VBP גלױבען)
                                                                   (PP (P אין)
                                                                       (NP (NPR גאָט)))))))
-              (PUNC ?)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.149))
+              (PUNC ?))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.149))
 
 ( (QTP (NP-OB1 (NP (D די)
                    (NS פאבריקען))
                (PUNC ,)
                (CONJP (NP (D די)
                           (NS מאַשינען))))
-       (PUNC ....)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.150))
+       (PUNC ....))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.150))
 
 ( (CP-QUE-MAT-SPE (WADVP-1 (WADV װאו))
                   (IP-SUB-SPE (ADVP *T*-1)
@@ -2821,7 +2941,8 @@
                               (NP-XPR (PRO דיר))
                               (PP (P אין)
                                   (NP (NPR גאָט))))
-                  (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.151))
+                  (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.151))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO איך))
               (VBP קוק)
@@ -2835,7 +2956,8 @@
                                           (NP (D <ן)
                                               (N זומער)))
                                       (RP אױס>)
-                                      (VBN <געװאקסען)))) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.152))
+                                      (VBN <געװאקסען))))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.152))
 
 ( (IP-MAT-SPE (CONJ און)
               (NP-SBJ (PRO איך))
@@ -2852,7 +2974,8 @@
                                         (ADJ גוטער))
                                   (NPR גאָט))
                           (ADJP (ADJ פאראנען))
-                          (PUNC .))) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.153))
+                          (PUNC .)))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.153))
 
 ( (CODE {page_num:12_text_block_num:2}))
 
@@ -2863,12 +2986,14 @@
                               (NP-SBJ (PRO איך))
                               (ADVP-LOC (ADV דאָ))
                               (VBN דערצעהלט))
-                  (PUNC ?)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.155))
+                  (PUNC ?))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.155))
 
 ( (QTP (NP-OB1 (ADV גאָר)
                (D א)
                (N קלײניגקײט))
-       (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.156))
+       (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.156))
 
 ( (IP-MAT (NP-SBJ (ES ס’>))
           (VBP <אי)
@@ -2892,7 +3017,8 @@
                                                   (PP (P מיט)
                                                       (NP (PRO$ זײנע)
                                                           (NS קינדער)))))))))
-          (PUNC ,)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.157))
+          (PUNC ,))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.157))
 
 ( (IP-MAT (CONJ און)
           (IP-PPL (VAG דערשפּירענדיג)
@@ -2906,7 +3032,8 @@
                   (N הארץ))
           (NP-RFL (PRO זיך))
           (VBN צורעדט)
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.158))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.158))
 
 ( (IP-MAT (PP (P פאר)
               (NP (PRO מיר)))
@@ -2929,7 +3056,8 @@
                                                 (PP (P מיט)
                                                     (NP (PRO$ איהרע)
                                                         (NS קינדער)))))))))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.159))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.159))
 
 ( (FRAG (NP-SBJ (D די)
                 (ADJ אמעריקאנער)
@@ -2967,7 +3095,8 @@
                                                 (NS ברוסטען)))
                                         (RP אָב>)
                                         (TO <צו>)
-                                        (VB <זױגען)))))) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.160))
+                                        (VB <זױגען))))))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.160))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ (D דאָס)
@@ -2982,7 +3111,8 @@
           (ADVP-DIR (PP (P פון)
                         (NP (PRO איהר)))
                     (RP-ADV אװעק))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.161))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.161))
 
 ( (CODE {page_num:13_text_block_num:0}))
 
@@ -3040,14 +3170,16 @@
                                                            (CP-EOP (WNP-4 0)
                                                                    (IP-INF (NP-OB1 *T*-4)
                                                                            (VB פערקױפען)))))))))
-          (PUNC ;)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.163))
+          (PUNC ;))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.163))
 
 ( (IP-MAT (NP-SBJ *pro*)
           (BEP *)
           (NP-OB1 (N גראָשען))
           (PP (P צו)
               (NP (N גראָשען)))
-          (VBN געקליבען)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.164))
+          (VBN געקליבען))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.164))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ *con*)
@@ -3066,7 +3198,8 @@
           (ADVP-DIR (PP (P אין)
                         (NP (N לאנד)))
                     (ADV ארײן))
-          (PUNC —)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.165))
+          (PUNC —))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.165))
 
 ( (IP-MAT (NP-SBJ (PRO איך))
           (MDP קען)
@@ -3097,7 +3230,8 @@
                                                   (ADVP (ADV <אָ))
                                                   (NP-2 (Q קײן)
                                                         (NPR גאָט))))))))
-          (PUNC ...)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.166))
+          (PUNC ...))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.166))
 
 ( (CODE {page_num:13_text_block_num:1}))
 
@@ -3145,7 +3279,8 @@
                                                                      (ADVP-DIR (PP (P אין)
                                                                                    (NP-RSP-3 (PRO זײ)))
                                                                                (ADV ארײן)))))))))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.168))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.168))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ (PRO$ זײער)
@@ -3165,7 +3300,8 @@
           (ADVP (ADV אױך))
           (NP-PRD (D א)
                   (ADJ װערעמדיגער))
-          (PUNC ;)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.169))
+          (PUNC ;))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.169))
 
 ( (IP-MAT (MDP קענען)
           (NP-OB1 (D דעם)
@@ -3179,7 +3315,8 @@
           (NEG ניט)
           (RP אױפ>)
           (VB <האלטען)
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.170))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.170))
 
 ( (CODE {page_num:13_text_block_num:2}))
 
@@ -3211,7 +3348,8 @@
           (ADVP-DIR (ADV ארױס>))
           (VAN <געריסען)
           (PUNC ;)
-          (PUNC ;)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.172))
+          (PUNC ;))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.172))
 
 ( (IP-MAT (NP-ADT (CP-FRL (WNP-1 (WPRO װער))
                           (C 0)
@@ -3258,7 +3396,8 @@
                                     (PUNC —)
                                     (NP-OB1 (PRO$ זײער)
                                             (N מזל)))))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.173))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.173))
 
 ( (IP-MAT (NP-ADT (D די)
                   (ADJP (ADJ ענגע)
@@ -3301,7 +3440,8 @@
           (ADVP-LOC (ADV דאָרט))
           (NP-3 (D א)
                 (N יאָמער־טאָל))
-          (PUNC ;)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.174))
+          (PUNC ;))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.174))
 
 ( (IP-MAT (CONJ און)
           (IP-PPL (VAG קוקענדיג)
@@ -3356,7 +3496,8 @@
           (NP-OB1 (PRO$ זײער)
                   (ADJ אײגענע)
                   (N שפּראך))
-          (PUNC ,)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.175))
+          (PUNC ,))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.175))
 
 ( (IP-MAT (NP-SBJ (MAN מען))
           (DOP טוט)
@@ -3368,7 +3509,8 @@
                   (VAN <געשפּיליעט)
                   (PP (P צו)
                       (NP (D די)
-                          (NS לאצען))))) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.176))
+                          (NS לאצען)))))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.176))
 
 ( (IP-MAT (CONJ און)
           (PP (P אין)
@@ -3389,7 +3531,8 @@
           (PUNC —)
           (PUNC —)
           (PUNC —)
-          (PUNC —)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.177))
+          (PUNC —))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.177))
 
 ( (IP-MAT (CONJ און)
           (ADVP-TMP (ADV דאן)
@@ -3407,7 +3550,8 @@
                       (NP (D א)
                           (N שטאָל־שמעלץ)
                           (N געגענד))))
-          (PUNC ,)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.178))
+          (PUNC ,))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.178))
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ *pro*)
                     (VBP טרעפסט)
@@ -3424,7 +3568,8 @@
                                        (N טוב))
                                    (CONJP (CONJ אדער)
                                           (NP (N זונטאָג)))))))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.179))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.179))
 
 ( (CODE {page_num:14_text_block_num:0}))
 
@@ -3437,7 +3582,8 @@
                               (NP (D יענער)
                                   (N רגע))))
               (PUNC ?)
-              (PUNC !)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.181))
+              (PUNC !))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.181))
 
 ( (CODE {page_num:14_text_block_num:1}))
 
@@ -3477,7 +3623,8 @@
                                                             (NS טײכען)
                                                             (CONJP (CONJ און)
                                                                    (NX (NS שטראמען))))))))))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.183))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.183))
 
 ( (CODE {page_num:14_text_block_num:2}))
 
@@ -3487,7 +3634,8 @@
           (ADVP (ADV אױך))
           (NP-PRD (D דער)
                   (ADJ פרעמדער))
-          (PUNC ,)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.185))
+          (PUNC ,))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.185))
 
 ( (IP-MAT (CONJ און)
           (NP-SBJ (D דער)
@@ -3498,7 +3646,8 @@
           (BEP איז)
           (NP-PRD (PRO$ מײן)
                   (N גורל))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.186))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.186))
 
 ( (CODE {page_num:14_text_block_num:3}))
 
@@ -3539,12 +3688,14 @@
                                                 (PUNC ,)
                                                 (ADJ הארטען))
                                           (N שטײן)))))))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.188))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.188))
 
 ( (CODE {page_num:14_text_block_num:4}))
 
 ( (NP-TTL (NPR ניו)
-          (NPR יאָרק)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.190))
+          (NPR יאָרק))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.190))
 
 ( (CODE {page_num:14_text_block_num:5}))
 
@@ -3641,7 +3792,8 @@
                   (N שטאָט))
           (VBP הײסט)
           (NP-PRD (NPR ניו־יארק))
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.192))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.192))
 
 ( (CODE {page_num:14_text_block_num:6}))
 
@@ -3656,7 +3808,8 @@
           (BEP זײנען)
           (NP-XPR (PRO מיר))
           (ADJP (ADJ בעקאנט))
-          (PUNC ,)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.194))
+          (PUNC ,))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.194))
 
 ( (IP-MAT (CONJ אָבער)
           (PP (P צו)
@@ -3669,7 +3822,8 @@
                   (NPR יאָרק))
           (NEG ניט)
           (VB גלײכען)
-          (PUNC .)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.195))
+          (PUNC .))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.195))
 
 ( (CODE {page_num:14_text_block_num:7}))
 
@@ -3700,7 +3854,8 @@
                                     (N האנט)))
                             (VAN געבױט)
                             (RDN געװאָרען)))
-          (PUNC ;)) (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.197))
+          (PUNC ;))
+  (ID 1918E-HIRSHBEYN.NAR-BIO.YID,.197))
 
 ( (IP-MAT (NP-SBJ (NUM אײן)
                   (N האנט))
