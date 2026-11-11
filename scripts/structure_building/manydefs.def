@@ -18,9 +18,9 @@ pos_np: !Q*|NEG*|NUM*|PRO*|\**
 adjunct: ADVP*|PP*|ELSE|ALSO|Q*|NP-TMP|NP-MSR|NP-ADV|IP-PPL|IP-PPL-SPE|IP-PPL-ABS*|CP-ADV*|IP-INF*PRP*|IP-ABS*
 
 finite_aux_ice: *MDD*|MDP*|*HVP*|*HVD*|*BEP*|*BED*|*DOD*|*DOP*|RDP*|RDD*|VLP|BEI*
-nonfin_aux_ice: *HV|H*N*|*DO|D*N*|*BE|B*N*|RD|R*N*|MD|DAG*|HAG*|BAG*
+nonfin_aux_ice: *HV|H*N*|*DO|D*N*|*BE|B*N*|RD|R*N*|MD|DAG*|HAG*|BAG*|MDN*
 nonfin_mainverb_ice: *VB|V*N*|*DO|D*N*|VAG*|DAG*|RAG*
-nonfin_verb_ice:  *VB|V*N*|*HV|H*N*|*DO|D*N*|*BE|B*N*|RD|R*N*|MD|VAG*|DAG*|RAG*|HAG*|BAG*
+nonfin_verb_ice:  *VB|V*N*|*HV|H*N*|*DO|D*N*|*BE|B*N*|RD|R*N*|MD|VAG*|DAG*|RAG*|HAG*|BAG*|MDN*
 finite_verb_ice:  *MDD*|MDP*|*HVP*|*HVD*|*DOP*|*DOD*|*BEP*|*BED*|*VBP|*VBD*|RDP*|RDD*|VLP|VBI*|BEI*
 finite_mainverb_ice: *VBP*|*VBD*|*DOP*|*DOD*|VBI*
 nongap_ipsub: IP-SUB|IP-SUB-SPE|IP-SUB-1|IP-SUB-2|IP-SUB-3|IP-SUB-4|IP-SUB-5|IP-SUB-6|IP-SUB-7|IP-SUB-8|IP-SUB-9|IP-SUB-SPE-1|IP-SUB-SPE-2|IP-SUB-SPE-3|IP-SUB-SPE-4|IP-SUB-SPE-5|IP-SUB-SPE-6|IP-SUB-SPE-7|IP-SUB-SPE-8|IP-SUB-SPE-9
