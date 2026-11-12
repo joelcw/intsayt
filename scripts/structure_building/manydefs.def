@@ -5,24 +5,24 @@
 
 
 
-finite_aux: *MD*|*HVP*|*HVD*|*BEP*|*BED*|*AXD*|*AXP*|*DOD*|*DOP*|*RDP*|*RDD*|BEI*
+finite_aux: *MD*|*HV[PF]*|*HVD*|*BE[PF]*|*BED*|*AXD*|*AX[PF]*|*DOD*|*DO[PF]*|*RD[PF]*|*RDD*|BEI*|VL[PF]|VBI*|BEI*
 nonfin_aux: *HV|H*N*|*DO|D*N*|*BE|B*N*|*AX|AXN*|*RD|R*N*|HAG*|DAG*|BAG*|RAG*
 nonfin_mainverb: *VB|V*N*|VAG*
 rpnonfin: RP+*VB|RP+V*N*|RP+*HV|RP+H*N*|RP+*DO|RP+D*N*|RP+*BE|RP+B*N*|RP+*AX|RP+AXN*
-finite_mainverb: *VBP*|*VBD*|VBI*
+finite_mainverb: *VB[PF]*|*VBD*|VBI*
 heavy_const: *PP*|*ADJP*|CP*
 nonfin_verb:  *VB|V*N*|*HV|H*N*|*DO|D*N*|*BE|B*N*|*AX|AXN*|*RD|R*N*|HAG*|DAG*|BAG*|RAG*|VAG*
-finite_verb:  *MD*|*HVP*|*HVD*|*DOP*|*DOD*|*BEP*|*BED*|*VBP|*VBD*|*AXD*|*AXP*|*RDP*|*RDD*|VBI
+finite_verb:  *MD*|*HV[PF]*|*HVD*|*DO[PF]*|*DOD*|*BE[PF]*|*BED*|*VB[PF]|*VBD*|*AXD*|*AX[PF]*|*RD[PF]*|*RDD*|VBI|VL[PF]|VBI*|BEI*
 any_nominal: N|N$|NS|NS$|NR|NR$|NRS|NRS$|NPR|NPR$|NPRS|NPRS$|NUM*|NEG*|Q*|ADJ*|*OTHER*|D|WD|V*|H*|B*
 pos_np: !Q*|NEG*|NUM*|PRO*|\**
 adjunct: ADVP*|PP*|ELSE|ALSO|Q*|NP-TMP|NP-MSR|NP-ADV|IP-PPL|IP-PPL-SPE|IP-PPL-ABS*|CP-ADV*|IP-INF*PRP*|IP-ABS*
 
-finite_aux_ice: *MDD*|MDP*|*HVP*|*HVD*|*BEP*|*BED*|*DOD*|*DOP*|RDP*|RDD*|VLP|BEI*
+finite_aux_ice: *MDD*|MD[PF]*|*HV[PF]*|*HVD*|*BE[PF]*|*BED*|*DOD*|*DO[PF]*|RD[PF]*|RDD*|VL[PF]|BEI*
 nonfin_aux_ice: *HV|H*N*|*DO|D*N*|*BE|B*N*|RD|R*N*|MD|DAG*|HAG*|BAG*|MDN*
 nonfin_mainverb_ice: *VB|V*N*|*DO|D*N*|VAG*|DAG*|RAG*
 nonfin_verb_ice:  *VB|V*N*|*HV|H*N*|*DO|D*N*|*BE|B*N*|RD|R*N*|MD|VAG*|DAG*|RAG*|HAG*|BAG*|MDN*
-finite_verb_ice:  *MDD*|MDP*|*HVP*|*HVD*|*DOP*|*DOD*|*BEP*|*BED*|*VBP|*VBD*|RDP*|RDD*|VLP|VBI*|BEI*
-finite_mainverb_ice: *VBP*|*VBD*|*DOP*|*DOD*|VBI*
+finite_verb_ice:  *MDD*|MD[PF]*|*HV[PF]*|*HVD*|*DO[PF]*|*DOD*|*BE[PF]*|*BED*|*VB[PF]|*VBD*|RD[PF]*|RDD*|VL[PF]|VBI*|BEI*
+finite_mainverb_ice: *VB[PF]*|*VBD*|*DO[PF]*|*DOD*|VBI*
 nongap_ipsub: IP-SUB|IP-SUB-SPE|IP-SUB-1|IP-SUB-2|IP-SUB-3|IP-SUB-4|IP-SUB-5|IP-SUB-6|IP-SUB-7|IP-SUB-8|IP-SUB-9|IP-SUB-SPE-1|IP-SUB-SPE-2|IP-SUB-SPE-3|IP-SUB-SPE-4|IP-SUB-SPE-5|IP-SUB-SPE-6|IP-SUB-SPE-7|IP-SUB-SPE-8|IP-SUB-SPE-9
 
 
@@ -40,7 +40,7 @@ yid_nonfin_verb: MD1|AUX1|VB1|MD2|AUX2|VB2|MD3|AUX3|VB3|VB-PASS*
 yid_nonfin_verb2: AUX1|VB1|MD2|AUX2|VB2|MD3|AUX3|VB3|VB-PASS*
 yid_aux: MD*|AUX*
 yid_finite_aux: MD0|AUX0
-object: NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP
+object: NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP|NP-RFL|NP-BEN
 yid_pron: me*|mi*|d*u*|d*i*|d*r*|i*|s*|z*|u*|e*|ay*|ak*|~*
 yid_negdet: ken*|kan*|ke*n*|kay*n*|kai*n*
 yid_nonsbj: NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP|CP*|IP*|ADJP*|QTP*|PP*|ADVP*|LOC|TMP|NP-N
