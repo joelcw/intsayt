@@ -11,7 +11,6 @@
 
 <meta name="author" content="MK" />
 
-<meta name="date" content="2026-11-11" />
 
 <title>Marju’s Coding Query Adventures</title>
 
@@ -352,7 +351,6 @@ display: none;
 
 <h1 class="title toc-ignore">Marju’s Coding Query Adventures</h1>
 <h4 class="author">MK</h4>
-<h4 class="date">2026-11-11</h4>
 
 </div>
 
@@ -365,9 +363,9 @@ library(lme4) # probably a bit too optimistic with the amount of data we have!</
 </div>
 <div id="background" class="section level2">
 <h2>Background</h2>
-<p>I ran coding queries on PPCHY (and <em>will do on our finished files
-as well</em>), looking for pronominal object / RP / RP-H following
-non-finite verbs in IP-MAT, IP-SUB and IP-INF.</p>
+<p>I ran coding queries on PPCHY and our finished files, looking for
+pronominal object / RP / RP-H following non-finite verbs in IP-MAT,
+IP-SUB, IP-INF and IP-PPL.</p>
 <p>I also grabbed the ones with pronominal object / RP / RP-H preceding
 non-finite verbs, for a fuller picture. In these, I have excluded cases
 where the pronominal object precedes a finite auxiliary, as I’m assuming
@@ -412,12 +410,12 @@ both a pronominal object and an RP/RP-H in the specified
 <tr class="even">
 <td><code>Genre</code></td>
 <td></td>
-<td>This a mess because of lack of consistent labelling in PPCHY, but
-will make more sense in our parsed files.</td>
+<td>PPCHY ones need fixing, the ones from our parsed files should be
+ok.</td>
 </tr>
 <tr class="odd">
 <td><code>Corpus</code></td>
-<td><code>ppchy</code>, and later <code>ourfiles</code></td>
+<td><code>ppchy</code>, <code>ourcorpus</code></td>
 <td>The files the data comes from.</td>
 </tr>
 <tr class="even">
@@ -433,13 +431,16 @@ will make more sense in our parsed files.</td>
 </tbody>
 </table>
 <p>We’ll want to add <code>Year</code> in as well, but the labelling in
-PPCHY is a bit tricky. <em>I’ll think about this later.</em></p>
+PPCHY is a bit tricky.</p>
 </div>
 </div>
 <div id="prepare-data" class="section level2">
 <h2>Prepare Data</h2>
 <p>Load data, add variable names:</p>
-<pre class="r"><code>d &lt;- read.delim(&quot;marjuqueries.nodates.cod.ooo&quot;, header=F, sep=&quot;:&quot;)
+<pre class="r"><code>d1 &lt;- read.delim(&quot;marjuqueries.ppchy.nodates.cod.ooo&quot;, header=F, sep=&quot;:&quot;)
+d2 &lt;- read.delim(&quot;marjuqueries.ourcorpus.nodates.cod.ooo&quot;, header=F, sep=&quot;:&quot;)
+
+d &lt;- rbind(d1, d2)
 colnames(d) &lt;- c(&quot;ClauseType&quot;, &quot;WordOrder&quot;, &quot;Element&quot;, &quot;Genre&quot;, &quot;Corpus&quot;, &quot;Text&quot;, &quot;Token&quot;)
 head(d)</code></pre>
 <pre><code>##   ClauseType WordOrder Element    Genre Corpus                        Text
@@ -457,32 +458,40 @@ head(d)</code></pre>
 ## 5     6
 ## 6     7</code></pre>
 <pre class="r"><code>nrow(d)</code></pre>
-<pre><code>## [1] 29199</code></pre>
+<pre><code>## [1] 37575</code></pre>
 <p>Remove irrelevant instances with <code>z</code>:</p>
 <pre class="r"><code>data &lt;- subset(d, ClauseType != &quot;z&quot; &amp; WordOrder != &quot;z&quot; &amp; Element != &quot;z&quot;)
 
 nrow(data)</code></pre>
-<pre><code>## [1] 3854</code></pre>
+<pre><code>## [1] 5924</code></pre>
 <p>Turn strings to factors, check:</p>
 <pre class="r"><code>data &lt;- mutate_if(data, is.character, as.factor)
 
 summary(data)</code></pre>
-<pre><code>##  ClauseType WordOrder   Element          Genre        Corpus    
-##  inf: 376   ov:3821   both  : 342   bio     :   3   ppchy:3854  
-##  mat:2576   vo:  33   object:1761   xxxgenre:3851               
-##  sub: 902             rp    :1751                               
-##                                                                 
-##                                                                 
-##                                                                 
-##                                                                 
-##                           Text          Token       
-##  1947e-royte-pomerantsen,248:  85   Min.   :   2.0  
-##  1819e-perl,103             :  27   1st Qu.: 101.0  
-##  1819e-perl,108             :  24   Median : 402.5  
-##  1819e-perl,106             :  23   Mean   :1319.2  
-##  1834e-ukraine-2,48         :  23   3rd Qu.:1692.8  
-##  1947e-royte-pomerantsen,169:  23   Max.   :6678.0  
-##  (Other)                    :3649</code></pre>
+<pre><code>##  ClauseType WordOrder   Element          Genre            Corpus    
+##  inf: 558   ov:5831   both  : 776   bio     :   3   ourcorpus:1362  
+##  mat:3969   vo:  93   object:3155   interv  : 576   ppchy    :4562  
+##  ppl:  71             rp    :1993   nar     : 696                   
+##  sub:1326                           oth-bio :  78                   
+##                                     xxxgenre:4571                   
+##                                                                     
+##                                                                     
+##                                                        Text     
+##  aizik_dimantstein.int.yid,                              : 212  
+##  2000e-kraut.int.yid,                                    : 149  
+##  1916e-aleykhem-bandiii-nybc202585_0012_0039.nar-fic.yid,: 142  
+##  1925e-bastomski.nar-folk.yid,                           : 136  
+##  1927e-kopeloff.nar-bio.yid,                             : 110  
+##  1995e-abramson.int.yid,                                 : 109  
+##  (Other)                                                 :5066  
+##      Token       
+##  Min.   :   1.0  
+##  1st Qu.:  97.0  
+##  Median : 306.5  
+##  Mean   :1111.9  
+##  3rd Qu.:1316.2  
+##  Max.   :6697.0  
+##  NAs    :12</code></pre>
 </div>
 <div id="descriptive-stats" class="section level2">
 <h2>Descriptive Stats</h2>
@@ -491,41 +500,84 @@ summary(data)</code></pre>
 freq</code></pre>
 <pre><code>##      
 ##         ov   vo
-##   inf  360   16
-##   mat 2563   13
-##   sub  898    4</code></pre>
+##   inf  510   48
+##   mat 3939   30
+##   ppl   64    7
+##   sub 1318    8</code></pre>
 <p>And percentages for each clause type:</p>
 <pre class="r"><code>round(prop.table(freq, margin = 1) * 100, 3)</code></pre>
 <pre><code>##      
 ##           ov     vo
-##   inf 95.745  4.255
-##   mat 99.495  0.505
-##   sub 99.557  0.443</code></pre>
+##   inf 91.398  8.602
+##   mat 99.244  0.756
+##   ppl 90.141  9.859
+##   sub 99.397  0.603</code></pre>
 <p>And a look at the different elements:</p>
 <pre class="r"><code>table(data$ClauseType, data$WordOrder, data$Element)</code></pre>
 <pre><code>## , ,  = both
 ## 
 ##      
 ##         ov   vo
-##   inf   20    0
-##   mat  239    0
-##   sub   83    0
+##   inf   61    0
+##   mat  540    0
+##   ppl    0    0
+##   sub  175    0
 ## 
 ## , ,  = object
 ## 
 ##      
 ##         ov   vo
-##   inf   86   13
-##   mat 1274    8
-##   sub  378    2
+##   inf  160   43
+##   mat 2270   25
+##   ppl    3    7
+##   sub  642    5
 ## 
 ## , ,  = rp
 ## 
 ##      
 ##         ov   vo
-##   inf  254    3
-##   mat 1050    5
-##   sub  437    2</code></pre>
+##   inf  289    5
+##   mat 1129    5
+##   ppl   61    0
+##   sub  501    3</code></pre>
+<p>Pulling out the VO tokens</p>
+<pre class="r"><code>vo_data &lt;- subset(data, WordOrder == &quot;vo&quot;)
+
+vo_data %&gt;% add_count(Text) %&gt;% arrange(desc(n)) %&gt;% select(-c(WordOrder, Token, n)) %&gt;% summary</code></pre>
+<pre><code>##  ClauseType   Element        Genre          Corpus  
+##  inf:48     both  : 0   bio     : 0   ourcorpus:48  
+##  mat:30     object:80   interv  :19   ppchy    :45  
+##  ppl: 7     rp    :13   nar     :29                 
+##  sub: 8                 oth-bio : 0                 
+##                         xxxgenre:45                 
+##                                                     
+##                                                     
+##                            Text   
+##  1927e-kopeloff.nar-bio.yid, :12  
+##  1928e-karpilov.nar-bio.yid, :11  
+##  aizik_dimantstein.int.yid,  : 9  
+##  1995e-abramson.int.yid,     : 8  
+##  1834e-ukraine-2,44          : 2  
+##  1918e-hirshbeyn.nar-bio.yid,: 2  
+##  (Other)                     :49</code></pre>
+<pre class="r"><code># sorted by which text has the most of these, as the summary function only shows the first few instances </code></pre>
+<p>How are these distributed?</p>
+<pre class="r"><code>table(vo_data$ClauseType, vo_data$Genre)</code></pre>
+<pre><code>##      
+##       bio interv nar oth-bio xxxgenre
+##   inf   0      4  19       0       25
+##   mat   0     13   4       0       13
+##   ppl   0      0   5       0        2
+##   sub   0      2   1       0        5</code></pre>
+<p>Currently, all the “xxxgenre” ones are from PPCHY as the labels are
+not very consistent.</p>
+</div>
+<div id="todo" class="section level2">
+<h2>TODO:</h2>
+<ul>
+<li>See PPCHY about-files for dates and add these</li>
+<li>Sort out the genre labels for PPCHY ones</li>
+</ul>
 </div>
 
 

@@ -19,8 +19,11 @@ echo "Added codes"
 
 #echo "done with dating"
 
+#UNCOMMENT THE APPROPRIATE ONE 
+#rm outputs/marjuqueries.nodates.cod.ooo
+#rm marjuqueries.ourcorpus.nodates.cod.ooo
+#rm marjuqueries.ppchy.nodates.cod.ooo
 
-rm outputs/marjuqueries.nodates.cod.ooo #run without this if no file
 $CS codes.q outputs/marjuqueries.nodates.cod
 
 echo "Extracted codes"
@@ -29,8 +32,8 @@ echo "Extracted codes"
 
 python3 fixIdFormat.ice.py < outputs/marjuqueries.nodates.cod.ooo > outputs/marjuqueries.nodates.cod.ooo.tmp
 mv outputs/marjuqueries.nodates.cod.ooo outputs/marjuqueries.nodates.cod.ooo.old
-mv outputs/marjuqueries.nodates.cod.ooo.tmp outputs/marjuqueries.nodates.cod.ooo
+mv outputs/marjuqueries.nodates.cod.ooo.tmp outputs/marjuqueries.ppchy.nodates.cod.ooo
+#mv outputs/marjuqueries.nodates.cod.ooo.tmp outputs/marjuqueries.ourcorpus.nodates.cod.ooo
+# UNCOMMENT THE APPROPROATE ONE
 
 echo "Fixed codes"
-
-# then go and name the file based on what corpus I used
