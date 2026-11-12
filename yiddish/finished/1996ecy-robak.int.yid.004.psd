@@ -11,8 +11,7 @@
           (BEN געװעזן)
           (ADJP (ADJ פֿאַרשידנס))
           (PUNC .)
-          (CODE {e:1:1177.994}))
-  (ID Henryk_Robak,1_0_2027_2035.89))
+          (CODE {e:1:1177.994})) (ID 1996ECY-ROBAK.INT.YID,.1))
 
 ( (IP-MAT (CODE {s:1:1180.469})
           (CONJ אָבער)
@@ -30,8 +29,7 @@
                           (ADJ ייִדישער)
                           (N סבֿיבֿה))))
           (PUNC .)
-          (CODE {e:1:1187.006}))
-  (ID Henryk_Robak,1_0_2036_2047.90))
+          (CODE {e:1:1187.006})) (ID 1996ECY-ROBAK.INT.YID,.2))
 
 ( (CP-QUE-MAT (WNP-1 (CODE {s:1:1187.347})
                      (WPRO װאָס))
@@ -43,8 +41,7 @@
                                           (ADJ ייִדישער)
                                           (N סבֿיבֿה)))))
               (PUNC ?)
-              (CODE {e:1:1189.57}))
-  (ID Henryk_Robak,1_0_2048_2055.91))
+              (CODE {e:1:1189.57})) (ID 1996ECY-ROBAK.INT.YID,.3))
 
 ( (IP-MAT (CODE {s:1:1190.319})
           (NP-OB1 *pro*)
@@ -88,7 +85,7 @@
                                       (NP (D דער)
                                           (N אַרמײ)))))))
           (PUNC ,)
-          (CODE {e:1:1206.176})))
+          (CODE {e:1:1206.176})) (ID 1996ECY-ROBAK.INT.YID,.4))
 
 ( (IP-MAT (CODE {s:1:1209.135})
           (IP-MAT-1 (CONJ און)
@@ -129,7 +126,7 @@
                            (NP-OB1 (ADJ פֿאַרשידענע)
                                    (NS פּאָסטנס))))
           (PUNC .)
-          (CODE {e:1:1224.486})))
+          (CODE {e:1:1224.486})) (ID 1996ECY-ROBAK.INT.YID,.5))
 
 ( (IP-MAT (CODE {s:1:1225.588})
           (CONJ און)
@@ -156,8 +153,7 @@
                               (NP (ADJ קולטור־געזעלשאַפֿטלעכן)
                                   (N פֿאַרבאַנד))))))
           (PUNC .)
-          (CODE {e:1:1236.581}))
-  (ID Henryk_Robak,1_0_2113_2131.93))
+          (CODE {e:1:1236.581})) (ID 1996ECY-ROBAK.INT.YID,.6))
 
 ( (IP-MAT (PP (CODE {s:1:1237.249})
               (P אַחוץ)
@@ -190,7 +186,7 @@
                                   (ADJ צװײטער)
                                   (N װעלט־מלחמה)))))))
           (PUNC ,)
-          (CODE {e:1:1251.682})))
+          (CODE {e:1:1251.682})) (ID 1996ECY-ROBAK.INT.YID,.7))
 
 ( (IP-MAT (CODE {s:1:1251.896})
           (CONJ און)
@@ -216,7 +212,7 @@
                                   (NP (D דער)
                                       (N הױפּט־פֿאַרװאַלטונג)))))
           (PUNC .)
-          (CODE {e:1:1259.262})))
+          (CODE {e:1:1259.262})) (ID 1996ECY-ROBAK.INT.YID,.8))
 
 ( (IP-MAT (CODE {s:1:1261.903})
           (PP (P אױף)
@@ -257,8 +253,7 @@
                           (ADJ ייִדישער)
                           (N שפּראַך))))
           (PUNC .)
-          (CODE {e:1:1278.292}))
-  (ID Henryk_Robak,1_0_2169_2194.95))
+          (CODE {e:1:1278.292})) (ID 1996ECY-ROBAK.INT.YID,.9))
 
 ( (IP-MAT (NP-SBJ (CODE {s:1:1278.292})
                   (D דאָס))
@@ -269,15 +264,13 @@
                 (DISFL װאַכ-)
                 (ADJ װיכטיק))
           (PUNC .)
-          (CODE {e:1:1281.0}))
-  (ID Henryk_Robak,1_0_2195_2201.96))
+          (CODE {e:1:1281.0})) (ID 1996ECY-ROBAK.INT.YID,.10))
 
 ( (CP-QUE-MAT (WPP (CODE {s:1:1282.642})
                    (P פֿאַר)
                    (WNP (WPRO װאָס)))
               (PUNC ?)
-              (CODE {e:1:1283.691}))
-  (ID Henryk_Robak,1_0_2202_2204.97))
+              (CODE {e:1:1283.691})) (ID 1996ECY-ROBAK.INT.YID,.11))
 
 ( (IP-MAT (NP-SBJ (CODE {s:1:1283.691})
                   (ADJ אײנצלנע)
@@ -303,7 +296,7 @@
                                            (VB *)
                                            (PUNC ,)
                                            (BREAK 0)))))
-          (CODE {e:1:1291.071})))
+          (CODE {e:1:1291.071})) (ID 1996ECY-ROBAK.INT.YID,.12))
 
 ( (IP-MAT (NP-SBJ (CODE {s:1:1291.288})
                   (PRO זײ))
@@ -332,7 +325,7 @@
                             (ADJ ייִדישער)
                             (N שפּראַך))))
           (PUNC .)
-          (CODE {e:1:1297.472})))
+          (CODE {e:1:1297.472})) (ID 1996ECY-ROBAK.INT.YID,.13))
 
 ( (IP-MAT (NP-SBJ (CODE {s:1:1299.336})
                   (PRO$ מײַנע)
@@ -405,8 +398,7 @@
                                                                          (NP (D די)
                                                                              (N װידעאָ־טאַשמעס)))))))))))
           (PUNC .)
-          (CODE {e:1:1327.718}))
-  (ID Henryk_Robak,1_0_2237_2284.99))
+          (CODE {e:1:1327.718})) (ID 1996ECY-ROBAK.INT.YID,.14))
 
 ( (IP-MAT (CODE {s:1:1327.935})
           (FS (CONJ און)
@@ -443,8 +435,7 @@
                                 (NP-SBJ (MAN מע))
                                 (VBP זאָגט))))
           (PUNC .)
-          (CODE {e:1:1340.451}))
-  (ID Henryk_Robak,1_0_2285_2308.100))
+          (CODE {e:1:1340.451})) (ID 1996ECY-ROBAK.INT.YID,.15))
 
 ( (IP-MAT (PP (CODE {s:1:1341.198})
               (P אַחוץ)
@@ -488,8 +479,7 @@
                                   (ADJ ייִדישער)
                                   (N פּראָבלעמאַטיק)))))
           (PUNC .)
-          (CODE {e:1:1358.632}))
-  (ID Henryk_Robak,1_0_2309_2335.101))
+          (CODE {e:1:1358.632})) (ID 1996ECY-ROBAK.INT.YID,.16))
 
 ( (CP-QUE-MAT (WNP-1 (CODE {s:1:1359.93})
                      (WPRO װאָס))
@@ -502,8 +492,7 @@
                       (PP (P צו)
                           (NP (D דעם))))
               (PUNC ?)
-              (CODE {e:1:1362.459}))
-  (ID Henryk_Robak,1_0_2336_2343.102))
+              (CODE {e:1:1362.459})) (ID 1996ECY-ROBAK.INT.YID,.17))
 
 ( (IP-MAT (CODE {s:1:1362.977})
           (IP-MAT-1 (NP-OB1 (N קאָנטאַקט)
@@ -628,8 +617,7 @@
                                                                                        (CODE {e:1:1406.461})
                                                                                        (PP (CODE {s:1:1406.586})
                                                                                            (P אין)
-                                                                                           (NP (NPR פּױלן)))))))))))))))
-  (ID Henryk_Robak,1_0_2344_2393.103))
+                                                                                           (NP (NPR פּױלן))))))))))))))) (ID 1996ECY-ROBAK.INT.YID,.18))
 
 ( (IP-MAT (PUNC ,)
           (CODE {e:1:1407.731})
@@ -663,7 +651,7 @@
                           (NP-OB1 (CODE {COM:zeichnung})
                                   (NS צײכונגען)))
                   (PUNC .)
-                  (CODE {e:1:1419.924}))))
+                  (CODE {e:1:1419.924}))) (ID 1996ECY-ROBAK.INT.YID,.19))
 
 ( (IP-MAT (NP-SBJ (CODE {s:1:1420.501})
                   (PRO ער)
@@ -675,8 +663,7 @@
                   (D אַ)
                   (N מאָלער))
           (PUNC .)
-          (CODE {e:1:1423.408}))
-  (ID Henryk_Robak,1_0_2452_2458.105))
+          (CODE {e:1:1423.408})) (ID 1996ECY-ROBAK.INT.YID,.20))
 
 ( (IP-MAT (NP-SBJ (CODE {s:1:1424.145})
                   (PRO ער))
@@ -684,8 +671,7 @@
           (VBN געמאָלט)
           (NP-OB1 (NS בילדער))
           (PUNC .)
-          (CODE {e:1:1426.243}))
-  (ID Henryk_Robak,1_0_2459_2463.106))
+          (CODE {e:1:1426.243})) (ID 1996ECY-ROBAK.INT.YID,.21))
 
 ( (FRAG (CODE {s:1:1428.875})
         (INTJ נו)
@@ -746,7 +732,7 @@
                                   (NP-OB1 (ADJ ייִדישע)
                                           (N געשיכטע)))))
         (PUNC .)
-        (CODE {e:1:1448.952})))
+        (CODE {e:1:1448.952})) (ID 1996ECY-ROBAK.INT.YID,.22))
 
 ( (SENT (IP-MAT (NP-MSR (PP (CODE {s:1:1452.688})
                             (P פֿון)
@@ -803,5 +789,4 @@
                                         (NP-PRN-ELAB (NPR בינם)
                                                      (NPR העלער))))))
                 (PUNC .)
-                (CODE {e:1:1468.194})))
-  (ID Henryk_Robak,1_0_2506_2544.108))
+                (CODE {e:1:1468.194}))))
