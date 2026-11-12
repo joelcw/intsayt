@@ -1,0 +1,107 @@
+---
+title: "Marju's Coding Query Adventures"
+author: "MK"
+#date: "2026-11-11"
+output: html_document
+---
+
+## Setup
+
+```{r message=FALSE, warning=FALSE}
+library(ggplot2)
+library(dplyr)
+library(lme4) # probably a bit too optimistic with the amount of data we have!
+```
+
+## Background
+
+I ran coding queries on PPCHY and our finished files, looking for pronominal object / RP / RP-H following non-finite verbs in IP-MAT, IP-SUB, IP-INF and IP-PPL.
+
+I also grabbed the ones with pronominal object / RP / RP-H preceding non-finite verbs, for a fuller picture. In these, I have excluded cases where the pronominal object precedes a finite auxiliary, as I'm assuming that these would not be informative.
+
+### Summary of Variables
+
+| Variable | Labels | Comments |
+| -------- | ------ | -------- |
+| `ClauseType` | `mat`, `sub`, `inf` | IP-MAT, IP-SUB, IP-INF |
+| `WordOrder` | `ov`, `vo`, `badone` | "v" being the non-finite verb, "o" being a catch-all for pronominal object, RP, RP-H. `badone` is for cases where there is something relevant both preceding and following the non-finite verb. |
+| `Element` | `rp`, `object`, `both` | `rp` includes both RP and RP-H (can make adjustments if this is not what we want). `both` flags cases where there's both a pronominal object and an RP/RP-H in the specified `WordOrder` position |
+| `Genre` | | PPCHY ones need fixing, the ones from our parsed files should be ok. |
+| `Corpus` | `ppchy`, `ourcorpus` | The files the data comes from. |
+| `Text` |  | Whatever is printed in the ID labels |
+| `Token` |  | Token label within the text, stripped off of ID label |
+
+We'll want to add `Year` in as well, but the labelling in PPCHY is a bit tricky.
+
+## Prepare Data
+
+Load data, add variable names:
+
+```{r message=FALSE, warning=FALSE}
+d1 <- read.delim("marjuqueries.ppchy.nodates.cod.ooo", header=F, sep=":")
+d2 <- read.delim("marjuqueries.ourcorpus.nodates.cod.ooo", header=F, sep=":")
+
+d <- rbind(d1, d2)
+colnames(d) <- c("ClauseType", "WordOrder", "Element", "Genre", "Corpus", "Text", "Token")
+head(d)
+nrow(d)
+```
+
+Remove irrelevant instances with `z`:
+
+```{r message=FALSE, warning=FALSE}
+data <- subset(d, ClauseType != "z" & WordOrder != "z" & Element != "z")
+
+nrow(data)
+```
+
+Turn strings to factors, check:
+
+```{r}
+data <- mutate_if(data, is.character, as.factor)
+
+summary(data)
+```
+
+
+## Descriptive Stats
+
+The number of postverbal thingies in the different clause types:
+
+```{r}
+freq <- table(data$ClauseType, data$WordOrder)
+freq
+```
+
+And percentages for each clause type:
+
+```{r}
+round(prop.table(freq, margin = 1) * 100, 3)
+```
+
+And a look at the different elements:
+
+```{r}
+table(data$ClauseType, data$WordOrder, data$Element)
+```
+
+Pulling out the VO tokens
+
+```{r}
+vo_data <- subset(data, WordOrder == "vo")
+
+vo_data %>% add_count(Text) %>% arrange(desc(n)) %>% select(-c(WordOrder, Token, n)) %>% summary
+# sorted by which text has the most of these, as the summary function only shows the first few instances 
+```
+
+How are these distributed?
+
+```{r}
+table(vo_data$ClauseType, vo_data$Genre)
+```
+
+Currently, all the "xxxgenre" ones are from PPCHY as the labels are not very consistent.
+
+## TODO:
+* See PPCHY about-files for dates and add these
+* Sort out the genre labels for PPCHY ones
