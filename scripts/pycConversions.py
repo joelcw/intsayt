@@ -31,6 +31,7 @@ foo = foo.replace("(ADV צוריק","(RP-ADV צוריק")
 foo = foo.replace("(ADV אװעק","(RP-ADV אװעק")
 foo = foo.replace("(ADV אװעק>","(RP-ADV אװעק>")
 
+foo = foo.replace("(NUM און","(CONJ און")
 
 foo = foo.replace("BEF","BEP")
 foo = foo.replace("MDF","MDP")
