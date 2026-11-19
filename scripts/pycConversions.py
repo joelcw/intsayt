@@ -41,4 +41,6 @@ foo = foo.replace("RDF","RDP")
 foo = foo.replace("NP-DTV","NP-OB2")
 foo = foo.replace("NP-ACC","NP-OB1")
 
+foo = foo.replace("(C װעלכער","(WPRO װעלכער")
+
 sys.stdout.write(foo)
