@@ -438,6 +438,7 @@
                           (N צײַטונג)
                           (CP-REL (WNP-1 (WPRO װעלכע))
                                   (CODE {e:2:677.095})
+                                  (C 0)
                                   (IP-SUB (CODE {s:2:677.792})
                                           (NP-SBJ *T*-1)
                                           (HVP האָט)
@@ -718,7 +719,7 @@
           (CODE {e:2:780.099})))
 
 ( (IP-MAT (CODE {s:2:780.64})
-          (NP-SBJ (NP (D דאָס)
+          (NP-OB1 (NP (D דאָס)
                       (CP-REL (WNP-1 0)
                               (C װאָס)
                               (IP-SUB (NP-OB1 *T*-1)
