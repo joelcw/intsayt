@@ -402,28 +402,33 @@ verb.</td>
 <tr class="odd">
 <td><code>Element</code></td>
 <td><code>rp</code>, <code>object</code>, <code>both</code></td>
-<td><code>rp</code> includes both RP and RP-H (can make adjustments if
-this is not what we want). <code>both</code> flags cases where there’s
-both a pronominal object and an RP/RP-H in the specified
-<code>WordOrder</code> position</td>
+<td><code>rp</code> includes both RP and RP-H. <code>both</code> flags
+cases where there’s both a pronominal object and an RP/RP-H in the
+specified <code>WordOrder</code> position</td>
 </tr>
 <tr class="even">
-<td><code>Genre</code></td>
-<td></td>
-<td>PPCHY ones need fixing, the ones from our parsed files should be
-ok.</td>
+<td><code>Modality</code></td>
+<td><code>spoken</code>, <code>written</code></td>
+<td>I’ve switched from genre to this for now, as it’s perhaps more
+relevant for our talk (and less messy).</td>
 </tr>
 <tr class="odd">
+<td><code>Year</code></td>
+<td>Numerical values</td>
+<td>Based on ID labels (look out for confusion with token numbers
+though!)</td>
+</tr>
+<tr class="even">
 <td><code>Corpus</code></td>
 <td><code>ppchy</code>, <code>ourcorpus</code></td>
 <td>The files the data comes from.</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><code>Text</code></td>
 <td></td>
 <td>Whatever is printed in the ID labels</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><code>Token</code></td>
 <td></td>
 <td>Token label within the text, stripped off of ID label</td>
@@ -441,15 +446,15 @@ PPCHY is a bit tricky.</p>
 d2 &lt;- read.delim(&quot;marjuqueries.ourcorpus.nodates.cod.ooo&quot;, header=F, sep=&quot;:&quot;)
 
 d &lt;- rbind(d1, d2)
-colnames(d) &lt;- c(&quot;ClauseType&quot;, &quot;WordOrder&quot;, &quot;Element&quot;, &quot;Genre&quot;, &quot;Corpus&quot;, &quot;Text&quot;, &quot;Token&quot;)
+colnames(d) &lt;- c(&quot;ClauseType&quot;, &quot;WordOrder&quot;, &quot;Element&quot;, &quot;Modality&quot;, &quot;Year&quot;, &quot;Corpus&quot;, &quot;Text&quot;, &quot;Token&quot;)
 head(d)</code></pre>
-<pre><code>##   ClauseType WordOrder Element    Genre Corpus                        Text
-## 1          z         z  object xxxgenre  ppchy 1478w-letter-regensburg,156
-## 2          z         z  object xxxgenre  ppchy 1478w-letter-regensburg,156
-## 3          z         z       z xxxgenre  ppchy 1478w-letter-regensburg,156
-## 4          z         z       z xxxgenre  ppchy 1478w-letter-regensburg,156
-## 5        sub        ov      rp xxxgenre  ppchy 1478w-letter-regensburg,156
-## 6          z         z       z xxxgenre  ppchy 1478w-letter-regensburg,156
+<pre><code>##   ClauseType WordOrder Element Modality Year Corpus                        Text
+## 1          z         z  object  written 1478  ppchy 1478w-letter-regensburg,156
+## 2          z         z  object  written 1478  ppchy 1478w-letter-regensburg,156
+## 3          z         z       z  written 1478  ppchy 1478w-letter-regensburg,156
+## 4          z         z       z  written 1478  ppchy 1478w-letter-regensburg,156
+## 5        sub        ov      rp  written 1478  ppchy 1478w-letter-regensburg,156
+## 6          z         z       z  written 1478  ppchy 1478w-letter-regensburg,156
 ##   Token
 ## 1     3
 ## 2     4
@@ -458,40 +463,68 @@ head(d)</code></pre>
 ## 5     6
 ## 6     7</code></pre>
 <pre class="r"><code>nrow(d)</code></pre>
-<pre><code>## [1] 37575</code></pre>
+<pre><code>## [1] 38686</code></pre>
 <p>Remove irrelevant instances with <code>z</code>:</p>
 <pre class="r"><code>data &lt;- subset(d, ClauseType != &quot;z&quot; &amp; WordOrder != &quot;z&quot; &amp; Element != &quot;z&quot;)
 
 nrow(data)</code></pre>
-<pre><code>## [1] 5924</code></pre>
+<pre><code>## [1] 6065</code></pre>
 <p>Turn strings to factors, check:</p>
 <pre class="r"><code>data &lt;- mutate_if(data, is.character, as.factor)
-
+data$Year &lt;- as.numeric(as.character(data$Year))</code></pre>
+<pre><code>## Warning: NAs introduced by coercion</code></pre>
+<pre class="r"><code>summary(data)</code></pre>
+<pre><code>##  ClauseType WordOrder   Element        Modality         Year     
+##  inf: 570   ov:5971   both  : 794   spoken : 671   Min.   :1413  
+##  mat:4043   vo:  94   object:3222   written:5394   1st Qu.:1697  
+##  ppl:  76             rp    :2049                  Median :1922  
+##  sub:1376                                          Mean   :1838  
+##                                                    3rd Qu.:1947  
+##                                                    Max.   :2000  
+##                                                    NAs    :7     
+##        Corpus    
+##  ourcorpus:1503  
+##  ppchy    :4562  
+##                  
+##                  
+##                  
+##                  
+##                  
+##                                                        Text          Token     
+##  1996e-dimantstein.int.yid,                              : 274   Min.   :   2  
+##  2000eh-kraut.int.yid,                                   : 149   1st Qu.:  99  
+##  1916e-aleykhem-bandiii-nybc202585_0012_0039.nar-fic.yid,: 142   Median : 304  
+##  1925e-bastomski.nar-folk.yid,                           : 136   Mean   :1097  
+##  1927e-kopeloff.nar-bio.yid,                             : 110   3rd Qu.:1260  
+##  1995e-abramson.int.yid,                                 : 109   Max.   :6697  
+##  (Other)                                                 :5145   NAs    :7</code></pre>
+<p>Remove NAs (some tokens without labels?)</p>
+<pre class="r"><code>data &lt;- na.omit(data)
 summary(data)</code></pre>
-<pre><code>##  ClauseType WordOrder   Element          Genre            Corpus    
-##  inf: 558   ov:5831   both  : 776   bio     :   3   ourcorpus:1362  
-##  mat:3969   vo:  93   object:3155   interv  : 576   ppchy    :4562  
-##  ppl:  71             rp    :1993   nar     : 696                   
-##  sub:1326                           oth-bio :  78                   
-##                                     xxxgenre:4571                   
-##                                                                     
-##                                                                     
-##                                                        Text     
-##  aizik_dimantstein.int.yid,                              : 212  
-##  2000e-kraut.int.yid,                                    : 149  
-##  1916e-aleykhem-bandiii-nybc202585_0012_0039.nar-fic.yid,: 142  
-##  1925e-bastomski.nar-folk.yid,                           : 136  
-##  1927e-kopeloff.nar-bio.yid,                             : 110  
-##  1995e-abramson.int.yid,                                 : 109  
-##  (Other)                                                 :5066  
-##      Token       
-##  Min.   :   1.0  
-##  1st Qu.:  97.0  
-##  Median : 306.5  
-##  Mean   :1111.9  
-##  3rd Qu.:1316.2  
-##  Max.   :6697.0  
-##  NAs    :12</code></pre>
+<pre><code>##  ClauseType WordOrder   Element        Modality         Year     
+##  inf: 568   ov:5964   both  : 794   spoken : 671   Min.   :1413  
+##  mat:4040   vo:  94   object:3216   written:5387   1st Qu.:1697  
+##  ppl:  76             rp    :2048                  Median :1922  
+##  sub:1374                                          Mean   :1838  
+##                                                    3rd Qu.:1947  
+##                                                    Max.   :2000  
+##                                                                  
+##        Corpus    
+##  ourcorpus:1496  
+##  ppchy    :4562  
+##                  
+##                  
+##                  
+##                  
+##                  
+##                                                        Text          Token     
+##  1996e-dimantstein.int.yid,                              : 274   Min.   :   2  
+##  2000eh-kraut.int.yid,                                   : 149   1st Qu.:  99  
+##  1916e-aleykhem-bandiii-nybc202585_0012_0039.nar-fic.yid,: 142   Median : 304  
+##  1925e-bastomski.nar-folk.yid,                           : 136   Mean   :1097  
+##  1927e-kopeloff.nar-bio.yid,                             : 110   3rd Qu.:1260  
+##  1995e-abramson.int.yid,                                 : 109   Max.   :6697  
+##  (Other)                                                 :5138</code></pre>
 </div>
 <div id="descriptive-stats" class="section level2">
 <h2>Descriptive Stats</h2>
@@ -500,84 +533,75 @@ summary(data)</code></pre>
 freq</code></pre>
 <pre><code>##      
 ##         ov   vo
-##   inf  510   48
-##   mat 3939   30
-##   ppl   64    7
-##   sub 1318    8</code></pre>
+##   inf  520   48
+##   mat 4009   31
+##   ppl   69    7
+##   sub 1366    8</code></pre>
 <p>And percentages for each clause type:</p>
 <pre class="r"><code>round(prop.table(freq, margin = 1) * 100, 3)</code></pre>
 <pre><code>##      
 ##           ov     vo
-##   inf 91.398  8.602
-##   mat 99.244  0.756
-##   ppl 90.141  9.859
-##   sub 99.397  0.603</code></pre>
+##   inf 91.549  8.451
+##   mat 99.233  0.767
+##   ppl 90.789  9.211
+##   sub 99.418  0.582</code></pre>
 <p>And a look at the different elements:</p>
 <pre class="r"><code>table(data$ClauseType, data$WordOrder, data$Element)</code></pre>
 <pre><code>## , ,  = both
 ## 
 ##      
 ##         ov   vo
-##   inf   61    0
-##   mat  540    0
+##   inf   63    0
+##   mat  549    0
 ##   ppl    0    0
-##   sub  175    0
+##   sub  182    0
 ## 
 ## , ,  = object
 ## 
 ##      
 ##         ov   vo
 ##   inf  160   43
-##   mat 2270   25
+##   mat 2306   26
 ##   ppl    3    7
-##   sub  642    5
+##   sub  666    5
 ## 
 ## , ,  = rp
 ## 
 ##      
 ##         ov   vo
-##   inf  289    5
-##   mat 1129    5
-##   ppl   61    0
-##   sub  501    3</code></pre>
+##   inf  297    5
+##   mat 1154    5
+##   ppl   66    0
+##   sub  518    3</code></pre>
 <p>Pulling out the VO tokens</p>
 <pre class="r"><code>vo_data &lt;- subset(data, WordOrder == &quot;vo&quot;)
 
 vo_data %&gt;% add_count(Text) %&gt;% arrange(desc(n)) %&gt;% select(-c(WordOrder, Token, n)) %&gt;% summary</code></pre>
-<pre><code>##  ClauseType   Element        Genre          Corpus  
-##  inf:48     both  : 0   bio     : 0   ourcorpus:48  
-##  mat:30     object:80   interv  :19   ppchy    :45  
-##  ppl: 7     rp    :13   nar     :29                 
-##  sub: 8                 oth-bio : 0                 
-##                         xxxgenre:45                 
-##                                                     
-##                                                     
+<pre><code>##  ClauseType   Element      Modality       Year            Corpus  
+##  inf:48     both  : 0   spoken :20   Min.   :1463   ourcorpus:49  
+##  mat:31     object:81   written:74   1st Qu.:1912   ppchy    :45  
+##  ppl: 7     rp    :13                Median :1928                 
+##  sub: 8                              Mean   :1891                 
+##                                      3rd Qu.:1947                 
+##                                      Max.   :2000                 
+##                                                                   
 ##                            Text   
 ##  1927e-kopeloff.nar-bio.yid, :12  
 ##  1928e-karpilov.nar-bio.yid, :11  
-##  aizik_dimantstein.int.yid,  : 9  
+##  1996e-dimantstein.int.yid,  :10  
 ##  1995e-abramson.int.yid,     : 8  
 ##  1834e-ukraine-2,44          : 2  
 ##  1918e-hirshbeyn.nar-bio.yid,: 2  
 ##  (Other)                     :49</code></pre>
 <pre class="r"><code># sorted by which text has the most of these, as the summary function only shows the first few instances </code></pre>
 <p>How are these distributed?</p>
-<pre class="r"><code>table(vo_data$ClauseType, vo_data$Genre)</code></pre>
+<pre class="r"><code>table(vo_data$ClauseType, vo_data$Modality)</code></pre>
 <pre><code>##      
-##       bio interv nar oth-bio xxxgenre
-##   inf   0      4  19       0       25
-##   mat   0     13   4       0       13
-##   ppl   0      0   5       0        2
-##   sub   0      2   1       0        5</code></pre>
-<p>Currently, all the “xxxgenre” ones are from PPCHY as the labels are
-not very consistent.</p>
-</div>
-<div id="todo" class="section level2">
-<h2>TODO:</h2>
-<ul>
-<li>See PPCHY about-files for dates and add these</li>
-<li>Sort out the genre labels for PPCHY ones</li>
-</ul>
+##       spoken written
+##   inf      4      44
+##   mat     14      17
+##   ppl      0       7
+##   sub      2       6</code></pre>
 </div>
 
 

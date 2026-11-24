@@ -25,8 +25,9 @@ I also grabbed the ones with pronominal object / RP / RP-H preceding non-finite 
 | -------- | ------ | -------- |
 | `ClauseType` | `mat`, `sub`, `inf` | IP-MAT, IP-SUB, IP-INF |
 | `WordOrder` | `ov`, `vo`, `badone` | "v" being the non-finite verb, "o" being a catch-all for pronominal object, RP, RP-H. `badone` is for cases where there is something relevant both preceding and following the non-finite verb. |
-| `Element` | `rp`, `object`, `both` | `rp` includes both RP and RP-H (can make adjustments if this is not what we want). `both` flags cases where there's both a pronominal object and an RP/RP-H in the specified `WordOrder` position |
-| `Genre` | | PPCHY ones need fixing, the ones from our parsed files should be ok. |
+| `Element` | `rp`, `object`, `both` | `rp` includes both RP and RP-H. `both` flags cases where there's both a pronominal object and an RP/RP-H in the specified `WordOrder` position |
+| `Modality` | `spoken`, `written` | I've switched from genre to this for now, as it's perhaps more relevant for our talk (and less messy). |
+| `Year` | Numerical values | Based on ID labels (look out for confusion with token numbers though!) |
 | `Corpus` | `ppchy`, `ourcorpus` | The files the data comes from. |
 | `Text` |  | Whatever is printed in the ID labels |
 | `Token` |  | Token label within the text, stripped off of ID label |
@@ -42,7 +43,7 @@ d1 <- read.delim("marjuqueries.ppchy.nodates.cod.ooo", header=F, sep=":")
 d2 <- read.delim("marjuqueries.ourcorpus.nodates.cod.ooo", header=F, sep=":")
 
 d <- rbind(d1, d2)
-colnames(d) <- c("ClauseType", "WordOrder", "Element", "Genre", "Corpus", "Text", "Token")
+colnames(d) <- c("ClauseType", "WordOrder", "Element", "Modality", "Year", "Corpus", "Text", "Token")
 head(d)
 nrow(d)
 ```
@@ -59,9 +60,18 @@ Turn strings to factors, check:
 
 ```{r}
 data <- mutate_if(data, is.character, as.factor)
+data$Year <- as.numeric(as.character(data$Year))
 
 summary(data)
 ```
+
+Remove NAs (some tokens without labels?)
+```{r}
+data <- na.omit(data)
+summary(data)
+```
+
+
 
 
 ## Descriptive Stats
@@ -97,11 +107,5 @@ vo_data %>% add_count(Text) %>% arrange(desc(n)) %>% select(-c(WordOrder, Token,
 How are these distributed?
 
 ```{r}
-table(vo_data$ClauseType, vo_data$Genre)
+table(vo_data$ClauseType, vo_data$Modality)
 ```
-
-Currently, all the "xxxgenre" ones are from PPCHY as the labels are not very consistent.
-
-## TODO:
-* See PPCHY about-files for dates and add these
-* Sort out the genre labels for PPCHY ones

@@ -5,8 +5,8 @@ OURCORPUS="/home/nmk242/intsayt/yiddish/finished/*.psd"
 
 
 rm outputs/marjuqueries.nodates.cod
-$CS marjuqueries.c $PPCHY -out outputs/marjuqueries.nodates.cod
-#$CS marjuqueries.c $OURCORPUS -out outputs/marjuqueries.nodates.cod
+#$CS marjuqueries.c $PPCHY -out outputs/marjuqueries.nodates.cod
+$CS marjuqueries.c $OURCORPUS -out outputs/marjuqueries.nodates.cod
 # comment out as appropriate; edit field 5 of query
 
 echo "Added codes"
@@ -19,7 +19,7 @@ echo "Added codes"
 
 #echo "done with dating"
 
-#UNCOMMENT THE APPROPRIATE ONE 
+#UNCOMMENT THE APPROPRIATE ONE (maybe not needed?)
 #rm outputs/marjuqueries.nodates.cod.ooo
 #rm marjuqueries.ourcorpus.nodates.cod.ooo
 #rm marjuqueries.ppchy.nodates.cod.ooo
@@ -32,8 +32,8 @@ echo "Extracted codes"
 
 python3 fixIdFormat.ice.py < outputs/marjuqueries.nodates.cod.ooo > outputs/marjuqueries.nodates.cod.ooo.tmp
 mv outputs/marjuqueries.nodates.cod.ooo outputs/marjuqueries.nodates.cod.ooo.old
-mv outputs/marjuqueries.nodates.cod.ooo.tmp outputs/marjuqueries.ppchy.nodates.cod.ooo
-#mv outputs/marjuqueries.nodates.cod.ooo.tmp outputs/marjuqueries.ourcorpus.nodates.cod.ooo
+#mv outputs/marjuqueries.nodates.cod.ooo.tmp outputs/marjuqueries.ppchy.nodates.cod.ooo
+mv outputs/marjuqueries.nodates.cod.ooo.tmp outputs/marjuqueries.ourcorpus.nodates.cod.ooo
 # UNCOMMENT THE APPROPROATE ONE
 
 echo "Fixed codes"
