@@ -71,6 +71,12 @@ data <- na.omit(data)
 summary(data)
 ```
 
+Check for dating errors (when token number is listed as the year instead of actual year).
+
+```{r}
+data %>% filter (Year == Token)
+
+```
 
 
 
@@ -95,6 +101,9 @@ And a look at the different elements:
 table(data$ClauseType, data$WordOrder, data$Element)
 ```
 
+
+
+
 Pulling out the VO tokens
 
 ```{r}
@@ -109,3 +118,12 @@ How are these distributed?
 ```{r}
 table(vo_data$ClauseType, vo_data$Modality)
 ```
+
+
+## TODO
+
+* Add NP-RFL as a separate thing
+* Filter more by element type
+* Plot proportions with year
+* Add regular (non-pronominal objects), to compare with Icelandic (?)
+* Separate tables/plots by PPCHY and ours (for talk)

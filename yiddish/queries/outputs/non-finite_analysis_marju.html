@@ -478,7 +478,7 @@ data$Year &lt;- as.numeric(as.character(data$Year))</code></pre>
 ##  inf: 570   ov:5971   both  : 794   spoken : 671   Min.   :1413  
 ##  mat:4043   vo:  94   object:3222   written:5394   1st Qu.:1697  
 ##  ppl:  76             rp    :2049                  Median :1922  
-##  sub:1376                                          Mean   :1838  
+##  sub:1376                                          Mean   :1840  
 ##                                                    3rd Qu.:1947  
 ##                                                    Max.   :2000  
 ##                                                    NAs    :7     
@@ -505,7 +505,7 @@ summary(data)</code></pre>
 ##  inf: 568   ov:5964   both  : 794   spoken : 671   Min.   :1413  
 ##  mat:4040   vo:  94   object:3216   written:5387   1st Qu.:1697  
 ##  ppl:  76             rp    :2048                  Median :1922  
-##  sub:1374                                          Mean   :1838  
+##  sub:1374                                          Mean   :1840  
 ##                                                    3rd Qu.:1947  
 ##                                                    Max.   :2000  
 ##                                                                  
@@ -525,6 +525,12 @@ summary(data)</code></pre>
 ##  1927e-kopeloff.nar-bio.yid,                             : 110   3rd Qu.:1260  
 ##  1995e-abramson.int.yid,                                 : 109   Max.   :6697  
 ##  (Other)                                                 :5138</code></pre>
+<p>Check for dating errors (when token number is listed as the year
+instead of actual year).</p>
+<pre class="r"><code>data %&gt;% filter (Year == Token)</code></pre>
+<pre><code>## [1] ClauseType WordOrder  Element    Modality   Year       Corpus     Text      
+## [8] Token     
+## &lt;0 rows&gt; (or 0-length row.names)</code></pre>
 </div>
 <div id="descriptive-stats" class="section level2">
 <h2>Descriptive Stats</h2>
@@ -602,6 +608,17 @@ vo_data %&gt;% add_count(Text) %&gt;% arrange(desc(n)) %&gt;% select(-c(WordOrde
 ##   mat     14      17
 ##   ppl      0       7
 ##   sub      2       6</code></pre>
+</div>
+<div id="todo" class="section level2">
+<h2>TODO</h2>
+<ul>
+<li>Add NP-RFL as a separate thing</li>
+<li>Filter more by element type</li>
+<li>Plot proportions with year</li>
+<li>Add regular (non-pronominal objects), to compare with Icelandic
+(?)</li>
+<li>Separate tables/plots by PPCHY and ours (for talk)</li>
+</ul>
 </div>
 
 
