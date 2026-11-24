@@ -120,10 +120,80 @@ table(vo_data$ClauseType, vo_data$Modality)
 ```
 
 
+Combine IP-INF with IP-PPL and IP-MAT with IP-SUB for later plotting purposes
+```{r}
+data <- data %>%
+  mutate(Finiteness = ifelse(
+    ClauseType %in% c("ppl", "inf"),
+    "NonFinite",
+    "Finite"
+  ))
+```
+
+
+
+
+## Make some plots
+
+```{r}
+year_prop <- data %>%
+  group_by(WordOrder, Year, ClauseType, Corpus, Finiteness) %>%
+  summarise(n = n(), .groups = "drop_last") %>%
+  group_by(Year) %>%
+  mutate(prop = n / sum(n))
+
+year_prop %>%
+  filter(WordOrder == "vo") %>%
+  ggplot(aes(x = Year, y = prop, colour = ClauseType)) +
+  geom_line() +
+  geom_point() +
+  scale_y_continuous(labels = scales::percent) +
+  labs(
+    x = "Year",
+    y = "Proportion of VO",
+    colour = "Clause Type"
+  ) +
+  theme_minimal()
+```
+Look at the two corpora separately as well
+
+```{r}
+year_prop %>%
+  filter(WordOrder == "vo") %>%
+  ggplot(aes(x = Year, y = prop, colour = Corpus)) +
+  geom_line() +
+  geom_point() +
+  scale_y_continuous(labels = scales::percent) +
+  labs(
+    x = "Year",
+    y = "Proportion of VO",
+    colour = "Corpus"
+  ) +
+  theme_minimal()
+```
+
+Looking at non-finite vs finite clauses:
+
+```{r}
+year_prop %>%
+  filter(WordOrder == "vo") %>%
+  ggplot(aes(x = Year, y = prop, colour = Finiteness)) +
+  geom_line() +
+  geom_point() +
+  scale_y_continuous(labels = scales::percent) +
+  labs(
+    x = "Year",
+    y = "Proportion of VO",
+    colour = "Finiteness"
+  ) +
+  theme_minimal()
+```
+
+
+
 ## TODO
 
 * Add NP-RFL as a separate thing
-* Filter more by element type
-* Plot proportions with year
+* Filter more by element type (pronouns more reliable than RP?)
+* Investigate the weird peaks - specific texts
 * Add regular (non-pronominal objects), to compare with Icelandic (?)
-* Separate tables/plots by PPCHY and ours (for talk)
