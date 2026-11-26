@@ -25,6 +25,7 @@ finite_verb_ice:  *MDD*|MD[PF]*|*HV[PF]*|*HVD*|*DO[PF]*|*DOD*|*BE[PF]*|*BED*|*VB
 finite_mainverb_ice: *VB[PF]*|*VBD*|*DO[PF]*|*DOD*|VBI*
 nongap_ipsub: IP-SUB|IP-SUB-SPE|IP-SUB-1|IP-SUB-2|IP-SUB-3|IP-SUB-4|IP-SUB-5|IP-SUB-6|IP-SUB-7|IP-SUB-8|IP-SUB-9|IP-SUB-SPE-1|IP-SUB-SPE-2|IP-SUB-SPE-3|IP-SUB-SPE-4|IP-SUB-SPE-5|IP-SUB-SPE-6|IP-SUB-SPE-7|IP-SUB-SPE-8|IP-SUB-SPE-9
 
+linking_verb_yid: בלײַב*
 
 //For sanity checks:
 
