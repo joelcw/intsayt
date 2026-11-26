@@ -1,7 +1,7 @@
 /*
 PREFACE:  
 Copyright 2010 Beth Randall
-Date:  Thu Nov 26 17:39:45 GMT 2026
+Date:  Thu Nov 26 18:43:33 GMT 2026
 
 command file:     marjuqueries.c
 output file:      outputs/marjuqueries.nodates.cod
@@ -36771,12 +36771,12 @@ FOOTER
 				  (NP (D דער) (N שטאָט))))
 		      (PUNC ,)
 		      (CP-ADV (C כּדי)
-			      (IP-SUB (CODING-IP-SUB sub:vo:rp:written:1925:ourcorpus)
+			      (IP-SUB (CODING-IP-SUB sub:z:rp:written:1925:ourcorpus)
 				      (NP-SBJ (PRO ער))
 				      (MDP זאָל)
 				      (BE זײן)
 				      (RP אָפּ>)
-				      (ADJ <געשײדט)
+				      (VAN <געשײדט)
 				      (PP (P פון)
 					  (NP (NS מענטשן))))))
 	  (PUNC .))
