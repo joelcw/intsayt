@@ -1,17 +1,16 @@
 // Looking for pronominal objects and RPs with non-finite verbs in IP-MAT, IP-SUB and IP-INF
 
 node: IP*
-//add_to_ignore: \**
+add_to_ignore: \** // this will ignore traces
 define: manydefs12nov26.def
 coding_query:
 
+// Possible redundancies here, so things could be streamlined; I'm now prioritising getting all the special cases as the corpus is small. With bigger corpora, can just check for quantified objects first as grounds for exclusion....
 
-// Also added F variants for finite verbs to my local copy of the defs.
-// Use all non-finite verbs, query for mainverbs first and then all nonfin verbs to catch the main verb uses (after V ones filtered out)
-// Using double queries for the 2 relevant variables now to be safe; probably not needed given the filtering?
+// cases where there's an RP and pronominal object on opposite sides of the non-finite verb ("ovo") don't specify the order, so this will need a closer look if I want to group these cases with single diagnostic ones...
 
 // Clausetype for the relevant instances
-// The thing with the finite verb is causing problems here, because the search will not pick out coordinated structures where the main verb is elided....
+// The search will not pick out coordinated structures where the main verb is elided, but this is what we want (avoids ambiguity)
 1: {
     mat: (IP-MAT* idoms nonfin_mainverb) AND (IP-MAT* idoms object|RP|RP-H) AND (IP-MAT* idoms finite_aux) AND (finite_aux precedes object|RP|RP-H) AND (finite_aux precedes nonfin_mainverb)
     mat: (IP-MAT* idoms nonfin_verb) AND (IP-MAT* idoms object|RP|RP-H) AND (IP-MAT* idoms finite_aux) AND (finite_aux precedes object|RP|RP-H) AND (finite_aux precedes nonfin_verb)
@@ -23,33 +22,67 @@ coding_query:
 
 }
 
-// Word order of object/RP and non-finite main verb
+// Word order of object/RP and non-finite main verb. 
 2: {
-    badone: (IP* idoms object|RP|RP-H) AND (IP* idoms nonfin_verb) AND (object|RP|RP-H precedes nonfin_verb) AND (nonfin_verb precedes object|RP|RP-H)
+    // eliminate cases where a particle occurs between two non-finite verbs (we wouldn't expect other things to occur there)
+    z: (IP* idoms [1]nonfin_verb) AND (IP* idoms [2]nonfin_verb) AND (IP* idoms RP|RP-H) AND ([1]nonfin_verb precedes RP|RP-H) AND (RP|RP-H precedes [2]nonfin_verb)
+    //adding this to the front to deal with double object constructions with RP or RFL where there are 3 elements at play..
+    ovo: (IP* idoms [1]object) AND (IP* idoms [2]object|RP|RP-H) AND (IP* idoms nonfin_verb) AND ([1]object precedes nonfin_verb) AND (nonfin_verb precedes [2]object|RP|RP-H) AND ([1]object doms any_nominal|CONJ*|N*|D*) AND (IP* idoms finite_aux) AND ([1]object precedes finite_aux)
+    //cannot directly get the ones with diagnostic element postverbally (if OR is not a thing?) so i'm grabbing the ones where the first one is nominal, as it will help me filter relevant cases in conjunction with the Element variable (column 3)
+    ovo_check: (IP* idoms [1]object) AND (IP* idoms [2]object|RP|RP-H) AND (IP* idoms nonfin_verb) AND ([1]object precedes nonfin_verb) AND (nonfin_verb precedes [2]object|RP|RP-H) AND ([1]object doms any_nominal|CONJ*|N*|D*)
+ 
+    ovo: (IP* idoms [1]object|RP|RP-H) AND (IP* idoms [2]object|RP|RP-H) AND (IP* idoms nonfin_verb) AND ([1]object|RP|RP-H precedes nonfin_verb) AND (nonfin_verb precedes [2]object|RP|RP-H)
+    // plain ovo would be the ones where both are nominal, or where the diagnostic element is preverbal
+    
+
+    // things doubled here so i don't miss lexical BE, DO, RD etc
     ov: (IP* idoms object|RP|RP-H) AND (IP* idoms nonfin_mainverb) AND (object|RP|RP-H precedes nonfin_mainverb)
     ov: (IP* idoms object|RP|RP-H) AND (IP* idoms nonfin_verb) AND (object|RP|RP-H precedes nonfin_verb)
     vo: (IP* idoms object|RP|RP-H) AND (IP* idoms nonfin_mainverb) AND (nonfin_mainverb precedes object|RP|RP-H)
     vo: (IP* idoms object|RP|RP-H) AND (IP* idoms nonfin_verb) AND (nonfin_verb precedes object|RP|RP-H)
+
     z: ELSE
 }
-// keep an eye on badones in case it picks up anything where the relevant thingies are between participle and inf
+
 
 
 
 // Object vs RP status - also use this to get the right kinds of objects, as cannot define this with RP stuff together
+// adding in regular nominal objects and quantified objects
 
 3: {
-    rp:  (IP* idoms object) AND (object idoms PRO*) AND (object idoms !D|ADJ*|N*|PP*|CONJ*) AND (IP* idoms RP|RP-H) AND (IP* idoms finite_aux) AND (pronoun precedes finite_aux)
-    both: (IP* idoms object) AND (object idoms PRO*) AND (object idoms !D|ADJ*|N*|PP*|CONJ*) AND (IP* idoms RP|RP-H)
-    object: (IP* idoms object) AND (object idoms PRO*) AND (object idoms !D|ADJ*|N*|PP*|CONJ*)
+    rp:  (IP* idoms object) AND (IP* idoms RP|RP-H) AND (IP* idoms finite_aux) AND (object precedes finite_aux) //if the object is pre-fin, then we don't care about it
+    rp_and_rfl: (IP* idoms NP-RFL) AND (IP* idoms RP|RP-H)
+    rp_and_pronobj: (IP* idoms object) AND (object idoms PRO*) AND (object idoms !D|ADJ*|N*|PP*|CONJ*) AND (IP* idoms RP|RP-H)
+    rp_and_qobj: (IP* idoms RP|RP-H) AND (IP* idoms object) AND (object idoms Q*|NUM*|NEG|ONE*) 
+    rp_and_posobj: (IP* idoms RP|RP-H) AND (IP* idoms object) AND (object doms any_nominal|CONJ*|N*|D*)
     rp: (IP* idoms RP|RP-H)
+    // that should cover the rp ones
+
+    rfl: (IP* idoms NP-RFL) AND (IP* idoms object) AND (IP* idoms finite_aux) AND (object precedes finite_aux)
+    rfl_and_qobj: (IP* idoms NP-RFL) AND (IP* idoms object) AND (object idoms Q*|NUM*|NEG|ONE*) 
+    rfl_and_posobj: (IP* idoms NP-RFL) AND (IP* idoms object) AND (object doms any_nominal|CONJ*|N*|D*)
+    rfl: (IP* idoms NP-RFL)
+    // that should be RFL ones done
+
+    pronobj: (IP* idoms [1]object) AND ([1]object idoms PRO*) AND ([1]object idoms !D|ADJ*|N*|PP*|CONJ*) AND (IP* idoms [2]object) AND (IP* idoms finite_aux) AND ([2]object precedes finite_aux) 
+    pronobj_and_qobj: (IP* idoms [1]object) AND ([1]object idoms PRO*) AND ([1]object idoms !D|ADJ*|N*|PP*|CONJ*) AND (IP* idoms [2]object) AND ([2]object idoms Q*|NUM*|NEG|ONE*) 
+    pronobj_and_posobj: (IP* idoms [1]object) AND ([1]object idoms PRO*) AND ([1]object idoms !D|ADJ*|N*|PP*|CONJ*) AND (IP* idoms [2]object) AND ([2]object doms any_nominal|CONJ*|N*|D*) 
+    pronobj: (IP* idoms object) AND (object idoms PRO*) AND (object idoms !D|ADJ*|N*|PP*|CONJ*)
+    // that should get the pronominal objects
+ 
+    qobj: (IP* idoms [1]object) AND ([1]object doms any_nominal|CONJ*|N*|D*) AND ([1]object idoms !Q*|NUM*|NEG|ONE*) AND (IP* idoms [2]object) AND ([2]object idoms Q*|NUM*|NEG|ONE*) AND (IP* idoms finite_aux) AND ([1]object precedes finite_aux)
+    posobj: (IP* idoms [1]object) AND ([1]object doms any_nominal|CONJ*|N*|D*) AND ([1]object idoms !Q*|NUM*|NEG|ONE*) AND (IP* idoms [2]object) AND ([2]object idoms Q*|NUM*|NEG|ONE*) AND (IP* idoms finite_aux) AND ([2]object precedes finite_aux)
+    posobj_and_qobj: (IP* idoms [1]object) AND ([1]object doms any_nominal|CONJ*|N*|D*) AND ([1]object idoms !Q*|NUM*|NEG|ONE*) AND (IP* idoms [2]object) AND ([2]object idoms Q*|NUM*|NEG|ONE*)
+    qobj: (IP* idoms object) AND (object idoms Q*|NUM*|NEG|ONE*) 
+    posobj: (IP* idoms object) AND (object doms any_nominal|CONJ*|N*|D*)
+    // nominal objects, quantified or otherwise
+
     z: ELSE
 }
 //not using idomsonly in case there are false starts inside the same constituent (e.g. z... zi), so trying to rule some other things out instead. Will this suffice?
 
-// Added extra rp query at the start to filter out cases with pre-finite (topicalised?) pronominal objects that slip through with RPs.
-// (without RP-H) without extra rp def: 280 OV:boths in PPCHY
-// (without RP-H) with extra rp def: 196 OV:boths in PPCHY
+// Added extra queries at the start to filter out cases with pre-finite (topicalised?) objects, unless there is something else that's relevant in the clause
 
 
 
@@ -90,7 +123,7 @@ coding_query:
 
 5: {
 
-//ppchy
+
 //the ones that produced confusion with tokens first, based on check in R:
 
     \1910: (*1910E* inID)
@@ -100,6 +133,7 @@ coding_query:
     \1651: (*1651_* inID)
     \1656: (*1656_* inID)   
 
+//ppchy
 
     \1413: (*1413* inID)
     \1440: (*1440* inID)
@@ -123,7 +157,6 @@ coding_query:
 	\1579: (*1579* inID)
 	\1579: (*1579* inID)
 	\1588: (*1588* inID)
-	\1589: (*1589* inID)
 	\1589: (*1589* inID)
 	\1590: (*1590* inID)
     \1593: (*1593* inID)
@@ -200,14 +233,9 @@ coding_query:
 	\1848: (*1848* inID)
 	\1910: (*1910* inID)
 	\1927: (*1927* inID)
-	\1927: (*1927* inID)
 	\1928: (*1928* inID)
 	\1928: (*1928* inID)
 	\1928: (*1928* inID)
-	\1929: (*1929* inID)
-	\1929: (*1929* inID)
-	\1929: (*1929* inID)
-	\1929: (*1929* inID)
 	\1929: (*1929* inID)
 	\1932: (*1932* inID)
 	\1944: (*1944* inID)
@@ -240,5 +268,5 @@ coding_query:
 
 6: {
 ourcorpus: ELSE
- // ppchy: ELSE
+//  ppchy: ELSE
 }
