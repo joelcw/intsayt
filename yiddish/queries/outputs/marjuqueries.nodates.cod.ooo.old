@@ -106,7 +106,7 @@ z:z:z:written:1900:ourcorpus@1900E-ALEYKHEM-DER_ZEYGER.NAR-FIC.YID,.58
 z:z:z:written:1900:ourcorpus@1900E-ALEYKHEM-DER_ZEYGER.NAR-FIC.YID,.58
 z:z:rfl:written:1900:ourcorpus@1900E-ALEYKHEM-DER_ZEYGER.NAR-FIC.YID,.58
 z:z:z:written:1900:ourcorpus@1900E-ALEYKHEM-DER_ZEYGER.NAR-FIC.YID,.58
-mat:ov:rfl:written:1900:ourcorpus@1900E-ALEYKHEM-DER_ZEYGER.NAR-FIC.YID,.59
+mat:vo:rfl:written:1900:ourcorpus@1900E-ALEYKHEM-DER_ZEYGER.NAR-FIC.YID,.59
 z:z:rp_and_rfl:written:1900:ourcorpus@1900E-ALEYKHEM-DER_ZEYGER.NAR-FIC.YID,.61
 z:z:z:written:1900:ourcorpus@1900E-ALEYKHEM-DER_ZEYGER.NAR-FIC.YID,.62
 z:z:pronobj:written:1900:ourcorpus@1900E-ALEYKHEM-DER_ZEYGER.NAR-FIC.YID,.62
@@ -274,7 +274,7 @@ inf:vo:qobj:written:1900:ourcorpus@1900E-ALEYKHEM-DER_ZEYGER.NAR-FIC.YID,.159
 z:z:rfl:written:1900:ourcorpus@1900E-ALEYKHEM-DER_ZEYGER.NAR-FIC.YID,.160
 z:z:rfl:written:1900:ourcorpus@1900E-ALEYKHEM-DER_ZEYGER.NAR-FIC.YID,.161
 z:z:z:written:1900:ourcorpus@1900E-ALEYKHEM-DER_ZEYGER.NAR-FIC.YID,.161
-z:z:rfl:written:1900:ourcorpus@1900E-ALEYKHEM-DER_ZEYGER.NAR-FIC.YID,.161
+z:z:rfl_and_pronobj:written:1900:ourcorpus@1900E-ALEYKHEM-DER_ZEYGER.NAR-FIC.YID,.161
 z:z:z:written:1900:ourcorpus@1900E-ALEYKHEM-DER_ZEYGER.NAR-FIC.YID,.162
 z:z:rfl:written:1900:ourcorpus@1900E-ALEYKHEM-DER_ZEYGER.NAR-FIC.YID,.162
 z:z:z:written:1900:ourcorpus@1900E-ALEYKHEM-DER_ZEYGER.NAR-FIC.YID,.162
@@ -495,10 +495,10 @@ z:z:z:written:1900:ourcorpus@1900E-ALEYKHEM-DER_ZEYGER.NAR-FIC.YID,.301
 z:z:z:written:1900:ourcorpus@1900E-ALEYKHEM-DER_ZEYGER.NAR-FIC.YID,.301
 z:z:z:written:1900:ourcorpus@1900E-ALEYKHEM-DER_ZEYGER.NAR-FIC.YID,.302
 mat:ov:rfl:written:1900:ourcorpus@1900E-ALEYKHEM-DER_ZEYGER.NAR-FIC.YID,.304
-mat:ov:rfl:written:1900:ourcorpus@1900E-ALEYKHEM-DER_ZEYGER.NAR-FIC.YID,.305
+mat:ov:rfl_and_pronobj:written:1900:ourcorpus@1900E-ALEYKHEM-DER_ZEYGER.NAR-FIC.YID,.305
 z:z:z:written:1900:ourcorpus@1900E-ALEYKHEM-DER_ZEYGER.NAR-FIC.YID,.305
 ppl:ov:rp:written:1900:ourcorpus@1900E-ALEYKHEM-DER_ZEYGER.NAR-FIC.YID,.305
-mat:ov:rfl:written:1900:ourcorpus@1900E-ALEYKHEM-DER_ZEYGER.NAR-FIC.YID,.306
+mat:ov:rfl_and_pronobj:written:1900:ourcorpus@1900E-ALEYKHEM-DER_ZEYGER.NAR-FIC.YID,.306
 z:z:z:written:1900:ourcorpus@1900E-ALEYKHEM-DER_ZEYGER.NAR-FIC.YID,.306
 z:z:rfl:written:1900:ourcorpus@1900E-ALEYKHEM-DER_ZEYGER.NAR-FIC.YID,.307
 z:z:z:written:1900:ourcorpus@1900E-ALEYKHEM-DER_ZEYGER.NAR-FIC.YID,.308
@@ -689,7 +689,7 @@ z:z:z:written:1916:ourcorpus@1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NAR-FIC
 z:z:z:written:1916:ourcorpus@1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NAR-FIC.YID,.100
 z:z:z:written:1916:ourcorpus@1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NAR-FIC.YID,.100
 z:z:posobj:written:1916:ourcorpus@1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NAR-FIC.YID,.101
-z:z:rfl:written:1916:ourcorpus@1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NAR-FIC.YID,.102
+z:z:rfl_and_pronobj:written:1916:ourcorpus@1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NAR-FIC.YID,.102
 z:z:pronobj:written:1916:ourcorpus@1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NAR-FIC.YID,.103
 z:z:z:written:1916:ourcorpus@1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NAR-FIC.YID,.103
 z:z:posobj:written:1916:ourcorpus@1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NAR-FIC.YID,.103
@@ -932,7 +932,7 @@ z:z:z:written:1916:ourcorpus@1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NAR-FIC
 z:z:z:written:1916:ourcorpus@1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NAR-FIC.YID,.236
 z:z:z:written:1916:ourcorpus@1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NAR-FIC.YID,.236
 z:z:z:written:1916:ourcorpus@1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NAR-FIC.YID,.236
-mat:ov:rfl:written:1916:ourcorpus@1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NAR-FIC.YID,.237
+mat:ov:rfl_and_pronobj:written:1916:ourcorpus@1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NAR-FIC.YID,.237
 z:z:z:written:1916:ourcorpus@1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NAR-FIC.YID,.237
 z:z:z:written:1916:ourcorpus@1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NAR-FIC.YID,.238
 z:z:pronobj:written:1916:ourcorpus@1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NAR-FIC.YID,.238
@@ -1104,7 +1104,7 @@ sub:ov:rp_and_posobj:written:1916:ourcorpus@1916E-ALEYKHEM-BANDIII-NYBC202585_00
 mat:ov:rp_and_pronobj:written:1916:ourcorpus@1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NAR-FIC.YID,.329
 z:z:z:written:1916:ourcorpus@1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NAR-FIC.YID,.329
 z:z:z:written:1916:ourcorpus@1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NAR-FIC.YID,.329
-mat:ov:rfl:written:1916:ourcorpus@1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NAR-FIC.YID,.330
+mat:ov:rfl_and_pronobj:written:1916:ourcorpus@1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NAR-FIC.YID,.330
 z:z:pronobj:written:1916:ourcorpus@1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NAR-FIC.YID,.331
 z:z:z:written:1916:ourcorpus@1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NAR-FIC.YID,.331
 sub:vo:posobj:written:1916:ourcorpus@1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NAR-FIC.YID,.331
@@ -1287,7 +1287,7 @@ z:z:posobj:written:1916:ourcorpus@1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NA
 z:z:z:written:1916:ourcorpus@1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NAR-FIC.YID,.427
 sub:ov:pronobj:written:1916:ourcorpus@1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NAR-FIC.YID,.427
 z:z:z:written:1916:ourcorpus@1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NAR-FIC.YID,.428
-inf:ov:rfl:written:1916:ourcorpus@1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NAR-FIC.YID,.428
+inf:ov:rfl_and_pronobj:written:1916:ourcorpus@1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NAR-FIC.YID,.428
 mat:vo:posobj:written:1916:ourcorpus@1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NAR-FIC.YID,.428
 z:z:rfl:written:1916:ourcorpus@1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NAR-FIC.YID,.428
 z:z:rp:written:1916:ourcorpus@1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NAR-FIC.YID,.428
@@ -1449,7 +1449,7 @@ z:z:z:written:1916:ourcorpus@1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NAR-FIC
 z:z:posobj:written:1916:ourcorpus@1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NAR-FIC.YID,.510
 z:z:rp:written:1916:ourcorpus@1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NAR-FIC.YID,.511
 z:z:pronobj:written:1916:ourcorpus@1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NAR-FIC.YID,.511
-mat:ov:rfl:written:1916:ourcorpus@1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NAR-FIC.YID,.512
+mat:ov:rfl_and_pronobj:written:1916:ourcorpus@1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NAR-FIC.YID,.512
 mat:ov:pronobj:written:1916:ourcorpus@1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NAR-FIC.YID,.513
 z:z:z:written:1916:ourcorpus@1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NAR-FIC.YID,.514
 z:z:z:written:1916:ourcorpus@1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NAR-FIC.YID,.514
@@ -2134,7 +2134,7 @@ z:z:z:written:1918:ourcorpus@1918E-HIRSHBEYN.NAR-BIO.YID,.155
 z:z:z:written:1918:ourcorpus@1918E-HIRSHBEYN.NAR-BIO.YID,.157
 z:z:z:written:1918:ourcorpus@1918E-HIRSHBEYN.NAR-BIO.YID,.157
 z:z:z:written:1918:ourcorpus@1918E-HIRSHBEYN.NAR-BIO.YID,.157
-mat:ov:rfl:written:1918:ourcorpus@1918E-HIRSHBEYN.NAR-BIO.YID,.158
+mat:ov:rfl_and_pronobj:written:1918:ourcorpus@1918E-HIRSHBEYN.NAR-BIO.YID,.158
 ppl:vo:posobj:written:1918:ourcorpus@1918E-HIRSHBEYN.NAR-BIO.YID,.158
 z:z:z:written:1918:ourcorpus@1918E-HIRSHBEYN.NAR-BIO.YID,.159
 z:z:z:written:1918:ourcorpus@1918E-HIRSHBEYN.NAR-BIO.YID,.159
@@ -3563,7 +3563,7 @@ z:z:z:written:1926:ourcorpus@1926E-KUPRIN.NAR-TRANS.YID,.251
 z:z:z:written:1926:ourcorpus@1926E-KUPRIN.NAR-TRANS.YID,.251
 z:ov:rp_and_rfl:written:1926:ourcorpus@1926E-KUPRIN.NAR-TRANS.YID,.251
 z:z:z:written:1926:ourcorpus@1926E-KUPRIN.NAR-TRANS.YID,.252
-mat:ov:rfl:written:1926:ourcorpus@1926E-KUPRIN.NAR-TRANS.YID,.253
+mat:ov:rfl_and_pronobj:written:1926:ourcorpus@1926E-KUPRIN.NAR-TRANS.YID,.253
 z:z:z:written:1926:ourcorpus@1926E-KUPRIN.NAR-TRANS.YID,.254
 inf:vo:posobj:written:1926:ourcorpus@1926E-KUPRIN.NAR-TRANS.YID,.254
 mat:ov:rp_and_pronobj:written:1926:ourcorpus@1926E-KUPRIN.NAR-TRANS.YID,.255
@@ -4321,7 +4321,7 @@ z:z:z:written:1928:ourcorpus@1928E-KARPILOV.NAR-BIO.YID,.163
 z:z:z:written:1928:ourcorpus@1928E-KARPILOV.NAR-BIO.YID,.165
 mat:ov:qobj:written:1928:ourcorpus@1928E-KARPILOV.NAR-BIO.YID,.166
 inf:ov:rp_and_pronobj:written:1928:ourcorpus@1928E-KARPILOV.NAR-BIO.YID,.166
-z:z:rfl:written:1928:ourcorpus@1928E-KARPILOV.NAR-BIO.YID,.167
+z:z:rfl_and_pronobj:written:1928:ourcorpus@1928E-KARPILOV.NAR-BIO.YID,.167
 z:z:rp:written:1928:ourcorpus@1928E-KARPILOV.NAR-BIO.YID,.167
 z:z:z:written:1928:ourcorpus@1928E-KARPILOV.NAR-BIO.YID,.168
 z:z:z:written:1928:ourcorpus@1928E-KARPILOV.NAR-BIO.YID,.174
@@ -4617,7 +4617,7 @@ z:z:pronobj_and_posobj:written:1967:ourcorpus@1967E-GLATSTEIN.OTH-BIO.YID,.72
 inf:ov:rp_and_rfl:written:1967:ourcorpus@1967E-GLATSTEIN.OTH-BIO.YID,.72
 z:z:z:written:1967:ourcorpus@1967E-GLATSTEIN.OTH-BIO.YID,.73
 z:z:z:written:1967:ourcorpus@1967E-GLATSTEIN.OTH-BIO.YID,.73
-z:z:rfl:written:1967:ourcorpus@1967E-GLATSTEIN.OTH-BIO.YID,.74
+z:z:rfl_and_pronobj:written:1967:ourcorpus@1967E-GLATSTEIN.OTH-BIO.YID,.74
 inf:vo:posobj:written:1967:ourcorpus@1967E-GLATSTEIN.OTH-BIO.YID,.74
 inf:ovo:rp_and_qobj:written:1967:ourcorpus@1967E-GLATSTEIN.OTH-BIO.YID,.74
 z:z:rfl:written:1967:ourcorpus@1967E-GLATSTEIN.OTH-BIO.YID,.75
@@ -4804,7 +4804,7 @@ sub:ov:rp:written:1967:ourcorpus@1967E-GLATSTEIN.OTH-BIO.YID,.153
 z:z:z:written:1967:ourcorpus@1967E-GLATSTEIN.OTH-BIO.YID,.154
 z:z:z:written:1967:ourcorpus@1967E-GLATSTEIN.OTH-BIO.YID,.154
 z:z:z:written:1967:ourcorpus@1967E-GLATSTEIN.OTH-BIO.YID,.155
-z:z:rfl:written:1967:ourcorpus@1967E-GLATSTEIN.OTH-BIO.YID,.155
+z:z:rfl_and_pronobj:written:1967:ourcorpus@1967E-GLATSTEIN.OTH-BIO.YID,.155
 sub:vo:posobj:written:1967:ourcorpus@1967E-GLATSTEIN.OTH-BIO.YID,.155
 z:z:z:written:1967:ourcorpus@1967E-GLATSTEIN.OTH-BIO.YID,.155
 z:z:z:written:1967:ourcorpus@1967E-GLATSTEIN.OTH-BIO.YID,.155
@@ -5180,7 +5180,7 @@ mat:ov:pronobj:spoken:1995:ourcorpus@1995E-ABRAMSON.INT.YID,.272
 inf:ov:rp:spoken:1995:ourcorpus@1995E-ABRAMSON.INT.YID,.272
 z:z:z:spoken:1995:ourcorpus@1995E-ABRAMSON.INT.YID,.273
 mat:ov:pronobj:spoken:1995:ourcorpus@1995E-ABRAMSON.INT.YID,.274
-mat:ov:rfl:spoken:1995:ourcorpus@1995E-ABRAMSON.INT.YID,.275
+mat:ov:rfl_and_pronobj:spoken:1995:ourcorpus@1995E-ABRAMSON.INT.YID,.275
 mat:ov:rfl:spoken:1995:ourcorpus@1995E-ABRAMSON.INT.YID,.276
 z:z:z:spoken:1995:ourcorpus@1995E-ABRAMSON.INT.YID,.277
 z:z:z:spoken:1995:ourcorpus@1995E-ABRAMSON.INT.YID,.278

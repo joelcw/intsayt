@@ -8,6 +8,8 @@ coding_query:
 // Possible redundancies here, so things could be streamlined; I'm now prioritising getting all the special cases as the corpus is small. With bigger corpora, can just check for quantified objects first as grounds for exclusion....
 
 // cases where there's an RP and pronominal object on opposite sides of the non-finite verb ("ovo") don't specify the order, so this will need a closer look if I want to group these cases with single diagnostic ones...
+// not picking up cases where there are two pronominal objects, but I've ordered things so postverbal ones are prioritised
+
 
 // Clausetype for the relevant instances
 // The search will not pick out coordinated structures where the main verb is elided, but this is what we want (avoids ambiguity)
@@ -36,10 +38,11 @@ coding_query:
     
 
     // things doubled here so i don't miss lexical BE, DO, RD etc
-    ov: (IP* idoms object|RP|RP-H) AND (IP* idoms nonfin_mainverb) AND (object|RP|RP-H precedes nonfin_mainverb)
-    ov: (IP* idoms object|RP|RP-H) AND (IP* idoms nonfin_verb) AND (object|RP|RP-H precedes nonfin_verb)
     vo: (IP* idoms object|RP|RP-H) AND (IP* idoms nonfin_mainverb) AND (nonfin_mainverb precedes object|RP|RP-H)
     vo: (IP* idoms object|RP|RP-H) AND (IP* idoms nonfin_verb) AND (nonfin_verb precedes object|RP|RP-H)
+    ov: (IP* idoms object|RP|RP-H) AND (IP* idoms nonfin_mainverb) AND (object|RP|RP-H precedes nonfin_mainverb)
+    ov: (IP* idoms object|RP|RP-H) AND (IP* idoms nonfin_verb) AND (object|RP|RP-H precedes nonfin_verb)
+
 
     z: ELSE
 }
@@ -60,7 +63,8 @@ coding_query:
     // that should cover the rp ones
 
     rfl: (IP* idoms NP-RFL) AND (IP* idoms object) AND (IP* idoms finite_aux) AND (object precedes finite_aux)
-    rfl_and_qobj: (IP* idoms NP-RFL) AND (IP* idoms object) AND (object idoms Q*|NUM*|NEG|ONE*) 
+    rfl_and_pronobj: (IP* idoms NP-RFL) AND (NP-RFL idoms [1]PRO*) AND (IP* idoms object) AND (object idoms [2]PRO*) AND (object idoms !D|ADJ*|N*|PP*|CONJ*)
+    rfl_and_qobj: (IP* idoms [1]NP-RFL) AND (IP* idoms [2]object) AND ([2]object idoms Q*|NUM*|NEG|ONE*) 
     rfl_and_posobj: (IP* idoms NP-RFL) AND (IP* idoms object) AND (object doms any_nominal|CONJ*|N*|D*)
     rfl: (IP* idoms NP-RFL)
     // that should be RFL ones done

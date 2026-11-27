@@ -1,7 +1,7 @@
 ---
-title: "Marju's Coding Query Adventures"
+title: "Yiddish VO/OV"
 author: "MK"
-#date: "2026-11-11"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
 output: html_document
 ---
 
@@ -10,29 +10,30 @@ output: html_document
 ```{r message=FALSE, warning=FALSE}
 library(ggplot2)
 library(dplyr)
+library(tidyr)
 library(lme4) # probably a bit too optimistic with the amount of data we have!
 ```
 
 ## Background
 
-I ran coding queries on PPCHY and our finished files, looking for pronominal object / RP / RP-H following non-finite verbs in IP-MAT, IP-SUB, IP-INF and IP-PPL.
+I ran coding queries on PPCHY and our finished files, looking for pronominal/nominal object / reflexive / RP / RP-H preceding and following non-finite verbs in IP-MAT, IP-SUB, IP-INF and IP-PPL.
 
-I also grabbed the ones with pronominal object / RP / RP-H preceding non-finite verbs, for a fuller picture. In these, I have excluded cases where the pronominal object precedes a finite auxiliary, as I'm assuming that these would not be informative.
+I have excluded cases where the element of interest precedes a finite auxiliary, as I'm assuming that these would not be informative.
 
 ### Summary of Variables
 
+The messy version
+
 | Variable | Labels | Comments |
 | -------- | ------ | -------- |
-| `ClauseType` | `mat`, `sub`, `inf` | IP-MAT, IP-SUB, IP-INF |
-| `WordOrder` | `ov`, `vo`, `badone` | "v" being the non-finite verb, "o" being a catch-all for pronominal object, RP, RP-H. `badone` is for cases where there is something relevant both preceding and following the non-finite verb. |
-| `Element` | `rp`, `object`, `both` | `rp` includes both RP and RP-H. `both` flags cases where there's both a pronominal object and an RP/RP-H in the specified `WordOrder` position |
+| `ClauseType` | `mat`, `sub`, `inf`, `ppl` | IP-MAT, IP-SUB, IP-INF, IP-PPL, these are later sorted into Finite and NonFinite |
+| `WordOrder` | `ov`, `vo`, `ovo`, `ovo_check` | "v" being the non-finite verb, "o" being a catch-all for object, reflexive, RP, RP-H. `ovo` is for cases where there is something relevant both preceding and following the non-finite verb, with `ovo_check` for the ones where the preverbal one is nominal (and the postverbal one might thus be of interest, based on the `Element` value. |
+| `Element` | `rp`, `pronobj`, `rfl`, `posobj`, `qobj` etc | `rp` includes both RP and RP-H. There are additional `_and_` labels here that can be sorted according to the analysis, which include multiple elements of interest in the same toke. |
 | `Modality` | `spoken`, `written` | I've switched from genre to this for now, as it's perhaps more relevant for our talk (and less messy). |
 | `Year` | Numerical values | Based on ID labels (look out for confusion with token numbers though!) |
 | `Corpus` | `ppchy`, `ourcorpus` | The files the data comes from. |
 | `Text` |  | Whatever is printed in the ID labels |
 | `Token` |  | Token label within the text, stripped off of ID label |
-
-We'll want to add `Year` in as well, but the labelling in PPCHY is a bit tricky.
 
 ## Prepare Data
 
@@ -65,7 +66,7 @@ data$Year <- as.numeric(as.character(data$Year))
 summary(data)
 ```
 
-Remove NAs (some tokens without labels?)
+Remove NAs (Some tokens without labels?)
 ```{r}
 data <- na.omit(data)
 summary(data)
@@ -79,8 +80,26 @@ data %>% filter (Year == Token)
 ```
 
 
+Reorder some labels for convenience
+```{r}
+data$WordOrder <- factor(data$WordOrder, levels = c("vo", "ov", "ovo", "ovo_check"))
 
-## Descriptive Stats
+data$ClauseType <- factor(data$ClauseType,
+                          levels = c("mat", "sub", "inf", "ppl"))
+```
+
+Combine IP-INF with IP-PPL and IP-MAT with IP-SUB for later plotting purposes
+```{r}
+data <- data %>%
+  mutate(Finiteness = ifelse(
+    ClauseType %in% c("ppl", "inf"),
+    "NonFinite",
+    "Finite"
+  ))
+```
+
+
+### Messy-messy!
 
 The number of postverbal thingies in the different clause types:
 
@@ -100,40 +119,324 @@ And a look at the different elements:
 ```{r}
 table(data$ClauseType, data$WordOrder, data$Element)
 ```
+#### Looking at the messy codes
 
+Straightforward recoding:
 
+* `ovo` for `posobj` is not behaving well and is picking up stuff where one of the nominal objects is before the finite verb. Recode these as `vo`. `ovo_check` ones would be true OVO for these, so I'll have to exclude them for now...
+* `ovo` for `pronobj_and_posobj` means `ov` for `pronobj` and `vo` for `posobj`. Could double count these for the purposes of plotting to have more data in each category; likewise for `pronobj_and_qobj`
+* `ovo` for `rfl_and_posobj` have `ov` for `rfl` and `vo` for `posobj`; likewise for `rfl_and_qobj`
+* `rp_and_posobj` `ovo` are `ov` for `rp` and `vo` for `posobj`, vice versa for `ovo_check`; Same for `rp_and_qobj`.
 
+Coding query things to worry about another time:
 
-Pulling out the VO tokens
+* `ovo` for `rp`, `rfl`, `rp_and_pronobj` and `rp_and_rfl` are a mess because they include cases with regular objects postverbally. Oops! Will need to fix the queries. For now, just exclude these hoping that I'm not generating a confound.
+* just a couple of OVO ones for `qobj` - who knows what is happening here. Get rid. Maybe investigate later why these have different labels (these are from ourcorpus)
+* currently no `posobj_and_qobj` label; worry about this later (if at all)
 
-```{r}
-vo_data <- subset(data, WordOrder == "vo")
+#### Let's add some element-based variables to avoid duplicating the data
 
-vo_data %>% add_count(Text) %>% arrange(desc(n)) %>% select(-c(WordOrder, Token, n)) %>% summary
-# sorted by which text has the most of these, as the summary function only shows the first few instances 
-```
-
-How are these distributed?
-
-```{r}
-table(vo_data$ClauseType, vo_data$Modality)
-```
-
-
-Combine IP-INF with IP-PPL and IP-MAT with IP-SUB for later plotting purposes
 ```{r}
 data <- data %>%
-  mutate(Finiteness = ifelse(
-    ClauseType %in% c("ppl", "inf"),
-    "NonFinite",
-    "Finite"
-  ))
+  mutate(RP = case_when(
+   Element == "rp" & WordOrder == "vo" ~ "VO",
+   Element == "rp" & WordOrder == "ov" ~ "OV",
+   Element == "rp_and_posobj" & WordOrder == "ovo" ~ "OV",
+   Element == "rp_and_posobj" & WordOrder == "ovo_check" ~ "VO",
+   Element == "rp_and_posobj" & WordOrder == "ov" ~ "OV",
+   Element == "rp_and_posobj" & WordOrder == "vo" ~ "VO",
+   Element == "rp_and_qobj" & WordOrder == "ovo" ~ "OV",
+   Element == "rp_and_qobj" & WordOrder == "ovo_check" ~ "VO",
+   Element == "rp_and_qobj" & WordOrder == "ov" ~ "OV",
+   Element == "rp_and_qobj" & WordOrder == "vo" ~ "VO",
+   Element == "rp_and_pronobj" & WordOrder == "ov" ~ "OV",
+   Element == "rp_and_pronobj" & WordOrder == "vo" ~ "VO",
+   Element == "rp_and_rfl" & WordOrder == "ov" ~ "OV",
+   Element == "rp_and_rfl" & WordOrder == "vo" ~ "VO", # that should cover the RPs and exclude messy cases
+  TRUE ~ NA_character_ 
+  ),
+  RFL = case_when(
+   Element == "rfl" & WordOrder == "vo" ~ "VO",
+   Element == "rfl" & WordOrder == "ov" ~ "OV",
+   Element == "rfl_and_posobj" & WordOrder == "ovo" ~ "OV",
+   Element == "rfl_and_posobj" & WordOrder == "ovo_check" ~ "VO",
+   Element == "rfl_and_posobj" & WordOrder == "ov" ~ "OV",
+   Element == "rfl_and_posobj" & WordOrder == "vo" ~ "VO",
+   Element == "rfl_and_qobj" & WordOrder == "ovo" ~ "OV",
+   Element == "rfl_and_qobj" & WordOrder == "ovo_check" ~ "VO",
+   Element == "rfl_and_qobj" & WordOrder == "ov" ~ "OV",
+   Element == "rfl_and_qobj" & WordOrder == "vo" ~ "VO",
+   Element == "rfl_and_pronobj" & WordOrder == "ov" ~ "OV",
+   Element == "rfl_and_pronobj" & WordOrder == "vo" ~ "VO",
+   Element == "rp_and_rfl" & WordOrder == "ov" ~ "OV",
+   Element == "rp_and_rfl" & WordOrder == "vo" ~ "VO", # that should cover the RFLs and exclude messy cases
+  TRUE ~ NA_character_ 
+  ),
+   PRONOBJ = case_when(
+   Element == "pronobj" & WordOrder == "vo" ~ "VO",
+   Element == "pronobj" & WordOrder == "ov" ~ "OV",
+   Element == "pronobj_and_posobj" & WordOrder == "ovo" ~ "OV",
+   Element == "pronobj_and_posobj" & WordOrder == "ovo_check" ~ "VO",
+   Element == "pronobj_and_posobj" & WordOrder == "ov" ~ "OV",
+   Element == "pronobj_and_posobj" & WordOrder == "vo" ~ "VO",
+   Element == "pronobj_and_qobj" & WordOrder == "ovo" ~ "OV",
+   Element == "pronobj_and_qobj" & WordOrder == "ovo_check" ~ "VO",
+   Element == "pronobj_and_qobj" & WordOrder == "ov" ~ "OV",
+   Element == "pronobj_and_qobj" & WordOrder == "vo" ~ "VO",
+   Element == "rfl_and_pronobj" & WordOrder == "ov" ~ "OV",
+   Element == "rfl_and_pronobj" & WordOrder == "vo" ~ "VO",
+   Element == "rp_and_pronobj" & WordOrder == "ov" ~ "OV",
+   Element == "rp_and_pronobj" & WordOrder == "vo" ~ "VO", # that should cover the PRONOBJ
+  TRUE ~ NA_character_ 
+  ),
+   POSOBJ = case_when(
+   Element == "posobj" & WordOrder == "vo" ~ "VO",
+   Element == "posobj" & WordOrder == "ov" ~ "OV",
+   Element == "posobj" & WordOrder == "ovo" ~ "VO",   
+   Element == "pronobj_and_posobj" & WordOrder == "ovo" ~ "VO",
+   Element == "pronobj_and_posobj" & WordOrder == "ovo_check" ~ "OV",
+   Element == "pronobj_and_posobj" & WordOrder == "ov" ~ "OV",
+   Element == "pronobj_and_posobj" & WordOrder == "vo" ~ "VO",
+   Element == "rfl_and_posobj" & WordOrder == "ovo" ~ "VO",
+   Element == "rfl_and_posobj" & WordOrder == "ovo_check" ~ "OV",
+   Element == "rfl_and_posobj" & WordOrder == "ov" ~ "OV",
+   Element == "rfl_and_posobj" & WordOrder == "vo" ~ "VO",
+   Element == "rp_and_posobj" & WordOrder == "ovo" ~ "VO",
+   Element == "rp_and_posobj" & WordOrder == "ovo_check" ~ "OV",
+   Element == "rp_and_posobj" & WordOrder == "ov" ~ "OV",
+   Element == "rp_and_posobj" & WordOrder == "vo" ~ "VO",    # that should cover the POSOBJ, since no query combined with qobj
+  TRUE ~ NA_character_ 
+  ),  
+     QOBJ = case_when(
+   Element == "qobj" & WordOrder == "vo" ~ "VO",
+   Element == "qobj" & WordOrder == "ov" ~ "OV",
+   Element == "pronobj_and_qobj" & WordOrder == "ovo" ~ "VO",
+   Element == "pronobj_and_qobj" & WordOrder == "ovo_check" ~ "OV",
+   Element == "pronobj_and_qobj" & WordOrder == "ov" ~ "OV",
+   Element == "pronobj_and_qobj" & WordOrder == "vo" ~ "VO",
+   Element == "rfl_and_qobj" & WordOrder == "ovo" ~ "VO",
+   Element == "rfl_and_qobj" & WordOrder == "ovo_check" ~ "OV",
+   Element == "rfl_and_qobj" & WordOrder == "ov" ~ "OV",
+   Element == "rfl_and_qobj" & WordOrder == "vo" ~ "VO",
+   Element == "rp_and_qobj" & WordOrder == "ovo" ~ "VO",
+   Element == "rp_and_qobj" & WordOrder == "ovo_check" ~ "OV",
+   Element == "rp_and_qobj" & WordOrder == "ov" ~ "OV",
+   Element == "rp_and_qobj" & WordOrder == "vo" ~ "VO",    # that should cover the QOBJ
+  TRUE ~ NA_character_ 
+  ) ) %>%
+  mutate_if(is.character, as.factor)
+
+summary(data)
+```
+
+## Exploring the Data
+
+### Cleaner tables
+
+Let's get the percent of postverbal occurrences for each element, in each clause type.
+This will include clauses that have multiple such elements, and I'm just treating things on an individual basis here.
+There are some exclusions as discussed in the messy bits above, some of which can be fixed by more thoughtful querying in the future
+
+#### All data
+
+```{r}
+data %>%
+  pivot_longer(
+    cols = c(RP, RFL, PRONOBJ, POSOBJ, QOBJ),
+    names_to = "Constituent",
+    values_to = "Order"
+  ) %>%
+  group_by(ClauseType, Constituent) %>%
+  summarise(
+    n_VO = sum(Order == "VO", na.rm = TRUE),
+    n_OV = sum(Order == "OV", na.rm = TRUE),
+    prop_VO = mean(Order == "VO", na.rm = TRUE) * 100,
+    result = sprintf("%.2f%% (%d/%d)",
+                     prop_VO, n_VO, n_VO + n_OV),
+    .groups = "drop"
+  ) %>%
+  select(ClauseType, Constituent, result) %>%
+  pivot_wider(
+    names_from = Constituent,
+    values_from = result
+  ) %>%
+  select(ClauseType, RP, PRONOBJ, RFL, POSOBJ, QOBJ)  %>%
+  knitr::kable(
+    caption = "Proportion of VO order by IP type and constituent (all data)"
+  )
+```
+
+#### PPCHY
+
+```{r}
+data %>%
+  filter(Corpus == "ppchy") %>%
+  pivot_longer(
+    cols = c(RP, RFL, PRONOBJ, POSOBJ, QOBJ),
+    names_to = "Constituent",
+    values_to = "Order"
+  ) %>%
+  group_by(ClauseType, Constituent) %>%
+  summarise(
+    n_VO = sum(Order == "VO", na.rm = TRUE),
+    n_OV = sum(Order == "OV", na.rm = TRUE),
+    prop_VO = mean(Order == "VO", na.rm = TRUE) * 100,
+    result = sprintf("%.2f%% (%d/%d)",
+                     prop_VO, n_VO, n_VO + n_OV),
+    .groups = "drop"
+  ) %>%
+  select(ClauseType, Constituent, result) %>%
+  pivot_wider(
+    names_from = Constituent,
+    values_from = result
+  ) %>%
+  select(ClauseType, RP, PRONOBJ, RFL, POSOBJ, QOBJ)  %>%
+  knitr::kable(
+    caption = "Proportion of VO order by IP type and constituent (PPCHY)"
+  )
+```
+
+#### Our Corpus
+
+```{r}
+data %>%
+  filter(Corpus == "ourcorpus") %>%
+  pivot_longer(
+    cols = c(RP, RFL, PRONOBJ, POSOBJ, QOBJ),
+    names_to = "Constituent",
+    values_to = "Order"
+  ) %>%
+  group_by(ClauseType, Constituent) %>%
+  summarise(
+    n_VO = sum(Order == "VO", na.rm = TRUE),
+    n_OV = sum(Order == "OV", na.rm = TRUE),
+    prop_VO = mean(Order == "VO", na.rm = TRUE) * 100,
+    result = sprintf("%.2f%% (%d/%d)",
+                     prop_VO, n_VO, n_VO + n_OV),
+    .groups = "drop"
+  ) %>%
+  select(ClauseType, Constituent, result) %>%
+  pivot_wider(
+    names_from = Constituent,
+    values_from = result
+  ) %>%
+  select(ClauseType, RP, PRONOBJ, RFL, POSOBJ, QOBJ)  %>%
+  knitr::kable(
+    caption = "Proportion of VO order by IP type and constituent (Our Corpus)"
+  )
+```
+
+#### Written sources
+
+```{r}
+data %>%
+  filter(Modality == "written") %>%
+  pivot_longer(
+    cols = c(RP, RFL, PRONOBJ, POSOBJ, QOBJ),
+    names_to = "Constituent",
+    values_to = "Order"
+  ) %>%
+  group_by(ClauseType, Constituent) %>%
+  summarise(
+    n_VO = sum(Order == "VO", na.rm = TRUE),
+    n_OV = sum(Order == "OV", na.rm = TRUE),
+    prop_VO = mean(Order == "VO", na.rm = TRUE) * 100,
+    result = sprintf("%.2f%% (%d/%d)",
+                     prop_VO, n_VO, n_VO + n_OV),
+    .groups = "drop"
+  ) %>%
+  select(ClauseType, Constituent, result) %>%
+  pivot_wider(
+    names_from = Constituent,
+    values_from = result
+  ) %>%
+  select(ClauseType, RP, PRONOBJ, RFL, POSOBJ, QOBJ)  %>%
+  knitr::kable(
+    caption = "Proportion of VO order by IP type and constituent (Written sources)"
+  )
+```
+
+
+#### Spoken sources
+
+```{r}
+data %>%
+  filter(Modality == "spoken") %>%
+  pivot_longer(
+    cols = c(RP, RFL, PRONOBJ, POSOBJ, QOBJ),
+    names_to = "Constituent",
+    values_to = "Order"
+  ) %>%
+  group_by(ClauseType, Constituent) %>%
+  summarise(
+    n_VO = sum(Order == "VO", na.rm = TRUE),
+    n_OV = sum(Order == "OV", na.rm = TRUE),
+    prop_VO = mean(Order == "VO", na.rm = TRUE) * 100,
+    result = sprintf("%.2f%% (%d/%d)",
+                     prop_VO, n_VO, n_VO + n_OV),
+    .groups = "drop"
+  ) %>%
+  select(ClauseType, Constituent, result) %>%
+  pivot_wider(
+    names_from = Constituent,
+    values_from = result
+  ) %>%
+  select(ClauseType, RP, PRONOBJ, RFL, POSOBJ, QOBJ)  %>%
+  knitr::kable(
+    caption = "Proportion of VO order by IP type and constituent (Spoken sources)"
+  )
 ```
 
 
 
+### Make some plots
 
-## Make some plots
+#### All data, by Clause Finiteness (instead of ClauseType), to simplify
+
+TODO: This will need cleaning up
+Probably want to highlight the non-finite clauses, so swap the line styles?
+
+```{r message=FALSE, warning=FALSE}
+data %>%
+  pivot_longer(
+    cols = c(RP, RFL, PRONOBJ, POSOBJ, QOBJ),
+    names_to = "Constituent",
+    values_to = "Order"
+  ) %>%
+  group_by(Year, Constituent, Finiteness) %>%
+  summarise(
+    n_VO = sum(Order == "VO", na.rm = TRUE),
+    n_OV = sum(Order == "OV", na.rm = TRUE),
+    prop_VO = n_VO / (n_VO + n_OV),
+    .groups = "drop"
+  ) %>%
+  ggplot(aes(
+    x = Year,
+    y = prop_VO,
+    colour = Constituent,
+    linetype = Finiteness,
+    group = interaction(Constituent, Finiteness)
+  )) +
+  geom_smooth(method = "loess", span = 0.4, se = F) +
+  geom_point() +
+  scale_y_continuous(labels = scales::percent_format()) +
+  labs(
+    x = "Year",
+    y = "Proportion of VO",
+    colour = "Constituent",
+    linetype = "Finiteness"
+  ) +
+  theme_minimal()
+```
+
+
+#### Compare "diagnostic" ones (rfl, rp, pronobj) against regular posobj, by clause finiteness
+
+TODO
+
+
+
+#### Old plots below to remind what I was looking at (but redo with recoded vars)
 
 ```{r}
 year_prop <- data %>%
@@ -193,7 +496,5 @@ year_prop %>%
 
 ## TODO
 
-* Add NP-RFL as a separate thing
 * Filter more by element type (pronouns more reliable than RP?)
 * Investigate the weird peaks - specific texts
-* Add regular (non-pronominal objects), to compare with Icelandic (?)

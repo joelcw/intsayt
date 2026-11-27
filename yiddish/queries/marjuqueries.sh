@@ -32,6 +32,7 @@ echo "Extracted codes"
 
 python3 fixIdFormat.ice.py < outputs/marjuqueries.nodates.cod.ooo > outputs/marjuqueries.nodates.cod.ooo.tmp
 mv outputs/marjuqueries.nodates.cod.ooo outputs/marjuqueries.nodates.cod.ooo.old
+
 #mv outputs/marjuqueries.nodates.cod.ooo.tmp outputs/marjuqueries.ppchy.nodates.cod.ooo
 mv outputs/marjuqueries.nodates.cod.ooo.tmp outputs/marjuqueries.ourcorpus.nodates.cod.ooo
 # UNCOMMENT THE APPROPROATE ONE

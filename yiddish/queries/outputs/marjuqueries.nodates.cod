@@ -1,7 +1,7 @@
 /*
 PREFACE:  
 Copyright 2010 Beth Randall
-Date:  Thu Nov 26 18:43:33 GMT 2026
+Date:  Fri Nov 27 15:39:14 GMT 2026
 
 command file:     marjuqueries.c
 output file:      outputs/marjuqueries.nodates.cod
@@ -23,10 +23,10 @@ coding_query:
     ovo: (IP* idoms [1]NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP|NP-RFL|NP-BEN) AND (IP* idoms [2]NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP|NP-RFL|NP-BEN|RP|RP-H) AND (IP* idoms *VB|V*N*|*HV|H*N*|*DO|D*N*|*BE|B*N*|*AX|AXN*|*RD|R*N*|HAG*|DAG*|BAG*|RAG*|VAG*) AND ([1]NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP|NP-RFL|NP-BEN precedes *VB|V*N*|*HV|H*N*|*DO|D*N*|*BE|B*N*|*AX|AXN*|*RD|R*N*|HAG*|DAG*|BAG*|RAG*|VAG*) AND (*VB|V*N*|*HV|H*N*|*DO|D*N*|*BE|B*N*|*AX|AXN*|*RD|R*N*|HAG*|DAG*|BAG*|RAG*|VAG* precedes [2]NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP|NP-RFL|NP-BEN|RP|RP-H) AND ([1]NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP|NP-RFL|NP-BEN doms N|N$|NS|NS$|NR|NR$|NRS|NRS$|NPR|NPR$|NPRS|NPRS$|NUM*|NEG*|Q*|ADJ*|*OTHER*|D|WD|V*|H*|B*|CONJ*|N*|D*) AND (IP* idoms *MD*|*HV[PF]*|*HVD*|*BE[PF]*|*BED*|*AXD*|*AX[PF]*|*DOD*|*DO[PF]*|*RD[PF]*|*RDD*|BEI*|VL[PF]|VBI*|BEI*) AND ([1]NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP|NP-RFL|NP-BEN precedes *MD*|*HV[PF]*|*HVD*|*BE[PF]*|*BED*|*AXD*|*AX[PF]*|*DOD*|*DO[PF]*|*RD[PF]*|*RDD*|BEI*|VL[PF]|VBI*|BEI*) 
     ovo_check: (IP* idoms [1]NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP|NP-RFL|NP-BEN) AND (IP* idoms [2]NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP|NP-RFL|NP-BEN|RP|RP-H) AND (IP* idoms *VB|V*N*|*HV|H*N*|*DO|D*N*|*BE|B*N*|*AX|AXN*|*RD|R*N*|HAG*|DAG*|BAG*|RAG*|VAG*) AND ([1]NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP|NP-RFL|NP-BEN precedes *VB|V*N*|*HV|H*N*|*DO|D*N*|*BE|B*N*|*AX|AXN*|*RD|R*N*|HAG*|DAG*|BAG*|RAG*|VAG*) AND (*VB|V*N*|*HV|H*N*|*DO|D*N*|*BE|B*N*|*AX|AXN*|*RD|R*N*|HAG*|DAG*|BAG*|RAG*|VAG* precedes [2]NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP|NP-RFL|NP-BEN|RP|RP-H) AND ([1]NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP|NP-RFL|NP-BEN doms N|N$|NS|NS$|NR|NR$|NRS|NRS$|NPR|NPR$|NPRS|NPRS$|NUM*|NEG*|Q*|ADJ*|*OTHER*|D|WD|V*|H*|B*|CONJ*|N*|D*) 
     ovo: (IP* idoms [1]NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP|NP-RFL|NP-BEN|RP|RP-H) AND (IP* idoms [2]NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP|NP-RFL|NP-BEN|RP|RP-H) AND (IP* idoms *VB|V*N*|*HV|H*N*|*DO|D*N*|*BE|B*N*|*AX|AXN*|*RD|R*N*|HAG*|DAG*|BAG*|RAG*|VAG*) AND ([1]NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP|NP-RFL|NP-BEN|RP|RP-H precedes *VB|V*N*|*HV|H*N*|*DO|D*N*|*BE|B*N*|*AX|AXN*|*RD|R*N*|HAG*|DAG*|BAG*|RAG*|VAG*) AND (*VB|V*N*|*HV|H*N*|*DO|D*N*|*BE|B*N*|*AX|AXN*|*RD|R*N*|HAG*|DAG*|BAG*|RAG*|VAG* precedes [2]NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP|NP-RFL|NP-BEN|RP|RP-H) 
-    ov: (IP* idoms NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP|NP-RFL|NP-BEN|RP|RP-H) AND (IP* idoms *VB|V*N*|VAG*) AND (NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP|NP-RFL|NP-BEN|RP|RP-H precedes *VB|V*N*|VAG*) 
-    ov: (IP* idoms NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP|NP-RFL|NP-BEN|RP|RP-H) AND (IP* idoms *VB|V*N*|*HV|H*N*|*DO|D*N*|*BE|B*N*|*AX|AXN*|*RD|R*N*|HAG*|DAG*|BAG*|RAG*|VAG*) AND (NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP|NP-RFL|NP-BEN|RP|RP-H precedes *VB|V*N*|*HV|H*N*|*DO|D*N*|*BE|B*N*|*AX|AXN*|*RD|R*N*|HAG*|DAG*|BAG*|RAG*|VAG*) 
     vo: (IP* idoms NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP|NP-RFL|NP-BEN|RP|RP-H) AND (IP* idoms *VB|V*N*|VAG*) AND (*VB|V*N*|VAG* precedes NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP|NP-RFL|NP-BEN|RP|RP-H) 
     vo: (IP* idoms NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP|NP-RFL|NP-BEN|RP|RP-H) AND (IP* idoms *VB|V*N*|*HV|H*N*|*DO|D*N*|*BE|B*N*|*AX|AXN*|*RD|R*N*|HAG*|DAG*|BAG*|RAG*|VAG*) AND (*VB|V*N*|*HV|H*N*|*DO|D*N*|*BE|B*N*|*AX|AXN*|*RD|R*N*|HAG*|DAG*|BAG*|RAG*|VAG* precedes NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP|NP-RFL|NP-BEN|RP|RP-H) 
+    ov: (IP* idoms NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP|NP-RFL|NP-BEN|RP|RP-H) AND (IP* idoms *VB|V*N*|VAG*) AND (NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP|NP-RFL|NP-BEN|RP|RP-H precedes *VB|V*N*|VAG*) 
+    ov: (IP* idoms NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP|NP-RFL|NP-BEN|RP|RP-H) AND (IP* idoms *VB|V*N*|*HV|H*N*|*DO|D*N*|*BE|B*N*|*AX|AXN*|*RD|R*N*|HAG*|DAG*|BAG*|RAG*|VAG*) AND (NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP|NP-RFL|NP-BEN|RP|RP-H precedes *VB|V*N*|*HV|H*N*|*DO|D*N*|*BE|B*N*|*AX|AXN*|*RD|R*N*|HAG*|DAG*|BAG*|RAG*|VAG*) 
     z: ELSE 
 }
 3: { 
@@ -37,7 +37,8 @@ coding_query:
     rp_and_posobj: (IP* idoms RP|RP-H) AND (IP* idoms NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP|NP-RFL|NP-BEN) AND (NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP|NP-RFL|NP-BEN doms N|N$|NS|NS$|NR|NR$|NRS|NRS$|NPR|NPR$|NPRS|NPRS$|NUM*|NEG*|Q*|ADJ*|*OTHER*|D|WD|V*|H*|B*|CONJ*|N*|D*) 
     rp: (IP* idoms RP|RP-H) 
     rfl: (IP* idoms NP-RFL) AND (IP* idoms NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP|NP-RFL|NP-BEN) AND (IP* idoms *MD*|*HV[PF]*|*HVD*|*BE[PF]*|*BED*|*AXD*|*AX[PF]*|*DOD*|*DO[PF]*|*RD[PF]*|*RDD*|BEI*|VL[PF]|VBI*|BEI*) AND (NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP|NP-RFL|NP-BEN precedes *MD*|*HV[PF]*|*HVD*|*BE[PF]*|*BED*|*AXD*|*AX[PF]*|*DOD*|*DO[PF]*|*RD[PF]*|*RDD*|BEI*|VL[PF]|VBI*|BEI*) 
-    rfl_and_qobj: (IP* idoms NP-RFL) AND (IP* idoms NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP|NP-RFL|NP-BEN) AND (NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP|NP-RFL|NP-BEN idoms Q*|NUM*|NEG|ONE*) 
+    rfl_and_pronobj: (IP* idoms NP-RFL) AND (NP-RFL idoms [1]PRO*) AND (IP* idoms NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP|NP-RFL|NP-BEN) AND (NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP|NP-RFL|NP-BEN idoms [2]PRO*) AND (NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP|NP-RFL|NP-BEN idoms !D|ADJ*|N*|PP*|CONJ*) 
+    rfl_and_qobj: (IP* idoms [1]NP-RFL) AND (IP* idoms [2]NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP|NP-RFL|NP-BEN) AND ([2]NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP|NP-RFL|NP-BEN idoms Q*|NUM*|NEG|ONE*) 
     rfl_and_posobj: (IP* idoms NP-RFL) AND (IP* idoms NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP|NP-RFL|NP-BEN) AND (NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP|NP-RFL|NP-BEN doms N|N$|NS|NS$|NR|NR$|NRS|NRS$|NPR|NPR$|NPRS|NPRS$|NUM*|NEG*|Q*|ADJ*|*OTHER*|D|WD|V*|H*|B*|CONJ*|N*|D*) 
     rfl: (IP* idoms NP-RFL) 
     pronobj: (IP* idoms [1]NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP|NP-RFL|NP-BEN) AND ([1]NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP|NP-RFL|NP-BEN idoms PRO*) AND ([1]NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP|NP-RFL|NP-BEN idoms !D|ADJ*|N*|PP*|CONJ*) AND (IP* idoms [2]NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP|NP-RFL|NP-BEN) AND (IP* idoms *MD*|*HV[PF]*|*HVD*|*BE[PF]*|*BED*|*AXD*|*AX[PF]*|*DOD*|*DO[PF]*|*RD[PF]*|*RDD*|BEI*|VL[PF]|VBI*|BEI*) AND ([2]NP-ACC*|NP-OB*|NP-DAT*|NP-GEN*|NP-DTV*|NP|NP-RFL|NP-BEN precedes *MD*|*HV[PF]*|*HVD*|*BE[PF]*|*BED*|*AXD*|*AX[PF]*|*DOD*|*DO[PF]*|*RD[PF]*|*RDD*|BEI*|VL[PF]|VBI*|BEI*) 
@@ -1493,7 +1494,7 @@ coding_query:
 (1900E-ALEYKHEM-DER_ZEYGER.NAR-FIC.YID,.59)
 *~/
 
-( (IP-MAT (CODING-IP-MAT mat:ov:rfl:written:1900:ourcorpus)
+( (IP-MAT (CODING-IP-MAT mat:vo:rfl:written:1900:ourcorpus)
 	  (NP-PRD (FP אָט) (ADJ אַזאַ) (N ייִד))
 	  (BEP איז)
 	  (NP-RFL (PRO זיך))
@@ -3384,7 +3385,7 @@ coding_query:
 				  (PUNC ,)
 				  (CP-REL (WNP-2 0)
 					  (C װאָס)
-					  (IP-SUB (CODING-IP-SUB z:z:rfl:written:1900:ourcorpus)
+					  (IP-SUB (CODING-IP-SUB z:z:rfl_and_pronobj:written:1900:ourcorpus)
 						  (NP-SBJ (ES סע))
 						  (VBP שלעפּט)
 						  (NP-RFL (PRO זיך))
@@ -6092,7 +6093,7 @@ coding_query:
 (1900E-ALEYKHEM-DER_ZEYGER.NAR-FIC.YID,.305)
 *~/
 
-( (IP-MAT (CODING-IP-MAT mat:ov:rfl:written:1900:ourcorpus)
+( (IP-MAT (CODING-IP-MAT mat:ov:rfl_and_pronobj:written:1900:ourcorpus)
 	  (NP-SBJ-1 (ES עס))
 	  (HVP האָט)
 	  (NP-RFL (PRO זיך))
@@ -6118,7 +6119,7 @@ coding_query:
 (1900E-ALEYKHEM-DER_ZEYGER.NAR-FIC.YID,.306)
 *~/
 
-( (IP-MAT (CODING-IP-MAT mat:ov:rfl:written:1900:ourcorpus)
+( (IP-MAT (CODING-IP-MAT mat:ov:rfl_and_pronobj:written:1900:ourcorpus)
 	  (NP-SBJ-1 (ES עס))
 	  (HVP האָט)
 	  (NP-RFL (PRO זיך))
@@ -8378,7 +8379,7 @@ FOOTER
 (1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NAR-FIC.YID,.102)
 *~/
 
-( (IP-MAT-QUE (CODING-IP-MAT-QUE z:z:rfl:written:1916:ourcorpus)
+( (IP-MAT-QUE (CODING-IP-MAT-QUE z:z:rfl_and_pronobj:written:1916:ourcorpus)
 	      (CONJ צי)
 	      (NP-SBJ *exp*)
 	      (ADVP-DIAGN (ADV אפֿשר))
@@ -11149,7 +11150,7 @@ FOOTER
 (1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NAR-FIC.YID,.237)
 *~/
 
-( (IP-MAT (CODING-IP-MAT mat:ov:rfl:written:1916:ourcorpus)
+( (IP-MAT (CODING-IP-MAT mat:ov:rfl_and_pronobj:written:1916:ourcorpus)
 	  (NP-SBJ (ADJ אַזאַ)
 		  (N מכּה)
 		  (CP-CMP *ICH*-1))
@@ -13155,7 +13156,7 @@ FOOTER
 (1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NAR-FIC.YID,.330)
 *~/
 
-( (IP-MAT-SPE (CODING-IP-MAT-SPE mat:ov:rfl:written:1916:ourcorpus)
+( (IP-MAT-SPE (CODING-IP-MAT-SPE mat:ov:rfl_and_pronobj:written:1916:ourcorpus)
 	      (NP-SBJ (PRO ער))
 	      (MDP זאָל)
 	      (NP-RFL (PRO זיך))
@@ -15305,7 +15306,7 @@ FOOTER
 
 ( (IP-IMP (CODING-IP-IMP z:z:z:written:1916:ourcorpus)
 	  (VBI לאָז)
-	  (IP-INF (CODING-IP-INF inf:ov:rfl:written:1916:ourcorpus)
+	  (IP-INF (CODING-IP-INF inf:ov:rfl_and_pronobj:written:1916:ourcorpus)
 		  (NP-SBJ-1 *exp*)
 		  (NP-RFL (PRO זיך))
 		  (NP-OB2 (PRO דיר))
@@ -17099,7 +17100,7 @@ FOOTER
 (1916E-ALEYKHEM-BANDIII-NYBC202585_0012_0039.NAR-FIC.YID,.512)
 *~/
 
-( (IP-MAT (CODING-IP-MAT mat:ov:rfl:written:1916:ourcorpus)
+( (IP-MAT (CODING-IP-MAT mat:ov:rfl_and_pronobj:written:1916:ourcorpus)
 	  (NP-SBJ (PRO ער))
 	  (HVP האָט)
 	  (NP-RFL (PRO זיך))
@@ -24902,7 +24903,7 @@ FOOTER
 (1918E-HIRSHBEYN.NAR-BIO.YID,.158)
 *~/
 
-( (IP-MAT (CODING-IP-MAT mat:ov:rfl:written:1918:ourcorpus)
+( (IP-MAT (CODING-IP-MAT mat:ov:rfl_and_pronobj:written:1918:ourcorpus)
 	  (CONJ און)
 	  (IP-PPL (CODING-IP-PPL ppl:vo:posobj:written:1918:ourcorpus)
 		  (VAG דערשפּירענדיג)
@@ -43546,7 +43547,7 @@ II
 (1926E-KUPRIN.NAR-TRANS.YID,.253)
 *~/
 
-( (IP-MAT-SPE (CODING-IP-MAT-SPE mat:ov:rfl:written:1926:ourcorpus)
+( (IP-MAT-SPE (CODING-IP-MAT-SPE mat:ov:rfl_and_pronobj:written:1926:ourcorpus)
 	      (CONJ און)
 	      (NP-SBJ (PRO מיר) (NUM דרײ) (NS נאַראָנים))
 	      (HVP האָבּן)
@@ -52157,7 +52158,7 @@ FOOTER
 (1928E-KARPILOV.NAR-BIO.YID,.167)
 *~/
 
-( (IP-MAT (CODING-IP-MAT z:z:rfl:written:1928:ourcorpus)
+( (IP-MAT (CODING-IP-MAT z:z:rfl_and_pronobj:written:1928:ourcorpus)
 	  (NP-SBJ (D אַ)
 		  (ADJ טױדטע)
 		  (N זאַך)
@@ -55835,7 +55836,7 @@ FOOTER
 (1967E-GLATSTEIN.OTH-BIO.YID,.74)
 *~/
 
-( (IP-MAT-SPE (CODING-IP-MAT-SPE z:z:rfl:written:1967:ourcorpus)
+( (IP-MAT-SPE (CODING-IP-MAT-SPE z:z:rfl_and_pronobj:written:1967:ourcorpus)
 	      (CONJ און)
 	      (NP-SBJ (D די) (N האַנט))
 	      (VBP לײגט)
@@ -57952,7 +57953,7 @@ FOOTER
 	  (BEN געװען)
 	  (ADJP (Q (Q21 אַ) (Q22 סך))
 		(ADJR גרינגער))
-	  (IP-MAT-PRN (CODING-IP-MAT-PRN z:z:rfl:written:1967:ourcorpus)
+	  (IP-MAT-PRN (CODING-IP-MAT-PRN z:z:rfl_and_pronobj:written:1967:ourcorpus)
 		      (NP-SBJ *exp*)
 		      (VBP דאַכט)
 		      (NP-RFL (PRO זיך))
@@ -63837,7 +63838,7 @@ NO.
 (1995E-ABRAMSON.INT.YID,.275)
 *~/
 
-( (IP-MAT (CODING-IP-MAT mat:ov:rfl:spoken:1995:ourcorpus)
+( (IP-MAT (CODING-IP-MAT mat:ov:rfl_and_pronobj:spoken:1995:ourcorpus)
 	  (CONJ און)
 	  (NP-SBJ (MAN מ’>))
 	  (HVP <האָט)
@@ -88713,12 +88714,6 @@ KAISERWALD.
   (ID 1996E-DIMANTSTEIN.INT.YID,.347))
 
 /~*
-
-*~/
-
-( (CODE {COM:marju_and_joel_have_checked_up_to_here}))
-
-/~*
 eh נאַטירלעך אַז ער האָט, זײַענדיק אין געטאָ, ער האָט געאַרבעט מיט זײ צוזאַמען
 (1996E-DIMANTSTEIN.INT.YID,.349)
 *~/
@@ -90347,12 +90342,12 @@ eh, דאָס איז זײער אַ, נאַטירלעך ריזיקאַליש
 	  (VBN <געגעבן)
 	  (PP (P פֿאַר)
 	      (NP (NS פֿאַכמענער)
-		  (IP-INF-PRP *ICH*-4)))
+		  (IP-INF-PRP *ICH*-1)))
 	  (PUNC ,)
 	  (CP-ADV (C װי)
 		  (PUNC ,)
 		  (IP-SUB (CODING-IP-SUB z:z:z:spoken:1996:ourcorpus)
-			  (IP-SUB-1 (CODING-IP-SUB-1 z:ov:posobj:spoken:1996:ourcorpus)
+			  (IP-SUB-2 (CODING-IP-SUB-2 z:ov:posobj:spoken:1996:ourcorpus)
 				    (ADVP (ADV מסתּמא))
 				    (NP-OB1 (D די) (NS פֿרױען))
 				    (HVP האָבן)
@@ -90360,24 +90355,24 @@ eh, דאָס איז זײער אַ, נאַטירלעך ריזיקאַליש
 				    (VBN געדאַרפֿט)
 				    (NEG ניט)
 				    (ADVP (ADVR אַזױ)
-					  (CP-CMP (WADVP-2 0)
+					  (CP-CMP (WADVP-3 0)
 						  (C 0)
 						  (IP-SUB (CODING-IP-SUB z:z:z:spoken:1996:ourcorpus)
-							  (ADVP *T*-2)
+							  (ADVP *T*-3)
 							  (NP-SBJ (NS פֿאַכמענער))))
-					  (CP-CMP (WADVP-3 0)
+					  (CP-CMP (WADVP-4 0)
 						  (C װי)
 						  (IP-SUB (CODING-IP-SUB z:z:z:spoken:1996:ourcorpus)
-							  (ADVP *T*-3)
+							  (ADVP *T*-4)
 							  (IP-INF (CODING-IP-INF z:z:z:spoken:1996:ourcorpus)
 								  (TO צו)
 								  (VB אַרבעטן))))))
 			  (CONJP (CONJ אָדער)
-				 (IP-SUB=1 (CODING-IP-SUB=1 z:z:z:spoken:1996:ourcorpus)
+				 (IP-SUB=2 (CODING-IP-SUB=2 z:z:z:spoken:1996:ourcorpus)
 					   (WNP (Q װאָס))))))
 	  (CODE {e:2:814.237})
 	  (CODE {s:2:815.036})
-	  (IP-INF-PRP-4 (CODING-IP-INF-PRP-4 inf:vo:posobj:spoken:1996:ourcorpus)
+	  (IP-INF-PRP-1 (CODING-IP-INF-PRP-1 inf:vo:posobj:spoken:1996:ourcorpus)
 			(TO צו)
 			(MD קענען)
 			(VB רעפּאַרירן)
@@ -92002,7 +91997,7 @@ DANZIG זײַנען מיר אַלע אַרונטער.
 				  (NP-SBJ (D אַ) (N מאָטאָר־שיף))
 				  (HVP האָט)
 				  (NP-OB1-RSP-1 (D דאָס))
-				  (CODE {COM:resumptive_dos_or_expletive_with_additional_gap?_number_mismatch_with_head_noun,_so_maybe_the_latter?_JCW:_I_think_it's_a_resumptive})
+				  (CODE {COM:could_also_be_an_expletive_with_an_additional_gap_-_number_mismatch_with_head_noun})
 				  (VBN געשלעפּט)))))
 	  (PUNC .)
 	  (CODE {e:2:1096.168}))
@@ -93343,8 +93338,7 @@ ah װאָס זײַנען געגאַנגען טאָג בײַ נאַכט eh אַה
 				      (PP (P בײַ)
 					  (NP (N נאַכט))))
 			      (DISFL eh)
-			      (ADVP-DIR (ADV אַהײם)))
-		      (CODE {COM:would_want_the_RC_to_modify_all_the_complements_of_the_PPs_but_that's_not_structurally_doable?_JCW:_see_shared_postmodifiers_in_English_guidelines})))
+			      (ADVP-DIR (ADV אַהײם)))))
 	  (PUNC .))
   (ID 1996E-DIMANTSTEIN.INT.YID,.543))
 
@@ -93418,7 +93412,7 @@ ah װאָס זײַנען געגאַנגען טאָג בײַ נאַכט eh אַה
 		  (CODE {e:2:1357.899})
 		  (CODE {s:2:1357.972})
 		  (N פּלאָמבע)
-		  (CODE {COM:should_be_a_feminine_noun,_so_this_is_a_bit_sus_JCW:_perhaps_but_there_is_dialectal_variation_in_gender}))
+		  (CODE {COM:unusually_feminine}))
 	  (PUNC .)
 	  (CODE {e:2:1358.894}))
   (ID 1996E-DIMANTSTEIN.INT.YID,.547))
@@ -93727,8 +93721,7 @@ UNK פּעקל eh KHAVILOT eh פּעקלעך, פּעקעלעך.
 			  (VBP װײס)
 			  (REP (NP-SBJ (PRO איך)))
 			  (NP-OB1 (Q װאָס))))
-	  (PUNC ;)
-	  (CODE {COM:check_-_otherwise_they_would_*do*_i_don't_know_what}))
+	  (PUNC ;))
   (ID 1996E-DIMANTSTEIN.INT.YID,.561))
 
 /~*
@@ -105190,7 +105183,7 @@ TODA.
 						  (N נאָמען)
 						  (PP (P פֿון)
 						      (NP-1 (D דער) (ADJ ציוניסטישער) (N אָרגאַניזאַציע))
-						      (CODE {COM:no_actual_gap_because_the_full_NP_is_present;_check}))))))))
+						      (CODE {COM:no_actual_gap_because_the_full_NP_is_present}))))))))
 	  (PUNC .)
 	  (CODE {e:4:354.46}))
   (ID 1996E-DIMANTSTEIN.INT.YID,.1017))
@@ -105653,7 +105646,7 @@ eh איך אײַזיק דימאַנטשטײן האָב אין נײַנצן הו�
 /*
 FOOTER
   source file, hits/tokens/total
-  1996e-dimantstein.int.yid.psd	1919/1032/1032
+  1996e-dimantstein.int.yid.psd	1919/1031/1031
 */
 
 /~*
@@ -132189,10 +132182,10 @@ source files, hits/tokens/total
   1967e-glatstein.oth-bio.yid.psd	480/243/243
   1995e-abramson.int.yid.psd	714/749/749
   1996ec-robak.int.yid.psd	468/246/246
-  1996e-dimantstein.int.yid.psd	1919/1032/1032
+  1996e-dimantstein.int.yid.psd	1919/1031/1031
   1996e-tishmanene.yid.000.psd	59/80/80
   1997e-shapiro.int.yid.psd	531/607/607
   2000eh-kraut.int.yid.psd	916/926/926
 whole search, hits/tokens/total
-		9556/6540/6540
+		9556/6539/6539
 */
